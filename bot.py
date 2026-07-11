@@ -1,7 +1,8 @@
 import os
 import requests
 import feedparser
-from config import KEYWORDS, RSS_FEEDS
+from config import KEYWORDS
+from sources import RSS_FEEDS
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
