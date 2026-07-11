@@ -33,7 +33,10 @@ if news:
 else:
     text = "❌ No new Solar/Defence news found."
 
-requests.post(
+response = requests.post(
     f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
     data={"chat_id": CHAT_ID, "text": text}
 )
+
+print(response.status_code)
+print(response.text)
