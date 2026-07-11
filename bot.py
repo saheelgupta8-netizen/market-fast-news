@@ -1,29 +1,22 @@
 import os
 import requests
 import feedparser
-
+from config import KEYWORDS, RSS_FEEDS
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
-feeds = [
-    "https://www.moneycontrol.com/rss/business.xml",
-    "https://www.cnbctv18.com/commonfeeds/v1/eng/rss/market/rss.xml"
-]
 
-keywords = [
-    "solar", "vikram", "waaree", "renewable",
-    "defence", "bel", "bdl", "hal", "mazagon", "aequs"
-]
+
 
 news = []
 
-for feed in feeds:
+for feed in RSS_FEEDS:
     try:
         d = feedparser.parse(feed)
         for entry in d.entries:
             title = entry.title
             link = entry.link
-            if any(k.lower() in title.lower() for k in keywords):
+            if any(k.lower() in title.lower() for k in KEYWORDS):
                 news.append(f"📰 {title}\n{link}")
     except:
         pass
