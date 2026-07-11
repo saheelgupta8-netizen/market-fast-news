@@ -3,7 +3,7 @@ import requests
 import feedparser
 from config import KEYWORDS
 from sources import RSS_FEEDS
-
+from filters import is_high_impact
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
@@ -15,8 +15,19 @@ for feed in RSS_FEEDS:
         for entry in d.entries:
             title = entry.title
             link = entry.link
-            if any(k.lower() in title.lower() for k in KEYWORDS):
-                news.append(f"📰 {title}\n{link}")
+           if any(k.lower() in title.lower() for k in KEYWORDS):
+
+    if is_high_impact(title):
+        news.append(
+            f"🚨 HIGH IMPACT\n"
+            f"📰 {title}\n"
+            f"🔗 {link}"
+        )
+    else:
+        news.append(
+            f"📰 {title}\n"
+            f"🔗 {link}"
+        )
     except Exception as e:
         print(e)
 
