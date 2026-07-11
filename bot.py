@@ -21,11 +21,15 @@ for feed in RSS_FEEDS:
     except:
         pass
 
-if news:
-    text = "\n\n".join(news[:10])
-else:
-    text = "❌ No new Solar/Defence news found."
-
+response = requests.post(
+    f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
+    data={
+        "chat_id": CHAT_ID,
+        "text": text,
+        "parse_mode": "Markdown",
+        "disable_web_page_preview": True
+    }
+)
 response = requests.post(
     f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
     data={"chat_id": CHAT_ID, "text": text}
