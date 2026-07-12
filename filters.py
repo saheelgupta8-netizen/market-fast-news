@@ -1,25 +1,56 @@
 HIGH_IMPACT = [
+    # Corporate
     "order",
     "contract",
-    "approval",
-    "wins",
-    "bagged",
     "deal",
     "agreement",
-    "mou",
-    "export",
+    "approval",
     "government",
     "ministry",
     "tender",
-    "defence",
-    "solar",
-    "ipo",
-    "gmp",
-    "listing",
+    "acquisition",
+    "merger",
+
+    # Market
     "results",
     "bonus",
     "split",
-    "dividend"
+    "dividend",
+
+    # IPO
+    "ipo",
+    "gmp",
+    "listing",
+    "subscription",
+    "anchor",
+
+    # Global
+    "iran",
+    "israel",
+    "oil",
+    "crude",
+    "gold",
+    "fed",
+    "federal reserve",
+    "china",
+    "tariff",
+
+    # Sectors
+    "solar",
+    "defence",
+    "defense",
+    "missile",
+    "army",
+    "navy",
+
+    # Companies
+    "bel",
+    "bdl",
+    "hal",
+    "mazagon",
+    "cochin shipyard",
+    "aequs",
+    "vikram solar"
 ]
 
 def is_high_impact(title):
