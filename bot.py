@@ -33,18 +33,19 @@ for feed in RSS_FEEDS:
 
                 if is_high_impact(title):
                     text = (
-                        "🚨 *MARKET FAST NEWS*\n"
-                        "☀️ Solar | 🛡️ Defence | 🚀 IPO\n\n"
-                        "🚨 *HIGH IMPACT*\n"
-                        f"📰 {title}\n"
-                        f"🔗 {link}"
-                    )
+    "🚨 *MARKET FAST NEWS*\n\n"
+    f"📂 {category}\n\n"
+    "🚨 *HIGH IMPACT*\n\n"
+    f"📰 {title}\n\n"
+    f"🔗 {link}"
+        )
                 else:
                     text = (
-                        "🚨 *MARKET FAST NEWS*\n\n"
-                        f"📰 {title}\n"
-                        f"🔗 {link}"
-                    )
+    "🚨 *MARKET FAST NEWS*\n\n"
+    f"📂 {category}\n\n"
+    f"📰 {title}\n\n"
+    f"🔗 {link}"
+)
 
                 response = requests.post(
                     f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
