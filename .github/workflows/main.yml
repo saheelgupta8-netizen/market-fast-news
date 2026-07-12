@@ -1,10 +1,4 @@
-      - name: Commit sent links
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add sent_links.txt
-          git diff --cached --quiet || git commit -m "Update sent links"
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}name: Market News
+name: Market News
 
 on:
   workflow_dispatch:
@@ -34,3 +28,11 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           python bot.py
+
+      - name: Commit sent links
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add sent_links.txt
+          git diff --cached --quiet || git commit -m "Update sent links"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
