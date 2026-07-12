@@ -6,6 +6,9 @@ KEYWORDS = [
     "renewsys",
     "websol",
     "insolation energy",
+    "solar",
+    "solar cell",
+    "solar module",
 
     # Defence
     "bel",
@@ -18,6 +21,12 @@ KEYWORDS = [
     "cochin shipyard",
     "paras defence",
     "data patterns",
+    "defence",
+    "defense",
+    "missile",
+    "army",
+    "navy",
+    "air force",
 
     # Aerospace
     "aequs",
@@ -27,7 +36,34 @@ KEYWORDS = [
     "grey market premium",
     "gmp",
     "subscription",
-    "listing"
+    "listing",
+    "anchor",
+
+    # Global Market
+    "iran",
+    "israel",
+    "oil",
+    "crude oil",
+    "gold",
+    "fed",
+    "federal reserve",
+    "china",
+    "tariff",
+
+    # Corporate
+    "order",
+    "contract",
+    "deal",
+    "agreement",
+    "approval",
+    "acquisition",
+    "merger",
+    "results",
+    "dividend",
+    "bonus",
+    "split",
+    "export",
+    "government"
 ]
 
 RSS_FEEDS = [
