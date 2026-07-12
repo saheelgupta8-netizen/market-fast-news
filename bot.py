@@ -9,7 +9,14 @@ from filters import is_high_impact
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
-news = []
+SENT_FILE = "sent_links.txt"
+
+# Load sent links
+if os.path.exists(SENT_FILE):
+    with open(SENT_FILE, "r") as f:
+        sent_links = set(line.strip() for line in f)
+else:
+    sent_links = set()
 
 for feed in RSS_FEEDS:
     try:
@@ -19,41 +26,42 @@ for feed in RSS_FEEDS:
             title = entry.title
             link = entry.link
 
+            if link in sent_links:
+                continue
+
             if any(k.lower() in title.lower() for k in KEYWORDS):
 
                 if is_high_impact(title):
-                    news.append(
-                        f"🚨 HIGH IMPACT\n"
+                    text = (
+                        "🚨 *MARKET FAST NEWS*\n"
+                        "☀️ Solar | 🛡️ Defence | 🚀 IPO\n\n"
+                        "🚨 *HIGH IMPACT*\n"
                         f"📰 {title}\n"
                         f"🔗 {link}"
                     )
                 else:
-                    news.append(
+                    text = (
+                        "🚨 *MARKET FAST NEWS*\n\n"
                         f"📰 {title}\n"
                         f"🔗 {link}"
                     )
 
+                response = requests.post(
+                    f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
+                    data={
+                        "chat_id": CHAT_ID,
+                        "text": text,
+                        "parse_mode": "Markdown"
+                    }
+                )
+
+                print(response.status_code)
+
+                sent_links.add(link)
+
     except Exception as e:
         print(e)
 
-if news:
-    text = (
-        "🚨 *MARKET FAST NEWS*\n"
-        "☀️ Solar | 🛡️ Defence | 🚀 IPO\n"
-        "━━━━━━━━━━━━━━\n\n"
-        + "\n\n".join(news[:10])
-    )
-else:
-    text = "✅ No new Solar/Defence/IPO news found."
-
-response = requests.post(
-    f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
-    data={
-        "chat_id": CHAT_ID,
-        "text": text,
-        "parse_mode": "Markdown"
-    }
-)
-
-print(response.status_code)
-print(response.text)
+with open(SENT_FILE, "w") as f:
+    for link in sent_links:
+        f.write(link + "\n")
