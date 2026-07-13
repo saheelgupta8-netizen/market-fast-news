@@ -25,7 +25,7 @@ for feed in RSS_FEEDS:
         for entry in d.entries:
             title = entry.title
             link = entry.link
-
+            category = get_category(title)
             if link in sent_links:
                 continue
 
