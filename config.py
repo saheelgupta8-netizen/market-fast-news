@@ -1,4 +1,4 @@
-KEYWORDS = [
+xKEYWORDS = [
     # Solar
     "vikram solar",
     "waaree",
@@ -67,4 +67,4 @@ KEYWORDS = [
 ]
 
 
-]
+
