@@ -66,8 +66,5 @@ KEYWORDS = [
     "government"
 ]
 
-RSS_FEEDS = [
-    "https://www.moneycontrol.com/rss/business.xml",
-    "https://www.moneycontrol.com/rss/markets.xml",
-    "https://www.cnbctv18.com/commonfeeds/v1/eng/rss/market/rss.xml"
+
 ]
