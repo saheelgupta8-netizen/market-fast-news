@@ -1,4 +1,4 @@
-xKEYWORDS = [
+KEYWORDS = [
     # Solar
     "vikram solar",
     "waaree",
@@ -39,7 +39,7 @@ xKEYWORDS = [
     "listing",
     "anchor",
 
-    # Global Market
+    # Global
     "iran",
     "israel",
     "oil",
