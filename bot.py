@@ -1,7 +1,7 @@
 import os
 import requests
 import feedparser
-
+from category import get_category
 from config import KEYWORDS
 from sources import RSS_FEEDS
 from filters import is_high_impact
