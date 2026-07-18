@@ -75,10 +75,15 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-ind
 https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q1-results-net-profit-spikes-94-yoy-to-rs-735-crore-revenue-jumps-66/articleshow/132408001.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-technologies-q1-results-profit-rises-20-yoy-to-rs-4624-crore-co-declares-rs-12-dividend/articleshow/132365162.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-q1-results-profit-rises-38-yoy-to-rs-785-crore-nii-up-20/articleshow/132414340.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q1-results-net-profit-rises-5-yoy-to-rs-19060-crore-nii-up-7/articleshow/132477012.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q1-results-profit-jumps-16-yoy-to-rs-14805-crore-nii-rises-13-as-margins-expand/articleshow/132477062.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q1-results-net-profit-grows-5-yoy-to-rs-2115-crore-nii-climbs-10/articleshow/132478011.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q1-results-net-profit-doubles-to-rs-4696-crore/articleshow/132458385.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-today-jio-financial-wipro-polycab-india-bhel-among-41-companies-to-report-earnings/articleshow/132433544.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q1-results-ipo-bound-telcos-net-profit-rises-9-yoy-to-rs-7764-crore-arpu-climbs-to-rs-215-6/articleshow/132462455.cms
@@ -90,6 +95,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-re
 https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q1-results-profit-rises-over-27-to-rs-5641-crore/articleshow/132417165.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-declares-interim-dividend-worth-rs-2/share-fixes-record-date-check-details/articleshow/132437571.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-results-net-profit-surges-34-yoy-to-rs-1071-crore-nii-advances-18/articleshow/132476478.cms
 https://economictimes.indiatimes.com/markets/stocks/gold-prices-fall-rs-1500/10-gram-silver-dips-rs-2100/kg-as-oil-rally-outweighs-us-inflation-data-what-should-investors-do/articleshow/132405781.cms
 https://economictimes.indiatimes.com/markets/stocks/live-blog/sbi-funds-management-ipo-live-updates-sbi-funds-gmp-listing-date-expert-review-subscription-status-stock-market-news/liveblog/132379748.cms
 https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-results-profit-rises-71-to-rs-39-crore-before-one-time-charge/articleshow/132395689.cms
@@ -209,6 +215,7 @@ https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-price-band-set-
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-price-band-set-at-rs-151-152-per-unit-check-gmp-key-dates-issue-details-11784181306975.html
 https://www.livemint.com/market/ipo/devson-catalyst-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-11784010450168.html
 https://www.livemint.com/market/ipo/happy-steels-ipo-share-allotment-in-focus-today-gmp-steps-to-check-status-online-11784004329808.html
+https://www.livemint.com/market/ipo/ipo-gmp-check-sbi-funds-management-ipo-vs-alpine-texworld-ipo-what-grey-market-signals-ahead-of-ipo-listings-11784364672970.html
 https://www.livemint.com/market/ipo/ipo-gmps-kusumgar-ipo-gmp-vs-laser-power-ipo-gmp-vs-sbi-funds-management-ipo-gmp-vs-alpine-texworld-ipo-gmp-11783920036566.html
 https://www.livemint.com/market/ipo/kusumgar-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-11783918930618.html
 https://www.livemint.com/market/ipo/kusumgar-ipo-listing-date-today-gmp-experts-signal-strong-debut-of-shares-on-bse-nse-11784075774564.html
@@ -240,6 +247,7 @@ https://www.livemint.com/market/stock-market-news/alpine-texworld-ipo-sails-thro
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-fall-over-2-amid-ongoing-us-iran-war-rising-crude-oil-prices-11783992564961.html
 https://www.livemint.com/market/stock-market-news/avenue-supermarts-share-price-slips-over-4-after-q1-results-should-you-buy-sell-or-hold-the-dmart-stock-11783915039006.html
+https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html
 https://www.livemint.com/market/stock-market-news/bajaj-consumer-care-q1-results-net-profit-jumps-84-yoy-to-rs-70-75-crore-11783934272318.html
 https://www.livemint.com/market/stock-market-news/belrise-industries-share-price-gains-on-rs-1-200-crore-qip-launch-11784089291477.html
 https://www.livemint.com/market/stock-market-news/bhel-q1-results-bhel-swings-to-376-71-crore-net-profit-in-june-quarter-11784194013221.html
@@ -270,12 +278,14 @@ https://www.livemint.com/market/stock-market-news/hdfc-bank-q1-results-preview-n
 https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-jumps-over-1-ahead-of-q1-results-2026-tomorrow-18-july-what-brokerages-expect-11784265781874.html
 https://www.livemint.com/market/stock-market-news/hdfc-life-insurance-company-q1-results-profit-rises-12-yoy-to-611-crore-vnb-up-9-11784114501728.html
 https://www.livemint.com/market/stock-market-news/higher-oil-prices-to-rising-bond-yields-5-key-risks-that-could-keep-the-indian-stock-market-under-pressure-in-2026-11784014632183.html
+https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-2026-net-profit-rises-16-to-rs-14-804-50-crore-check-nii-asset-quality-11784365257879.html
 https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-preview-net-profit-seen-up-3-1-yoy-to-rs-13-164-crore-nims-asset-quality-may-remain-stable-11784280397246.html
 https://www.livemint.com/market/stock-market-news/icici-pru-amc-q1-results-profit-jumps-23-yoy-to-964-63-crore-11783927529619.html
 https://www.livemint.com/market/stock-market-news/icici-pru-life-insurance-q1-results-profit-grows-28-yoy-to-386-crore-11784093720120.html
 https://www.livemint.com/market/stock-market-news/itc-hotels-q1-results-pat-jumps-35-to-rs-180-crore-revenue-grows-15-yoy-announces-acquisition-of-ghk-hospitality-11784192420614.html
 https://www.livemint.com/market/stock-market-news/jio-financial-services-share-price-falls-ahead-of-q1-results-2026-is-it-right-time-to-buy-11784174499985.html
 https://www.livemint.com/market/stock-market-news/just-dial-share-price-skyrockets-17-on-strong-q1-results-new-ceo-cfo-announcement-do-you-own-11783922394287.html
+https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q1-results-2026-net-profit-rises-over-22-to-rs-5-480-crore-check-nii-asset-quality-11784359648709.html
 https://www.livemint.com/market/stock-market-news/kusumgar-ipo-listing-date-tomorrow-here-s-what-gmp-signals-about-share-debut-on-dalal-street-11784012697686.html
 https://www.livemint.com/market/stock-market-news/kusumgar-share-price-hits-10-upper-circuit-after-stellar-listing-should-investors-buy-sell-or-hold-the-stock-11784096026269.html
 https://www.livemint.com/market/stock-market-news/laser-power-infra-ipo-issue-booked-41-times-on-day-03-nii-qib-portions-see-strong-demand-11783950960114.html
@@ -322,4 +332,5 @@ https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remain
 https://www.livemint.com/market/stock-market-news/wipro-share-price-falls-over-2-after-q1-results-should-you-buy-sell-or-hold-the-it-stock-11784260346430.html
 https://www.livemint.com/market/stock-market-news/wipro-share-price-gains-ahead-of-q1-results-2026-should-you-buy-the-it-stock-11784173636267.html
 https://www.livemint.com/market/stock-market-news/wipro-tech-mahindra-q1-results-2026-live-wipro-q1-results-wipro-share-price-tech-mahindra-shares-it-stocks-16-july-2026-11784178206719.html
+https://www.livemint.com/market/stock-market-news/yes-bank-q1-results-2026-net-profit-jumps-33-7-yoy-operating-profit-up-255-11784360724934.html
 https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-date-check-details-11784281252605.html
