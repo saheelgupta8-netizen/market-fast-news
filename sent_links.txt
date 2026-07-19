@@ -86,6 +86,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-256-companies-set-to-announce-june-quarter-results/articleshow/132489828.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/q1-results-today-jio-financial-wipro-polycab-india-bhel-among-41-companies-to-report-earnings/articleshow/132433544.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/rbl-bank-q1-results-net-profit-rises-27-yoy-to-rs-254-crore-emirates-nbd-ownership-boosts-growth-outlook/articleshow/132478468.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q1-results-ipo-bound-telcos-net-profit-rises-9-yoy-to-rs-7764-crore-arpu-climbs-to-rs-215-6/articleshow/132462455.cms
@@ -301,8 +302,10 @@ https://www.livemint.com/market/stock-market-news/paytm-board-to-consider-first-
 https://www.livemint.com/market/stock-market-news/q1-results-2026-groww-to-union-bank-among-companies-to-declare-q1-results-today-full-list-here-11784055143301.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-hcl-tech-to-icici-prudential-amc-among-companies-to-declare-q1-results-today-full-list-here-11783910770504.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-hdfc-bank-to-icici-bank-axis-bank-among-companies-to-declare-q1-earnings-today-18-july-full-list-here-11784312775848.html
+https://www.livemint.com/market/stock-market-news/q1-results-2026-infosys-to-eternal-among-companies-to-declare-q1-results-next-week-check-full-list-here-11784439990844.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-tata-elxsi-to-l-t-tech-among-companies-to-declare-q1-results-today-full-list-here-11783997368167.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-wipro-to-jio-financial-among-companies-to-declare-q1-results-today-full-list-here-11784169153115.html
+https://www.livemint.com/market/stock-market-news/q1-results-fy27-to-us-iran-war-fii-flows-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11784426782119.html
 https://www.livemint.com/market/stock-market-news/q1-results-today-2026-ril-to-federal-bank-among-companies-to-declare-q1-earnings-on-17-july-full-list-here-11784256345664.html
 https://www.livemint.com/market/stock-market-news/reliance-industries-q1-results-2026-live-ril-q1-preview-ril-results-jio-ril-share-reliance-q1-preview-ril-q1fy27-11784264173532.html
 https://www.livemint.com/market/stock-market-news/reliance-q1-results-2026-key-takeaways-profit-revenue-margin-new-energy-updates-reliance-jio-reliance-retail-11784289960993.html
@@ -313,6 +316,7 @@ https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-subsc
 https://www.livemint.com/market/stock-market-news/sbi-share-price-falls-ahead-of-sbi-funds-management-ipo-opening-today-do-you-own-11784001499734.html
 https://www.livemint.com/market/stock-market-news/sensex-drops-over-500-points-nifty-50-comes-back-to-24-050-5-key-factors-behind-the-stock-market-decline-explained-11783997605147.html
 https://www.livemint.com/market/stock-market-news/sensex-jumps-nifty-50-up-investors-earn-4-lakh-crore-why-is-stock-market-rising-despite-escalating-us-iran-tensions-11784089235823.html
+https://www.livemint.com/market/stock-market-news/should-you-buy-reliance-shares-after-strong-q1-results-2026-11784444729654.html
 https://www.livemint.com/market/stock-market-news/spacex-extends-losing-streak-to-four-days-drops-below-135-ipo-price-11784132250478.html
 https://www.livemint.com/market/stock-market-news/spacex-extends-losses-hovers-near-ipo-price-after-39-plunge-from-peak-11783959405363.html
 https://www.livemint.com/market/stock-market-news/stellar-debut-laser-power-and-infra-share-price-lists-at-rs-250-a-premium-of-16-8-over-ipo-price-11784174635279.html
