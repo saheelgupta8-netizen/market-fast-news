@@ -53,6 +53,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-
 https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-ipo-opens-today-with-25-gmp-check-price-band-and-key-details/articleshow/132451754.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/chipmaker-cxmt-eyes-9-8-bn-in-blockbuster-china-ipo/articleshow/132410302.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-appoints-jpmorgan-citi-for-india-bottler-ipo-sources-say/articleshow/132520378.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/history-test-what-last-12-billion-dollar-ipo-listing-gains-indicate-about-sbi-mfs-rs-9813-crore-debut/articleshow/132508740.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/indian-gas-exchange-files-for-ipo-as-parent-iex-looks-to-pare-stake/articleshow/132405350.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/indo-mim-said-to-cut-ipo-size-to-420-million-in-july-launch/articleshow/132391648.cms
@@ -99,6 +100,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q1-results-net-profit-doubles-to-rs-4696-crore/articleshow/132458385.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q1-results-profit-soars-79-yoy-to-rs-220-crore-board-decides-not-to-go-with-bonus-proposal/articleshow/132519429.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-256-companies-set-to-announce-june-quarter-results/articleshow/132489828.cms
@@ -176,6 +178,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-fal
 https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-fall-over-3-after-q1-results-why-have-nomura-motilal-others-cut-target-prices/articleshow/132452087.cms
 https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-drop-4-after-q1-results-what-are-nuvama-other-brokerages-saying/articleshow/132505896.cms
 https://economictimes.indiatimes.com/markets/stocks/news/zensar-tech-among-4-stocks-that-closed-crossing-below-vwap/slideshow/132405263.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-alphabet-tesla-intel-ibm-stock-price-news-20-july-2026/liveblog/132515320.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-sk-hynix-deckers-outdoor-stock-price-news-13-july-2026/liveblog/132366645.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-boost-why-goldman-sachs-shares-jumped-to-record-highs/slideshow/132407452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms
@@ -205,9 +208,11 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japan
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ibms-stock-tumbles-as-preliminary-2q-results-come-in-below-wall-streets-expectations/articleshow/132391182.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/iren-shares-jump-16-as-2-8-billion-ai-cloud-deals-lift-revenue-target/articleshow/132518630.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading/articleshow/132392736.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-6-nosediving-25-from-june-peak-whats-rattling-investors-today/articleshow/132355268.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-beats-profit-estimates-on-dealmaking-boost-strong-trading/articleshow/132416647.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-survey-finds-highest-credit-application-rate-in-nearly-five-years/articleshow/132519402.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-short-sellers-earn-8-7-billion-gains-as-shares-dip-below-ipo-price/articleshow/132442677.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-derivatives-regulator-blocks-kalshi-from-canceling-michigan-trades-despite-court-order/articleshow/132400801.cms
@@ -221,6 +226,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inflation-gathers-pace-as-tariffs-energy-costs-and-ai-investment-lift-price-pressures-says-fed/articleshow/132356158.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-money-market-funds-shorten-maturities-as-fed-rate-uncertainty-drives-cautious-positioning/articleshow/132429784.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-investment-banking-revival-gains-momentum-as-ipos-ma-fuel-deal-boom/articleshow/132433420.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-edges-down-with-iran-and-earnings-season-in-focus/articleshow/132523900.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-iran-tensions-dampen-risk-appetite-chipmakers-drop/articleshow/132376176.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up/articleshow/132473332.cms
@@ -355,6 +361,7 @@ https://www.livemint.com/market/stock-market-news/nuvoco-vistas-share-price-rall
 https://www.livemint.com/market/stock-market-news/oberoi-realty-q1-profit-jumps-29-to-rs-544-crore-revenue-rises-32-declares-rs-2-interim-dividend-11784283993297.html
 https://www.livemint.com/market/stock-market-news/ongc-subsidiary-mrpl-share-price-surges-13-on-stellar-q1-results-of-the-psu-stock-swings-to-profit-from-loss-11784189675890.html
 https://www.livemint.com/market/stock-market-news/paytm-board-to-consider-first-ever-bonus-issue-along-with-q1fy27-results-on-this-date-check-details-11784193089008.html
+https://www.livemint.com/market/stock-market-news/paytm-q1-results-net-profit-jumps-79-revenue-up-28-board-opts-not-to-proceed-with-bonus-shares-11784566956897.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-groww-to-union-bank-among-companies-to-declare-q1-results-today-full-list-here-11784055143301.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-hcl-tech-to-icici-prudential-amc-among-companies-to-declare-q1-results-today-full-list-here-11783910770504.html
 https://www.livemint.com/market/stock-market-news/q1-results-2026-hdfc-bank-to-icici-bank-axis-bank-among-companies-to-declare-q1-earnings-today-18-july-full-list-here-11784312775848.html
