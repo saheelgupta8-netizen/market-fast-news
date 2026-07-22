@@ -85,6 +85,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrip-files-ipo-pape
 https://economictimes.indiatimes.com/markets/ipos/fpos/millworks-technologies-ipo-day-3-subscription-hits-63x-gmp-surges-to-125-ahead-of-listing/articleshow/132431282.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/millworks-technologies-sme-ipo-opens-july-14-gmp-soars-120-ahead-of-issue/articleshow/132355647.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut/articleshow/132453386.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/robust-bidding-sbi-funds-management-sees-rs-2-98-lakh-crore-investor-rush-for-rs-9813-crore-ipo/articleshow/132441025.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-capital-markets-hdfc-bank-among-4-book-runners-appointed-for-nlc-india-renewables-ipo/articleshow/132462911.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-ipo-anchor-book-draws-capital-group-blackrock-goldman-gic/articleshow/132356321.cms
@@ -306,11 +307,13 @@ https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-rebound-as-softer-us-inflation-eases-fed-rate-hike-fears-11784041737126.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-trade-steady-as-geopolitical-tensions-fuel-rate-worries-11784556155129.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html
+https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-tops-4-170-silver-extends-winning-streak-as-safe-haven-demand-rises-11784734687457.html
 https://www.livemint.com/market/commodities/gold-silver-rates-today-mcx-gold-price-rises-near-rs-1-41-lakh-per-10-grams-silver-gains-11784000416110.html
 https://www.livemint.com/market/commodities/goldsilver-ratio-rises-to-69-heres-what-it-means-for-investors-is-it-time-to-buy-gold-or-silver-11784101247199.html
 https://www.livemint.com/market/commodities/lme-copper-prices-fall-as-escalating-us-iran-war-renews-inflation-risks-interest-rate-hike-fears-11783933023277.html
 https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html
 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
+https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
 https://www.livemint.com/market/ipo/alpine-texaworld-ipo-day-3-issue-fully-subscribed-on-last-day-check-gmp-other-details-apply-or-not-11784183364734.html
 https://www.livemint.com/market/ipo/alpine-texworld-ipo-day-2-heres-gmp-subscription-status-other-details-apply-or-not-11784089893782.html
 https://www.livemint.com/market/ipo/alpine-texworld-ipo-gmp-alpine-texworld-ipo-subscription-alpine-texworld-ipo-listing-date-alpine-texworld-ipo-allotment-11784255577956.html
@@ -453,6 +456,7 @@ https://www.livemint.com/market/stock-market-news/kusumgar-share-price-hits-10-u
 https://www.livemint.com/market/stock-market-news/laser-power-infra-ipo-issue-booked-41-times-on-day-03-nii-qib-portions-see-strong-demand-11783950960114.html
 https://www.livemint.com/market/stock-market-news/laser-power-infra-share-price-extends-gains-after-strong-listing-should-you-buy-sell-or-hold-the-stock-11784189741100.html
 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-10-key-things-investors-should-know-before-subscribing-to-rs-1-101-28-crore-public-issue-check-ipo-gmp-11784622684866.html
+https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11784740649066.html
 https://www.livemint.com/market/stock-market-news/lt-finance-share-price-rises-4-after-q1-results-2026-should-you-buy-sell-or-hold-11783926091679.html
 https://www.livemint.com/market/stock-market-news/lupin-sun-pharma-to-cipla-pharma-stocks-decline-after-trump-s-tariffs-plan-on-generic-medicines-import-11784692829109.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html
@@ -528,6 +532,8 @@ https://www.livemint.com/market/stock-market-news/xtranet-technologies-ipo-to-op
 https://www.livemint.com/market/stock-market-news/yes-bank-q1-results-2026-net-profit-jumps-33-7-yoy-operating-profit-up-255-11784360724934.html
 https://www.livemint.com/market/stocks-jump-with-chipmakers-oil-rises-to-5-week-high-11784674672538.html
 https://www.livemint.com/market/stocks-rebound-as-mideast-mediation-pushes-oil-lower-11784627491379.html
+https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
 https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-date-check-details-11784281252605.html
 https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html
+https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html
 https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo-among-new-issues-to-open-next-week-check-full-list-here-11784449725282.html
