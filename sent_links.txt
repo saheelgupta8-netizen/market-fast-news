@@ -382,6 +382,7 @@ https://www.livemint.com/market/commodities/gold-silver-prices-rise-on-mcx-after
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-losses-as-middle-east-tensions-lift-rate-hike-fears-11784218381820.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-rebound-as-softer-us-inflation-eases-fed-rate-hike-fears-11784041737126.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-trade-steady-as-geopolitical-tensions-fuel-rate-worries-11784556155129.html
+https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-rebounds-above-4-070-silver-at-59-as-investors-assess-middle-east-tensions-11784905494690.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-tops-4-170-silver-extends-winning-streak-as-safe-haven-demand-rises-11784734687457.html
 https://www.livemint.com/market/commodities/gold-silver-rates-today-mcx-gold-price-rises-near-rs-1-41-lakh-per-10-grams-silver-gains-11784000416110.html
@@ -392,6 +393,7 @@ https://www.livemint.com/market/commodities/oil-price-today-soars-close-to-100-p
 https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html
 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
 https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html
+https://www.livemint.com/market/eli-lilly-backed-scribe-therapeutics-climbs-67-after-raising-128-7-million-in-an-upsized-ipo-11784911559532.html
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
 https://www.livemint.com/market/iex-q1-results-net-profit-grows-12-yoy-to-rs-135-crore-electricity-volumes-rise-16-11784813721089.html
@@ -628,6 +630,7 @@ https://www.livemint.com/market/stock-market-news/sensex-nifty-50-fall-for-4th-c
 https://www.livemint.com/market/stock-market-news/servotech-renewable-power-system-q1-results-pat-jumps-75-yoy-revenue-up-58-11784649689272.html
 https://www.livemint.com/market/stock-market-news/should-you-buy-reliance-shares-after-strong-q1-results-2026-11784444729654.html
 https://www.livemint.com/market/stock-market-news/shriram-finance-q1-results-net-profit-jumps-60-yoy-to-rs-3-447-crore-11784881606703.html
+https://www.livemint.com/market/stock-market-news/smallcap-orient-technologies-shares-to-be-in-focus-on-monday-after-rs-76-crore-npci-order-11784912944950.html
 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-elitecon-international-shares-jump-11-despite-stock-market-crash-amid-us-iran-war-jitters-11784523516505.html
 https://www.livemint.com/market/stock-market-news/sobha-q1-results-revenue-rises-50-profit-more-than-triples-as-margins-improve-11784545549779.html
 https://www.livemint.com/market/stock-market-news/spacex-extends-losing-streak-to-four-days-drops-below-135-ipo-price-11784132250478.html
@@ -664,6 +667,7 @@ https://www.livemint.com/market/stock-market-news/wipro-share-price-gains-ahead-
 https://www.livemint.com/market/stock-market-news/wipro-tech-mahindra-q1-results-2026-live-wipro-q1-results-wipro-share-price-tech-mahindra-shares-it-stocks-16-july-2026-11784178206719.html
 https://www.livemint.com/market/stock-market-news/xtranet-technologies-ipo-to-open-on-july-23-5-key-things-to-know-from-the-rhp-11784623563618.html
 https://www.livemint.com/market/stock-market-news/yes-bank-q1-results-2026-net-profit-jumps-33-7-yoy-operating-profit-up-255-11784360724934.html
+https://www.livemint.com/market/stocks-edge-back-up-as-oil-prices-pause-climb-but-yields-hover-near-highs-11784917992500.html
 https://www.livemint.com/market/stocks-jump-with-chipmakers-oil-rises-to-5-week-high-11784674672538.html
 https://www.livemint.com/market/stocks-rebound-as-mideast-mediation-pushes-oil-lower-11784627491379.html
 https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
@@ -671,3 +675,4 @@ https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-da
 https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html
 https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html
 https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo-among-new-issues-to-open-next-week-check-full-list-here-11784449725282.html
+https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html
