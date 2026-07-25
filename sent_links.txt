@@ -133,6 +133,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q1-resu
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q1-results-profit-falls-14-yoy-to-rs-142-crore-revenue-jumps-27/articleshow/132533438.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/arvind-fashions-q1-results-net-profit-rises-11-to-rs-27-61-cr/articleshow/132531049.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q1-results-net-profit-up-37-to-rs-796-crore-lenders-fixed-final-dividend-record-date/articleshow/132621657.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q1-results-net-profit-rises-23-yoy-to-rs-7114-crore-nii-up-8/articleshow/132474844.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q1-results-cons-pat-surges-46-yoy-to-rs-3226-crore-revenue-zooms-65/articleshow/132530437.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q1-results-profit-falls-72-to-rs-1278-crore-on-one-off-settlement-hit/articleshow/132607329.cms
@@ -151,6 +152,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q1-resul
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q1-results-net-profit-grows-5-yoy-to-rs-2115-crore-nii-climbs-10/articleshow/132478011.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q1-results-profit-shoots-up-132-yoy-to-record-rs-1075-crore-nii-jumps-21/articleshow/132624296.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q1-results-profit-rises-18-yoy-to-rs-390-crore-total-income-up-15/articleshow/132539913.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q1-results-profit-soars-72-yoy-to-rs-1037-crore-nii-flat/articleshow/132557800.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q1-results-profit-rises-12-yoy-to-rs-7769-crore-revenue-climbs-14/articleshow/132578431.cms
@@ -498,6 +500,7 @@ https://www.livemint.com/market/stock-market-news/alpine-texworld-ipo-sails-thro
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-fall-over-2-amid-ongoing-us-iran-war-rising-crude-oil-prices-11783992564961.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-south-koreas-kospi-declines-amid-rising-crude-oil-prices-escalating-us-iran-war-tensions-11784510716285.html
+https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-results-2026-net-profit-grows-37-to-rs-796-crore-nii-up-32-11784970458420.html
 https://www.livemint.com/market/stock-market-news/avenue-supermarts-share-price-slips-over-4-after-q1-results-should-you-buy-sell-or-hold-the-dmart-stock-11783915039006.html
 https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html
 https://www.livemint.com/market/stock-market-news/axis-bank-share-price-dips-over-6-after-q1fy27-results-11784535525777.html
@@ -565,6 +568,7 @@ https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-preview-
 https://www.livemint.com/market/stock-market-news/icici-pru-amc-q1-results-profit-jumps-23-yoy-to-964-63-crore-11783927529619.html
 https://www.livemint.com/market/stock-market-news/icici-pru-life-insurance-q1-results-profit-grows-28-yoy-to-386-crore-11784093720120.html
 https://www.livemint.com/market/stock-market-news/idbi-bank-q1-results-2026-net-profit-rises-5-yoy-to-2-115-crore-nii-up-10-11784535525818.html
+https://www.livemint.com/market/stock-market-news/idfc-first-bank-q1-results-2026-net-profit-surges-132-to-rs-1-075-crore-nii-rises-21-11784977081353.html
 https://www.livemint.com/market/stock-market-news/india-defence-stocks-rally-west-asia-conflict-next-leg-orders-or-execution-indigenization-procurement-11784518899336.html
 https://www.livemint.com/market/stock-market-news/indian-overseas-bank-share-price-rise-3-after-q1-results-2026-do-you-own-11784540084175.html
 https://www.livemint.com/market/stock-market-news/indomim-ipo-issue-receives-solid-response-on-day-1-subscribed-1-4-times-nii-portion-booked-3-times-11784817692816.html
