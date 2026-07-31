@@ -115,6 +115,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-ipo-how-an
 https://economictimes.indiatimes.com/markets/ipos/fpos/millworks-technologies-ipo-day-3-subscription-hits-63x-gmp-surges-to-125-ahead-of-listing/articleshow/132431282.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/millworks-technologies-sme-ipo-opens-july-14-gmp-soars-120-ahead-of-issue/articleshow/132355647.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-day-2-gmp-jumps-indicating-30-listing-gains-issue-subscribed-3-64-times-apply-or-skip/articleshow/132754989.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut/articleshow/132453386.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/robust-bidding-sbi-funds-management-sees-rs-2-98-lakh-crore-investor-rush-for-rs-9813-crore-ipo/articleshow/132441025.cms
@@ -434,6 +435,7 @@ https://www.livemint.com/market/commodities/gold-silver-prices-rise-on-mcx-after
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-losses-as-middle-east-tensions-lift-rate-hike-fears-11784218381820.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-rebound-as-softer-us-inflation-eases-fed-rate-hike-fears-11784041737126.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-trade-steady-as-geopolitical-tensions-fuel-rate-worries-11784556155129.html
+https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-drops-84-silver-slips-2-as-us-dollar-rebounds-11785513541055.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-rebounds-above-4-070-silver-at-59-as-investors-assess-middle-east-tensions-11784905494690.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-tops-4-170-silver-extends-winning-streak-as-safe-haven-demand-rises-11784734687457.html
@@ -533,6 +535,7 @@ https://www.livemint.com/market/maharatna-psu-stock-indian-oil-corporation-sets-
 https://www.livemint.com/market/mark-to-market/bhel-in-the-driver-s-seat-after-solid-q1-profitability-and-execution-11784273883780.html
 https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html
 https://www.livemint.com/market/no-proposal-under-consideration-to-scrap-ltcg-tax-on-equities-government-clarifies-11784539640469.html
+https://www.livemint.com/market/oil-posts-biggest-monthly-jump-since-march-as-iran-war-simmers-11785529272579.html
 https://www.livemint.com/market/oil-swings-as-traders-weigh-slew-of-risks-from-hormuz-to-red-sea-11784629153737.html
 https://www.livemint.com/market/paytm-shares-dip-for-seventh-straight-session-time-to-buy-after-q1-results-11784696517061.html
 https://www.livemint.com/market/stock-market-news/3250-rally-in-five-years-multibagger-stock-apollo-micro-systems-jumps-over-3-after-completion-of-indian-navys-project-11785489256996.html
@@ -758,6 +761,7 @@ https://www.livemint.com/market/stocks-rebound-as-mideast-mediation-pushes-oil-l
 https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
 https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-date-check-details-11784281252605.html
 https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html
+https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html
 https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html
 https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo-among-new-issues-to-open-next-week-check-full-list-here-11784449725282.html
 https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html
