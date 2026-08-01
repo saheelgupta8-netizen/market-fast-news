@@ -42,20 +42,20 @@ for feed in RSS_FEEDS:
             category = get_category(title)
 
             if is_high_impact(title):
-                text = (
-                    "🚨 *MARKET FAST NEWS*\n\n"
-                    "🔥 *HIGH IMPACT*\n\n"
-                    f"📂 {category}\n\n"
-                    f"📰 {title}\n\n"
-                    f"🔗 {link}"
-                )
-            else:
-                text = (
-                    "🚨 *MARKET FAST NEWS*\n\n"
-                    f"📂 {category}\n\n"
-                    f"📰 {title}\n\n"
-                    f"🔗 {link}"
-                )
+    text = (
+        "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
+        "🔥 *महत्वपूर्ण खबर*\n\n"
+        f"📂 श्रेणी: {category}\n\n"
+        f"📰 खबर: {title}\n\n"
+        f"🔗 लिंक: {link}"
+    )
+else:
+    text = (
+        "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
+        f"📂 श्रेणी: {category}\n\n"
+        f"📰 खबर: {title}\n\n"
+        f"🔗 लिंक: {link}"
+    )
 
             response = requests.post(
                 f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
