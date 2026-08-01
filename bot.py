@@ -42,7 +42,7 @@ for feed in RSS_FEEDS:
             category = get_category(title)
 
             if is_high_impact(title):
-    text = (
+               text = (
         "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
         "🔥 *महत्वपूर्ण खबर*\n\n"
         f"📂 श्रेणी: {category}\n\n"
