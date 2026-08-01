@@ -12,12 +12,14 @@ CHAT_ID = os.environ["CHAT_ID"]
 
 SENT_FILE = "sent_links.txt"
 
-# Load already sent links
+# पहले से भेजे गए लिंक लोड करें
 sent_links = set()
 
 if os.path.exists(SENT_FILE):
     with open(SENT_FILE, "r", encoding="utf-8") as f:
-        sent_links = set(line.strip() for line in f if line.strip())
+        sent_links = set(
+            line.strip() for line in f if line.strip()
+        )
 
 for feed in RSS_FEEDS:
     try:
@@ -31,31 +33,34 @@ for feed in RSS_FEEDS:
             if not title or not link:
                 continue
 
-            # Skip duplicate
+            # डुप्लिकेट लिंक छोड़ दें
             if link in sent_links:
                 continue
 
-            # Keyword filter
-            if not any(k.lower() in title.lower() for k in KEYWORDS):
+            # कीवर्ड जाँचें
+            if not any(
+                k.lower() in title.lower()
+                for k in KEYWORDS
+            ):
                 continue
 
             category = get_category(title)
 
             if is_high_impact(title):
-               text = (
-        "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
-        "🔥 *महत्वपूर्ण खबर*\n\n"
-        f"📂 श्रेणी: {category}\n\n"
-        f"📰 खबर: {title}\n\n"
-        f"🔗 लिंक: {link}"
-    )
-else:
-    text = (
-        "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
-        f"📂 श्रेणी: {category}\n\n"
-        f"📰 खबर: {title}\n\n"
-        f"🔗 लिंक: {link}"
-    )
+                text = (
+                    "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
+                    "🔥 *महत्वपूर्ण खबर*\n\n"
+                    f"📂 श्रेणी: {category}\n\n"
+                    f"📰 खबर: {title}\n\n"
+                    f"🔗 लिंक: {link}"
+                )
+            else:
+                text = (
+                    "🚨 *मार्केट फ़ास्ट न्यूज़*\n\n"
+                    f"📂 श्रेणी: {category}\n\n"
+                    f"📰 खबर: {title}\n\n"
+                    f"🔗 लिंक: {link}"
+                )
 
             response = requests.post(
                 f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
@@ -75,7 +80,7 @@ else:
     except Exception as e:
         print(f"Feed Error: {e}")
 
-# Save sent links
+# भेजे गए लिंक सहेजें
 with open(SENT_FILE, "w", encoding="utf-8") as f:
     for link in sorted(sent_links):
         f.write(link + "\n")
