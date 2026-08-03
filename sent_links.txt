@@ -433,6 +433,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-gold
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inflation-gathers-pace-as-tariffs-energy-costs-and-ai-investment-lift-price-pressures-says-fed/articleshow/132356158.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-money-market-funds-shorten-maturities-as-fed-rate-uncertainty-drives-cautious-positioning/articleshow/132429784.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-investment-banking-revival-gains-momentum-as-ipos-ma-fuel-deal-boom/articleshow/132433420.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-edges-down-with-iran-and-earnings-season-in-focus/articleshow/132523900.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-iran-tensions-dampen-risk-appetite-chipmakers-drop/articleshow/132376176.cms
@@ -591,6 +592,7 @@ https://www.livemint.com/market/mark-to-market/bhel-in-the-driver-s-seat-after-s
 https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html
 https://www.livemint.com/market/new-closing-auction-sparks-rare-nifty-sensex-split-amid-low-participation-11785769915392.html
 https://www.livemint.com/market/no-proposal-under-consideration-to-scrap-ltcg-tax-on-equities-government-clarifies-11784539640469.html
+https://www.livemint.com/market/oil-drops-stocks-gain-amid-iran-peace-hopes-yen-firms-as-investors-watch-for-further-intervention-11785792593711.html
 https://www.livemint.com/market/oil-posts-biggest-monthly-jump-since-march-as-iran-war-simmers-11785529272579.html
 https://www.livemint.com/market/oil-swings-as-traders-weigh-slew-of-risks-from-hormuz-to-red-sea-11784629153737.html
 https://www.livemint.com/market/paytm-shares-dip-for-seventh-straight-session-time-to-buy-after-q1-results-11784696517061.html
@@ -840,4 +842,5 @@ https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks
 https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html
 https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html
 https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo-among-new-issues-to-open-next-week-check-full-list-here-11784449725282.html
+https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html
 https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html
