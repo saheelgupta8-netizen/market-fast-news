@@ -509,6 +509,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/ibms-stock-tumbles-a
 https://economictimes.indiatimes.com/markets/us-stocks/news/iren-shares-jump-16-as-2-8-billion-ai-cloud-deals-lift-revenue-target/articleshow/132518630.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading/articleshow/132392736.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-6-nosediving-25-from-june-peak-whats-rattling-investors-today/articleshow/132355268.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-beats-profit-estimates-on-dealmaking-boost-strong-trading/articleshow/132416647.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-tops-profit-estimates-on-high-profile-listings-robust-data-revenue/articleshow/132585994.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-survey-finds-highest-credit-application-rate-in-nearly-five-years/articleshow/132519402.cms
@@ -545,6 +546,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up/articleshow/132473332.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-surges-past-100-as-houthi-tanker-attacks-in-red-sea-rattle-markets/articleshow/132583335.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/choppy-oil-keeps-investors-on-edge-stocks-brace-for-big-earnings-week/articleshow/132531397.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/elon-musk-loses-nearly-half-of-his-wealth-as-spacex-shares-crash-46-more-downside-ahead/articleshow/132785517.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-optical-stocks-sink-on-reports-of-potential-us-import-ban/articleshow/132893182.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-central-bank-vows-timely-policy-adjustments-backs-panda-bond-market/articleshow/132819048.cms
@@ -621,6 +623,7 @@ https://www.livemint.com/market/eli-lilly-backed-scribe-therapeutics-climbs-67-a
 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
+https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html
 https://www.livemint.com/market/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds-11785974807479.html
 https://www.livemint.com/market/gold-holds-steady-as-progress-on-hormuz-trims-rate-hike-bets-11785889977080.html
 https://www.livemint.com/market/gold-holds-steady-with-us-iran-standoff-and-fed-outlook-in-focus-11785815223644.html
