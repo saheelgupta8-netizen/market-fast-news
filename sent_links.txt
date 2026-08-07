@@ -88,6 +88,7 @@ https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-pea
 https://economictimes.indiatimes.com/markets/forex/rupee-ends-flat-as-merchant-bids-oil-blunt-comfort-from-modest-inflows/articleshow/132413332.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-firms-as-oil-retreats-traders-gauge-flow-momentum-under-rbi-measures/articleshow/132530051.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-hits-one-month-low-as-renewed-mideast-conflict-lifts-oil-prices/articleshow/132358838.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/9-ipos-get-sebi-approval-as-primary-market-pipeline-gathers-pace/articleshow/133036494.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/abakkus-helios-back-caliber-minings-rs-135-crore-anchor-book-ahead-of-ipo/articleshow/132451210.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/absolute-projects-jindal-supreme-secure-sebis-nod-to-float-ipos/articleshow/132513275.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-tech-raises-nearly-rs-44-cr-from-anchor-investors/articleshow/132369715.cms
@@ -217,6 +218,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q1-results-firm-swings-to-black-net-profit-at-rs-246-crore-revenue-soars-120-yoy/articleshow/132556350.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hindalco-q1-results-profit-soars-75-yoy-to-record-rs-7013-crore-revenue-jumps-32/articleshow/133030766.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q1-results-net-profit-spikes-145-yoy-to-rs-5469-crore-revenue-jumps-77/articleshow/132600876.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q1-results-profit-jumps-16-yoy-to-rs-14805-crore-nii-rises-13-as-margins-expand/articleshow/132477062.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms
@@ -321,6 +323,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/explained-why-is-stock-
 https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-25-in-a-month/slideshow/132460099.cms
 https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-5-stocks-closed-above-vwap-signalling-bullish-shift/slideshow/132504968.cms
 https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-slide-4-after-q1-margin-falls-amid-commodity-inflation-rs-5/share-dividend-declared/articleshow/133027551.cms
+https://economictimes.indiatimes.com/markets/stocks/news/gold-alone-isnt-enough-for-your-daughters-streedhan-wealth-manager-aarti-gupta-explains-why/articleshow/133033944.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-initiates-coverage-on-sansera-engineering-3-other-auto-ancillary-stocks-with-upside-of-up-to-28-heres-why/articleshow/132509174.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-pegs-nifty-target-at-26500-by-june-2027-lists-15-stocks-from-key-themes/articleshow/132357525.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-stock-picks-ril-hdfc-bank-adani-power-among-14-names-brokerage-is-bullish-on/slideshow/132380450.cms
@@ -444,6 +447,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-mark
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-alphabet-tesla-lockheed-martin-servicenow-stock-price-news-23-july-2026/liveblog/132580601.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-intel-oracle-stock-price-news-2nd-july-2026/liveblog/132605239.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-sk-hynix-deckers-outdoor-stock-price-news-13-july-2026/liveblog/132366645.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-earnings-forecast-spacex-palantir-tech-caterpillar-marvell-chip-stock-price-news-4th-august-2026/liveblog/132860524.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-boost-why-goldman-sachs-shares-jumped-to-record-highs/slideshow/132407452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
@@ -552,6 +556,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-ri
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-raises-dutch-ttf-gas-price-view-on-slow-hormuz-export-recovery/articleshow/132531752.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-paypal-went-from-wall-street-favorite-to-unwilling-merger-target/articleshow/132531609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindler-q2-sales-miss-expectations-as-weak-china-market-drags/articleshow/132531543.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
@@ -1037,6 +1042,7 @@ https://www.livemint.com/market/stock-market-news/vaishali-parekh-recommends-thr
 https://www.livemint.com/market/stock-market-news/vellora-impact-stock-under-rs-50-hits-20-upper-circuit-after-q1fy27-results-11784798074989.html
 https://www.livemint.com/market/stock-market-news/wall-street-advances-on-iran-deal-hopes-spacex-and-amd-dip-11785937674365.html
 https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-crude-oil-prices-plunge-amazon-jumps-38-11785765123026.html
+https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-edge-higher-after-jobs-data-11786110178723.html
 https://www.livemint.com/market/stock-market-news/week-ahead-wall-street-eyes-us-jobs-data-spacex-debut-earnings-and-disney-results-11785683336567.html
 https://www.livemint.com/market/stock-market-news/what-is-the-nifty-gold-ratio-signalling-now-could-a-new-bull-run-in-indian-equities-be-next-gold-price-outlook-11785836014645.html
 https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remains-flat-at-3352-crore-dividend-declared-11784188416404.html
