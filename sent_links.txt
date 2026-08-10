@@ -250,6 +250,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q1-results-profit-shoots-up-132-yoy-to-record-rs-1075-crore-nii-jumps-21/articleshow/132624296.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q1-results-profit-rises-18-yoy-to-rs-390-crore-total-income-up-15/articleshow/132539913.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q1-results-profit-soars-72-yoy-to-rs-1037-crore-nii-flat/articleshow/132557800.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-q1-results-standalone-profit-falls-6-yoy-to-rs-245-crore/articleshow/133095835.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q1-results-profit-rises-12-yoy-to-rs-7769-crore-revenue-climbs-14/articleshow/132578431.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/interglobe-aviation-q1-results-airline-reports-rs-238-crore-loss-vs-profit-yoy-revenue-rises-20/articleshow/132577469.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-results-standalone-profit-falls-27-yoy-to-rs-3579-crore-but-revenue-grows-28/articleshow/132765792.cms
@@ -531,6 +532,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-europe
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-climb-as-earnings-us-iran-diplomacy-lift-sentiment/articleshow/132911978.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-dip-as-oil-surge-fuels-inflation-fears-ahead-of-ecb-meeting/articleshow/132509438.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-us-iran-tensions-rattle-markets-bp-gains-ericsson-slumps/articleshow/132384985.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-set-for-weekly-loss-as-oil-surge-earnings-keep-investors-cautious/articleshow/132601866.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-german-bond-yields-hit-two-year-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132509565.cms
@@ -795,6 +797,7 @@ https://www.livemint.com/market/ipo/sbi-funds-management-ipo-listing-date-tomorr
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-sbi-shareholders-can-apply-in-two-categories-and-improve-their-allotment-chances-here-s-how-11784005966148.html
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-valuation-discount-private-credit-aif-analysis-11783926747358.html
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-vs-alpine-texworld-ipo-which-issue-should-you-subscribe-check-what-latest-ipo-gmp-signals-11784014546840.html
+https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-signals-over-25-listing-gains-5-key-things-to-know-from-rhp-11786349923617.html
 https://www.livemint.com/market/ipo/shree-balaji-mala-textiles-ipo-opens-today-gmp-review-other-details-in-10-points-11784689772042.html
 https://www.livemint.com/market/ipo/silverstorm-parks-and-resorts-ipo-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11784870032611.html
 https://www.livemint.com/market/ipo/silverstorm-parks-and-resorts-ipo-listing-shares-debut-almost-flat-sme-stock-11785471805703.html
@@ -1010,6 +1013,7 @@ https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-sto
 https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786069670487.html
 https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-hang-seng-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786330168867.html
 https://www.livemint.com/market/stock-market-news/nithin-kamath-of-zerodha-reveals-the-biggest-challenge-for-stock-brokers-find-here-11784794848281.html
+https://www.livemint.com/market/stock-market-news/nse-sme-stock-set-for-mainboard-listing-close-to-52-week-high-after-q1fy27-results-11786353510282.html
 https://www.livemint.com/market/stock-market-news/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut-11784265668784.html
 https://www.livemint.com/market/stock-market-news/nuvoco-vistas-share-price-rallies-12-on-strong-q1-results-fy27-should-you-buy-or-sell-11784091753229.html
 https://www.livemint.com/market/stock-market-news/nykaa-q1-results-net-profit-surges-over-threefold-to-rs-80-crore-on-strong-beauty-demand-11785848895992.html
@@ -1073,6 +1077,7 @@ https://www.livemint.com/market/stock-market-news/sensex-crashes-700-points-nift
 https://www.livemint.com/market/stock-market-news/sensex-crashes-over-700-points-nifty-50-drops-below-24-000-key-factors-behind-indian-stock-market-fall-explained-11784697686159.html
 https://www.livemint.com/market/stock-market-news/sensex-drops-over-500-points-nifty-50-comes-back-to-24-050-5-key-factors-behind-the-stock-market-decline-explained-11783997605147.html
 https://www.livemint.com/market/stock-market-news/sensex-jumps-nifty-50-up-investors-earn-4-lakh-crore-why-is-stock-market-rising-despite-escalating-us-iran-tensions-11784089235823.html
+https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html
 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-fall-for-4th-consecutive-session-investors-lose-3-lakh-crore-in-a-day-oil-prices-hit-99-per-barrel-11784799501956.html
 https://www.livemint.com/market/stock-market-news/servotech-renewable-power-system-q1-results-pat-jumps-75-yoy-revenue-up-58-11784649689272.html
 https://www.livemint.com/market/stock-market-news/shiprocket-ipo-price-band-fixed-at-92-97-per-share-heres-date-size-other-key-details-11785981870958.html
