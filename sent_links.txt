@@ -50,6 +50,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-r
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-by-rs-1000/10g-silver-up-rs-3100/kg-on-hopes-of-iran-peace-talks-key-levels-to-watch-today/articleshow/132528204.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-3000/-10-grams-silver-jumps-rs-8400/kg-in-2-days-on-iran-peace-deal-hopes-what-should-you-do/articleshow/132897729.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-for-third-straight-session-inflation-prints-in-focus/articleshow/133140296.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms
 https://economictimes.indiatimes.com/markets/commodities/news/golds-next-rally-could-be-taking-shape-why-investors-should-focus-on-the-bigger-picture/articleshow/132636524.cms
 https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms
@@ -62,6 +63,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-au
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-uncertainty-over-reopening-of-hormuz/articleshow/133077384.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-near-one-week-highs-as-us-iran-peace-deal-hopes-dim/articleshow/133140238.cms
 https://economictimes.indiatimes.com/markets/commodities/news/silver-climbs-rs-2100/kg-but-gold-prices-fall-as-focus-shifts-to-inflation-data-amid-iran-war-key-levels-to-track/articleshow/133081450.cms
 https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms
 https://economictimes.indiatimes.com/markets/commodities/news/why-gold-is-showing-signs-of-reversal-after-recent-selling-pressure/articleshow/132619913.cms
@@ -110,12 +112,14 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/anawil-wire-engineering-i
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-allotment-today-gmp-signals-30-listing-gain-heres-how-to-check-status/articleshow/133080145.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-gmp-rises-to-13-ahead-of-launch-on-august-5-check-key-details/articleshow/132821014.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/auto-components-player-kay-jay-forgings-power-infra-epc-polite-powertech-get-sebi-nod-for-ipos/articleshow/132770083.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/bhagwati-products-may-delay-ipo-by-up-to-3-quarters/articleshow/133139996.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/articleshow/133050913.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-announces-rs-450-crore-ipo-opens-july-17/articleshow/132381641.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-ipo-day-1-issue-subscribed-61-so-far-gmp-signals-25-listing-gain/articleshow/132455305.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-ipo-day-2-gmp-signals-27-listing-gain-issue-sees-strong-investor-demand/articleshow/132505289.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-ipo-opens-today-with-25-gmp-check-price-band-and-key-details/articleshow/132451754.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-leap-india-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133018305.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/can-milky-mist-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133139952.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133076987.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/chipmaker-cxmt-eyes-9-8-bn-in-blockbuster-china-ipo/articleshow/132410302.cms
@@ -142,6 +146,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/indo-mims-rs-3812-cr-ipo-
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-buzz-over-a-dozen-firms-including-zepto-set-for-debut-next-month/articleshow/132637448.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-5-ipos-opening-for-subscription-to-keep-investors-busy-sbi-funds-among-4-listings-scheduled/articleshow/132474048.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-gmp-buzz-millworks-tech-leads-at-120-gmp-sbi-funds-in-focus-among-6-ipos/articleshow/132359691.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-race-to-launch-issues-worth-rs-45000-crore-by-september-30/articleshow/133139967.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-day-2-gmp-at-4-check-subscription-status-and-key-details-should-you-apply-or-skip/articleshow/132754430.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-day-2-issue-subscribed-over-40-so-far-gmp-slips-should-investors-subscribe-or-stay-away/articleshow/132761443.cms
@@ -295,6 +300,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/tata-consumer-q1-re
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q1-results-profit-rises-6-to-rs-180-crore/articleshow/132461624.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-results-net-profit-rises-28-yoy-to-rs-1465-crore-revenue-up-18/articleshow/132436967.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/titan-q1-results-profit-soars-63-yoy-to-rs-1777-crore-total-income-surges-40/articleshow/133031183.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/titans-q1-dials-up-street-optimism/articleshow/133140122.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q1-results-cons-profit-jumps-17-yoy-to-rs-2599-crore-revenue-rises-16/articleshow/132510916.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q1-results-profit-rises-over-27-to-rs-5641-crore/articleshow/132417165.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q1-results-firm-posts-rs-92-crore-loss-vs-profit-a-year-ago-revenue-rises-44-yoy/articleshow/132764529.cms
@@ -553,6 +559,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-july-inflation-cools-below-expectations-as-oil-prices-ease-rate-hike-bets-remain/articleshow/132846186.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-q2-gdp-beats-estimates-on-chip-exports-semiconductor-stocks-in-focus/articleshow/132571582.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-trade-lower-oil-holds-gains/articleshow/133140042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-drops-nearly-3-as-chip-stocks-slide-despite-robust-tsmc-results/articleshow/132433045.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rallies-after-steep-decline-as-focus-turns-to-tech-results/articleshow/132530282.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms
@@ -638,6 +645,7 @@ https://www.livemint.com/market/cbot-grains-soybeans-fall-as-oil-drops-on-iran-h
 https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-manishi-raychaudhuri-11786316493048.html
 https://www.livemint.com/market/commodities/brent-crude-tops-95-as-us-iran-tensions-hormuz-blockade-drive-oil-rally-11784714555942.html
 https://www.livemint.com/market/commodities/crude-oil-falls-as-iran-oman-talks-raise-hopes-of-us-iran-peace-deal-brent-slips-to-79-per-barrel-11785980662508.html
+https://www.livemint.com/market/commodities/crude-oil-price-rallies-for-fourth-session-amid-us-iran-war-uncertainty-brent-near-87-per-barrel-11786412625313.html
 https://www.livemint.com/market/commodities/crude-oil-prices-crash-7-on-us-iran-peace-talks-brent-crude-below-85-per-barrel-11785719149380.html
 https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-amid-rising-us-iran-war-tensions-brent-crude-surges-past-85-per-barrel-11784077895593.html
 https://www.livemint.com/market/commodities/crude-oil-prices-extend-rally-amid-uncertainty-over-us-iran-peace-talks-brent-hovers-near-94-per-barrel-11786325972054.html
@@ -687,6 +695,7 @@ https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate
 https://www.livemint.com/market/eli-lilly-backed-scribe-therapeutics-climbs-67-after-raising-128-7-million-in-an-upsized-ipo-11784911559532.html
 https://www.livemint.com/market/europe-gas-prices-surge-as-hormuz-deal-prospects-remain-murky-11786396840725.html
 https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html
+https://www.livemint.com/market/gold-climbs-above-4-400-as-traders-turn-focus-to-us-inflation-11786410162796.html
 https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html
 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
@@ -919,6 +928,7 @@ https://www.livemint.com/market/stock-market-news/first-gold-now-global-stocks-h
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-infosys-q1-results-to-crude-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11784857573363.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785978096248.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786064423329.html
+https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-asian-banking-stocks-8-key-things-that-changed-for-indian-stock-market-overnight-11786410558811.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785805530627.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-outcome-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785892781258.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-chip-stocks-selloff-to-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11784252345427.html
