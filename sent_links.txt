@@ -279,6 +279,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-re
 https://economictimes.indiatimes.com/markets/stocks/earnings/jk-tyre-industries-q1-results-net-profit-tumbles-73-at-rs-44-09-crore/articleshow/133031885.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q1-results-net-profit-doubles-to-rs-4696-crore/articleshow/132458385.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/kpi-green-energy-q1-results-net-profit-dips-14-at-rs-95-crore/articleshow/133150517.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/lic-q1-results-profit-rises-23-yoy-to-rs-13492-crore/articleshow/133002094.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-q1-results-profit-jumps-2-fold-to-rs-1373-crore/articleshow/132607903.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q1-results-profit-jumps-75-to-rs-927-crore-on-higher-interest-margin-lower-provisions/articleshow/132540799.cms
@@ -307,6 +308,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-results-prof
 https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-takeaways-what-mukesh-ambani-said-on-jio-ipo-and-how-reliance-consumer-doubled-revenue/articleshow/132464398.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-q1-results-profit-rises-22-yoy-to-rs-720-crore-on-strong-premium-growth/articleshow/132602488.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q1-results-net-profit-declines-18-to-rs-343-crore/articleshow/133150416.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-ltd-q1-results-profit-jumps-over-3-fold-to-rs-51-crore-revenue-rises-to-rs-1330-crore/articleshow/132516958.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-tech-q1-results-profit-skyrockets-870-yoy-to-rs-197-crore-as-ai-data-centre-orders-lift-earnings/articleshow/132602426.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q1-results-profit-rises-27-yoy-to-rs-2895-crore-revenue-climbs-10-5/articleshow/132762558.cms
@@ -326,6 +328,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-declares-inte
 https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-results-net-profit-surges-34-yoy-to-rs-1071-crore-nii-advances-18/articleshow/132476478.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q1-results-pat-falls-48-yoy-to-rs-74-crore-ad-revenue-hit-by-middle-east-crisis/articleshow/133106855.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/zydus-lifesciences-q1-results-net-profit-down-36-at-rs-939-8-crore/articleshow/133150477.cms
 https://economictimes.indiatimes.com/markets/stocks/gold-prices-fall-rs-1500/10-gram-silver-dips-rs-2100/kg-as-oil-rally-outweighs-us-inflation-data-what-should-investors-do/articleshow/132405781.cms
 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-titan-sbi-share-price-10-august-2026/liveblog/133077460.cms
 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-wipro-bse-share-price-11-august-2026/liveblog/133140328.cms
@@ -886,6 +889,7 @@ https://www.livemint.com/market/maharatna-psu-stock-indian-oil-corporation-sets-
 https://www.livemint.com/market/mark-to-market/bharat-forge-share-price-q1-results-margin-pressure-defence-business-11786431017999.html
 https://www.livemint.com/market/mark-to-market/bhel-in-the-driver-s-seat-after-solid-q1-profitability-and-execution-11784273883780.html
 https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html
+https://www.livemint.com/market/mark-to-market/ongc-oil-india-q1-results-crude-oil-prices-production-11786438297259.html
 https://www.livemint.com/market/new-closing-auction-sparks-rare-nifty-sensex-split-amid-low-participation-11785769915392.html
 https://www.livemint.com/market/no-proposal-under-consideration-to-scrap-ltcg-tax-on-equities-government-clarifies-11784539640469.html
 https://www.livemint.com/market/oil-drops-stocks-gain-amid-iran-peace-hopes-yen-firms-as-investors-watch-for-further-intervention-11785792593711.html
@@ -1072,6 +1076,7 @@ https://www.livemint.com/market/stock-market-news/mv-electrosystems-ipo-to-list-
 https://www.livemint.com/market/stock-market-news/nasdaq-s-p-500-edge-lower-as-tech-shares-weigh-on-markets-investors-await-iran-deal-details-11786024285864.html
 https://www.livemint.com/market/stock-market-news/navin-fluorine-q1-results-net-profit-more-than-doubles-to-rs-243-crore-as-margins-expand-revenue-rises-44-11785928420036.html
 https://www.livemint.com/market/stock-market-news/nestle-india-q1-results-2026-net-profit-rises-48-yoy-to-975-crore-revenue-up-25-11784699192653.html
+https://www.livemint.com/market/stock-market-news/nifty-50-gold-ratio-narrows-is-an-indian-stock-market-rally-brewing-11786436677667.html
 https://www.livemint.com/market/stock-market-news/nifty-50-slips-below-24-000-key-support-and-resistance-levels-to-watch-amid-market-volatility-11784788921121.html
 https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11785983882128.html
 https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786069670487.html
@@ -1128,6 +1133,7 @@ https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-res
 https://www.livemint.com/market/stock-market-news/ril-share-price-jumps-over-2-ahead-of-reliance-q1-results-2026-today-heres-what-to-expect-from-ril-results-11784262485816.html
 https://www.livemint.com/market/stock-market-news/rupee-opens-25-paise-higher-at-95-14-against-us-dollar-amid-easing-crude-oil-prices-11785728096824.html
 https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-28-against-us-dollar-amid-spike-in-crude-oil-prices-11786073687343.html
+https://www.livemint.com/market/stock-market-news/rvnl-q1-results-net-profit-up-18-yoy-to-159-crore-revenue-climbs-nearly-11-yoy-11786439719190.html
 https://www.livemint.com/market/stock-market-news/sail-q1-results-net-profit-jumps-138-yoy-to-rs-1-636-crore-revenue-remains-flat-11784900706880.html
 https://www.livemint.com/market/stock-market-news/samvardhana-motherson-international-q1-results-2026-net-profit-46-yoy-to-1-561-crore-11785998162407.html
 https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-closes-with-42x-subscription-led-by-strong-qib-demand-gmp-signals-healthy-listing-11784212315273.html
