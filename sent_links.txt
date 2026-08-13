@@ -26,6 +26,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-on-oil-spike
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-steady-after-swinging-with-oil/articleshow/132515342.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-buckle-under-oil-spike-fresh-debt-sale/articleshow/133023421.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-soft-us-inflation-cools-fed-rate-hike-bets/articleshow/132406990.cms
+https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-oil-easing-us-rate-hike-fears/articleshow/132438415.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-soft-us-data-offsets-oil-rise/articleshow/133099683.cms
 https://economictimes.indiatimes.com/markets/bonds/malaysia-launches-dollar-islamic-bond-for-infra-and-government-projects-term-sheet-shows/articleshow/132580993.cms
@@ -336,6 +337,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/kpi-green-energy-q1-results-net-profit-dips-14-at-rs-95-crore/articleshow/133150517.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q1-results-profit-zooms-182-yoy-to-rs-228-crore-revenue-up-34/articleshow/133179868.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/lg-electronics-india-q1-results-pat-rises-marginally-to-rs-653-crore-revenue-up-15/articleshow/133212601.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/lic-q1-results-profit-rises-23-yoy-to-rs-13492-crore/articleshow/133002094.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-q1-results-profit-jumps-2-fold-to-rs-1373-crore/articleshow/132607903.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q1-results-profit-jumps-75-to-rs-927-crore-on-higher-interest-margin-lower-provisions/articleshow/132540799.cms
@@ -613,6 +615,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-s
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-trump-us-iran-attacks-hormuz-crude-oil-fed-warsh-spacex-micron-amazon-amd-chip-stock-price-news-3rd-august-2026/liveblog/132831640.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-deal-crude-oil-fed-rate-hike-inflation-amd-spacex-nvidia-chip-stock-price-news-5th-august-2026/liveblog/132927004.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-alphabet-amazon-apple-cerebras-systems-accelerant-chip-stock-price-news-13th-august-2026/liveblog/133211930.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-rocket-lab-amd-intel-spacex-chip-stock-price-news-11th-august-2026/liveblog/133154916.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-deal-crude-oil-fed-warsh-rate-hike-intel-spacex-amd-chip-stock-price-news-10th-august-2026/liveblog/133105183.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-alphabet-tesla-intel-ibm-stock-price-news-20-july-2026/liveblog/132515320.cms
@@ -767,6 +770,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-us-iran-peace-deal/articleshow/133156341.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-investors-weigh-weaker-oil-ppi-data/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-secretary-scott-bessent-suggests-federal-reserve-should-consider-raising-fima-liquidity-facility/articleshow/132860980.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms
 https://www.livemint.com/market/asia-hedge-funds-hurt-by-july-selloff-after-strong-first-half-11784787050569.html
@@ -1044,6 +1048,7 @@ https://www.livemint.com/market/oil-swings-as-traders-weigh-slew-of-risks-from-h
 https://www.livemint.com/market/paytm-shares-dip-for-seventh-straight-session-time-to-buy-after-q1-results-11784696517061.html
 https://www.livemint.com/market/sebi-order-against-zee-to-delay-planned-rs-3-143-crore-fundraise-11785686792911.html
 https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html
+https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html
 https://www.livemint.com/market/stock-market-news/3250-rally-in-five-years-multibagger-stock-apollo-micro-systems-jumps-over-3-after-completion-of-indian-navys-project-11785489256996.html
 https://www.livemint.com/market/stock-market-news/778-rally-in-five-years-multibagger-pharma-stock-close-to-record-high-after-q1-results-2026-11786080177518.html
 https://www.livemint.com/market/stock-market-news/900-return-in-one-year-multibagger-stock-hits-5-upper-circuit-after-strong-q1fy27-results-11784785661007.html
@@ -1137,6 +1142,7 @@ https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex
 https://www.livemint.com/market/stock-market-news/groww-q1-results-net-profit-jumps-94-to-rs-735-crore-revenue-grows-66-yoy-11784097477198.html
 https://www.livemint.com/market/stock-market-news/hal-bel-to-bharat-dynamics-defence-stocks-dip-after-escalation-in-the-us-iran-war-11784521448590.html
 https://www.livemint.com/market/stock-market-news/hal-q1-results-2026-profit-jumps-15-yoy-to-1-590-crore-11786524452419.html
+https://www.livemint.com/market/stock-market-news/hal-shares-rally-45-since-april-is-the-stock-still-attractive-after-q1-earnings-11786626525631.html
 https://www.livemint.com/market/stock-market-news/happy-steels-share-price-jumps-5-after-muted-listing-on-nse-sme-11784178714990.html
 https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-2026-live-hcl-technologies-q1-dividend-earnings-hcl-tech-share-price-ai-revenue-profit-13-july-2026-11783921135530.html
 https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-board-declares-interim-dividend-of-rs-12-per-share-details-here-11783945313994.html
