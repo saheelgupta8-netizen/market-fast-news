@@ -40,6 +40,7 @@ https://economictimes.indiatimes.com/markets/bonds/vietnam-raises-116-million-in
 https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-surges-4-to-over-95-a-barrel-near-6-week-high-as-conflict-threatens-key-oil-transit-routes/articleshow/132556226.cms
 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms
 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-2-on-fresh-attacks-by-us-and-iran/articleshow/132536262.cms
+https://economictimes.indiatimes.com/markets/commodities/news/down-48-from-peak-but-silver-still-beats-gold-equity-to-post-best-5-year-returns-time-to-buy/articleshow/133210805.cms
 https://economictimes.indiatimes.com/markets/commodities/news/explained-why-south-korea-bought-gold-after-13-years-and-what-it-means-for-yellow-metal-investors/articleshow/132907438.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-advances-as-mild-us-inflation-data-puts-fed-rate-hike-in-doubt/articleshow/133195819.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms
@@ -315,6 +316,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/hindalco-q1-results
 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-copper-q1-results-pat-zooms-163-yoy-to-rs-353-crore-revenue-rises-to-rs-937-crore/articleshow/133094486.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q1-results-net-profit-spikes-145-yoy-to-rs-5469-crore-revenue-jumps-77/articleshow/132600876.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q1-results-mamaearth-parent-posts-record-profit-of-rs-90-crore-revenue-up-27-yoy/articleshow/133210743.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q1-results-profit-jumps-16-yoy-to-rs-14805-crore-nii-rises-13-as-margins-expand/articleshow/132477062.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms
