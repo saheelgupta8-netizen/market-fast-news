@@ -8,6 +8,7 @@ https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-rise-as
 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132409354.cms
 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132417193.cms
 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-as-oil-remains-elevated-eyes-on-ecb/articleshow/132531792.cms
+https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-little-changed-as-oil-prices-steady/articleshow/133203702.cms
 https://economictimes.indiatimes.com/markets/bonds/fairfax-picks-up-half-of-3-year-government-bonds-at-auction/articleshow/132473875.cms
 https://economictimes.indiatimes.com/markets/bonds/foreign-investors-marginally-offload-china-onshore-bonds-in-june/articleshow/132451802.cms
 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-slumps-to-lowest-in-nearly-a-month-as-middle-east-oil-risks-heat-up/articleshow/132509213.cms
@@ -495,6 +496,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-climb-3-after
 https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-picks-9-bank-stocks-with-up-to-36-upside-potential-ahead-of-q1-results-do-you-own-any/slideshow/132429131.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mrs-bectors-food-soars-11-after-sunil-singhanias-abakkus-acquires-29-4-lakh-shares-via-block-deal/articleshow/132430105.cms
 https://economictimes.indiatimes.com/markets/stocks/news/multibagger-astra-microwave-shares-rally-14-to-52-week-high-after-rs-2205-crore-order-win-from-hal/articleshow/132755861.cms
+https://economictimes.indiatimes.com/markets/stocks/news/munjal-auto-industries-shares-soar-15-hit-52-week-high-after-q1-results-what-moved-the-stock/articleshow/133204093.cms
 https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-shares-crash-10-after-q1-results-what-motilal-other-brokerages-said/articleshow/132823062.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-juniper-green-energy-shares-to-list-tomorrow-heres-what-gmp-signals-ahead-of-debut/articleshow/132926600.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-23800-level-on-gulf-war-ripples/articleshow/132618691.cms
@@ -1211,6 +1213,7 @@ https://www.livemint.com/market/stock-market-news/mv-electrosystems-ipo-to-list-
 https://www.livemint.com/market/stock-market-news/nasdaq-s-p-500-edge-lower-as-tech-shares-weigh-on-markets-investors-await-iran-deal-details-11786024285864.html
 https://www.livemint.com/market/stock-market-news/navin-fluorine-q1-results-net-profit-more-than-doubles-to-rs-243-crore-as-margins-expand-revenue-rises-44-11785928420036.html
 https://www.livemint.com/market/stock-market-news/nestle-india-q1-results-2026-net-profit-rises-48-yoy-to-975-crore-revenue-up-25-11784699192653.html
+https://www.livemint.com/market/stock-market-news/newlylisted-metal-stock-rajputana-stainless-surges-10-hits-record-high-after-strong-q1-results-2026-11786606773029.html
 https://www.livemint.com/market/stock-market-news/newlylisted-stock-waterways-leisure-tourism-declares-record-date-for-1-10-stock-split-details-here-11786596685490.html
 https://www.livemint.com/market/stock-market-news/nifty-50-gold-ratio-narrows-is-an-indian-stock-market-rally-brewing-11786436677667.html
 https://www.livemint.com/market/stock-market-news/nifty-50-slips-below-24-000-key-support-and-resistance-levels-to-watch-amid-market-volatility-11784788921121.html
@@ -1233,6 +1236,7 @@ https://www.livemint.com/market/stock-market-news/paytm-q1-results-net-profit-ju
 https://www.livemint.com/market/stock-market-news/paytm-share-price-falls-over-1-despite-strong-q1-results-2026-bonus-issue-announcement-should-you-buy-sell-or-hold-11784605079585.html
 https://www.livemint.com/market/stock-market-news/pb-fintech-q1-results-net-profit-nearly-doubles-to-rs-163-crore-revenue-climbs-40-11785932741631.html
 https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-5-after-q1-results-2026-do-you-own-11786426853564.html
+https://www.livemint.com/market/stock-market-news/penny-stock-under-1-gacm-technologies-hits-5-upper-circuit-after-q1-results-despite-muted-trends-on-dalal-street-11786609021214.html
 https://www.livemint.com/market/stock-market-news/penny-stock-under-1-hits-5-upper-circuit-after-provisional-q1-results-2026-11786445169292.html
 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-hits-upper-circuit-after-q1-results-2026-11786540874838.html
 https://www.livemint.com/market/stock-market-news/propshop-events-and-exhibitions-ipo-listing-shares-make-muted-debut-lists-at-20-discount-11785729801329.html
