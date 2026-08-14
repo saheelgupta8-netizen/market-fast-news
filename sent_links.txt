@@ -430,6 +430,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-zoo
 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-rally-5-after-q1-results-heres-what-nomura-nuvama-other-brokerages-expect/articleshow/132755577.cms
 https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-crash-10-after-q1-results-lender-cuts-roa-guidance-should-you-buy-sell-or-hold/articleshow/132550886.cms
 https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-ipo-price-band-set-at-rs-271-285-issue-opens-on-august-12/articleshow/133026909.cms
+https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-q1-results-net-profit-soars-6x-to-rs-119-crore-revenue-surges-131-yoy/articleshow/133233995.cms
 https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-shares-jump-4-after-q1-results-heres-what-jefferies-clsa-others-are-saying/articleshow/132889091.cms
 https://economictimes.indiatimes.com/markets/stocks/news/blackrock-prashant-jain-backed-3p-india-among-others-invest-in-indo-mim-ipo-anchor-book-of-rs-1141-crore/articleshow/132573246.cms
 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-meesho-shares-in-focus-as-peak-xv-elevation-capital-eye-rs-1900-crore-stake-sale/articleshow/132845243.cms
@@ -692,6 +693,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-europe
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-us-iran-tensions-rattle-markets-bp-gains-ericsson-slumps/articleshow/132384985.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-set-for-weekly-loss-as-oil-surge-earnings-keep-investors-cautious/articleshow/132601866.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-gain-as-lower-oil-prices-offer-relief-amid-middle-east-tensions/articleshow/133205433.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-german-bond-yields-hit-two-year-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132509565.cms
@@ -1025,6 +1027,7 @@ https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-date-in-focu
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-status-mv-electrosystems-ipo-gmp-mv-electrosystems-ipo-listing-date-mv-electrosystems-11785942587365.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-day-2-check-latest-ipo-gmp-ipo-subscription-status-and-other-details-apply-or-not-11785468704924.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-gmp-today-jumps-on-strong-subscription-status-review-apply-or-not-11785727200316.html
+https://www.livemint.com/market/ipo/nse-ipo-nse-ipo-news-nse-ipo-date-11786694374266.html
 https://www.livemint.com/market/ipo/oneindig-technologies-ipo-allotment-to-be-finalised-today-ipo-gmp-steps-to-check-allotment-status-online-for-sme-ipo-11785814952122.html
 https://www.livemint.com/market/ipo/optimystix-entertainment-ipo-day-1-issue-booked-34-so-far-check-gmp-issue-details-key-dates-11786088221432.html
 https://www.livemint.com/market/ipo/poojaa-precision-ipo-gmp-jumps-following-strong-subscription-status-how-to-check-allotment-status-online-11785474476120.html
@@ -1110,6 +1113,7 @@ https://www.livemint.com/market/stock-market-news/alphabet-lures-investors-to-me
 https://www.livemint.com/market/stock-market-news/alpine-texworld-ipo-off-to-a-slow-start-subscribed-0-28-times-on-day-1-gmp-indicates-modest-listing-11784038213076.html
 https://www.livemint.com/market/stock-market-news/alpine-texworld-ipo-sails-through-on-day-3-check-subscription-status-gmp-and-other-key-details-11784210606224.html
 https://www.livemint.com/market/stock-market-news/ardee-industries-raises-rs-128-crore-from-anchor-investors-ahead-of-ipo-launch-on-wednesday-11785853752557.html
+https://www.livemint.com/market/stock-market-news/ashok-leyland-q1-results-net-profit-rises-2-59-yoy-to-rs-609-crore-revenue-up-104-11786694997036.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-fall-over-2-amid-ongoing-us-iran-war-rising-crude-oil-prices-11783992564961.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-south-koreas-kospi-declines-amid-rising-crude-oil-prices-escalating-us-iran-war-tensions-11784510716285.html
