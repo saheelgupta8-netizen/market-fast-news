@@ -134,6 +134,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-te
 https://economictimes.indiatimes.com/markets/ipos/fpos/alpine-texworld-ipo-allotment-today-gmp-hints-at-flat-listing-heres-how-to-check-your-status/articleshow/132451612.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/alpine-texworld-ipo-day-2-gmp-at-10-check-subscription-valuation-and-other-key-details/articleshow/132405572.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/alpine-texworld-ipo-day-3-gmp-signals-5-listing-pop-heres-subscription-status-and-key-details/articleshow/132428964.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ananya-birla-promoted-svatantra-microfin-files-for-rs-3000-crore-ipo/articleshow/133231829.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/anawil-wire-engineering-ipo-day-1-issue-subscribed-70-so-far-gmp-signals-30-listing-premium/articleshow/132824212.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-allotment-today-gmp-signals-30-listing-gain-heres-how-to-check-status/articleshow/133080145.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-gmp-rises-to-13-ahead-of-launch-on-august-5-check-key-details/articleshow/132821014.cms
@@ -506,6 +507,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/jubilant-foodworks-shar
 https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-4-after-rs-211-crore-order-wins-rs-400-crore-bess-project/articleshow/133144988.cms
 https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-soar-over-11-after-stellar-q1-results-what-investors-should-know/articleshow/132528372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-shares-crash-8-after-weak-q1-results-what-are-nomura-and-motilal-oswal-saying/articleshow/133081372.cms
+https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-fall-12-post-listing-slip-below-ipo-price-what-should-investors-do/articleshow/133231868.cms
 https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133227372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-shares-jump-7-after-q1-results-jefferies-goldman-sachs-3-others-raise-target-price/articleshow/133197400.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lic-shares-fall-after-indias-largest-ofs-closes-with-oversubscription-on-both-days/articleshow/132984775.cms
@@ -612,6 +614,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-fall-
 https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-fall-over-3-after-q1-results-why-have-nomura-motilal-others-cut-target-prices/articleshow/132452087.cms
 https://economictimes.indiatimes.com/markets/stocks/news/world-banks-ifc-hdfc-amc-invest-in-molbio-diagnostics-rs-281-crore-ipo-anchor-round/articleshow/133065702.cms
 https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-drop-4-after-q1-results-what-are-nuvama-other-brokerages-saying/articleshow/132505896.cms
+https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-rise-8-after-sat-grants-interim-relief-in-sebi-order/articleshow/133230722.cms
 https://economictimes.indiatimes.com/markets/stocks/news/zensar-tech-among-4-stocks-that-closed-crossing-below-vwap/slideshow/132405263.cms
 https://economictimes.indiatimes.com/markets/stocks/news/zepto-ipo-hurdle-revives-investor-interest-in-swiggy-eternal-shares-set-for-best-month-in-years/articleshow/132756263.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-livestock-price-today-live-updates-13-aug-2026/liveblog/133197927.cms
@@ -729,6 +732,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-mixed-as-oil-
 https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week/articleshow/132618845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-q2-highlights-bigger-ai-bets-thinner-margins-mixed-results/slideshow/132573187.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-q2-results-investors-eye-margins-ai-roadmap-and-earnings-outlook/slideshow/132553012.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/unitree-ipo-chinas-humanoid-robot-starset-for-potentially-explosive-shanghai-debut/articleshow/133232736.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-derivatives-regulator-blocks-kalshi-from-canceling-michigan-trades-despite-court-order/articleshow/132400801.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-expected-to-leave-rates-unchanged-next-month-after-soft-inflation-data/articleshow/133191697.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-official-warns-of-broad-based-inflation-as-firms-urge-action/articleshow/132465098.cms
@@ -1279,6 +1283,7 @@ https://www.livemint.com/market/stock-market-news/nasdaq-s-p-500-edge-lower-as-t
 https://www.livemint.com/market/stock-market-news/navin-fluorine-q1-results-net-profit-more-than-doubles-to-rs-243-crore-as-margins-expand-revenue-rises-44-11785928420036.html
 https://www.livemint.com/market/stock-market-news/nestle-india-q1-results-2026-net-profit-rises-48-yoy-to-975-crore-revenue-up-25-11784699192653.html
 https://www.livemint.com/market/stock-market-news/newlylisted-metal-stock-rajputana-stainless-surges-10-hits-record-high-after-strong-q1-results-2026-11786606773029.html
+https://www.livemint.com/market/stock-market-news/newlylisted-stock-fujiyama-power-systems-jumps-5-hits-record-high-after-q1-results-2026-11786690383299.html
 https://www.livemint.com/market/stock-market-news/newlylisted-stock-waterways-leisure-tourism-declares-record-date-for-1-10-stock-split-details-here-11786596685490.html
 https://www.livemint.com/market/stock-market-news/nifty-50-gold-ratio-narrows-is-an-indian-stock-market-rally-brewing-11786436677667.html
 https://www.livemint.com/market/stock-market-news/nifty-50-slips-below-24-000-key-support-and-resistance-levels-to-watch-amid-market-volatility-11784788921121.html
@@ -1338,6 +1343,7 @@ https://www.livemint.com/market/stock-market-news/q1-results-today-divis-labs-mu
 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-to-q1-results-fy27-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11785629941417.html
 https://www.livemint.com/market/stock-market-news/rbl-bank-fixes-august-14-as-record-date-for-final-fy26-dividend-11786028909638.html
 https://www.livemint.com/market/stock-market-news/recently-listed-indo-smc-bags-rs-66-6-crore-order-from-engineering-firm-stock-jumps-190-from-march-lows-11784727812120.html
+https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-portfolio-stock-va-tech-wabag-jumps-5-axis-securities-raises-target-price-after-q1-results-2026-11786692269587.html
 https://www.livemint.com/market/stock-market-news/reliance-industries-q1-results-2026-live-ril-q1-preview-ril-results-jio-ril-share-reliance-q1-preview-ril-q1fy27-11784264173532.html
 https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-rises-after-q1-results-should-you-buy-or-sell-the-stock-11784519995844.html
 https://www.livemint.com/market/stock-market-news/reliance-q1-results-2026-key-takeaways-profit-revenue-margin-new-energy-updates-reliance-jio-reliance-retail-11784289960993.html
