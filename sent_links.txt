@@ -272,6 +272,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/sotefin-bharat-ipo-opens-
 https://economictimes.indiatimes.com/markets/ipos/fpos/specialised-realty-platforms-drive-indias-next-wave-of-ipos/articleshow/133018215.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/steptrades-pre-ipo-fund-secures-rs-100-crore-in-first-close/articleshow/132517531.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sunshine-pictures-ipo-price-band-set-at-342-360-issue-opens-on-august-18/articleshow/133155766.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/svatantra-microfin-files-draft-papers-for-rs-3000-crore-ipo/articleshow/133255727.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tablespace-technologies-files-draft-papers-with-sebi-to-raise-funds-through-ipo/articleshow/133158566.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-ipo-can-take-a-page-from-a-hong-kong-titan/articleshow/133169095.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-allotment-likely-today-gmp-signals-over-12-listing-gain-how-to-check-status/articleshow/133174270.cms
@@ -457,6 +458,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-q1-resu
 https://economictimes.indiatimes.com/markets/stocks/news/crompton-greaves-shares-crash-7-despite-strong-q1-results/articleshow/133024503.cms
 https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-invit-raises-rs-1687-crore-from-premji-invest-other-anchor-investors-ahead-of-its-ipo/articleshow/132553162.cms
 https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-invit-subscription-opens-today-here-are-key-details-for-investors/articleshow/132550919.cms
+https://economictimes.indiatimes.com/markets/stocks/news/d-street-ends-in-red-for-a-third-week-on-west-asia-deal-delay-oil-spike/articleshow/133255400.cms
 https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-stocks-showing-bullish-rsi-upswing/slideshow/132571018.cms
 https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-shares-fall-nearly-7-after-q1-profit-declines-14-yoy-to-rs-22-crore/articleshow/132757660.cms
 https://economictimes.indiatimes.com/markets/stocks/news/deepfake-scam-rattles-sky-gold-as-subsidiary-suffers-rs-11-crore-loss-after-unauthorised-fund-transfer/articleshow/132451985.cms
@@ -775,6 +777,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-s
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-after-tech-rout-mideast-tariffs-in-focus/articleshow/132607371.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-on-middle-east-deal-hopes/articleshow/132833426.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-with-us-fed-silent-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat/articleshow/133255266.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up/articleshow/132473332.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-data-to-test-record-setting-us-stocks-fed-rate-views/articleshow/133046458.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms
@@ -1372,6 +1375,7 @@ https://www.livemint.com/market/stock-market-news/ril-share-price-jumps-over-2-a
 https://www.livemint.com/market/stock-market-news/rupee-opens-25-paise-higher-at-95-14-against-us-dollar-amid-easing-crude-oil-prices-11785728096824.html
 https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-28-against-us-dollar-amid-spike-in-crude-oil-prices-11786073687343.html
 https://www.livemint.com/market/stock-market-news/rvnl-q1-results-net-profit-up-18-yoy-to-159-crore-revenue-climbs-nearly-11-yoy-11786439719190.html
+https://www.livemint.com/market/stock-market-news/rvnl-vs-irfc-vs-ircon-vs-irctc-which-railway-stock-to-buy-after-q1-results-2026-11786761714978.html
 https://www.livemint.com/market/stock-market-news/sail-q1-results-net-profit-jumps-138-yoy-to-rs-1-636-crore-revenue-remains-flat-11784900706880.html
 https://www.livemint.com/market/stock-market-news/samvardhana-motherson-international-q1-results-2026-net-profit-46-yoy-to-1-561-crore-11785998162407.html
 https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-closes-with-42x-subscription-led-by-strong-qib-demand-gmp-signals-healthy-listing-11784212315273.html
