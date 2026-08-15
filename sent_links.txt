@@ -63,6 +63,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-r
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-retreats-from-two-month-high-after-inflation-driven-rally/articleshow/133227104.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-for-third-straight-session-inflation-prints-in-focus/articleshow/133140296.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms
 https://economictimes.indiatimes.com/markets/commodities/news/golds-next-rally-could-be-taking-shape-why-investors-should-focus-on-the-bigger-picture/articleshow/132636524.cms
 https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms
@@ -72,6 +73,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/nse-augmont-partne
 https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/articleshow/133195813.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-10-crude-oil-rises-to-85-amid-hormuz-worries-as-attacks-continue-what-are-experts-saying/articleshow/133077558.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-11-crude-oil-rises-to-88-after-trumps-compensation-demand-dents-hormuz-opening-heres-why/articleshow/133140451.cms
@@ -645,6 +647,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-pri
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-today-live-updates-14-aug-2026/liveblog/133227648.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-13-aug-2026/liveblog/133196338.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-led-boom-in-ipos-raises-concerns-about-a-bust/articleshow/132582690.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say/articleshow/133256367.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-to-beat-spacex-investors-bet-on-2-trillion-valuation-in-record-ipo/articleshow/133206890.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/apollo-global-debt-deal-fees-and-insurance-earnings-rise-asset-sales-drag/articleshow/132866465.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-spends-down-cash-pile-under-ceo-greg-abel/articleshow/133062858.cms
@@ -664,6 +667,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-mark
 https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-boost-why-goldman-sachs-shares-jumped-to-record-highs/slideshow/132407452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/eric-trump-backed-defence-technology-company-space-eyes-to-go-public-in-638-million-spac-deal/articleshow/132771016.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-snap-4-week-rally-as-higher-oil-prices-temper-strong-earnings/articleshow/133256204.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-kospi-skyrocketed-18-today-after-massive-selloff-and-whats-ahead-for-south-koreas-bipolar-stock-market/articleshow/132761188.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-chief-warsh-faces-hard-choice-on-inflation-after-bond-markets-red-flag/articleshow/132780818.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms
@@ -736,6 +740,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-
 https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-beats-profit-estimates-on-dealmaking-boost-strong-trading/articleshow/132416647.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-tops-profit-estimates-on-high-profile-listings-robust-data-revenue/articleshow/132585994.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-survey-finds-highest-credit-application-rate-in-nearly-five-years/articleshow/132519402.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike/articleshow/133256182.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/sheins-slowing-growth-tests-investor-appetite-ahead-of-hong-kong-ipo/articleshow/133185999.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-short-sellers-earn-8-7-billion-gains-as-shares-dip-below-ipo-price/articleshow/132442677.cms
@@ -1243,6 +1248,7 @@ https://www.livemint.com/market/stock-market-news/icici-pru-life-insurance-q1-re
 https://www.livemint.com/market/stock-market-news/idbi-bank-q1-results-2026-net-profit-rises-5-yoy-to-2-115-crore-nii-up-10-11784535525818.html
 https://www.livemint.com/market/stock-market-news/idfc-first-bank-q1-results-2026-net-profit-surges-132-to-rs-1-075-crore-nii-rises-21-11784977081353.html
 https://www.livemint.com/market/stock-market-news/ifci-q1-results-revenue-declines-profit-improves-sequentially-to-rs-60-crore-11786455809358.html
+https://www.livemint.com/market/stock-market-news/independence-day-2026-bel-to-beml-ganesh-dongre-of-anand-rathi-recommends-these-four-stocks-to-buy-11786767806447.html
 https://www.livemint.com/market/stock-market-news/india-defence-stocks-rally-west-asia-conflict-next-leg-orders-or-execution-indigenization-procurement-11784518899336.html
 https://www.livemint.com/market/stock-market-news/indian-overseas-bank-share-price-rise-3-after-q1-results-2026-do-you-own-11784540084175.html
 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11785044321155.html
