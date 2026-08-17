@@ -605,6 +605,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-71-points-
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-150-points-nifty-below-24350-even-as-oil-prices-slightly-ease-what-lies-ahead/articleshow/133197185.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-200-points-nifty-below-24450-as-oil-nears-90/barrel-what-lies-ahead/articleshow/133169322.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-points-nifty-below-24550-as-oil-prices-rise-what-lies-ahead/articleshow/133141558.cms
+https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-pts-nifty-below-24300-as-oil-hits-90-it-psu-stocks-lead-the-slide/articleshow/133286171.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-500-points-nifty-tops-24150-led-by-financials-mideast-tensions-cap-gains/articleshow/132380818.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-hold-steady-as-earnings-offset-oil-worries/articleshow/133080723.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-24600-amid-us-iran-peace-hopes-what-lies-ahead/articleshow/132980967.cms
@@ -827,6 +828,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-services-growth-slows-to-10-month-low-in-july-weak-demand-weighs-on-outlook/articleshow/132899228.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-cxmts-blockbuster-ipo-rewards-hefeis-decade-long-semiconductor-investment/articleshow/132576158.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-fed-pause-sparks-treasury-twist-rattles-bond-markets/articleshow/132825398.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-german-companies-turn-cautious-on-new-us-investments-amid-tariff-risks/articleshow/133286369.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-goldman-sachs-sees-brent-crude-trading-at-80-90-until-iran-conflict-outlook-clears/articleshow/132855041.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-launches-offshore-chinese-government-bond-futures-to-boost-yuan-internationalisation/articleshow/132823590.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-edges-higher-near-two-month-peak-ahead-of-us-inflation-data/articleshow/133159810.cms
@@ -841,6 +843,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindl
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-refiners-ramp-up-buybacks-as-iran-war-boosts-fuel-margins/articleshow/133197769.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-uncertainty-oil-prices-in-focus-as-earnings-sustain-market-optimism/articleshow/133286178.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-tesla-spacex-merger-speculation-grows-after-musk-leaves-door-open/articleshow/132571452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warshs-fed-leaves-markets-searching-for-policy-clues/articleshow/133027004.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-weak-july-jobs-data-dents-expectations-for-september-fed-rate-hike/articleshow/133084200.cms
@@ -953,6 +956,7 @@ https://www.livemint.com/market/gold-rises-to-near-4-400-as-weak-retail-data-wei
 https://www.livemint.com/market/gold-rises-to-over-two-month-peak-as-us-inflation-data-dampens-rate-hike-bets-11786560770348.html
 https://www.livemint.com/market/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension-11786667005682.html
 https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook-11785815218115.html
+https://www.livemint.com/market/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates-11786940446270.html
 https://www.livemint.com/market/hedge-funds-add-bullish-bets-on-oil-at-fastest-pace-since-march-11785532739554.html
 https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html
 https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html
@@ -1082,6 +1086,7 @@ https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostic
 https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostics-ipo-subscription-molbio-diagnostics-ipo-allotment-date-molbio-diagnostics-11786599105765.html
 https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-date-tomorrow-heres-what-gmp-experts-signal-ahead-of-debut-11786870962625.html
 https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-in-focus-gmp-signals-nearly-20-listing-pop-ahead-of-debut-on-monday-11786683853332.html
+https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-shares-debut-at-a-21-premium-defying-weak-stock-market-sentiment-11786940515415.html
 https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-price-band-set-at-rs-768-807-per-share-check-key-dates-issue-details-11785900044759.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-date-in-focus-gmp-subscription-status-how-to-check-status-online-11785811691527.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-status-mv-electrosystems-ipo-gmp-mv-electrosystems-ipo-listing-date-mv-electrosystems-11785942587365.html
@@ -1104,6 +1109,7 @@ https://www.livemint.com/market/ipo/sbi-funds-management-ipo-valuation-discount-
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-vs-alpine-texworld-ipo-which-issue-should-you-subscribe-check-what-latest-ipo-gmp-signals-11784014546840.html
 https://www.livemint.com/market/ipo/secl-ipo-coal-india-subsidiary-10000-crore-ipo-11786519217430.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-price-band-fixed-at-88-93-per-share-issue-date-key-details-here-11786416026785.html
+https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-before-shiprocket-ipo-listing-date-11786938586309.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-day-2-issue-subscribed-97-so-far-check-gmp-review-other-key-details-apply-or-not-11786590834946.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-day-3-live-gmp-subscription-status-review-other-details-apply-or-not-11786681056019.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-price-date-other-key-details-in-10-points-11786430198450.html
