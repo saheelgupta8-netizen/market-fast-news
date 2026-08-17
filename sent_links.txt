@@ -46,6 +46,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/down-48-from-peak-
 https://economictimes.indiatimes.com/markets/commodities/news/explained-why-south-korea-bought-gold-after-13-years-and-what-it-means-for-yellow-metal-investors/articleshow/132907438.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-advances-as-mild-us-inflation-data-puts-fed-rate-hike-in-doubt/articleshow/133195819.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-softer-dollar-as-rate-hike-expectations-ease/articleshow/133284788.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-brent-eases-mideast-developments-in-focus-ahead-of-fed-meet/articleshow/132618808.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-firms-below-10-week-high-as-markets-brace-for-us-cpi-data/articleshow/133167915.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms
@@ -81,12 +82,14 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-au
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-12-crude-oil-reclaims-90-again-after-fresh-attacks-on-ships-what-are-experts-saying/articleshow/133168024.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-13-crude-oil-dips-below-90-despite-strait-of-hormuz-deadlock-heres-why/articleshow/133196052.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-14-crude-oil-dips-below-88-despite-trumps-threat-to-blockade-iran-indefinitely-what-are-experts-saying/articleshow/133227242.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-17-crude-oil-approaches-90-again-amid-no-breakthrough-in-iran-war-talks-whats-next/articleshow/133284844.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-doubts-over-us-iran-deal-heighten-supply-concerns/articleshow/133167806.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-uncertainty-over-reopening-of-hormuz/articleshow/133077384.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-after-us-threatens-to-blockade-iran-indefinitely/articleshow/133227088.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-near-one-week-highs-as-us-iran-peace-deal-hopes-dim/articleshow/133140238.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-treads-water-as-us-iran-peace-talks-stall-hormuz-shipping-slows/articleshow/133284760.cms
 https://economictimes.indiatimes.com/markets/commodities/news/silver-climbs-rs-2100/kg-but-gold-prices-fall-as-focus-shifts-to-inflation-data-amid-iran-war-key-levels-to-track/articleshow/133081450.cms
 https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms
 https://economictimes.indiatimes.com/markets/commodities/news/why-gold-is-showing-signs-of-reversal-after-recent-selling-pressure/articleshow/132619913.cms
@@ -127,6 +130,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-past-96/usd-to-one-month-low-as-oil-climbs-rbi-likely-intervenes/articleshow/132388783.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-steady-as-oil-firms-buy-dollars/articleshow/133046429.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakens-to-two-month-low-as-oil-climbs-state-run-banks-cushion/articleshow/132507326.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/yen-edges-up-as-traders-push-back-fed-rate-hike-bets/articleshow/133284775.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-anchored-by-central-bank-hand-traders-watchful-of-oil-ructions/articleshow/133089685.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-peak-on-oil-slump-stronger-inflows/articleshow/132819760.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-ends-flat-as-merchant-bids-oil-blunt-comfort-from-modest-inflows/articleshow/132413332.cms
@@ -207,6 +211,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-to-o
 https://economictimes.indiatimes.com/markets/ipos/fpos/just-2-return-will-sbi-funds-management-break-the-curse-of-indias-poor-billion-dollar-ipo-record/articleshow/132406165.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kkr-backed-leap-indias-ipo-opens-on-august-7-price-band-set-at-rs-151-159/articleshow/132825607.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kusumgar-ipo-allotment-likely-today-gmp-at-38-heres-how-to-check-your-status/articleshow/132355523.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-opens-today-gmp-signals-15-premium-should-you-subscribe/articleshow/133285001.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-price-band-fixed-at-rs-190-201-for-rs-1700-crore-ipo-issue-opens-on-august-17/articleshow/133141350.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-ipo-allotment-expected-today-gmp-signals-19-listing-premium-heres-how-to-check-your-status/articleshow/132380087.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-ipo-day-3-gmp-hints-at-17-listing-gains-check-subscription-status-key-details/articleshow/132355669.cms
@@ -473,6 +478,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/d-street-ends-in-red-fo
 https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-stocks-showing-bullish-rsi-upswing/slideshow/132571018.cms
 https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-shares-fall-nearly-7-after-q1-profit-declines-14-yoy-to-rs-22-crore/articleshow/132757660.cms
 https://economictimes.indiatimes.com/markets/stocks/news/deepfake-scam-rattles-sky-gold-as-subsidiary-suffers-rs-11-crore-loss-after-unauthorised-fund-transfer/articleshow/132451985.cms
+https://economictimes.indiatimes.com/markets/stocks/news/dhoot-transmission-shares-set-for-debut-today-gmp-signals-potential-30-listing-premium/articleshow/133284973.cms
 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-jio-financial-power-grid-hpcl-among-nearly-90-stocks-turning-ex-record-date-this-week/articleshow/133062498.cms
 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hal-hpcl-ioc-among-40-stocks-for-dividends-how-many-do-you-own/articleshow/133195847.cms
 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hcl-tech-mrf-dabur-among-68-stocks-for-dividend-payout-worth-rs-1365/articleshow/132428996.cms
@@ -540,12 +546,14 @@ https://economictimes.indiatimes.com/markets/stocks/news/mazagon-dock-shipbuilde
 https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-ipo-opens-tomorrow-gmp-signals-20-listing-gain-check-price-band-lot-size-and-key-dates/articleshow/133087338.cms
 https://economictimes.indiatimes.com/markets/stocks/news/missed-these-ipos-after-cold-debuts-11-stocks-have-since-soared-up-to-222-in-few-months/articleshow/133169610.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-climb-3-after-strong-q1-results-morgan-stanley-sees-up-to-29-upside-scope/articleshow/132755545.cms
+https://economictimes.indiatimes.com/markets/stocks/news/molbio-diagnostics-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133285025.cms
 https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-picks-9-bank-stocks-with-up-to-36-upside-potential-ahead-of-q1-results-do-you-own-any/slideshow/132429131.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mrs-bectors-food-soars-11-after-sunil-singhanias-abakkus-acquires-29-4-lakh-shares-via-block-deal/articleshow/132430105.cms
 https://economictimes.indiatimes.com/markets/stocks/news/multibagger-astra-microwave-shares-rally-14-to-52-week-high-after-rs-2205-crore-order-win-from-hal/articleshow/132755861.cms
 https://economictimes.indiatimes.com/markets/stocks/news/munjal-auto-industries-shares-soar-15-hit-52-week-high-after-q1-results-what-moved-the-stock/articleshow/133204093.cms
 https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-shares-crash-10-after-q1-results-what-motilal-other-brokerages-said/articleshow/132823062.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-juniper-green-energy-shares-to-list-tomorrow-heres-what-gmp-signals-ahead-of-debut/articleshow/132926600.cms
+https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-23800-level-on-gulf-war-ripples/articleshow/132618691.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-to-hit-27000-in-one-year-pl-capital-says-middle-east-crisis-el-nino-can-play-a-spoil-sport-names-15-top-picks/articleshow/132415415.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nse-partners-with-augmont-to-deepen-electronic-gold-market-reduce-reliance-on-imports/articleshow/132411311.cms
@@ -603,6 +611,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/southern-banks-on-a-gol
 https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-gain-4-on-rs-1760-crore-international-order-win/articleshow/132983554.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-shipyard-voltas-patanjali-foods-and-physicswallah/articleshow/133279798.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms
+https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-senco-gold-arvind-among-5-stocks-that-could-give-10-60-return/slideshow/133285138.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-cipla-other-pharma-stocks-in-focus-as-trump-unveils-100-200-tariffs-on-generic-drugs-from-2028/articleshow/132550249.cms
 https://economictimes.indiatimes.com/markets/stocks/news/swan-defence-shares-rise-3-after-securing-order-from-denmarks-svitzer/articleshow/132985320.cms
 https://economictimes.indiatimes.com/markets/stocks/news/swiggy-contra-view-why-jm-financial-downgraded-the-stock-to-sell-despite-strong-q1-results/articleshow/132760664.cms
@@ -854,6 +863,7 @@ https://www.livemint.com/market/colombia-coffee-exports-largely-halted-after-dea
 https://www.livemint.com/market/commodities/brent-crude-tops-95-as-us-iran-tensions-hormuz-blockade-drive-oil-rally-11784714555942.html
 https://www.livemint.com/market/commodities/crude-oil-falls-as-iran-oman-talks-raise-hopes-of-us-iran-peace-deal-brent-slips-to-79-per-barrel-11785980662508.html
 https://www.livemint.com/market/commodities/crude-oil-price-rallies-for-fourth-session-amid-us-iran-war-uncertainty-brent-near-87-per-barrel-11786412625313.html
+https://www.livemint.com/market/commodities/crude-oil-price-steadies-amid-no-progress-in-us-iran-talks-brent-near-88-per-barrel-11786931003485.html
 https://www.livemint.com/market/commodities/crude-oil-prices-crash-7-on-us-iran-peace-talks-brent-crude-below-85-per-barrel-11785719149380.html
 https://www.livemint.com/market/commodities/crude-oil-prices-decline-on-weaker-oil-demands-despite-deadlock-in-us-iran-talks-brent-near-87-per-barrel-11786585472275.html
 https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-amid-rising-us-iran-war-tensions-brent-crude-surges-past-85-per-barrel-11784077895593.html
@@ -1105,6 +1115,7 @@ https://www.livemint.com/market/ipo/technocraft-ventures-ipo-gmp-technocraft-ven
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-gmp-technocraft-ventures-ipo-subscription-status-technocraft-ventures-ipo-review-technocraft-11786423683314.html
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11786612111594.html
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-price-band-set-at-rs-200-212-per-share-check-key-dates-issue-details-11785727105114.html
+https://www.livemint.com/market/ipo/tempsens-instruments-ipo-price-band-set-at-rs-285-300-per-share-check-key-dates-issue-details-11786934351400.html
 https://www.livemint.com/market/ipo/upcoming-ipo-indian-gas-exchange-ipo-files-drhp-with-sebi-for-ipo-11784088831686.html
 https://www.livemint.com/market/ipo/upcoming-ipo-muthoot-fincorp-files-drhp-with-sebi-to-raise-3-000-crore-through-the-ipo-route-11786609848563.html
 https://www.livemint.com/market/ipo/upcoming-ipo-xtranet-technologies-ipo-to-hit-dalal-street-on-23-july-gmp-hints-20-listing-pop-should-you-buy-11784613873339.html
@@ -1197,6 +1208,7 @@ https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-slides-on-rising-tension-in-us-iran-war-vaishali-parekh-recommends-three-intraday-stocks-to-buy-11784855905217.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-13-august-2026-11786585475504.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-7-august-2026-11786065965698.html
+https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-stocks-to-buy-today-17-august-2026-11786930792288.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-up-despite-elusive-iran-oman-deal-vaishali-parekh-recommends-three-stocks-to-buy-today-11786324215228.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-20-july-2026-11784509364157.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-17-july-2026-11784253453862.html
@@ -1455,6 +1467,7 @@ https://www.livemint.com/market/stock-market-news/stocks-to-buy-sun-pharma-bel-a
 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-amid-escalation-in-us-iran-war-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-11784952030260.html
 https://www.livemint.com/market/stock-market-news/stocks-to-watch-ashok-leyland-bharat-dynamics-tata-motors-pv-among-shares-in-focus-today-check-list-here-11786638933466.html
 https://www.livemint.com/market/stock-market-news/stocks-to-watch-hal-l-t-beml-among-shares-in-focus-today-check-list-here-11786499995820.html
+https://www.livemint.com/market/stock-market-news/stocks-to-watch-reliance-industries-cochin-shipyard-nmdc-among-shares-in-focus-today-check-list-here-11786932151439.html
 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tata-elxsi-hcl-tech-bel-among-shares-in-focus-today-check-list-here-11783994174313.html
 https://www.livemint.com/market/stock-market-news/suzlon-energy-board-to-consider-q1fy27-results-on-july-28-shares-down-10-in-july-11784552314810.html
 https://www.livemint.com/market/stock-market-news/swiggy-shares-crash-5-after-q1-results-what-should-investors-do-11785478559007.html
