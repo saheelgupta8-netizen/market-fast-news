@@ -12,6 +12,7 @@ https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-hi
 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-little-changed-as-oil-prices-steady/articleshow/133203702.cms
 https://economictimes.indiatimes.com/markets/bonds/fairfax-picks-up-half-of-3-year-government-bonds-at-auction/articleshow/132473875.cms
 https://economictimes.indiatimes.com/markets/bonds/foreign-investors-marginally-offload-china-onshore-bonds-in-june/articleshow/132451802.cms
+https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-gives-up-post-policy-gains-as-oil-moves-rbi-swap-pullback-weigh/articleshow/133322151.cms
 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-slumps-to-lowest-in-nearly-a-month-as-middle-east-oil-risks-heat-up/articleshow/132509213.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-drop-offsets-index-setback/articleshow/132831546.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-middle-east-escalation-drives-oil-above-90/articleshow/132536886.cms
@@ -731,6 +732,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-mark
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-intel-oracle-stock-price-news-2nd-july-2026/liveblog/132605239.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-sk-hynix-deckers-outdoor-stock-price-news-13-july-2026/liveblog/132366645.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-rate-bonds-yields-micron-sandisk-amd-intel-chip-stock-price-news-18th-august-2026/liveblog/133322350.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-earnings-forecast-spacex-palantir-tech-caterpillar-marvell-chip-stock-price-news-4th-august-2026/liveblog/132860524.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-boost-why-goldman-sachs-shares-jumped-to-record-highs/slideshow/132407452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
@@ -924,6 +926,7 @@ https://www.livemint.com/market/colombia-coffee-exports-largely-halted-after-dea
 https://www.livemint.com/market/commodities/brent-crude-tops-95-as-us-iran-tensions-hormuz-blockade-drive-oil-rally-11784714555942.html
 https://www.livemint.com/market/commodities/crude-oil-climbs-for-third-straight-day-as-us-signals-no-immediate-end-to-iran-war-brent-above-90-per-barrel-11787017702430.html
 https://www.livemint.com/market/commodities/crude-oil-falls-as-iran-oman-talks-raise-hopes-of-us-iran-peace-deal-brent-slips-to-79-per-barrel-11785980662508.html
+https://www.livemint.com/market/commodities/crude-oil-price-90-per-barrel-west-asia-war-india-oil-imports-11787052374538.html
 https://www.livemint.com/market/commodities/crude-oil-price-rallies-for-fourth-session-amid-us-iran-war-uncertainty-brent-near-87-per-barrel-11786412625313.html
 https://www.livemint.com/market/commodities/crude-oil-price-steadies-amid-no-progress-in-us-iran-talks-brent-near-88-per-barrel-11786931003485.html
 https://www.livemint.com/market/commodities/crude-oil-prices-crash-7-on-us-iran-peace-talks-brent-crude-below-85-per-barrel-11785719149380.html
