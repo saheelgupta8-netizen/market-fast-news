@@ -895,6 +895,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-sli
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-richard-thaler-if-we-use-prediction-as-the-measure-of-a-model-traditional-finance-makes-precisely-wrong-predictions/articleshow/133182750.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindler-q2-sales-miss-expectations-as-weak-china-market-drags/articleshow/132531543.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/texas-stock-exchange-lands-first-primary-listing-in-milestone/articleshow/133326685.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-refiners-ramp-up-buybacks-as-iran-war-boosts-fuel-margins/articleshow/133197769.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-policy-may-be-accommodative-under-medium-term-neutral-rate-estimate-reports/articleshow/133315987.cms
@@ -908,6 +909,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-as-tech-stocks-rally-crude-oil-prices-fall/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-us-iran-peace-deal/articleshow/133156341.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-investors-weigh-weaker-oil-ppi-data/articleshow/133214216.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-secretary-scott-bessent-suggests-federal-reserve-should-consider-raising-fima-liquidity-facility/articleshow/132860980.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms
 https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-billion-after-rocket-firms-ipo-filings-show-11786724830491.html
@@ -1267,6 +1269,7 @@ https://www.livemint.com/market/stock-market-news/ashok-leyland-q1-results-net-p
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-fall-over-2-amid-ongoing-us-iran-war-rising-crude-oil-prices-11783992564961.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-south-koreas-kospi-declines-amid-rising-crude-oil-prices-escalating-us-iran-war-tensions-11784510716285.html
+https://www.livemint.com/market/stock-market-news/atlanta-electricals-secures-rs-194-crore-order-for-12-high-capacity-transformers-11787068277430.html
 https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-results-2026-net-profit-grows-37-to-rs-796-crore-nii-up-32-11784970458420.html
 https://www.livemint.com/market/stock-market-news/avenue-supermarts-share-price-slips-over-4-after-q1-results-should-you-buy-sell-or-hold-the-dmart-stock-11783915039006.html
 https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html
