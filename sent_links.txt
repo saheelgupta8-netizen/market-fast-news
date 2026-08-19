@@ -850,6 +850,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-today
 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a-bigger-space-opportunity-beyond-launch-providers/articleshow/132800299.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/guidance-cut-expected-infosys-may-not-have-good-news-for-investors-in-q1-results/articleshow/132556107.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ibms-stock-tumbles-as-preliminary-2q-results-come-in-below-wall-streets-expectations/articleshow/132391182.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/iren-shares-jump-16-as-2-8-billion-ai-cloud-deals-lift-revenue-target/articleshow/132518630.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading/articleshow/132392736.cms
@@ -1507,6 +1508,7 @@ https://www.livemint.com/market/stock-market-news/multibagger-mercury-ev-tech-st
 https://www.livemint.com/market/stock-market-news/multibagger-realty-stock-sobha-share-price-jumps-7-then-wipes-out-gains-despite-292-profit-surge-in-q1-results-11784607179715.html
 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-kalind-shares-jump-5-on-ex-bonus-ex-split-day-investors-see-86-price-adjustment-11784890700139.html
 https://www.livemint.com/market/stock-market-news/multibagger-stock-ather-energy-share-price-soars-18-to-record-high-post-q1-fy27-results-should-you-buy-11785824415092.html
+https://www.livemint.com/market/stock-market-news/multibagger-stock-india-glycols-drops-3-after-4-days-of-gains-should-you-buy-the-stock-as-it-readies-for-a-demerger-11787123636843.html
 https://www.livemint.com/market/stock-market-news/multibagger-stock-south-west-pinnacle-exploration-which-surged-354-in-five-years-jumps-9-after-strong-q1fy27-results-11784614862840.html
 https://www.livemint.com/market/stock-market-news/multibagger-tips-music-stock-climbs-over-13-after-june-quarter-results-buyback-plan-11784793566830.html
 https://www.livemint.com/market/stock-market-news/muted-debut-alpine-texworld-share-price-lists-at-rs-105-same-as-ipo-price-11784603718889.html
