@@ -626,6 +626,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-a
 https://economictimes.indiatimes.com/markets/stocks/news/nse-partners-with-augmont-to-deepen-electronic-gold-market-reduce-reliance-on-imports/articleshow/132411311.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nse-receives-approval-to-launch-derivatives-on-the-nifty-india-fpi-150-index/articleshow/132430521.cms
 https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-over-5-what-made-emkay-upgrade-the-stock-after-q1-results/articleshow/133143729.cms
+https://economictimes.indiatimes.com/markets/stocks/news/oil-india-vs-ongc-vs-omcs-what-jm-financials-80-brent-call-means-for-oil-stocks/articleshow/133344751.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-q1-results-loss-narrows-to-rs-336-crore-revenue-falls-45-yoy/articleshow/133032481.cms
 https://economictimes.indiatimes.com/markets/stocks/news/oracle-financial-services-shares-in-focus-on-strong-q1-results-pat-soars-121-revenue-up-69/articleshow/132571129.cms
 https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-shares-crash-20-stock-nearly-halves-in-value-in-one-year-whats-ahead/articleshow/132410105.cms
@@ -820,12 +821,14 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-europe
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-climb-as-earnings-us-iran-diplomacy-lift-sentiment/articleshow/132911978.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-dip-as-oil-surge-fuels-inflation-fears-ahead-of-ecb-meeting/articleshow/132509438.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-us-iran-tensions-rattle-markets-bp-gains-ericsson-slumps/articleshow/132384985.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-middle-east-risks-weigh-fed-minutes-in-focus/articleshow/133344247.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-rising-oil-prices-bond-yields-weigh-on-sentiment/articleshow/133316942.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-set-for-weekly-loss-as-oil-surge-earnings-keep-investors-cautious/articleshow/132601866.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-gain-as-lower-oil-prices-offer-relief-amid-middle-east-tensions/articleshow/133205433.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-rout-loses-steam-but-rising-oil-prices-keep-investors-wary/articleshow/133344103.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-german-bond-yields-hit-two-year-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132509565.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-kong-insurers-slump-after-report-on-china-taxing-offshore-policy-income/articleshow/132980125.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-oil-spike-and-rising-bond-yields-weigh-on-sentiment/articleshow/133310581.cms
@@ -1665,6 +1668,7 @@ https://www.livemint.com/market/stock-market-news/these-5-stocks-are-paying-out-
 https://www.livemint.com/market/stock-market-news/this-small-cap-ethanol-stock-in-focus-on-tuesday-after-additional-supply-order-from-omcs-11786986401694.html
 https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html
 https://www.livemint.com/market/stock-market-news/titan-shares-is-the-tata-group-stock-an-attractive-buy-after-q1fy27-results-11786352452848.html
+https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-6-august-navin-fluorine-tata-tech-hal-pine-labs-kalyan-jewellers-among-top-gainers-11786009429594.html
 https://www.livemint.com/market/stock-market-news/trent-q1-results-2026-net-profit-rises-22-yoy-to-518-crore-revenue-up-18-11786004405089.html
 https://www.livemint.com/market/stock-market-news/trumps-tariff-policy-abbott-india-ajanta-pharma-to-alembic-pharma-stocks-crash-up-to-4-11784869745089.html
