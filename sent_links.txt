@@ -625,6 +625,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-l
 https://economictimes.indiatimes.com/markets/stocks/news/manorama-industries-shares-surge-over-8-after-strong-q1-results/articleshow/133230940.cms
 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mazagon-dock-shipbuilders-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133020113.cms
+https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-as-gold-silver-futures-rise-what-lies-ahead-after-a-900-rally-in-3-years/articleshow/133370940.cms
 https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-ipo-opens-tomorrow-gmp-signals-20-listing-gain-check-price-band-lot-size-and-key-dates/articleshow/133087338.cms
 https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-slip-4-after-sharp-post-listing-rally/articleshow/133365199.cms
 https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-to-make-market-debut-today-gmp-signals-14-listing-premium/articleshow/133309402.cms
@@ -864,6 +865,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-k
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-oil-spike-and-rising-bond-yields-weigh-on-sentiment/articleshow/133310581.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-stronger-yen-hits-exporters-nikkei-drops-over-2/articleshow/132820004.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-as-oil-surge-and-fiscal-concerns-weigh-on-market/articleshow/132431940.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-government-bonds-rally-as-us-treasury-action-calms-global-debt-markets/articleshow/133371351.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-closes-lower-as-oil-price-jump-dims-corporate-outlook/articleshow/132359942.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-private-capital-crucial-to-europes-defence-push-as-funding-bottlenecks-persist/articleshow/132528379.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-prudential-shares-tumble-as-china-offshore-insurance-tax-report-rattles-investors/articleshow/132981858.cms
@@ -1046,6 +1048,7 @@ https://www.livemint.com/market/commodities/gold-jumps-9-in-august-as-weaker-dol
 https://www.livemint.com/market/commodities/gold-price-drops-1-silver-rates-crash-over-2-on-mcx-as-inflation-fears-rate-hike-concerns-revive-11783912345951.html
 https://www.livemint.com/market/commodities/gold-price-outlook-gold-posts-first-monthly-gain-in-five-months-despite-sharp-sell-off-is-rally-just-getting-started-11785573969828.html
 https://www.livemint.com/market/commodities/gold-rate-today-6-august-2026-gold-price-today-at-seven-week-high-as-easing-us-iran-war-cools-us-fed-rate-hike-buzz-11785987873730.html
+https://www.livemint.com/market/commodities/gold-rate-today-gold-price-retraces-from-2-month-high-is-it-the-right-time-to-buy-gold-11787211652041.html
 https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-hormuz-reopening-buzz-dents-us-fed-rate-hike-hopes-is-it-the-right-time-to-buy-gold-11786181435240.html
 https://www.livemint.com/market/commodities/gold-silver-outlook-investors-cautious-on-gold-price-silver-price-in-no-trade-zone-key-levels-to-watch-11784702238161.html
 https://www.livemint.com/market/commodities/gold-silver-prices-climb-on-mcx-due-to-value-buying-as-dollar-eases-experts-highlight-key-levels-to-watch-11784518614378.html
@@ -1281,6 +1284,7 @@ https://www.livemint.com/market/ipo/secl-ipo-coal-india-subsidiary-10000-crore-i
 https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-2-issue-sees-decent-buying-gmp-signals-modest-listing-gains-should-you-apply-11787116812914.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-3-live-gmp-today-subscription-status-to-review-apply-or-not-11787202874519.html
+https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-latest-gmp-sunshine-pictures-ipo-latest-gmp-tempsens-instruments-ipo-latest-gmp-gaja-captial-11787209391450.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-opens-tomorrow-gmp-size-review-other-details-about-rs-367-crore-public-issue-in-10-points-11786955563602.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-price-band-fixed-at-88-93-per-share-issue-date-key-details-here-11786416026785.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-before-shiprocket-ipo-listing-date-11786938586309.html
