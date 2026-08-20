@@ -977,6 +977,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-pay
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mcdonalds-nears-elite-dividend-king-status-as-next-hike-looms/articleshow/133341490.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-richard-thaler-if-we-use-prediction-as-the-measure-of-a-model-traditional-finance-makes-precisely-wrong-predictions/articleshow/133182750.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindler-q2-sales-miss-expectations-as-weak-china-market-drags/articleshow/132531543.cms
@@ -999,6 +1000,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-secretary-scott-bessent-suggests-federal-reserve-should-consider-raising-fima-liquidity-facility/articleshow/132860980.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/walmart-shares-fall-8-as-q2-results-flag-risks-of-rising-inventory/articleshow/133380081.cms
 https://www.livemint.com/global/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook-11787113868604.html
 https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-billion-after-rocket-firms-ipo-filings-show-11786724830491.html
 https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html
@@ -1658,6 +1660,7 @@ https://www.livemint.com/market/stock-market-news/rupee-opens-25-paise-higher-at
 https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-28-against-us-dollar-amid-spike-in-crude-oil-prices-11786073687343.html
 https://www.livemint.com/market/stock-market-news/rvnl-q1-results-net-profit-up-18-yoy-to-159-crore-revenue-climbs-nearly-11-yoy-11786439719190.html
 https://www.livemint.com/market/stock-market-news/rvnl-vs-irfc-vs-ircon-vs-irctc-which-railway-stock-to-buy-after-q1-results-2026-11786761714978.html
+https://www.livemint.com/market/stock-market-news/saatvik-green-energy-arm-bags-rs-190-crore-solar-pv-module-order-11787233362439.html
 https://www.livemint.com/market/stock-market-news/sail-q1-results-net-profit-jumps-138-yoy-to-rs-1-636-crore-revenue-remains-flat-11784900706880.html
 https://www.livemint.com/market/stock-market-news/samvardhana-motherson-international-q1-results-2026-net-profit-46-yoy-to-1-561-crore-11785998162407.html
 https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-closes-with-42x-subscription-led-by-strong-qib-demand-gmp-signals-healthy-listing-11784212315273.html
