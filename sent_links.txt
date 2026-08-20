@@ -823,6 +823,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-unques
 https://economictimes.indiatimes.com/markets/us-stocks/news/forget-gold-and-stocks-nvidia-ceo-jensen-huang-aims-to-make-chips-an-investable-asset-lines-up-500-bn-in-financing/articleshow/133142905.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-eyes-faster-national-infrastructure-spending-to-steady-growth-amid-local-investment-slump/articleshow/132452765.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-liquidity-tightens-ahead-of-unitree-ipo/articleshow/133229845.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rebound-as-healthcare-and-tech-shares-rally/articleshow/133342217.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-chipmakers-rally-on-strong-earnings/articleshow/133287452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-strong-trade-data-and-ai-demand-lift-sentiment/articleshow/133024693.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slide-as-oil-surge-fuels-inflation-concerns/articleshow/132597129.cms
@@ -1658,6 +1659,7 @@ https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results
 https://www.livemint.com/market/stock-market-news/sbi-stake-sale-sbi-funds-ipo-chairman-setty-mutual-funds-india-11784624846728.html
 https://www.livemint.com/market/stock-market-news/sebi-axis-mf-chief-dealer-viresh-joshi-front-running-case-markets-india-11784894325483.html
 https://www.livemint.com/market/stock-market-news/sebi-bars-two-entities-from-markets-over-manipulation-in-cas-orders-3-68-crore-disgorgement-11787151881235.html
+https://www.livemint.com/market/stock-market-news/sebi-cas-order-sensex-nifty-derivative-futures-and-options-f-o-contracts-11787206244392.html
 https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html
 https://www.livemint.com/market/stock-market-news/senco-gold-shares-plunge-over-14-to-4-week-low-after-q1-results-11786524676292.html
 https://www.livemint.com/market/stock-market-news/sensex-climbs-100-points-nifty-50-ends-below-24-400-us-iran-uncertainty-keep-investors-cautious-11786615078970.html
