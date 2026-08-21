@@ -72,6 +72,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-b
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-1200/10g-silver-jumps-rs-2612/kg-as-traders-eye-us-inflation-data-check-key-levels/articleshow/133169568.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-1400/gram-in-2-days-silver-dips-marginally-despite-soft-us-inflation-what-should-investors-do/articleshow/133197523.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-3000/-10-grams-silver-jumps-rs-8400/kg-in-2-days-on-iran-peace-deal-hopes-what-should-you-do/articleshow/132897729.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6400/10g-in-3-days-silver-jumps-rs-13000/kg-despite-middle-east-tensions-big-rally-brewing/articleshow/133393150.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6600/10g-in-3-days-silver-jumps-rs-16200/kg-ahead-of-us-inflation-data-big-rally-brewing/articleshow/133141863.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-above-rs-1-58-lakh/10-grams-as-us-bond-yields-decline-what-lies-ahead/articleshow/133364074.cms
@@ -893,6 +894,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-as-oil-surge-and-fiscal-concerns-weigh-on-market/articleshow/132431940.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-government-bonds-rally-as-us-treasury-action-calms-global-debt-markets/articleshow/133371351.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-closes-lower-as-oil-price-jump-dims-corporate-outlook/articleshow/132359942.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-private-capital-crucial-to-europes-defence-push-as-funding-bottlenecks-persist/articleshow/132528379.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-prudential-shares-tumble-as-china-offshore-insurance-tax-report-rattles-investors/articleshow/132981858.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-saudi-aramco-q2-profit-jumps-44-as-middle-east-conflict-boosts-oil-prices/articleshow/132853429.cms
@@ -1214,6 +1216,7 @@ https://www.livemint.com/market/ipo/from-merritronix-to-winsol-engineers-73-of-s
 https://www.livemint.com/market/ipo/fusion-klassroom-edutech-ipo-allotment-finalised-latest-ipo-gmp-how-to-check-allotment-status-online-for-sme-ipo-11785899373455.html
 https://www.livemint.com/market/ipo/fusion-klassroom-edutech-ipo-day-1-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11785474983825.html
 https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-day-2-live-issue-subscribed-86-so-far-heres-gmp-review-apply-or-not-11787194789677.html
+https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-day-3-issue-booked-2-52x-so-far-gmp-hints-12-listing-pop-apply-or-skip-11787285441316.html
 https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-gmp-gaja-capital-ipo-gmp-gaja-alternative-asset-management-ipo-subscription-11787108557345.html
 https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-to-open-on-wednesday-gmp-price-band-other-key-details-in-10-points-11787031888671.html
 https://www.livemint.com/market/ipo/gaja-capital-ipo-price-band-set-at-rs-152-rs-160-per-share-check-key-dates-issue-details-11786588540089.html
@@ -1347,6 +1350,7 @@ https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-1-issue-booked-22-
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed-35-times-so-far-gmp-signals-21-listing-pop-should-you-subscribe-11787204217812.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html
+https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-20-listing-pop-heres-how-to-check-allotment-status-online-11787285538630.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-price-band-fixed-at-342-360-per-share-check-date-size-other-key-details-11786417042713.html
 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-set-at-rs-938-988-per-share-check-key-dates-issue-details-11787110801357.html
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-allotment-status-technocraft-ventures-ipo-gmp-technocraft-ventures-ipo-listing-date-11786635689544.html
