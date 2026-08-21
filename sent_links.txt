@@ -18,6 +18,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-slumps-to-
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-drop-offsets-index-setback/articleshow/132831546.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-middle-east-escalation-drives-oil-above-90/articleshow/132536886.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-oil-spike-treasury-rout-weigh/articleshow/132357241.cms
+https://economictimes.indiatimes.com/markets/bonds/india-bonds-hang-tight-before-supply-as-oil-stalls/articleshow/133397733.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-oil-worries-ahead-of-inflation-data/articleshow/133174882.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-cling-to-range-as-traders-parse-oil-risk/articleshow/133341539.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-join-global-rout-after-mideast-escalation-jolts-oil-higher/articleshow/132382258.cms
@@ -517,6 +518,7 @@ https://economictimes.indiatimes.com/markets/stocks/live-blog/q1-results-today-l
 https://economictimes.indiatimes.com/markets/stocks/live-blog/q1-results-today-live-updates-indigo-infosys-cipla-quarter-1-results-earnings-2026-share-price-updates/liveblog/132572121.cms
 https://economictimes.indiatimes.com/markets/stocks/live-blog/sbi-funds-management-ipo-live-updates-sbi-funds-gmp-listing-date-expert-review-subscription-status-stock-market-news/liveblog/132379748.cms
 https://economictimes.indiatimes.com/markets/stocks/news/12-stocks-that-goldman-sachs-axis-incred-equities-are-bullish-on-heres-the-full-list/slideshow/132571220.cms
+https://economictimes.indiatimes.com/markets/stocks/news/2-mold-tek-group-companies-to-consider-bonus-issues-on-august-26-do-you-own/articleshow/133397271.cms
 https://economictimes.indiatimes.com/markets/stocks/news/200-point-jump-in-2-minutes-why-nifty-made-a-surprising-surge-near-the-closing-bell/articleshow/132829268.cms
 https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms
 https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-rally-over-33-in-two-days-post-q1-results-what-is-driving-the-surge/articleshow/133144352.cms
@@ -624,6 +626,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-jumps-7-
 https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-solar-industries-among-top-10-best-midcaps-in-2026-check-full-list/slideshow/132620242.cms
 https://economictimes.indiatimes.com/markets/stocks/news/how-mtech-alumnus-gift-turned-into-rs-112-crore-ipo-jackpot-for-iit-madras/articleshow/132552780.cms
 https://economictimes.indiatimes.com/markets/stocks/news/hsbc-upgrades-indian-equities-to-neutral-on-easing-oil-prices-return-of-foreign-flows/articleshow/132430487.cms
+https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank-among-top-bank-picks-by-axis-direct-after-q1-earnings-season/slideshow/133398012.cms
 https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-shares-rise-3-after-q1-results-why-bernstein-and-4-other-brokerages-see-up-to-32-upside/articleshow/132505591.cms
 https://economictimes.indiatimes.com/markets/stocks/news/india-said-to-plan-easier-rules-to-boost-micro-cap-listings/articleshow/133197081.cms
 https://economictimes.indiatimes.com/markets/stocks/news/india-to-launch-digital-gold-regulatory-framework-next-year/articleshow/133018302.cms
@@ -758,6 +761,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/swiggys-60000-crore-bre
 https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-crash-6-after-weak-q1-results-why-motilal-oswal-sees-16-downside-from-current-levels/articleshow/132405822.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-fall-5-after-weak-q1-results-what-are-morgan-stanley-nomura-others-saying/articleshow/133228597.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-faces-continued-listing-uncertainty-after-rbi-classification/articleshow/133008884.cms
+https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-among-top-10-stocks-downgraded-by-motilal-oswal-after-q1-results/slideshow/133397759.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms
 https://economictimes.indiatimes.com/markets/stocks/news/technocraft-ventures-shares-to-list-today-gmp-signals-17-listing-gains-ahead-of-debut/articleshow/133227330.cms
 https://economictimes.indiatimes.com/markets/stocks/news/thermax-shares-crash-16-after-firm-expects-weak-quarters-ahead-after-muted-q1-results/articleshow/132757535.cms
@@ -1247,6 +1251,7 @@ https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-gmp-horizon-ind
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-price-band-set-at-rs-57-60-per-share-check-key-dates-issue-details-11786503124476.html
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-shares-to-debut-on-monday-gmp-signals-modest-listing-gains-11787293088068.html
 https://www.livemint.com/market/ipo/hy-tech-engineers-ipo-price-band-fixed-at-50-53-per-share-heres-date-size-other-key-details-11787108080579.html
+https://www.livemint.com/market/ipo/hytech-engineers-ipo-gmp-signals-over-40-listing-pop-price-band-date-other-key-details-in-10-points-11787298334181.html
 https://www.livemint.com/market/ipo/indomim-ipo-day-2-check-latest-ipo-gmp-subscription-status-and-other-details-apply-or-not-11784869148382.html
 https://www.livemint.com/market/ipo/indomim-ipo-gmp-signals-42-listing-pop-10-key-things-to-know-from-rhp-ahead-of-issue-launch-on-thursday-11784553507141.html
 https://www.livemint.com/market/ipo/indomim-ipo-opens-today-gmp-date-price-subscription-status-to-review-apply-or-not-11784776598139.html
