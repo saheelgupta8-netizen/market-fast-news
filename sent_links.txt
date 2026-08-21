@@ -898,6 +898,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-europe
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-middle-east-risks-weigh-fed-minutes-in-focus/articleshow/133344247.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-oil-prices-offset-bond-market-relief/articleshow/133372637.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-little-changed-as-bond-yields-rise-and-gulf-tensions-lift-oil/articleshow/133399383.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-rising-oil-prices-bond-yields-weigh-on-sentiment/articleshow/133316942.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms
@@ -1622,6 +1623,7 @@ https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore
 https://www.livemint.com/market/stock-market-news/lt-finance-share-price-rises-4-after-q1-results-2026-should-you-buy-sell-or-hold-11783926091679.html
 https://www.livemint.com/market/stock-market-news/lupin-sun-pharma-to-cipla-pharma-stocks-decline-after-trump-s-tariffs-plan-on-generic-medicines-import-11784692829109.html
 https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-power-finance-corporation-to-declare-q1-results-2026-interim-dividend-soon-11785832872967.html
+https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-sail-declares-record-date-for-final-dividend-in-fy26-11787303082467.html
 https://www.livemint.com/market/stock-market-news/manipal-health-enterprises-share-price-jumps-after-listing-at-strong-premium-buy-sell-or-hold-11785917371416.html
 https://www.livemint.com/market/stock-market-news/manipal-health-ipo-listing-shares-list-at-11-premium-over-the-ipo-price-11785902845886.html
 https://www.livemint.com/market/stock-market-news/maruti-suzuki-q1-results-net-profit-drops-9-as-margin-pressure-offsets-revenue-growth-11785496535693.html
@@ -1747,6 +1749,7 @@ https://www.livemint.com/market/stock-market-news/sensex-crashes-over-700-points
 https://www.livemint.com/market/stock-market-news/sensex-drops-over-500-points-nifty-50-comes-back-to-24-050-5-key-factors-behind-the-stock-market-decline-explained-11783997605147.html
 https://www.livemint.com/market/stock-market-news/sensex-falls-388-points-nifty-50-ends-below-24-500-rising-oil-prices-middle-east-confusion-weigh-11786443270822.html
 https://www.livemint.com/market/stock-market-news/sensex-jumps-nifty-50-up-investors-earn-4-lakh-crore-why-is-stock-market-rising-despite-escalating-us-iran-tensions-11784089235823.html
+https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-amid-elevated-oil-prices-us-iran-stalled-talks-infosys-sbi-among-top-drags-11787305978312.html
 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html
 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-fall-for-4th-consecutive-session-investors-lose-3-lakh-crore-in-a-day-oil-prices-hit-99-per-barrel-11784799501956.html
 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-snap-2-week-winning-streak-on-middle-east-uncertainty-oil-price-volatility-11786701521270.html
