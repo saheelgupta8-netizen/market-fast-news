@@ -214,6 +214,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ip
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-shiprocket-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133167448.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-skyways-air-services-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133416205.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/can-symbiotec-pharmalab-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133448856.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-tempsens-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133361720.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/chipmaker-cxmt-eyes-9-8-bn-in-blockbuster-china-ipo/articleshow/132410302.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-appoints-jpmorgan-citi-for-india-bottler-ipo-sources-say/articleshow/132520378.cms
@@ -321,6 +322,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/pernias-pop-up-shop-likel
 https://economictimes.indiatimes.com/markets/ipos/fpos/poojaa-precision-engg-set-for-bse-sme-debut-today-gmp-signals-78-listing-gain/articleshow/132845886.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/pratilipi-to-start-ipo-banker-talks-in-september-eyes-october-appointment/articleshow/133176121.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/pride-hotels-steps-up-expansion-plans-rs-1000-cr-ipo-by-december/articleshow/133435802.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/primary-market-keeps-the-party-going-with-over-rs-3500-cr-in-play/articleshow/133448877.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/quadria-capital-backed-nobel-hygiene-files-ipo-papers-to-raise-rs-150-crore/articleshow/133399510.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/quest-global-said-to-pick-banks-for-1-billion-india-ipo/articleshow/133237705.cms
@@ -383,6 +385,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-opens-today-gmp-signals-8-premium-should-you-subscribe/articleshow/133019823.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-sets-price-band-opens-august-7-check-gmp-key-details/articleshow/132826666.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-raises-rs-75-55-cr-from-anchor-investors-ahead-of-ipo/articleshow/133010430.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-grey-premium-sales-surge-exceeding-100-growth-this-quarter/articleshow/133448795.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-instruments-ipo-day-2-subscribed-5-94-times-gmp-at-90-should-you-subscribe/articleshow/133391670.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-instruments-ipo-opens-today-gmp-at-73-check-key-details-and-should-you-subscribe/articleshow/133362128.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-instruments-rs-650-crore-ipo-opens-on-august-20-price-band-fixed-at-rs-285-300-per-share/articleshow/133294143.cms
@@ -946,6 +949,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-dollar-dips-as-fed-hike-bets-ease/articleshow/133284332.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-trade-lower-oil-holds-gains/articleshow/133140042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-crude-oil-holds-decline/articleshow/133226784.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-drops-nearly-3-as-chip-stocks-slide-despite-robust-tsmc-results/articleshow/132433045.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rallies-after-steep-decline-as-focus-turns-to-tech-results/articleshow/132530282.cms
@@ -1102,6 +1106,7 @@ https://www.livemint.com/market/commodities/crude-oil-prices-decline-on-weaker-o
 https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-amid-rising-us-iran-war-tensions-brent-crude-surges-past-85-per-barrel-11784077895593.html
 https://www.livemint.com/market/commodities/crude-oil-prices-extend-rally-amid-uncertainty-over-us-iran-peace-talks-brent-hovers-near-94-per-barrel-11786325972054.html
 https://www.livemint.com/market/commodities/crude-oil-prices-extend-rally-for-sixth-session-amid-ongoing-us-iran-war-uncertainty-brent-near-90-per-barrel-11786498752092.html
+https://www.livemint.com/market/commodities/crude-oil-prices-fall-more-than-1-ahead-of-us-announcement-on-fresh-sanctions-on-iran-wheres-it-headed-11787532813890.html
 https://www.livemint.com/market/commodities/crude-oil-prices-head-for-second-weekly-gain-as-us-steps-up-economic-pressure-on-iran-11787327365673.html
 https://www.livemint.com/market/commodities/crude-oil-prices-jump-3-amid-renewed-us-iran-war-tensions-brent-crude-above-78-per-barrel-11783906393450.html
 https://www.livemint.com/market/commodities/crude-oil-prices-jump-as-us-iran-war-escalates-brent-oil-tops-90-per-barrel-11784509357970.html
@@ -1178,6 +1183,7 @@ https://www.livemint.com/market/gold-edges-lower-as-markets-await-key-us-inflati
 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
+https://www.livemint.com/market/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech-11787532550012.html
 https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html
 https://www.livemint.com/market/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds-11785974807479.html
 https://www.livemint.com/market/gold-holds-steady-as-progress-on-hormuz-trims-rate-hike-bets-11785889977080.html
@@ -1281,6 +1287,7 @@ https://www.livemint.com/market/ipo/horizon-industrial-ipo-day-3-issue-subscribe
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-1-live-gmp-review-subscription-other-details-of-blackstone-backe-rs-2600-crore-ipo-11786940478449.html
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-2-issue-subscribed-14-so-far-heres-gmp-review-other-details-apply-or-not-11787023897231.html
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-gmp-horizon-industrial-parks-ipo-allotment-industrial-parks-ipo-subscriptionkfin-technologi-11787202547212.html
+https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-listing-date-today-gmp-experts-hint-up-to-2-5-listing-gain-11787504443122.html
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-price-band-set-at-rs-57-60-per-share-check-key-dates-issue-details-11786503124476.html
 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-shares-to-debut-on-monday-gmp-signals-modest-listing-gains-11787293088068.html
 https://www.livemint.com/market/ipo/hy-tech-engineers-ipo-price-band-fixed-at-50-53-per-share-heres-date-size-other-key-details-11787108080579.html
@@ -1409,6 +1416,7 @@ https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-20-listing-pop-heres-how-to-check-allotment-status-online-11787285538630.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-price-band-fixed-at-342-360-per-share-check-date-size-other-key-details-11786417042713.html
+https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-day-1-live-gmp-subscription-status-review-issue-size-other-details-should-you-apply-11787507960722.html
 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html
 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-set-at-rs-938-988-per-share-check-key-dates-issue-details-11787110801357.html
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-allotment-status-technocraft-ventures-ipo-gmp-technocraft-ventures-ipo-listing-date-11786635689544.html
@@ -1467,6 +1475,7 @@ https://www.livemint.com/market/oil-rises-as-us-warns-of-more-economic-pressure-
 https://www.livemint.com/market/oil-swings-as-traders-weigh-slew-of-risks-from-hormuz-to-red-sea-11784629153737.html
 https://www.livemint.com/market/paytm-shares-dip-for-seventh-straight-session-time-to-buy-after-q1-results-11784696517061.html
 https://www.livemint.com/market/sebi-order-against-zee-to-delay-planned-rs-3-143-crore-fundraise-11785686792911.html
+https://www.livemint.com/market/shares-flat-in-asia-before-iran-sanctions-news-nvidia-results-11787532489714.html
 https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html
 https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html
 https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html
@@ -1563,6 +1572,7 @@ https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-asian-tech-
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785978096248.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786064423329.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-asian-banking-stocks-8-key-things-that-changed-for-indian-stock-market-overnight-11786410558811.html
+https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-gold-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11787533966868.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-japans-q2-gdp-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786928889550.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-kospi-rally-crude-oil-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11787015325545.html
 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-kospi-rally-crude-oil-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11787189517732.html
