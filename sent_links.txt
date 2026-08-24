@@ -997,6 +997,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a
 https://economictimes.indiatimes.com/markets/us-stocks/news/guidance-cut-expected-infosys-may-not-have-good-news-for-investors-in-q1-results/articleshow/132556107.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ibms-stock-tumbles-as-preliminary-2q-results-come-in-below-wall-streets-expectations/articleshow/132391182.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/irans-currency-rial-hits-record-low-as-us-plans-more-sanctions/articleshow/133468394.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/iren-shares-jump-16-as-2-8-billion-ai-cloud-deals-lift-revenue-target/articleshow/132518630.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading/articleshow/132392736.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-6-nosediving-25-from-june-peak-whats-rattling-investors-today/articleshow/132355268.cms
@@ -1110,6 +1111,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-as-tech-stocks-rally-crude-oil-prices-fall/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-us-iran-peace-deal/articleshow/133156341.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-investors-weigh-weaker-oil-ppi-data/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-secretary-scott-bessent-suggests-federal-reserve-should-consider-raising-fima-liquidity-facility/articleshow/132860980.cms
@@ -1443,6 +1445,7 @@ https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-latest-gmp-sunshine-p
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11787557901423.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-opens-tomorrow-gmp-size-review-other-details-about-rs-367-crore-public-issue-in-10-points-11786955563602.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-price-band-fixed-at-88-93-per-share-issue-date-key-details-here-11786416026785.html
+https://www.livemint.com/market/ipo/shanti-inorganics-ipo-nse-sme-ipo-declares-issue-opening-date-fixes-price-band-at-rs-79-rs-83-11787576030170.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-before-shiprocket-ipo-listing-date-11786938586309.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-out-gmp-signals-34-premium-ahead-of-share-listing-date-11787038746023.html
 https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-shiprocket-ipo-gmp-shiprocket-ipo-registrar-shiprocket-ipo-listing-date-shiprocket-ipo-11787070625932.html
@@ -1602,6 +1605,7 @@ https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-re
 https://www.livemint.com/market/stock-market-news/caliber-mining-and-logistics-ipo-issue-booked-154-times-on-day-03-nii-qib-portions-see-strong-demand-11784637533373.html
 https://www.livemint.com/market/stock-market-news/caliber-mining-ipo-raises-rs-135-crore-from-anchor-investors-ahead-of-issue-opening-11784216540031.html
 https://www.livemint.com/market/stock-market-news/ceat-share-price-slumps-over-9-on-q1-results-should-you-buy-sell-or-hold-11784267451358.html
+https://www.livemint.com/market/stock-market-news/ceigall-india-bags-rs-705-crore-frontier-highway-project-in-arunachal-pradesh-11787579143250.html
 https://www.livemint.com/market/stock-market-news/ceigall-india-secures-another-road-project-in-arunachal-pradesh-worth-rs-274-crore-11787142718734.html
 https://www.livemint.com/market/stock-market-news/cipla-q1-results-2026-profit-falls-39-yoy-to-789-05-crore-11784795719956.html
 https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-jantar-mantar-why-india-cant-afford-this-crisis-to-last-long-amid-us-iran-war-explained-11784701735525.html
@@ -1669,6 +1673,7 @@ https://www.livemint.com/market/stock-market-news/heg-receives-nclt-approval-for
 https://www.livemint.com/market/stock-market-news/hero-motocorp-shares-climb-4-5-hit-5-month-high-after-strong-june-quarter-results-11786093915317.html
 https://www.livemint.com/market/stock-market-news/higher-oil-prices-to-rising-bond-yields-5-key-risks-that-could-keep-the-indian-stock-market-under-pressure-in-2026-11784014632183.html
 https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-shares-hit-fresh-52-week-high-up-for-9th-consecutive-day-after-q1-results-11784613616802.html
+https://www.livemint.com/market/stock-market-news/hindustan-copper-ofs-government-to-sell-up-to-6-stake-at-rs-514-per-share-10-below-market-price-11787579800581.html
 https://www.livemint.com/market/stock-market-news/hindustan-zinc-q1-results-2026-net-profit-of-psu-stock-more-than-doubles-to-rs-5-469-crore-revenue-surges-72-11784882937703.html
 https://www.livemint.com/market/stock-market-news/hitachi-energy-india-shares-zoom-11-after-q1-results-2026-do-you-own-11786348424164.html
 https://www.livemint.com/market/stock-market-news/hyundai-motor-india-share-price-jumps-9-after-q1-results-should-you-buy-the-stock-11785478570037.html
@@ -1947,6 +1952,7 @@ https://www.livemint.com/market/stock-market-news/wall-street-advances-on-iran-d
 https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-crude-oil-prices-plunge-amazon-jumps-38-11785765123026.html
 https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-edge-higher-after-jobs-data-11786110178723.html
 https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html
+https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html
 https://www.livemint.com/market/stock-market-news/wall-street-surges-as-oil-prices-and-wholesale-inflation-ease-11786628295024.html
 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-fed-minutes-retail-earnings-and-key-economic-data-to-drive-markets-11786894907847.html
 https://www.livemint.com/market/stock-market-news/week-ahead-wall-street-eyes-us-jobs-data-spacex-debut-earnings-and-disney-results-11785683336567.html
