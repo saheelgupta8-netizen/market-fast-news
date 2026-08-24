@@ -153,6 +153,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-subdued-as-
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-treads-water-as-fed-hike-bets-pared-on-benign-us-inflation/articleshow/133198714.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-ends-flat-as-robust-importer-hedging-blunts-oil-price-relief/articleshow/132828582.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-gains-as-oil-comes-off-inflows-rbi-intervention-in-focus/articleshow/132534364.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/interventions-hold-rupee-on-narrow-leash-traders-await-us-sanctions-on-iran/articleshow/133461311.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias/articleshow/132364812.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-shields-rupee-in-face-of-oil-hedging-strain/articleshow/132603138.cms
@@ -317,6 +318,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-ipo-to
 https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-ipo-day-2-gmp-hits-at-17-listing-gains-should-you-bid/articleshow/133141414.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-files-ipo-papers-with-sebi-to-fund-319-new-child-therapy-centres/articleshow/133373902.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/mp-steel-files-ipo-papers-plans-rs-95-crore-fresh-issue-23-07-lakh-share-ofs/articleshow/133460038.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/multibagger-ipos-of-2026-these-3-stocks-have-fattened-investors-portfolios-do-you-own-any/articleshow/133316208.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/muthoot-fincorp-appoints-four-lead-managers-for-ipo/articleshow/133167422.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/muthoot-fincorp-files-draft-papers-for-rs-3000-cr-ipo-to-boost-capital-base/articleshow/133198045.cms
@@ -640,6 +642,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/fpis-emerge-as-biggest-
 https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms
 https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-slide-4-after-q1-margin-falls-amid-commodity-inflation-rs-5/share-dividend-declared/articleshow/133027551.cms
 https://economictimes.indiatimes.com/markets/stocks/news/gold-alone-isnt-enough-for-your-daughters-streedhan-wealth-manager-aarti-gupta-explains-why/articleshow/133033944.cms
+https://economictimes.indiatimes.com/markets/stocks/news/gold-bitcoin-or-stocks-whos-winning-the-2026-race-for-returns/articleshow/133460698.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-initiates-coverage-on-sansera-engineering-3-other-auto-ancillary-stocks-with-upside-of-up-to-28-heres-why/articleshow/132509174.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-pegs-nifty-target-at-26500-by-june-2027-lists-15-stocks-from-key-themes/articleshow/132357525.cms
@@ -1727,6 +1730,7 @@ https://www.livemint.com/market/stock-market-news/maruti-suzuki-q1-results-net-p
 https://www.livemint.com/market/stock-market-news/microsoft-amazon-and-alphabet-earnings-reveal-the-next-challenge-in-the-ai-race-it-isnt-only-chips-now-11785601577234.html
 https://www.livemint.com/market/stock-market-news/milky-mist-diary-food-ipo-listing-shares-make-strong-debut-lists-at-18-premium-over-the-ipo-price-11787027363705.html
 https://www.livemint.com/market/stock-market-news/mukul-agrawal-portfolio-multibagger-stock-lt-foods-jumps-5-after-q1-results-details-here-11785482484299.html
+https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-system-acquires-34-stake-in-defence-tech-company-11787563507933.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-rebounds-after-receipt-of-213-crore-from-drdo-psu-others-11785916004756.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-astra-microwave-shares-hit-record-high-soar-14-after-rs-2-205-crore-hal-order-11785478145527.html
