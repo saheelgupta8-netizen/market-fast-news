@@ -60,6 +60,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-b
 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-gains-on-easing-rate-hike-fears-markets-await-fed-minutes/articleshow/133309281.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-falls-to-nearly-rs-1-54-lakh/10-gm-time-to-buy/articleshow/133337692.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-firms-below-10-week-high-as-markets-brace-for-us-cpi-data/articleshow/133167915.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech/articleshow/133449285.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-steady-after-scaling-7-week-high-us-inflation-data-in-focus/articleshow/133077441.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-early-june-high-on-lower-bond-yields/articleshow/133361826.cms
@@ -96,6 +97,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-ir
 https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/articleshow/133195813.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-ahead-of-us-announcement-on-new-iran-sanctions/articleshow/133449264.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms
@@ -109,6 +111,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-au
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-20-crude-oil-above-92/barrel-as-trump-vows-tremendous-economic-warfare-on-iran/articleshow/133364055.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-24-crude-oil-slips-below-93-ahead-of-us-sanctions-announcement-on-iran-what-are-experts-saying/articleshow/133449404.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-assess-us-iran-war-outlook/articleshow/133361786.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-doubts-over-us-iran-deal-heighten-supply-concerns/articleshow/133167806.cms
@@ -646,6 +649,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/hfcls-x-factor-is-defen
 https://economictimes.indiatimes.com/markets/stocks/news/hindustan-aeronautics-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133020514.cms
 https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-jumps-7-after-q1-results-heres-why-nomura-initiated-coverage-on-stock/articleshow/133086376.cms
 https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-solar-industries-among-top-10-best-midcaps-in-2026-check-full-list/slideshow/132620242.cms
+https://economictimes.indiatimes.com/markets/stocks/news/horizon-industrial-parks-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133449327.cms
 https://economictimes.indiatimes.com/markets/stocks/news/how-mtech-alumnus-gift-turned-into-rs-112-crore-ipo-jackpot-for-iit-madras/articleshow/132552780.cms
 https://economictimes.indiatimes.com/markets/stocks/news/hsbc-upgrades-indian-equities-to-neutral-on-easing-oil-prices-return-of-foreign-flows/articleshow/132430487.cms
 https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank-among-top-bank-picks-by-axis-direct-after-q1-earnings-season/slideshow/133398012.cms
@@ -665,6 +669,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-r
 https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-soar-over-11-after-stellar-q1-results-what-investors-should-know/articleshow/132528372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-shares-crash-8-after-weak-q1-results-what-are-nomura-and-motilal-oswal-saying/articleshow/133081372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/kronox-lab-sciences-shares-rally-32-in-2-days-as-indo-borax-zenrock-chemicals-eye-stake-acquisition/articleshow/133395336.cms
+https://economictimes.indiatimes.com/markets/stocks/news/lalithaa-jewellery-mart-shares-to-debut-today-gmp-signals-37-premium-ahead-of-listing/articleshow/133449448.cms
 https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-fall-12-post-listing-slip-below-ipo-price-what-should-investors-do/articleshow/133231868.cms
 https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133227372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-shares-jump-7-after-q1-results-jefferies-goldman-sachs-3-others-raise-target-price/articleshow/133197400.cms
@@ -695,6 +700,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-shares-
 https://economictimes.indiatimes.com/markets/stocks/news/muthoot-manappuram-finance-shares-jump-up-to-7-in-2-days-as-gold-crosses-rs-1-6-lakh/10-gm/articleshow/133394594.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-juniper-green-energy-shares-to-list-tomorrow-heres-what-gmp-signals-ahead-of-debut/articleshow/132926600.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/slideshow/133335353.cms
+https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/133449630.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/133361923.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms
 https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms
@@ -1016,6 +1022,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-sinks-as-bond-yields-rise-walmart-results-disappoint/articleshow/133387377.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-secretary-may-have-a-tough-time-dealing-with-yields/articleshow/133449085.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-with-us-fed-silent-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat/articleshow/133255266.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up/articleshow/132473332.cms
@@ -1428,6 +1435,7 @@ https://www.livemint.com/market/ipo/technocraft-ventures-ipo-gmp-technocraft-ven
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11786612111594.html
 https://www.livemint.com/market/ipo/technocraft-ventures-ipo-price-band-set-at-rs-200-212-per-share-check-key-dates-issue-details-11785727105114.html
 https://www.livemint.com/market/ipo/tempsens-instruments-ipo-day-2-live-gmp-subscription-status-review-other-details-apply-or-not-11787290258573.html
+https://www.livemint.com/market/ipo/tempsens-instruments-ipo-day-3-issue-booked-21-66x-so-far-heres-gmp-review-other-key-details-apply-or-not-11787538665690.html
 https://www.livemint.com/market/ipo/tempsens-instruments-ipo-gmp-tempsens-instruments-ipo-price-tempsens-instruments-ipo-review-tempsens-instruments-ipo-11787193342369.html
 https://www.livemint.com/market/ipo/tempsens-instruments-ipo-opens-tomorrow-gmp-issue-details-10-key-things-to-know-11787118399563.html
 https://www.livemint.com/market/ipo/tempsens-instruments-ipo-price-band-set-at-rs-285-300-per-share-check-key-dates-issue-details-11786934351400.html
@@ -1537,6 +1545,7 @@ https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-a-gap-up-start-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-11785893861305.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-flat-start-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-11786413762159.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-start-vaishali-parekh-recommends-three-stocks-to-buy-today-21-august-2026-11787277554789.html
+https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-start-vaishali-parekh-recommends-three-stocks-to-buy-today-24-august-2026-11787535479845.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-start-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-11786672555288.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-slides-on-rising-tension-in-us-iran-war-vaishali-parekh-recommends-three-intraday-stocks-to-buy-11784855905217.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-13-august-2026-11786585475504.html
