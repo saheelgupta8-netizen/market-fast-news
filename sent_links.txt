@@ -679,6 +679,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-r
 https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-soar-over-11-after-stellar-q1-results-what-investors-should-know/articleshow/132528372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-shares-crash-8-after-weak-q1-results-what-are-nomura-and-motilal-oswal-saying/articleshow/133081372.cms
 https://economictimes.indiatimes.com/markets/stocks/news/kronox-lab-sciences-shares-rally-32-in-2-days-as-indo-borax-zenrock-chemicals-eye-stake-acquisition/articleshow/133395336.cms
+https://economictimes.indiatimes.com/markets/stocks/news/lalithaa-jewellery-mart-shares-surge-36-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/133452015.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lalithaa-jewellery-mart-shares-to-debut-today-gmp-signals-37-premium-ahead-of-listing/articleshow/133449448.cms
 https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-fall-12-post-listing-slip-below-ipo-price-what-should-investors-do/articleshow/133231868.cms
 https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133227372.cms
@@ -823,6 +824,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-over-3
 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-rs-33-crore-stake-in-zaggle-prepaid-ocean-services-via-bulk-deal-stock-skyrockets-17/articleshow/133338421.cms
 https://economictimes.indiatimes.com/markets/stocks/news/vikas-khemanis-carnelian-asset-management-receives-sebi-approval-for-mutual-fund-business/articleshow/132553969.cms
 https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-crash-11-to-fresh-lifetime-low-whats-spooking-investors/articleshow/133021945.cms
+https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-shares-soar-10-after-ceo-reappointment-heres-why-morgan-stanley-sees-41-upside/articleshow/133451965.cms
 https://economictimes.indiatimes.com/markets/stocks/news/waaree-renewable-shares-crash-7-even-after-q1-net-profit-rises-34-yoy-whats-spooking-investors/articleshow/132572933.cms
 https://economictimes.indiatimes.com/markets/stocks/news/walchandnagar-industries-shares-rise-2-on-rs-30-53-crore-order-from-vikram-sarabhai-space-centre/articleshow/133396452.cms
 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-us-stocks-face-tests-from-fed-decision-tech-led-earnings-deluge/articleshow/132618500.cms
@@ -864,6 +866,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-sha
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-19-aug-2026/liveblog/133336239.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-10-aug-2026/liveblog/133078897.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-04-aug-2026/liveblog/132845314.cms
+https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-24-aug-2026/liveblog/133450025.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-20-aug-2026/liveblog/133362836.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-19-aug-2026/liveblog/133335708.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-19-aug-2026/liveblog/133335960.cms
@@ -908,6 +911,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-hig
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-unquestionably-too-high-inflation-may-soon-subside/articleshow/132416743.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/forget-gold-and-stocks-nvidia-ceo-jensen-huang-aims-to-make-chips-an-investable-asset-lines-up-500-bn-in-financing/articleshow/133142905.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-alibaba-rout-drags-china-hong-kong-markets-lower-amid-ai-spending-concerns/articleshow/133452201.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-eyes-faster-national-infrastructure-spending-to-steady-growth-amid-local-investment-slump/articleshow/132452765.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-liquidity-tightens-ahead-of-unitree-ipo/articleshow/133229845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rebound-as-healthcare-and-tech-shares-rally/articleshow/133342217.cms
@@ -1921,6 +1925,7 @@ https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-fed-min
 https://www.livemint.com/market/stock-market-news/week-ahead-wall-street-eyes-us-jobs-data-spacex-debut-earnings-and-disney-results-11785683336567.html
 https://www.livemint.com/market/stock-market-news/what-is-the-nifty-gold-ratio-signalling-now-could-a-new-bull-run-in-indian-equities-be-next-gold-price-outlook-11785836014645.html
 https://www.livemint.com/market/stock-market-news/why-sbi-share-price-falling-despite-strong-q1-results-brokerages-remain-bullish-11786343030469.html
+https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html
 https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remains-flat-at-3352-crore-dividend-declared-11784188416404.html
 https://www.livemint.com/market/stock-market-news/wipro-share-price-falls-over-2-after-q1-results-should-you-buy-sell-or-hold-the-it-stock-11784260346430.html
 https://www.livemint.com/market/stock-market-news/wipro-share-price-gains-ahead-of-q1-results-2026-should-you-buy-the-it-stock-11784173636267.html
