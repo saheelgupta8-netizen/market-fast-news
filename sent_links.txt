@@ -19,6 +19,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-clin
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-drop-offsets-index-setback/articleshow/132831546.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-middle-east-escalation-drives-oil-above-90/articleshow/132536886.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-oil-spike-treasury-rout-weigh/articleshow/132357241.cms
+https://economictimes.indiatimes.com/markets/bonds/india-bonds-flat-as-oil-prices-shrug-off-us-curbs-on-iran/articleshow/133498039.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-hang-tight-before-supply-as-oil-stalls/articleshow/133397733.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-oil-worries-ahead-of-inflation-data/articleshow/133174882.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-cling-to-range-as-traders-parse-oil-risk/articleshow/133341539.cms
@@ -334,6 +335,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/muthoot-fincorp-appoints-
 https://economictimes.indiatimes.com/markets/ipos/fpos/muthoot-fincorp-files-draft-papers-for-rs-3000-cr-ipo-to-boost-capital-base/articleshow/133198045.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-day-2-gmp-jumps-indicating-30-listing-gains-issue-subscribed-3-64-times-apply-or-skip/articleshow/132754989.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ndr-invit-trust-files-draft-papers-for-rs-750-crore-ipo/articleshow/133158157.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-coming-soon-should-investors-buy-unlisted-shares-now-or-wait-for-the-mega-issue/articleshow/133499038.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut/articleshow/132453386.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms
@@ -1033,6 +1035,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-p
 https://economictimes.indiatimes.com/markets/us-stocks/news/ibms-stock-tumbles-as-preliminary-2q-results-come-in-below-wall-streets-expectations/articleshow/132391182.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/irans-currency-rial-hits-record-low-as-us-plans-more-sanctions/articleshow/133468394.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/iren-shares-jump-16-as-2-8-billion-ai-cloud-deals-lift-revenue-target/articleshow/132518630.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/jackson-hole-2026-when-and-what-are-investors-expecting-from-fed-chair-kevin-warsh/articleshow/133498240.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading/articleshow/132392736.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-6-nosediving-25-from-june-peak-whats-rattling-investors-today/articleshow/132355268.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms
@@ -1508,6 +1511,7 @@ https://www.livemint.com/market/ipo/sotefin-bharat-ipo-allotment-date-likely-tod
 https://www.livemint.com/market/ipo/sotefin-bharat-ipo-day-1-gmp-hints-at-modest-listing-gains-10-key-points-of-bse-sme-ipo-11784182257363.html
 https://www.livemint.com/market/ipo/sotefin-bharat-ipo-listing-shares-hit-upper-circuit-after-listing-at-a-10-premium-details-here-11784782273860.html
 https://www.livemint.com/market/ipo/srk-sachin-tendulkar-madhuri-dixit-owned-purple-style-may-launch-660-crore-ipo-this-month-11786871581008.html
+https://www.livemint.com/market/ipo/sumax-engineering-ipo-day-1-issue-fully-subscribed-gmp-signals-35-listing-pop-key-details-of-sme-ipo-in-10-points-11787640725570.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-1-issue-booked-22-so-far-gmp-hints-21-listing-pop-should-you-apply-or-skip-11787026498490.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html
 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed-35-times-so-far-gmp-signals-21-listing-pop-should-you-subscribe-11787204217812.html
