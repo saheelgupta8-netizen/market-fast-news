@@ -28,6 +28,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-bonds-jump-as-oil-crash
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-log-first-monthly-loss-in-four-as-surging-oil-treasury-yields-sting/articleshow/132767310.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-recover-on-softer-us-rate-outlook-oil-risk-caps-gains/articleshow/132416718.cms
+https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-oil-shrugs-off-us-sanctions-concerns/articleshow/133510180.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-oil-spike-index-entry-uncertainty/articleshow/132461489.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-on-oil-spike-bargain-hunters-curb-losses/articleshow/132552806.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-steady-after-swinging-with-oil/articleshow/132515342.cms
@@ -145,6 +146,7 @@ https://economictimes.indiatimes.com/markets/cryptocurrency/how-bitcoin-and-gold
 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-housing-market-stays-resilient-amid-middle-east-tensions-h1-residential-deals-touch-aed-226-billion-anarock/articleshow/132360195.cms
 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/federal-realty-raises-annual-core-profit-forecast-on-strong-leasing-demand/articleshow/132770978.cms
 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-q1-results-profit-falls-42-to-rs-349-crore-sales-bookings-rise-22/articleshow/132862456.cms
+https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/inorbit-malls-completes-acquisition-of-2-malls-for-rs-1242-5-cr/articleshow/133508534.cms
 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-q1-results-revenue-surges-63-to-rs-877-crore-pat-at-rs-25-crore/articleshow/133296526.cms
 https://economictimes.indiatimes.com/markets/expert-view/buy-lt-emmvee-and-rr-kabel-once-market-selloff-eases-lkps-rupak-de/articleshow/132620671.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-crompton-2-0-how-premiumisation-innovation-and-smart-products-could-reshape-growth-kaleeswaran-arunachalam/articleshow/133391267.cms
@@ -603,6 +605,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-af
 https://economictimes.indiatimes.com/markets/stocks/news/blackrock-capital-group-anchor-idfc-first-banks-maiden-500-million-global-bond/articleshow/133342921.cms
 https://economictimes.indiatimes.com/markets/stocks/news/blackrock-prashant-jain-backed-3p-india-among-others-invest-in-indo-mim-ipo-anchor-book-of-rs-1141-crore/articleshow/132573246.cms
 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-meesho-shares-in-focus-as-peak-xv-elevation-capital-eye-rs-1900-crore-stake-sale/articleshow/132845243.cms
+https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-ribbit-capital-to-likely-offload-1-6-stake-in-groww-for-rs-1914-crore/articleshow/133510922.cms
 https://economictimes.indiatimes.com/markets/stocks/news/blue-dart-express-shares-surge-7-after-q1-results-heres-why-nuvama-retains-buy-raises-target/articleshow/132819599.cms
 https://economictimes.indiatimes.com/markets/stocks/news/bluestone-jewellery-shares-rocket-36-in-just-three-days-after-q1-results-can-the-momentum-sustain/articleshow/132572210.cms
 https://economictimes.indiatimes.com/markets/stocks/news/bonus-bonanza-aastha-spintex-to-consider-bonus-issue-dividend-less-than-a-month-since-debut-on-july-23/articleshow/132515196.cms
@@ -946,6 +949,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-mark
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-earnings-forecast-spacex-palantir-tech-caterpillar-marvell-chip-stock-price-news-4th-august-2026/liveblog/132860524.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-crude-oil-fed-rate-hike-treasury-yield-spacex-nvidia-meta-tesla-chip-stock-price-news-21st-august-2026/liveblog/133404258.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-sanctions-canada-tariffs-nvidia-earnings-jackson-hole-federal-reserve-brent-crude-oil-bitcoin-stock-futures-price-news-25th-august-2026/liveblog/133510516.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-trump-iran-war-hormuz-deal-brent-crude-oil-fed-minutes-rate-hike-retail-earnings-walmart-moderna-bitcoin-coinbase-chip-stock-price-news-20th-august-2026/liveblog/133377376.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-boost-why-goldman-sachs-shares-jumped-to-record-highs/slideshow/132407452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
@@ -1139,6 +1143,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-paypal-went-from-wall-street-favorite-to-unwilling-merger-target/articleshow/132531609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jackson-hole-2026-when-and-what-are-investors-expecting-from-fed-chair-kevin-warsh/articleshow/133498240.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mcdonalds-nears-elite-dividend-king-status-as-next-hike-looms/articleshow/133341490.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms
