@@ -644,6 +644,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/dmart-shares-fall-4-aft
 https://economictimes.indiatimes.com/markets/stocks/news/domino-effect-gandhar-oils-20-upper-circuit-spurs-rally-in-savita-oil-and-panama-petro-heres-why/articleshow/132574516.cms
 https://economictimes.indiatimes.com/markets/stocks/news/dr-agarwals-health-shares-fall-7-after-rs-2065-crore-block-deal-hyperion-investments-claymore-likely-sellers/articleshow/133171383.cms
 https://economictimes.indiatimes.com/markets/stocks/news/emmvee-photovoltaic-among-5-stocks-closed-below-vwap-signalling-bearish-shift/slideshow/132505113.cms
+https://economictimes.indiatimes.com/markets/stocks/news/entero-healthcare-shares-gain-15-in-2-days-after-prashant-jains-3p-investment-picks-stake-in-block-deal/articleshow/133493852.cms
 https://economictimes.indiatimes.com/markets/stocks/news/eternal-shares-jump-3-after-q1-results-jefferies-clsa-and-4-other-brokerages-weigh-in/articleshow/132571669.cms
 https://economictimes.indiatimes.com/markets/stocks/news/explained-how-bse-traded-fewer-contracts-after-cas-but-premiums-rose-75-in-first-week/articleshow/133049697.cms
 https://economictimes.indiatimes.com/markets/stocks/news/explained-what-donald-trumps-up-to-200-pharma-tariffs-mean-for-indian-investors/articleshow/132554271.cms
@@ -654,6 +655,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-5-st
 https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-idfc-first-bank-surge-in-credit-card-growth-challenging-hdfc-bank/articleshow/133195449.cms
 https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms
 https://economictimes.indiatimes.com/markets/stocks/news/fpis-emerge-as-biggest-sellers-among-anchor-investors-in-ipos-30-day-window-sebi-study/articleshow/133219168.cms
+https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-mockery-to-rs-1-lakh-crore-m-cap-why-investors-are-still-betting-on-lenskarts-vision/articleshow/133494107.cms
 https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms
 https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-slide-4-after-q1-margin-falls-amid-commodity-inflation-rs-5/share-dividend-declared/articleshow/133027551.cms
 https://economictimes.indiatimes.com/markets/stocks/news/gold-alone-isnt-enough-for-your-daughters-streedhan-wealth-manager-aarti-gupta-explains-why/articleshow/133033944.cms
@@ -836,6 +838,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-crash
 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-fall-5-after-weak-q1-results-what-are-morgan-stanley-nomura-others-saying/articleshow/133228597.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-faces-continued-listing-uncertainty-after-rbi-classification/articleshow/133008884.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-among-top-10-stocks-downgraded-by-motilal-oswal-after-q1-results/slideshow/133397759.cms
+https://economictimes.indiatimes.com/markets/stocks/news/tcs-porsche-deal-why-morgan-stanley-citi-other-brokerages-still-see-up-to-20-downside-potential/articleshow/133493948.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms
 https://economictimes.indiatimes.com/markets/stocks/news/technocraft-ventures-shares-to-list-today-gmp-signals-17-listing-gains-ahead-of-debut/articleshow/133227330.cms
 https://economictimes.indiatimes.com/markets/stocks/news/thermax-shares-crash-16-after-firm-expects-weak-quarters-ahead-after-muted-q1-results/articleshow/132757535.cms
@@ -1291,6 +1294,7 @@ https://www.livemint.com/market/ipo/alpine-texworld-ipo-opens-today-check-latest
 https://www.livemint.com/market/ipo/anawil-wire-and-engineering-ipo-allotment-to-be-finalised-ipo-gmp-how-to-check-allotment-status-online-for-sme-ipo-11785986190966.html
 https://www.livemint.com/market/ipo/anawil-wire-and-engineering-ipo-gmp-today-signals-33-listing-gain-price-date-other-details-in-10-points-11785734151395.html
 https://www.livemint.com/market/ipo/anawil-wire-and-engineering-sme-ipo-listing-shares-debut-at-a-22-premium-11786336563051.html
+https://www.livemint.com/market/ipo/annu-projects-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787632322925.html
 https://www.livemint.com/market/ipo/annu-projects-ipo-price-band-set-at-rs-94-99-per-share-check-key-dates-issue-details-11787205777391.html
 https://www.livemint.com/market/ipo/anthropic-ipo-ai-firm-could-hit-2-trillion-valuation-but-would-it-stay-there-investor-asks-11786785754574.html
 https://www.livemint.com/market/ipo/ardee-industries-ipo-allotment-status-in-focus-gmp-how-to-check-status-online-a-step-by-step-guide-11786326245081.html
