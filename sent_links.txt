@@ -580,6 +580,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-re
 https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-demerger-data-centre-arm-to-spin-out-as-separate-listed-company-what-lies-ahead-for-4-lakh-shareholders/articleshow/132553061.cms
 https://economictimes.indiatimes.com/markets/stocks/news/anawil-wire-engineering-shares-to-list-today-gmp-points-to-21-premium-ahead-of-debut/articleshow/133079189.cms
 https://economictimes.indiatimes.com/markets/stocks/news/anchor-investors-stay-put-after-ipo-lock-in-but-half-their-bets-are-gone-within-a-year-sebi/articleshow/133242283.cms
+https://economictimes.indiatimes.com/markets/stocks/news/antique-initiates-coverage-on-astra-microwave-with-buy-sees-defence-electronics-upcycle-driving-growth/articleshow/133496713.cms
 https://economictimes.indiatimes.com/markets/stocks/news/antony-waste-shares-in-focus-after-9-workers-killed-in-pune-waste-mound-collapse-operations-halted/articleshow/132355741.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ardee-industries-shares-slip-7-post-listing-after-double-digit-listing-gains-what-should-investors-do/articleshow/133176494.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-exits-defence-stock-that-rallied-108-in-q1-do-you-own-it/articleshow/132597323.cms
@@ -772,6 +773,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/radhika-gupta-on-where-
 https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-rally-5-after-bagging-rs-166-8-crore-epfo-order/articleshow/133337593.cms
 https://economictimes.indiatimes.com/markets/stocks/news/railtel-shares-rise-4-after-securing-rs-165-crore-order-from-western-coalfields/articleshow/133393761.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-inox-wind-among-10-worst-nifty-smallcap-250-performers-ytd-do-you-own-any/slideshow/132620496.cms
+https://economictimes.indiatimes.com/markets/stocks/news/ratnamani-metals-shares-rally-up-to-21-in-two-sessions-after-securing-rs-2700-crore-order/articleshow/133495796.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133018244.cms
 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-share-price-target-what-are-brokerages-saying-after-q1-results/articleshow/132505723.cms
 https://economictimes.indiatimes.com/markets/stocks/news/restaurant-brands-asia-shares-surge-nearly-20-on-strong-q1-results-what-motilal-other-brokerages-said/articleshow/132854910.cms
@@ -868,6 +870,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/why-indian-retail-optio
 https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-today-rising-oil-prices-among-key-factors-behind-rs-3-lakh-crore-wealth-erosion/articleshow/132386876.cms
 https://economictimes.indiatimes.com/markets/stocks/news/why-is-the-market-falling-today-sensex-falls-570-points-nifty-below-24300-key-factors/articleshow/133176165.cms
 https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-chris-wood-sees-gold-as-the-second-best-hedge-amid-iran-war-and-fiscal-risks/articleshow/133396588.cms
+https://economictimes.indiatimes.com/markets/stocks/news/will-ihcls-merger-with-oriental-hotels-unlock-value-for-shareholders-heres-what-goldman-sachs-nomura-and-others-say/articleshow/133496525.cms
 https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms
 https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms
 https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-fall-for-6th-straight-session-on-monday-us-fed-among-5-factors-to-watch-this-week/articleshow/132636082.cms
@@ -998,9 +1001,11 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-k
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-oil-spike-and-rising-bond-yields-weigh-on-sentiment/articleshow/133310581.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-slide-as-stronger-yen-hits-exporters-nikkei-drops-over-2/articleshow/132820004.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-as-oil-surge-and-fiscal-concerns-weigh-on-market/articleshow/132431940.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-edge-higher-as-us-treasury-yields-oil-prices-rise/articleshow/133496737.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-government-bonds-rally-as-us-treasury-action-calms-global-debt-markets/articleshow/133371351.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-closes-lower-as-oil-price-jump-dims-corporate-outlook/articleshow/132359942.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-swings-as-ai-stocks-slip-ahead-of-nvidia-results/articleshow/133451438.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mainland-china-stocks-slip-as-metal-shares-drop-investors-await-jackson-hole-cues/articleshow/133495355.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-private-capital-crucial-to-europes-defence-push-as-funding-bottlenecks-persist/articleshow/132528379.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-prudential-shares-tumble-as-china-offshore-insurance-tax-report-rattles-investors/articleshow/132981858.cms
@@ -1155,6 +1160,7 @@ https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-bil
 https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html
 https://www.livemint.com/market/asia-hedge-funds-hurt-by-july-selloff-after-strong-first-half-11784787050569.html
 https://www.livemint.com/market/asx-shares-jump-most-in-six-years-after-upbeat-listings-outlook-11786663301274.html
+https://www.livemint.com/market/augmont-enterprises-ipo-day-3-issue-booked-21-33x-so-far-gmp-hints-41-listing-pop-apply-or-not-11787634287864.html
 https://www.livemint.com/market/australia-shares-fall-after-nab-results-offset-miners-middle-east-tensions-drag-11786930466749.html
 https://www.livemint.com/market/bank-of-korea-makes-first-gold-linked-investment-in-13-years-11786597081671.html
 https://www.livemint.com/market/bharat-electronics-shares-to-be-in-focus-on-monday-as-company-secures-rs-847-crore-order-11785509810588.html
