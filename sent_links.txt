@@ -1084,6 +1084,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit
 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a-bigger-space-opportunity-beyond-launch-providers/articleshow/132800299.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/guidance-cut-expected-infosys-may-not-have-good-news-for-investors-in-q1-results/articleshow/132556107.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/hp-forecasts-strong-fourth-quarter-profit-on-price-hikes-us-tariff-refunds/articleshow/133550766.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ibms-stock-tumbles-as-preliminary-2q-results-come-in-below-wall-streets-expectations/articleshow/132391182.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/irans-currency-rial-hits-record-low-as-us-plans-more-sanctions/articleshow/133468394.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/iren-shares-jump-16-as-2-8-billion-ai-cloud-deals-lift-revenue-target/articleshow/132518630.cms
@@ -1211,6 +1212,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-as-tech-stocks-rally-crude-oil-prices-fall/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-us-iran-peace-deal/articleshow/133156341.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-near-flat-as-hot-inflation-data-clouds-fed-rate-outlook/articleshow/133550754.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-tech-stocks-rebound-before-nvidia-results-data/articleshow/133513060.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms
@@ -1318,6 +1320,7 @@ https://www.livemint.com/market/commodities/us-iran-war-crude-oil-price-is-key-i
 https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html
 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
 https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html
+https://www.livemint.com/market/dollar-gains-most-in-over-two-weeks-as-pce-backs-fed-hike-11787778441174.html
 https://www.livemint.com/market/dollar-heads-for-best-day-in-two-weeks-as-oil-prices-advance-11786041870410.html
 https://www.livemint.com/market/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-11787599085535.html
 https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html
@@ -1344,6 +1347,7 @@ https://www.livemint.com/market/gold-holds-steady-with-us-iran-standoff-and-fed-
 https://www.livemint.com/market/gold-jumps-most-since-february-on-hormuz-technical-breakout-11785964080778.html
 https://www.livemint.com/market/gold-nears-4-400-as-traders-weigh-fed-interest-rate-path-11786897865527.html
 https://www.livemint.com/market/gold-pares-gains-to-trade-steady-as-oil-rises-on-iran-proposal-to-bar-hostile-vessels-in-hormuz-11786044628603.html
+https://www.livemint.com/market/gold-rally-eases-as-traders-turn-focus-to-fed-interest-rate-path-11787775547971.html
 https://www.livemint.com/market/gold-retreats-on-profit-taking-after-hitting-two-month-peak-following-inflation-data-11786647773501.html
 https://www.livemint.com/market/gold-rises-to-near-4-400-as-weak-retail-data-weighs-on-dollar-11786937454532.html
 https://www.livemint.com/market/gold-rises-to-over-two-month-peak-as-us-inflation-data-dampens-rate-hike-bets-11786560770348.html
@@ -1643,6 +1647,7 @@ https://www.livemint.com/market/mopshop-distribution-ipo-day-1-issue-booked-29-s
 https://www.livemint.com/market/new-closing-auction-sparks-rare-nifty-sensex-split-amid-low-participation-11785769915392.html
 https://www.livemint.com/market/no-proposal-under-consideration-to-scrap-ltcg-tax-on-equities-government-clarifies-11784539640469.html
 https://www.livemint.com/market/nvidia-q2-earnings-preview-key-expectations-and-how-the-stock-could-move-after-results-11787746929922.html
+https://www.livemint.com/market/oil-dips-as-traders-assess-hormuz-talks-ukraine-war-escalation-11787778798554.html
 https://www.livemint.com/market/oil-drops-stocks-gain-amid-iran-peace-hopes-yen-firms-as-investors-watch-for-further-intervention-11785792593711.html
 https://www.livemint.com/market/oil-erases-decline-as-traders-weigh-fresh-houthi-threat-11785917157048.html
 https://www.livemint.com/market/oil-extends-gains-on-report-of-iran-strikes-in-strait-of-hormuz-11786050144011.html
