@@ -143,6 +143,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/why-the-us-iran-wa
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-64700-as-softer-us-inflation-eases-us-fed-rate-hike-concerns/articleshow/132406900.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-62k-as-us-iran-tensions-and-inflation-fears-keep-investors-cautious/articleshow/132385801.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-below-63000-to-a-two-week-low-as-weak-coinbase-earnings-and-fading-optimism-weigh-on-sentiment/articleshow/132783427.cms
+https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-79k-ahead-of-us-pce-gdp-data-whales-book-record-1-2-billion-profit-in-3-days/articleshow/133536752.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-63k-ahead-of-fed-rate-decision-as-investors-assess-liquidity-outlook/articleshow/133293649.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63k-ethereum-below-1900-as-softer-us-inflation-fails-to-ease-crypto-market-pressure/articleshow/133206294.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-to-64k-ethereum-below-1900-amid-crypto-market-volatility/articleshow/133146858.cms
@@ -830,6 +831,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-200-points
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-200-points-nifty-below-23900-as-market-falls-for-4th-day-on-rising-iran-us-tensions-whats-ahead/articleshow/132571556.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-200-points-nifty-tests-23600-as-strait-of-hormuz-tensions-rattle-oil-markets/articleshow/133020628.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-points-nifty-below-23150-as-market-bleeds-for-7th-session-what-lies-ahead/articleshow/133336722.cms
+https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-210-points-nifty-closes-below-24650-as-market-snaps-4-day-gaining-streak/articleshow/132856959.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-300-points-nifty-opens-below-24350-heres-why-analysts-expect-markets-to-remain-range-bound/articleshow/133228519.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-500-points-nifty-slips-below-24100-as-us-iran-conflict-escalates-what-lies-ahead/articleshow/132380455.cms
@@ -1377,6 +1379,7 @@ https://www.livemint.com/market/ipo/ashish-kacholia-owned-credent-connect-n-care
 https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787282345630.html
 https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-2-issue-subscribed-over-9-times-gmp-signals-nearly-50-listing-pop-apply-or-not-11787554341340.html
 https://www.livemint.com/market/ipo/augmont-enterprises-ipo-price-band-set-at-rs-750-788-per-share-check-key-dates-issue-details-11787021673763.html
+https://www.livemint.com/market/ipo/avaada-electro-ipo-size-cut-rs-7600-crore-ipo-11787735978270.html
 https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-listing-behari-lal-ipo-11787029898525.html
 https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-today-gmp-signals-29-listing-pop-how-to-check-status-online-11786943306004.html
 https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-day-1-live-gmp-subscription-review-other-details-apply-or-not-to-this-rs-302-crore-ipo-11786508289387.html
