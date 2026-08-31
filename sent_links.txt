@@ -118,6 +118,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-ahead-of
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island/articleshow/133639156.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-on-track-for-weekly-loss-even-as-iran-tensions-simmer/articleshow/133581083.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-10-crude-oil-rises-to-85-amid-hormuz-worries-as-attacks-continue-what-are-experts-saying/articleshow/133077558.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-11-crude-oil-rises-to-88-after-trumps-compensation-demand-dents-hormuz-opening-heres-why/articleshow/133140451.cms
@@ -172,6 +173,7 @@ https://economictimes.indiatimes.com/markets/expert-view/buy-lt-emmvee-and-rr-ka
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-crompton-2-0-how-premiumisation-innovation-and-smart-products-could-reshape-growth-kaleeswaran-arunachalam/articleshow/133391267.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-epls-growth-story-enters-next-gear-high-teens-guidance-20-margins-and-indovida-merger-explains-ceo-hemant-bakshi/articleshow/133488935.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-growth-leaders-bajaj-alts-jitendra-gohil-bets-on-electronics-solar-defence/articleshow/133391126.cms
+https://economictimes.indiatimes.com/markets/expert-view/many-deals-over-10b-amid-conflicts-this-is-astonishing-jpmorgan-anu-aiyengar-private-equity-ai-investment-trends-india/articleshow/133639101.cms
 https://economictimes.indiatimes.com/markets/expert-view/nifty-at-risk-below-24000-mcx-havells-among-stocks-to-watch-next-week-rupak-de/articleshow/133257377.cms
 https://economictimes.indiatimes.com/markets/expert-view/stocks-gold-and-debt-why-icici-prus-dharmesh-kakkad-favours-a-multi-asset-strategy-now/articleshow/132358178.cms
 https://economictimes.indiatimes.com/markets/expert-view/why-whiteoak-cio-ramesh-mantri-prefers-reits-invits-over-high-dividend-yield-stocks/articleshow/133581997.cms
@@ -322,6 +324,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-gmp-buzz-millworks-te
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-lock-in-expiry-could-bring-7-6-billion-of-shares-to-d-street/articleshow/133167350.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-race-to-launch-issues-worth-rs-45000-crore-by-september-30/articleshow/133139967.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-5-companies-to-raise-rs-5499-crore-next-week-shiprocket-4-others-to-list/articleshow/133258703.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-six-companies-eye-nearly-rs-5600-cr-next-week/articleshow/133270086.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-soon-reliances-telecom-arm-gets-sebi-nod-for-rs-37000-crore-offering/articleshow/133590054.cms
@@ -657,6 +660,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-shares-ju
 https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-after-usfda-approval-for-yesintek-single-dose-prefilled-autoinjector/articleshow/133314327.cms
 https://economictimes.indiatimes.com/markets/stocks/news/blackrock-capital-group-anchor-idfc-first-banks-maiden-500-million-global-bond/articleshow/133342921.cms
 https://economictimes.indiatimes.com/markets/stocks/news/blackrock-prashant-jain-backed-3p-india-among-others-invest-in-indo-mim-ipo-anchor-book-of-rs-1141-crore/articleshow/132573246.cms
+https://economictimes.indiatimes.com/markets/stocks/news/block-bulk-deals-hit-14-month-high-in-august-at-rs-80000-crore/articleshow/133639060.cms
 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-meesho-shares-in-focus-as-peak-xv-elevation-capital-eye-rs-1900-crore-stake-sale/articleshow/132845243.cms
 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-ribbit-capital-to-likely-offload-1-6-stake-in-groww-for-rs-1914-crore/articleshow/133510922.cms
 https://economictimes.indiatimes.com/markets/stocks/news/blue-dart-express-shares-surge-7-after-q1-results-heres-why-nuvama-retains-buy-raises-target/articleshow/132819599.cms
