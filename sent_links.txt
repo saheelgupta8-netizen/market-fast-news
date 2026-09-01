@@ -832,6 +832,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/ltm-shares-in-focus-as-
 https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms
 https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-list-at-11-premium-to-beat-gmp-estimates-what-should-allotted-investors-do/articleshow/132895118.cms
 https://economictimes.indiatimes.com/markets/stocks/news/manorama-industries-shares-surge-over-8-after-strong-q1-results/articleshow/133230940.cms
+https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-beml-among-4-stock-recommendations-for-wednesday/slideshow/133686279.cms
 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mazagon-dock-shipbuilders-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133020113.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-as-gold-silver-futures-rise-what-lies-ahead-after-a-900-rally-in-3-years/articleshow/133370940.cms
@@ -1277,6 +1278,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-sinks-as-bond-yields-rise-walmart-results-disappoint/articleshow/133387377.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-bond-yields-ease-from-highs-after-data-as-iran-war-escalation-fans-inflation-concerns/articleshow/133686615.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-secretary-may-have-a-tough-time-dealing-with-yields/articleshow/133449085.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-yields-rise-after-comments-from-feds-kevin-warsh-at-jackson-hole/articleshow/133593960.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms
@@ -1342,6 +1344,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-y
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chairman-kevin-warsh-says-inflation-is-elevated-and-concerning-at-jackson-hole/articleshow/133593773.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-michael-barr-warns-central-bank-may-need-to-raise-rates-if-inflation-stays-high/articleshow/133688340.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-refiners-ramp-up-buybacks-as-iran-war-boosts-fuel-margins/articleshow/133197769.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-policy-may-be-accommodative-under-medium-term-neutral-rate-estimate-reports/articleshow/133315987.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-uncertainty-oil-prices-in-focus-as-earnings-sustain-market-optimism/articleshow/133286178.cms
@@ -1481,6 +1484,7 @@ https://www.livemint.com/market/commodities/oil-rises-toward-90-as-fresh-trump-d
 https://www.livemint.com/market/commodities/sugar-stocks-crash-share-prices-fell-sharply-today-dealer-stock-limit-news-impact-decode-govt-cut-to-reduce-retail-price-11788267284618.html
 https://www.livemint.com/market/commodities/us-iran-war-crude-oil-price-is-key-is-tehran-writing-the-obituary-of-turkey-pakistan-saudi-arabias-defence-pact-11787455149964.html
 https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html
+https://www.livemint.com/market/cryptocurrency/goldman-sachs-bofa-and-others-plan-to-issue-dollar-stablecoin-together-in-2027-11788275732303.html
 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
 https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html
 https://www.livemint.com/market/dollar-gains-most-in-over-two-weeks-as-pce-backs-fed-hike-11787778441174.html
@@ -1753,6 +1757,7 @@ https://www.livemint.com/market/ipo/qt-foods-ipo-share-allotment-in-focus-today-
 https://www.livemint.com/market/ipo/rays-of-belief-ipo-day-1-gmp-signals-20-listing-gain-should-you-subscribe-to-rs-125-crore-issue-11788230222877.html
 https://www.livemint.com/market/ipo/rays-of-belief-ipo-opens-1-september-gmp-hints-12-listing-pop-check-10-key-things-to-know-11787986086678.html
 https://www.livemint.com/market/ipo/rays-of-belief-ipo-price-band-set-at-rs-227-239-per-share-check-key-dates-issue-details-11787539870153.html
+https://www.livemint.com/market/ipo/sb-energy-heads-for-ipo-after-nvidia-backs-105-billion-openai-data-centre-project-11788283009834.html
 https://www.livemint.com/market/ipo/sbi-funds-ipo-to-test-investor-appetite-for-4-81-trillion-ipo-pipeline-fundraise-sebi-11784014089895.html
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11784261967029.html
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-gmp-sbi-funds-ipo-gmp-sbi-funds-management-ipo-subscription-sbi-funds-review-sbi-funds-ipo-11784083353415.html
@@ -2390,6 +2395,7 @@ https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo
 https://www.livemint.com/market/us-data-buoys-dollar-as-fed-hike-expectations-nudged-higher-11787770825665.html
 https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html
 https://www.livemint.com/market/us-treasury-yields-rise-as-oil-climbs-before-jobs-report-11786043154633.html
+https://www.livemint.com/market/wall-street-dips-as-higher-yields-rising-oil-prices-mark-shaky-start-to-september-11788287811841.html
 https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html
 https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html
 https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html
