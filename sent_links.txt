@@ -1316,6 +1316,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/wall-steet-week-ahea
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up/articleshow/132473332.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-data-to-test-record-setting-us-stocks-fed-rate-views/articleshow/133046458.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/berkshire-hathaway-ceo-greg-abel-sees-ai-power-demand-as-new-engines-of-growth/articleshow/133717165.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-surges-past-100-as-houthi-tanker-attacks-in-red-sea-rattle-markets/articleshow/132583335.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/choppy-oil-keeps-investors-on-edge-stocks-brace-for-big-earnings-week/articleshow/132531397.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/conflict-hit-oil-supply-crisis-deepens-as-nearly-half-of-global-output-comes-from-affected-countries/articleshow/133499798.cms
@@ -1366,6 +1367,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jp-morg
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mcdonalds-nears-elite-dividend-king-status-as-next-hike-looms/articleshow/133341490.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/prediction-platform-kalshi-targets-us-oil-market-with-perpetual-wti-oil-futures-perps-contracts/articleshow/133718527.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-richard-thaler-if-we-use-prediction-as-the-measure-of-a-model-traditional-finance-makes-precisely-wrong-predictions/articleshow/133182750.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindler-q2-sales-miss-expectations-as-weak-china-market-drags/articleshow/132531543.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms
@@ -1393,6 +1395,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-st-after-nvidia-quells-ai-fears/articleshow/133570053.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-rise-as-nvidia-revives-ai-rally-fed-outlook-in-focus/articleshow/133577997.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-drift-amid-jobs-data-iran-war-escalation/articleshow/133712281.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-raise-september-jitters/articleshow/133691517.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-near-flat-as-hot-inflation-data-clouds-fed-rate-outlook/articleshow/133550754.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms
@@ -1551,6 +1554,7 @@ https://www.livemint.com/market/gold-jumps-most-since-february-on-hormuz-technic
 https://www.livemint.com/market/gold-nears-4-400-as-traders-weigh-fed-interest-rate-path-11786897865527.html
 https://www.livemint.com/market/gold-pares-gains-to-trade-steady-as-oil-rises-on-iran-proposal-to-bar-hostile-vessels-in-hormuz-11786044628603.html
 https://www.livemint.com/market/gold-rally-eases-as-traders-turn-focus-to-fed-interest-rate-path-11787775547971.html
+https://www.livemint.com/market/gold-rebounds-over-1-as-us-dollar-yields-pull-back-from-highs-11788374320488.html
 https://www.livemint.com/market/gold-retreats-on-profit-taking-after-hitting-two-month-peak-following-inflation-data-11786647773501.html
 https://www.livemint.com/market/gold-rises-to-near-4-400-as-weak-retail-data-weighs-on-dollar-11786937454532.html
 https://www.livemint.com/market/gold-rises-to-over-two-month-peak-as-us-inflation-data-dampens-rate-hike-bets-11786560770348.html
@@ -2223,6 +2227,7 @@ https://www.livemint.com/market/stock-market-news/oil-tops-90-as-inflation-fears
 https://www.livemint.com/market/stock-market-news/ongc-subsidiary-mrpl-share-price-surges-13-on-stellar-q1-results-of-the-psu-stock-swings-to-profit-from-loss-11784189675890.html
 https://www.livemint.com/market/stock-market-news/oracle-financial-services-share-price-jumps-5-on-strong-q1-results-should-you-buy-sell-or-hold-ofss-share-11784778345151.html
 https://www.livemint.com/market/stock-market-news/over-45-returns-in-one-month-now-double-delight-of-bonus-share-and-dividend-check-record-date-ratio-11787906215782.html
+https://www.livemint.com/market/stock-market-news/palo-alto-networks-stock-price-news-shares-plunge-11-despite-strong-fiscal-fourth-quarter-results-11788370555808.html
 https://www.livemint.com/market/stock-market-news/paluck-technologies-ipo-bse-sme-declares-ipo-opening-date-fixes-price-band-at-rs-46-to-rs-48-11787582226301.html
 https://www.livemint.com/market/stock-market-news/paytm-board-to-consider-first-ever-bonus-issue-along-with-q1fy27-results-on-this-date-check-details-11784193089008.html
 https://www.livemint.com/market/stock-market-news/paytm-q1-results-net-profit-jumps-79-revenue-up-28-board-opts-not-to-proceed-with-bonus-shares-11784566956897.html
