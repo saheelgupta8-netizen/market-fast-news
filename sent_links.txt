@@ -1163,6 +1163,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-i
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-logan-calls-for-modestly-higher-interest-rates/articleshow/132444805.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-higher-rates-possibly-needed-in-near-term/articleshow/132372366.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-safety-premium-for-treasuries-is-gone-pushing-neutral-rate-higher/articleshow/133743982.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-ties-rising-bond-yields-to-strong-economy-cnbc-reports/articleshow/133713712.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-unquestionably-too-high-inflation-may-soon-subside/articleshow/132416743.cms
@@ -1264,6 +1265,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japan
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rallies-after-steep-decline-as-focus-turns-to-tech-results/articleshow/132530282.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-today-asian-stocks-mixed-oil-extends-gains/articleshow/133167545.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/gold-jumps-2-as-fed-governor-wallers-comments-temper-rate-hike-bets/articleshow/133744754.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a-bigger-space-opportunity-beyond-launch-providers/articleshow/132800299.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/guidance-cut-expected-infosys-may-not-have-good-news-for-investors-in-q1-results/articleshow/132556107.cms
@@ -1438,6 +1440,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-raise-september-jitters/articleshow/133691517.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-near-flat-as-hot-inflation-data-clouds-fed-rate-outlook/articleshow/133550754.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-iran-war-escalation-sends-oil-prices-up/articleshow/133654622.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-jump-as-waller-comments-ease-rate-hike-fears/articleshow/133745833.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-after-feds-waller-signals-patience-on-rate-policy/articleshow/133737976.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-tech-stocks-rebound-before-nvidia-results-data/articleshow/133513060.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms
