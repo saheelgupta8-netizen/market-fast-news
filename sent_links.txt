@@ -34,6 +34,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-r
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-recover-on-softer-us-rate-outlook-oil-risk-caps-gains/articleshow/132416718.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-oil-shrugs-off-us-sanctions-concerns/articleshow/133510180.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-oil-spike-index-entry-uncertainty/articleshow/132461489.cms
+https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-for-third-week-tracking-oil-global-debt-rout/articleshow/133762455.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-on-oil-spike-bargain-hunters-curb-losses/articleshow/132552806.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-on-fed-rate-hike-bets-benchmark-trades-at-discount/articleshow/133645246.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-steady-after-swinging-with-oil/articleshow/132515342.cms
@@ -397,6 +398,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrip-files-ipo-pape
 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-enterprises-ipo-gmp-hints-at-10-listing-gains-know-important-dates-other-details/articleshow/132597446.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-enterprises-ipo-listing-tomorrow-heres-what-gmp-indicates-ahead-of-market-debut/articleshow/132846312.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-ipo-how-an-acquisition-spree-will-consume-most-of-its-rs-8000-crore-fresh-issue/articleshow/132598176.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/mega-nse-ipo-coming-as-sebi-approves-rs-30000-crore-public-offer/articleshow/133761306.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-allotment-likely-today-gmp-hints-at-19-listing-heres-how-to-check-your-status/articleshow/133228215.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-day-3-gmp-signals-to-15-listing-upside-should-you-subscribe/articleshow/133195985.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-ipo-day-2-dairy-firms-rs-1553-crore-ipo-gets-fully-subscribed-check-latest-gmp/articleshow/133176200.cms
@@ -421,6 +423,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-day
 https://economictimes.indiatimes.com/markets/ipos/fpos/ndr-invit-trust-files-draft-papers-for-rs-750-crore-ipo/articleshow/133158157.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-coming-soon-should-investors-buy-unlisted-shares-now-or-wait-for-the-mega-issue/articleshow/133499038.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-sebi-approval-likely-soon-says-chairman-tuhin-kanta-pandey/articleshow/133572343.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/nse-likely-to-price-ipo-around-rs-1800-list-by-september-25-sources/articleshow/133763785.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut/articleshow/132453386.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms
@@ -474,6 +477,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-
 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-opens-tomorrow-gmp-signals-16-listing-gain-check-price-band-key-dates-details/articleshow/132355776.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-to-open-today-check-brokerages-review-gmp-subscription-staus-and-other-details/articleshow/132379424.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-reduces-ipo-size-to-rs-9812-crore-after-pre-offer-placement-will-it-impact-listing-gains/articleshow/132361142.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-3-ipos-of-cosmic-pv-monomark-rkb-global-along-with-nse/articleshow/133764555.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-7-ipos-including-jio-platforms-paras-healthcare-and-bharat-pet/articleshow/133590542.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-clears-ipos-of-intellius-recode-nityas-gems-jewellery/articleshow/132606906.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-reviewing-ipo-rules-for-smaller-companies-and-delisting-norms-tuhin-kanta-pandey/articleshow/133340819.cms
@@ -1031,6 +1035,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-cipla-other-
 https://economictimes.indiatimes.com/markets/stocks/news/sunshine-pictures-shares-set-for-debut-today-gmp-signals-14-listing-gains/articleshow/133487607.cms
 https://economictimes.indiatimes.com/markets/stocks/news/swan-defence-shares-rise-3-after-securing-order-from-denmarks-svitzer/articleshow/132985320.cms
 https://economictimes.indiatimes.com/markets/stocks/news/swiggy-contra-view-why-jm-financial-downgraded-the-stock-to-sell-despite-strong-q1-results/articleshow/132760664.cms
+https://economictimes.indiatimes.com/markets/stocks/news/swiggy-sees-4-equity-change-hands-in-block-deals-shares-gain-2-5/articleshow/133763789.cms
 https://economictimes.indiatimes.com/markets/stocks/news/swiggys-60000-crore-breakeven-challenge-can-instamart-grow-without-restarting-the-cash-war/articleshow/133019933.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-shares-in-focus-after-kenya-president-orders-an-end-to-production-in-the-country-heres-why/articleshow/133751065.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-crash-6-after-weak-q1-results-why-motilal-oswal-sees-16-downside-from-current-levels/articleshow/132405822.cms
@@ -1863,6 +1868,7 @@ https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-status-mv-el
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-day-2-check-latest-ipo-gmp-ipo-subscription-status-and-other-details-apply-or-not-11785468704924.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-gmp-today-jumps-on-strong-subscription-status-review-apply-or-not-11785727200316.html
 https://www.livemint.com/market/ipo/nse-ipo-nse-ipo-news-nse-ipo-date-11786694374266.html
+https://www.livemint.com/market/ipo/nse-ipo-opportunity-five-stocks-holding-unlisted-nse-shares-11788524084301.html
 https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html
 https://www.livemint.com/market/ipo/oneindig-technologies-ipo-allotment-to-be-finalised-today-ipo-gmp-steps-to-check-allotment-status-online-for-sme-ipo-11785814952122.html
 https://www.livemint.com/market/ipo/optimystix-entertainment-ipo-day-1-issue-booked-34-so-far-check-gmp-issue-details-key-dates-11786088221432.html
@@ -1901,6 +1907,7 @@ https://www.livemint.com/market/ipo/sbi-funds-management-ipo-listing-date-tomorr
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-sbi-shareholders-can-apply-in-two-categories-and-improve-their-allotment-chances-here-s-how-11784005966148.html
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-valuation-discount-private-credit-aif-analysis-11783926747358.html
 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-vs-alpine-texworld-ipo-which-issue-should-you-subscribe-check-what-latest-ipo-gmp-signals-11784014546840.html
+https://www.livemint.com/market/ipo/sebi-approves-30-000-crore-nse-ipo-details-here-11788522331342.html
 https://www.livemint.com/market/ipo/secl-ipo-coal-india-subsidiary-10000-crore-ipo-11786519217430.html
 https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html
 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-allotment-to-be-finalised-today-latest-gmp-step-by-step-guide-to-check-status-11787292795443.html
@@ -2321,7 +2328,10 @@ https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-glob
 https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-must-know-before-opening-bell-of-the-indian-stock-market-11786587204512.html
 https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-must-know-before-opening-bell-of-the-indian-stock-market-11786674649475.html
 https://www.livemint.com/market/stock-market-news/nithin-kamath-of-zerodha-reveals-the-biggest-challenge-for-stock-brokers-find-here-11784794848281.html
+https://www.livemint.com/market/stock-market-news/nse-ipo-gets-sebi-approval-11788524204569.html
+https://www.livemint.com/market/stock-market-news/nse-ipo-gmp-today-latest-price-shows-rs-200-premium-per-share-as-sebi-okays-much-awaited-rs-30-000-cr-public-issue-11788524858169.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-impact-ifci-share-price-jumps-over-8-to-record-high-today-what-is-fuelling-the-rally-in-this-nbfc-psu-stock-11788500335644.html
+https://www.livemint.com/market/stock-market-news/nse-ipo-listing-date-timeline-when-rs-30-000-cr-issue-is-expected-to-hit-indian-stock-market-exchanges-11788527362527.html
 https://www.livemint.com/market/stock-market-news/nse-sme-stock-set-for-mainboard-listing-close-to-52-week-high-after-q1fy27-results-11786353510282.html
 https://www.livemint.com/market/stock-market-news/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut-11784265668784.html
 https://www.livemint.com/market/stock-market-news/ntpc-dividend-2026-last-day-to-buy-alert-check-amount-per-share-and-payment-date-for-psu-stock-11788234085470.html
