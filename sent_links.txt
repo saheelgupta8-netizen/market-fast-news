@@ -110,6 +110,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-retreats-from
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-for-third-straight-session-inflation-prints-in-focus/articleshow/133140296.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-after-robust-us-payrolls-boosts-rate-hike-bets/articleshow/133787001.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-below-rs-1-55-lakh/10-gm-on-mcx-but-global-prices-extend-gains-whats-next/articleshow/133311524.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-heads-for-third-straight-weekly-gain/articleshow/133390749.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-touches-highest-level-since-mid-may-as-buying-momentum-builds/articleshow/133487101.cms
@@ -126,6 +127,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fadi
 https://economictimes.indiatimes.com/markets/commodities/news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/articleshow/133195813.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-investors-weigh-uncertainty-over-u-s-iran-strikes/articleshow/133723219.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-ends-week-higher-on-renewed-us-iran-strikes-diesel-hits-record/articleshow/133786882.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-ahead-of-us-announcement-on-new-iran-sanctions/articleshow/133449264.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms
@@ -362,6 +364,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-5-companies-to-r
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-six-companies-eye-nearly-rs-5600-cr-next-week/articleshow/133270086.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-soon-reliances-telecom-arm-gets-sebi-nod-for-rs-37000-crore-offering/articleshow/133590054.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platform-gets-sebis-nod-for-rs-37000-crore-ipo/articleshow/133603362.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-sets-eyes-on-navratri-diwali-period-to-launch-mega-4-billion-ipo/articleshow/133748942.cms
@@ -462,6 +465,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-f
 https://economictimes.indiatimes.com/markets/ipos/fpos/realty-company-assetz-to-take-confidential-route-for-ipo/articleshow/132781819.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-7-risk-factors-investors-should-know-as-firm-gets-sebi-nod-for-rs-37000-crore-issue/articleshow/133608417.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-set-to-go-public-at-rs-4246-crore-valuation-set-to-raise-rs-1256-crore-via-ipo/articleshow/133787663.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/returns-speak-a-lot-for-gaja-alternative-asset-management-as-funding-stays-a-risky-bet/articleshow/133334804.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/robust-bidding-sbi-funds-management-sees-rs-2-98-lakh-crore-investor-rush-for-rs-9813-crore-ipo/articleshow/132441025.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rs-21000-crore-ipo-rush-in-august-highest-in-one-year-will-september-break-all-records/articleshow/133450843.cms
@@ -926,6 +930,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these
 https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms
 https://economictimes.indiatimes.com/markets/stocks/news/new-trade-rules-raise-compliance-worries-for-banks-over-cross-border-payments/articleshow/133665342.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-23800-level-on-gulf-war-ripples/articleshow/132618691.cms
+https://economictimes.indiatimes.com/markets/stocks/news/nifty-ends-below-24000-for-4th-week-of-losses/articleshow/133787443.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-to-hit-27000-in-one-year-pl-capital-says-middle-east-crisis-el-nino-can-play-a-spoil-sport-names-15-top-picks/articleshow/132415415.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms
 https://economictimes.indiatimes.com/markets/stocks/news/northern-arc-capital-jumps-10-after-rs-335-crore-block-deal-should-you-buy/articleshow/133648534.cms
@@ -1145,6 +1150,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-cr
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-to-beat-spacex-investors-bet-on-2-trillion-valuation-in-record-ipo/articleshow/133206890.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/apollo-global-debt-deal-fees-and-insurance-earnings-rise-asset-sales-drag/articleshow/132866465.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-spends-down-cash-pile-under-ceo-greg-abel/articleshow/133062858.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-sees-oil-as-low-as-40-post-iran-war-lower-yields/articleshow/133787900.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/campbells-forecasts-weak-year-ahead-on-pressured-consumer-spending/articleshow/133738920.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/chevron-expands-venezuela-presence-with-7-billion-plan-to-double-oil-output-in-five-years/articleshow/133719199.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-ai-chipmaker-enflame-aims-to-raise-908-million-after-setting-shanghai-ipo-price/articleshow/133654385.cms
