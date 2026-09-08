@@ -184,6 +184,7 @@ https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-30-as-
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-below-78000-as-crypto-market-faces-correction-after-warshs-jackson-hole-comments/articleshow/133608563.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-below-63000-to-a-two-week-low-as-weak-coinbase-earnings-and-fading-optimism-weigh-on-sentiment/articleshow/132783427.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-79k-ahead-of-us-pce-gdp-data-whales-book-record-1-2-billion-profit-in-3-days/articleshow/133536752.cms
+https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-below-79000-ahead-of-us-inflation-data-heres-whats-weighing-on-crypto/articleshow/133923576.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-63k-ahead-of-fed-rate-decision-as-investors-assess-liquidity-outlook/articleshow/133293649.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63k-ethereum-below-1900-as-softer-us-inflation-fails-to-ease-crypto-market-pressure/articleshow/133206294.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-below-80000-after-kevin-warshs-inflation-vow/articleshow/133651842.cms
@@ -241,6 +242,7 @@ https://economictimes.indiatimes.com/markets/forex/rupee-climbs-to-one-month-pea
 https://economictimes.indiatimes.com/markets/forex/rupee-dips-on-week-as-oil-pangs-linger-intervention-prevents-fall-past-96/usd/articleshow/133401294.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-ends-flat-as-merchant-bids-oil-blunt-comfort-from-modest-inflows/articleshow/132413332.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-ends-flat-hemmed-in-by-rbi-intervention-oil-pangs/articleshow/133876884.cms
+https://economictimes.indiatimes.com/markets/forex/rupee-endures-sharpest-fall-in-over-a-month-as-brent-oil-barrels-towards-100/articleshow/133921004.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-firms-as-oil-retreats-traders-gauge-flow-momentum-under-rbi-measures/articleshow/132530051.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-hits-one-month-low-as-renewed-mideast-conflict-lifts-oil-prices/articleshow/132358838.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/16-ipos-on-investors-radar-next-week-gmps-signal-up-to-38-returns/slideshow/133833526.cms
@@ -450,6 +452,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-day
 https://economictimes.indiatimes.com/markets/ipos/fpos/ndr-invit-trust-files-draft-papers-for-rs-750-crore-ipo/articleshow/133158157.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-grey-market-premium-soars-on-sebis-ipo-approval/articleshow/133857380.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-coming-soon-should-investors-buy-unlisted-shares-now-or-wait-for-the-mega-issue/articleshow/133499038.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-likely-to-open-on-september-18-list-on-september-25-sources/articleshow/133925934.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-sebi-approval-likely-soon-says-chairman-tuhin-kanta-pandey/articleshow/133572343.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-set-to-deliver-massive-gains-to-state-run-insurance-firms/articleshow/133857192.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-likely-to-price-ipo-around-rs-1800-list-by-september-25-sources/articleshow/133763785.cms
@@ -908,6 +911,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/hudco-shares-jump-4-aft
 https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank-among-top-bank-picks-by-axis-direct-after-q1-earnings-season/slideshow/133398012.cms
 https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-shares-rise-3-after-q1-results-why-bernstein-and-4-other-brokerages-see-up-to-32-upside/articleshow/132505591.cms
 https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-prudential-corporation-to-divest-up-to-2-equity-stock-up-49-from-ipo-price/articleshow/133539621.cms
+https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-crash-11-amid-price-concerns-as-fairfax-deal-moves-closer/articleshow/133918985.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-6-as-nse-ipo-buzz-lifts-sentiment-stock-gains-35-in-a-month/articleshow/133753028.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-6-turn-multibagger-as-nse-ipo-gets-sebi-nod-more-upside-ahead/articleshow/133865991.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-over-16-in-two-days-as-nse-ipo-draws-closer/articleshow/133726469.cms
@@ -954,6 +958,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-exe
 https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-list-at-11-premium-to-beat-gmp-estimates-what-should-allotted-investors-do/articleshow/132895118.cms
 https://economictimes.indiatimes.com/markets/stocks/news/manorama-industries-shares-surge-over-8-after-strong-q1-results/articleshow/133230940.cms
 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-beml-among-4-stock-recommendations-for-wednesday/slideshow/133686279.cms
+https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-hul-icici-bank-axis-bank-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/133923188.cms
 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mazagon-dock-shipbuilders-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133020113.cms
 https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-as-gold-silver-futures-rise-what-lies-ahead-after-a-900-rally-in-3-years/articleshow/133370940.cms
@@ -1238,6 +1243,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-mark
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-intel-oracle-stock-price-news-2nd-july-2026/liveblog/132605239.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-sk-hynix-deckers-outdoor-stock-price-news-13-july-2026/liveblog/132366645.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-intel-amd-robinhood-hut-8-exxon-mobil-devon-energy-stock-price-news-1st-september-2026/liveblog/133681169.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-intel-coinbase-stock-price-news-8th-september-2026/liveblog/133925001.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-rate-bonds-yields-micron-sandisk-amd-intel-chip-stock-price-news-18th-august-2026/liveblog/133322350.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-earnings-forecast-spacex-palantir-tech-caterpillar-marvell-chip-stock-price-news-4th-august-2026/liveblog/132860524.cms
@@ -1324,6 +1330,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-europe
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-little-changed-as-bond-yields-rise-and-gulf-tensions-lift-oil/articleshow/133399383.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-iran-tensions-lift-sentiment-energy-stocks-slide/articleshow/132825560.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-oil-surge-fuels-inflation-fears-novartis-plunges/articleshow/133918218.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-rising-oil-prices-bond-yields-weigh-on-sentiment/articleshow/133316942.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-set-for-weekly-loss-as-oil-surge-earnings-keep-investors-cautious/articleshow/132601866.cms
@@ -1745,6 +1752,7 @@ https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-h
 https://www.livemint.com/market/gold-tops-4-600-as-investors-weigh-fed-path-before-jackson-hole-11787865436959.html
 https://www.livemint.com/market/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates-11786940446270.html
 https://www.livemint.com/market/goldmans-moe-sees-80-upside-for-korean-stocks-on-memory-boom-11788738918997.html
+https://www.livemint.com/market/hang-seng-index-kospi-reverse-intraday-gains-as-oil-nears-100-what-investors-need-to-know-before-markets-open-tomorro-11788865165593.html
 https://www.livemint.com/market/hedge-funds-add-bullish-bets-on-oil-at-fastest-pace-since-march-11785532739554.html
 https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html
 https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html
@@ -1819,6 +1827,7 @@ https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-2-issue-su
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-3-issue-subscribed-1-67x-so-far-check-gmp-issue-details-review-11784887100794.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-opens-today-cube-highways-trust-invit-ipo-gmp-subscription-status-review-key-details-11784701460610.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-price-band-set-at-rs-151-152-per-unit-check-gmp-key-dates-issue-details-11784181306975.html
+https://www.livemint.com/market/ipo/current-ipo-gmps-open-now-kanohar-electricals-vs-prasol-chemicals-vs-glass-walls-subscription-status-11788869932975.html
 https://www.livemint.com/market/ipo/deepa-jewellers-ipo-allotment-status-check-online-by-pan-number-on-bse-nse-bigshare-gmp-today-after-42x-11788491594756.html
 https://www.livemint.com/market/ipo/deepa-jewellers-ipo-day-1-gmp-signals-31-listing-gain-should-you-apply-for-460-crore-issue-11788230420609.html
 https://www.livemint.com/market/ipo/deepa-jewellers-ipo-day-2-gmp-hints-25-listing-gain-check-subscription-review-key-dates-apply-or-skip-11788313439516.html
@@ -1952,6 +1961,7 @@ https://www.livemint.com/market/ipo/manipal-health-enterprises-ipo-gmp-manipal-h
 https://www.livemint.com/market/ipo/manipal-health-enterprises-ipo-price-band-set-at-rs-560-590-per-share-check-key-dates-issue-details-11784861402169.html
 https://www.livemint.com/market/ipo/manipal-hospitals-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11785832927675.html
 https://www.livemint.com/market/ipo/manipal-hospitals-is-said-to-cut-ipo-valuation-from-10-12-billion-estimated-earlier-11784276077761.html
+https://www.livemint.com/market/ipo/merchant-banks-talent-regulatory-compliance-ipos-primary-markets-left-lead-professionals-sebi-11788844291475.html
 https://www.livemint.com/market/ipo/metalic-technoforge-ipo-day-1-issue-subscribed-26-so-far-metalic-technoforge-ipo-gmp-metalic-technoforge-ipo-detail-11784622797989.html
 https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-allotment-date-gmp-jumps-following-strong-subscription-status-how-to-check-allotment-status-11786677877692.html
 https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786595602005.html
@@ -2671,6 +2681,7 @@ https://www.livemint.com/market/stock-market-news/us-fed-chair-warshs-speech-to-
 https://www.livemint.com/market/stock-market-news/us-fed-meeting-to-q1-results-fy27-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11785031656378.html
 https://www.livemint.com/market/stock-market-news/us-fed-rate-decision-what-markets-are-watching-ahead-of-september-meeting-11788781533247.html
 https://www.livemint.com/market/stock-market-news/us-federal-reserve-chair-kevin-warsh-advocate-for-a-quieter-fed-why-forward-guidance-criticism-amid-lack-communication-11787928220342.html
+https://www.livemint.com/market/stock-market-news/us-market-prediction-s-p-500-dow-futures-slip-as-middle-east-tensions-push-oil-towards-100-11788869204042.html
 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-steady-after-3-week-winning-streak-oil-rises-on-hormuz-risks-11786969512356.html
 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-as-oil-retreats-intel-jumps-4-11784894223255.html
 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-edge-lower-as-chip-stocks-retreat-crude-oil-extends-gains-11784202841025.html
