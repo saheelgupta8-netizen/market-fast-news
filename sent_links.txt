@@ -15,6 +15,7 @@ https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-up
 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-little-changed-as-oil-prices-steady/articleshow/133203702.cms
 https://economictimes.indiatimes.com/markets/bonds/fairfax-picks-up-half-of-3-year-government-bonds-at-auction/articleshow/132473875.cms
 https://economictimes.indiatimes.com/markets/bonds/foreign-investors-marginally-offload-china-onshore-bonds-in-june/articleshow/132451802.cms
+https://economictimes.indiatimes.com/markets/bonds/foreigners-pull-out-money-from-govt-bonds-after-2-months-of-buys/articleshow/133946339.cms
 https://economictimes.indiatimes.com/markets/bonds/global-bond-selloff-deepens-as-inflation-risks-oil-prices-jolt-markets/articleshow/133699705.cms
 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-gives-up-post-policy-gains-as-oil-moves-rbi-swap-pullback-weigh/articleshow/133322151.cms
 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-slumps-to-lowest-in-nearly-a-month-as-middle-east-oil-risks-heat-up/articleshow/132509213.cms
@@ -218,6 +219,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-ends-
 https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-gains-as-oil-comes-off-inflows-rbi-intervention-in-focus/articleshow/132534364.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/interventions-hold-rupee-on-narrow-leash-traders-await-us-sanctions-on-iran/articleshow/133461311.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias/articleshow/132364812.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/oils-climb-to-100-pushes-rupee-lower/articleshow/133947008.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-shields-rupee-in-face-of-oil-hedging-strain/articleshow/132603138.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms
@@ -829,6 +831,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/deepa-jewellers-shares-
 https://economictimes.indiatimes.com/markets/stocks/news/deepfake-scam-rattles-sky-gold-as-subsidiary-suffers-rs-11-crore-loss-after-unauthorised-fund-transfer/articleshow/132451985.cms
 https://economictimes.indiatimes.com/markets/stocks/news/defence-exports-rise-after-operation-sindoor-jefferies-names-solar-astra-hal-and-bel-as-top-stock-picks/articleshow/133906926.cms
 https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms
+https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-rally-as-dac-clears-rs-1-10-lakh-crore-acquisition-proposals/articleshow/133946794.cms
 https://economictimes.indiatimes.com/markets/stocks/news/demat-account-additions-hit-7-month-high-in-august-as-ipo-boom-draws-investors/articleshow/133856460.cms
 https://economictimes.indiatimes.com/markets/stocks/news/devyani-international-shares-rally-4-after-revision-in-sapphire-foods-merger-plan/articleshow/133556635.cms
 https://economictimes.indiatimes.com/markets/stocks/news/dhoot-transmission-shares-set-for-debut-today-gmp-signals-potential-30-listing-premium/articleshow/133284973.cms
@@ -1374,6 +1377,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-q2-gdp-beats-estimates-on-chip-exports-semiconductor-stocks-in-focus/articleshow/132571582.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-waver-as-yen-surges-iran-warns-of-retaliation/articleshow/133903179.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-chip-stocks-rise-oil-climbs-towards-100/articleshow/133947565.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-markets-tumble-as-us-iran-fighting-lifts-oil-and-bond-yields/articleshow/133694847.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-advance-oil-rises-on-middle-east-concerns/articleshow/133308986.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-dollar-dips-as-fed-hike-bets-ease/articleshow/133284332.cms
@@ -1616,6 +1620,7 @@ https://www.livemint.com/market/buyout-funds-look-beyond-india-ipos-as-vintage-a
 https://www.livemint.com/market/caliber-mining-and-logistics-ipo-issue-received-a-solid-response-on-day-01-booked-1-3-times-11784290858915.html
 https://www.livemint.com/market/canadian-dollar-hits-near-3-month-high-as-oil-prices-climb-11787252930972.html
 https://www.livemint.com/market/cbot-grains-soybeans-fall-as-oil-drops-on-iran-hopes-11785869727323.html
+https://www.livemint.com/market/china-ipo-frenzy-nets-lucky-few-six-months-pay-in-one-day-11788915849100.html
 https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html
 https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-manishi-raychaudhuri-11786316493048.html
 https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html
@@ -1742,6 +1747,7 @@ https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed
 https://www.livemint.com/market/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech-11787532550012.html
 https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html
 https://www.livemint.com/market/gold-holds-biggest-drop-in-over-two-months-on-fed-rate-hike-bets-11788143018035.html
+https://www.livemint.com/market/gold-holds-decline-as-mideast-tensions-bolster-rate-hike-case-11788915853837.html
 https://www.livemint.com/market/gold-holds-decline-as-traders-weigh-prospects-for-fed-rate-hike-11788738919831.html
 https://www.livemint.com/market/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns-11787703222112.html
 https://www.livemint.com/market/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds-11785974807479.html
