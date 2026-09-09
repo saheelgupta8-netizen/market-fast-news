@@ -240,6 +240,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-past-
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-steady-as-oil-firms-buy-dollars/articleshow/133046429.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-41-after-oil-cools/articleshow/133526951.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakens-to-two-month-low-as-oil-climbs-state-run-banks-cushion/articleshow/132507326.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-rbi-backed-rally-falters-slips-past-95-on-oil-slowing-intervention/articleshow/133956983.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-edges-up-as-traders-push-back-fed-rate-hike-bets/articleshow/133284775.cms
 https://economictimes.indiatimes.com/markets/forex/oil-fall-lifts-rupee-to-over-one-week-high-after-central-bank-keeps-lid-on-losses/articleshow/133505392.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-anchored-by-central-bank-hand-traders-watchful-of-oil-ructions/articleshow/133089685.cms
@@ -277,6 +278,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/arcil-sets-price-band-at-
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-allotment-today-gmp-signals-30-listing-gain-heres-how-to-check-status/articleshow/133080145.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-gmp-rises-to-13-ahead-of-launch-on-august-5-check-key-details/articleshow/132821014.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-set-to-debut-today-27-gmp-points-to-strong-listing-gains/articleshow/133168112.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/are-nse-unlisted-shareholders-staring-at-losses-heres-what-ipo-pricing-indicates/articleshow/133965638.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/asset-reconstruction-company-ipo-to-open-on-september-9-check-details/articleshow/133707635.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-day-2-gmp-jumps-to-48-issue-subscribed-2-74x-should-you-subscribe/articleshow/133450931.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-day-3-gmp-at-42-issue-subscribed-14-46x-should-you-apply/articleshow/133489339.cms
@@ -934,6 +936,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank
 https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-shares-rise-3-after-q1-results-why-bernstein-and-4-other-brokerages-see-up-to-32-upside/articleshow/132505591.cms
 https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-prudential-corporation-to-divest-up-to-2-equity-stock-up-49-from-ipo-price/articleshow/133539621.cms
 https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-crash-11-amid-price-concerns-as-fairfax-deal-moves-closer/articleshow/133918985.cms
+https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-fall-4-on-reports-of-lower-price-band-for-nse-ipo/articleshow/133955883.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-6-as-nse-ipo-buzz-lifts-sentiment-stock-gains-35-in-a-month/articleshow/133753028.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-6-turn-multibagger-as-nse-ipo-gets-sebi-nod-more-upside-ahead/articleshow/133865991.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-over-16-in-two-days-as-nse-ipo-draws-closer/articleshow/133726469.cms
@@ -1348,6 +1351,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-emergi
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-decline-as-falling-oil-prices-boost-market-sentiment/articleshow/132826355.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-ease-after-multi-year-highs-as-oil-retreats-below-100/articleshow/132601832.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-lenders-brace-for-solid-q2-results-despite-geopolitical-uncertainty/articleshow/132530952.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-markets-fall-as-middle-east-tensions-push-oil-prices-higher/articleshow/133962759.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-markets-gain-as-investors-assess-impact-of-iran-sanctions/articleshow/133501875.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-climb-as-earnings-us-iran-diplomacy-lift-sentiment/articleshow/132911978.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-dip-as-fresh-us-iran-strikes-push-oil-bond-yields-higher/articleshow/133649880.cms
@@ -1436,6 +1440,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-survey-finds-
 https://economictimes.indiatimes.com/markets/us-stocks/news/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike/articleshow/133256182.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/oil-up-more-than-2-as-renewed-us-iran-strikes-stoke-supply-fears/articleshow/133684457.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-earnings-ai-growth-openai-deal-and-20-billion-funding-plan/slideshow/133871026.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-amazon-ai-deal-why-the-chipmakers-stock-surged/slideshow/133955258.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/shein-targets-september-1-for-hong-kong-ipo-report/articleshow/133384924.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/sheins-slowing-growth-tests-investor-appetite-ahead-of-hong-kong-ipo/articleshow/133185999.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/six-months-of-conflict-how-the-iran-war-has-reshaped-global-markets/articleshow/133561861.cms
@@ -1798,6 +1803,7 @@ https://www.livemint.com/market/hua-hong-kingboard-zijin-gold-may-join-hong-kong
 https://www.livemint.com/market/iex-q1-results-net-profit-grows-12-yoy-to-rs-135-crore-electricity-volumes-rise-16-11784813721089.html
 https://www.livemint.com/market/india-dividend-payouts-fy26-rise-8-percent-payout-ratio-12-year-low-11786342196867.html
 https://www.livemint.com/market/india-ipo-market-rebound-mnc-listings-bofa-donde-interview-11787727640888.html
+https://www.livemint.com/market/ipo/10-ipos-available-for-subscription-today-which-shows-most-potential-for-listing-gains-check-latest-ipo-gmp-11788932256722.html
 https://www.livemint.com/market/ipo/abh-healthcare-ipo-day-3-issue-booked-83-so-far-check-gmp-issue-details-11787720403740.html
 https://www.livemint.com/market/ipo/advance-technoforge-ipo-listing-sme-stock-makes-muted-debut-extends-losses-details-here-11785731311254.html
 https://www.livemint.com/market/ipo/aegeus-technologies-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11786082575292.html
@@ -1976,6 +1982,7 @@ https://www.livemint.com/market/ipo/lapl-automotive-sme-ipo-listing-shares-debut
 https://www.livemint.com/market/ipo/laser-power-and-infra-ipo-gmp-laser-power-ipo-gmp-laser-power-ipo-subscription-status-laser-power-ipo-review-laser-11783911145853.html
 https://www.livemint.com/market/ipo/laser-power-ipo-gmp-laser-power-ipo-allotment-date-laser-power-infra-ipo-allotment-date-laser-power-infra-11784010765466.html
 https://www.livemint.com/market/ipo/laser-power-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11784095723375.html
+https://www.livemint.com/market/ipo/lcc-projects-ipo-day-1-issue-subscribed-44-so-far-gmp-signals-23-listing-pop-apply-or-not-11788924883901.html
 https://www.livemint.com/market/ipo/leap-india-ipo-allotment-date-in-focus-gmp-final-subscription-status-how-to-check-allotment-status-online-11786505375217.html
 https://www.livemint.com/market/ipo/leap-india-ipo-day-2-issue-subscribed-26-so-far-check-gmp-key-dates-review-apply-or-not-11786332477250.html
 https://www.livemint.com/market/ipo/leap-india-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786421955009.html
@@ -2032,11 +2039,13 @@ https://www.livemint.com/market/ipo/mv-electrosystems-ipo-day-2-check-latest-ipo
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-gmp-today-jumps-on-strong-subscription-status-review-apply-or-not-11785727200316.html
 https://www.livemint.com/market/ipo/nse-ipo-expected-share-price-band-expert-explains-why-it-cant-be-above-rs-1750-maths-here-how-gmp-is-growing-11788838355083.html
 https://www.livemint.com/market/ipo/nse-ipo-gmp-on-fire-even-without-price-band-announcement-check-latest-rate-today-expected-allotment-listing-date-11788762364793.html
+https://www.livemint.com/market/ipo/nse-ipo-latest-gmp-expected-date-and-price-band-current-status-other-news-11788947846421.html
 https://www.livemint.com/market/ipo/nse-ipo-latest-gmp-price-expected-date-of-opening-allotment-to-listing-all-facts-and-news-that-you-must-know-11788584640136.html
 https://www.livemint.com/market/ipo/nse-ipo-live-gmp-on-fire-ahead-of-price-band-announcement-expected-date-other-details-about-mega-rs-30-000-crore-ipo-11788852740924.html
 https://www.livemint.com/market/ipo/nse-ipo-live-updates-what-latest-gmp-signals-for-listing-expected-share-price-band-in-rs-1700-range-opening-date-news-11788926345214.html
 https://www.livemint.com/market/ipo/nse-ipo-nse-ipo-news-nse-ipo-date-11786694374266.html
 https://www.livemint.com/market/ipo/nse-ipo-opportunity-five-stocks-holding-unlisted-nse-shares-11788524084301.html
+https://www.livemint.com/market/ipo/nse-ipo-will-not-be-of-rs-30000-cr-why-reduced-ofs-could-bring-down-the-overall-issue-size-11788952136045.html
 https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html
 https://www.livemint.com/market/ipo/oneindig-technologies-ipo-allotment-to-be-finalised-today-ipo-gmp-steps-to-check-allotment-status-online-for-sme-ipo-11785814952122.html
 https://www.livemint.com/market/ipo/optimystix-entertainment-ipo-day-1-issue-booked-34-so-far-check-gmp-issue-details-key-dates-11786088221432.html
@@ -2104,6 +2113,7 @@ https://www.livemint.com/market/ipo/silverstorm-parks-and-resorts-ipo-gmp-subscr
 https://www.livemint.com/market/ipo/silverstorm-parks-and-resorts-ipo-listing-shares-debut-almost-flat-sme-stock-11785471805703.html
 https://www.livemint.com/market/ipo/skyways-air-services-ipo-day-1-live-gmp-subscription-status-price-review-other-details-apply-or-not-11787505436869.html
 https://www.livemint.com/market/ipo/skyways-air-services-ipo-price-band-set-at-rs-131-rs-138-per-share-check-key-dates-issue-details-11786677095544.html
+https://www.livemint.com/market/ipo/sme-ipo-mainboard-migration-rules-india-11788927944335.html
 https://www.livemint.com/market/ipo/sotefin-bharat-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-for-sme-ipo-11784606997584.html
 https://www.livemint.com/market/ipo/sotefin-bharat-ipo-day-1-gmp-hints-at-modest-listing-gains-10-key-points-of-bse-sme-ipo-11784182257363.html
 https://www.livemint.com/market/ipo/sotefin-bharat-ipo-listing-shares-hit-upper-circuit-after-listing-at-a-10-premium-details-here-11784782273860.html
@@ -2374,6 +2384,7 @@ https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex
 https://www.livemint.com/market/stock-market-news/gold-stock-why-augmont-enterprises-is-shining-despite-pm-modi-avoid-gold-appeal-and-us-iran-tension-11788335967894.html
 https://www.livemint.com/market/stock-market-news/government-signals-more-psu-stake-sales-after-hindustan-copper-ofs-report-11787677668931.html
 https://www.livemint.com/market/stock-market-news/groww-q1-results-net-profit-jumps-94-to-rs-735-crore-revenue-grows-66-yoy-11784097477198.html
+https://www.livemint.com/market/stock-market-news/hal-bel-bharat-dynamics-data-patterns-solar-industries-astra-microwave-jefferies-shares-price-targets-full-list-11788943649761.html
 https://www.livemint.com/market/stock-market-news/hal-bel-to-bharat-dynamics-defence-stocks-dip-after-escalation-in-the-us-iran-war-11784521448590.html
 https://www.livemint.com/market/stock-market-news/hal-q1-results-2026-profit-jumps-15-yoy-to-1-590-crore-11786524452419.html
 https://www.livemint.com/market/stock-market-news/hal-shares-rally-45-since-april-is-the-stock-still-attractive-after-q1-earnings-11786626525631.html
@@ -2432,6 +2443,7 @@ https://www.livemint.com/market/stock-market-news/infosys-q1-results-live-infosy
 https://www.livemint.com/market/stock-market-news/infosys-share-price-falls-1-ahead-of-q1-results-2026-should-you-buy-or-sell-the-it-stock-11784775828323.html
 https://www.livemint.com/market/stock-market-news/infosys-share-price-falls-2-5-after-guidance-cut-new-ceo-announcement-during-infosys-q1-results-buy-sell-or-hold-11784862815803.html
 https://www.livemint.com/market/stock-market-news/infra-stock-declares-1-1-bonus-shares-raising-of-share-capital-details-here-11786014557356.html
+https://www.livemint.com/market/stock-market-news/innovision-share-price-jumps-18-after-bagging-nhai-toll-collection-contract-in-madhya-pradesh-11788934592041.html
 https://www.livemint.com/market/stock-market-news/ipobound-oyo-parent-prisms-profit-jumps-fourfold-to-rs-994-crore-in-fy26-11787845751761.html
 https://www.livemint.com/market/stock-market-news/ipobound-phonepe-declares-11-5-yearly-growth-in-revenue-to-7-920-crore-in-fy26-11785052165688.html
 https://www.livemint.com/market/stock-market-news/irctc-q1-results-revenue-rises-18-profit-remains-largely-flat-at-rs-330-crore-11786550554016.html
@@ -2527,6 +2539,8 @@ https://www.livemint.com/market/stock-market-news/nse-ipo-gets-sebi-approval-117
 https://www.livemint.com/market/stock-market-news/nse-ipo-gmp-today-latest-price-shows-rs-200-premium-per-share-as-sebi-okays-much-awaited-rs-30-000-cr-public-issue-11788524858169.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-impact-ifci-share-price-jumps-over-8-to-record-high-today-what-is-fuelling-the-rally-in-this-nbfc-psu-stock-11788500335644.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-listing-date-timeline-when-rs-30-000-cr-issue-is-expected-to-hit-indian-stock-market-exchanges-11788527362527.html
+https://www.livemint.com/market/stock-market-news/nse-ipo-new-india-assurance-to-sell-1-05-crore-shares-in-the-upcoming-mega-ofs-details-here-11788944435862.html
+https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-size-valuation-11788934879448.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-to-us-iran-war-3-reasons-why-sensex-nifty-may-see-a-flat-to-weak-start-on-monday-indian-markets-outlook-11788695794967.html
 https://www.livemint.com/market/stock-market-news/nse-sme-stock-set-for-mainboard-listing-close-to-52-week-high-after-q1fy27-results-11786353510282.html
 https://www.livemint.com/market/stock-market-news/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut-11784265668784.html
@@ -2604,6 +2618,7 @@ https://www.livemint.com/market/stock-market-news/retail-investors-secondary-mar
 https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-results-preview-o2c-reliance-jio-to-drive-earnings-key-things-to-watch-out-for-11784187766702.html
 https://www.livemint.com/market/stock-market-news/ril-share-price-jumps-over-2-ahead-of-reliance-q1-results-2026-today-heres-what-to-expect-from-ril-results-11784262485816.html
 https://www.livemint.com/market/stock-market-news/rising-us-bond-yields-or-oil-prices-at-90-per-barrel-which-is-the-bigger-risk-for-stock-markets-11788159795096.html
+https://www.livemint.com/market/stock-market-news/rs-60-per-share-dividend-alert-check-last-date-to-buy-record-date-soon-check-payment-timeline-do-you-own-11788946329675.html
 https://www.livemint.com/market/stock-market-news/rs-94-dividend-declared-after-25-years-share-price-jumps-nearly-10-record-date-fixed-do-you-own-11787894058260.html
 https://www.livemint.com/market/stock-market-news/rs-94-share-dividend-stock-alert-last-chance-to-buy-today-for-the-special-and-interim-benefit-check-payment-date-11788506428351.html
 https://www.livemint.com/market/stock-market-news/rupee-opens-25-paise-higher-at-95-14-against-us-dollar-amid-easing-crude-oil-prices-11785728096824.html
