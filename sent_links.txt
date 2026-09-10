@@ -176,6 +176,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-after
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-near-one-week-highs-as-us-iran-peace-deal-hopes-dim/articleshow/133140238.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-treads-water-as-us-iran-peace-talks-stall-hormuz-shipping-slows/articleshow/133284760.cms
 https://economictimes.indiatimes.com/markets/commodities/news/pace-of-gold-loan-expansion-slows-as-banks-adjust-to-new-regulations/articleshow/133665396.cms
+https://economictimes.indiatimes.com/markets/commodities/news/rbi-explores-tokenising-gold-amid-push-to-expand-unified-markets-interface/articleshow/133988688.cms
 https://economictimes.indiatimes.com/markets/commodities/news/silver-climbs-rs-2100/kg-but-gold-prices-fall-as-focus-shifts-to-inflation-data-amid-iran-war-key-levels-to-track/articleshow/133081450.cms
 https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms
 https://economictimes.indiatimes.com/markets/commodities/news/why-gold-is-showing-signs-of-reversal-after-recent-selling-pressure/articleshow/132619913.cms
@@ -473,6 +474,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-set-to-deliver-ma
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-likely-to-price-ipo-around-rs-1800-list-by-september-25-sources/articleshow/133763785.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-set-to-price-india-ipo-at-rs-1700-to-rs-1785-a-share/articleshow/133935920.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/nse-slashes-ipo-size-to-rs-23500-crore-in-revised-sebi-filing/articleshow/133988238.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut/articleshow/132453386.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/online-instruments-india-gets-sebi-approval-to-float-ipo/articleshow/133407466.cms
@@ -1416,6 +1418,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-oil-rises-after-attacks/articleshow/133857975.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-fed-rate-hike-bets-ease/articleshow/133749050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-to-fall-as-oil-stokes-inflation-fears/articleshow/133989366.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-10-year-gilt-yields-hit-highest-level-since-2008-as-oil-prices-stoke-inflation-fears/articleshow/133673995.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-fast-fashion-giant-shein-shrinks-value-to-up-to-27-billion-in-hong-kong-ipo/articleshow/133466240.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-drops-nearly-3-as-chip-stocks-slide-despite-robust-tsmc-results/articleshow/132433045.cms
@@ -1799,6 +1802,7 @@ https://www.livemint.com/market/gold-set-for-third-weekly-gain-on-us-treasury-bu
 https://www.livemint.com/market/gold-slips-as-renewed-mideast-tensions-keep-fed-hike-bets-alive-11788207528743.html
 https://www.livemint.com/market/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension-11786667005682.html
 https://www.livemint.com/market/gold-steadies-as-traders-weigh-mideast-tensions-and-dollar-moves-11788824285127.html
+https://www.livemint.com/market/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path-11788999951470.html
 https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook-11785815218115.html
 https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar-11787164505057.html
 https://www.livemint.com/market/gold-tops-4-600-as-investors-weigh-fed-path-before-jackson-hole-11787865436959.html
