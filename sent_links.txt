@@ -177,6 +177,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-lower-
 https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-after-us-threatens-to-blockade-iran-indefinitely/articleshow/133227088.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-near-one-week-highs-as-us-iran-peace-deal-hopes-dim/articleshow/133140238.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-treads-water-as-us-iran-peace-talks-stall-hormuz-shipping-slows/articleshow/133284760.cms
 https://economictimes.indiatimes.com/markets/commodities/news/pace-of-gold-loan-expansion-slows-as-banks-adjust-to-new-regulations/articleshow/133665396.cms
 https://economictimes.indiatimes.com/markets/commodities/news/rbi-explores-tokenising-gold-amid-push-to-expand-unified-markets-interface/articleshow/133988688.cms
@@ -1599,6 +1600,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-ri
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-raises-dutch-ttf-gas-price-view-on-slow-hormuz-export-recovery/articleshow/132531752.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/holiday-halt-why-sp-500-nasdaq-are-closed-for-trading-today/articleshow/133865116.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hotter-producer-prices-strengthen-bets-on-a-fed-rate-hike/articleshow/134020373.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-paypal-went-from-wall-street-favorite-to-unwilling-merger-target/articleshow/132531609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jackson-hole-2026-when-and-what-are-investors-expecting-from-fed-chair-kevin-warsh/articleshow/133498240.cms
@@ -1614,6 +1616,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/strong-jobs-report-puts-fed-rate-hike-back-in-focus-as-trump-escalates-pressure/articleshow/133772770.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/texas-stock-exchange-lands-first-primary-listing-in-milestone/articleshow/133326685.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-dollar-reserve-shift-may-be-less-widespread-than-headline-figures-suggest-ny-fed-study-finds/articleshow/133886422.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chairman-kevin-warsh-says-inflation-is-elevated-and-concerning-at-jackson-hole/articleshow/133593773.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
@@ -2514,6 +2517,7 @@ https://www.livemint.com/market/stock-market-news/ipobound-oyo-parent-prisms-pro
 https://www.livemint.com/market/stock-market-news/ipobound-phonepe-declares-11-5-yearly-growth-in-revenue-to-7-920-crore-in-fy26-11785052165688.html
 https://www.livemint.com/market/stock-market-news/irctc-q1-results-revenue-rises-18-profit-remains-largely-flat-at-rs-330-crore-11786550554016.html
 https://www.livemint.com/market/stock-market-news/ireda-q1-results-net-profit-rises-37-yoy-to-rs-339-crore-asset-quality-stays-stable-11785767562389.html
+https://www.livemint.com/market/stock-market-news/is-copper-a-new-gold-experts-unveil-this-strategy-to-make-money-11789059703371.html
 https://www.livemint.com/market/stock-market-news/itc-hotels-q1-results-pat-jumps-35-to-rs-180-crore-revenue-grows-15-yoy-announces-acquisition-of-ghk-hospitality-11784192420614.html
 https://www.livemint.com/market/stock-market-news/itc-q1-results-preview-analysts-see-a-weak-quarter-cigarette-tax-hikes-likely-to-dent-profit-margins-what-to-expect-11785473654553.html
 https://www.livemint.com/market/stock-market-news/itc-q1-results-profit-drops-16-yoy-to-4-394-crore-11785496419273.html
