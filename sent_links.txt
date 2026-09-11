@@ -51,6 +51,7 @@ https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-oil-easing-us-rate-hike-fears/articleshow/132438415.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-soft-us-data-offsets-oil-rise/articleshow/133099683.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-wobble-on-oil-strain-rbi-swap-pullback/articleshow/133313452.cms
+https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-surpasses-7-on-rising-oil-treasury-yields/articleshow/134044172.cms
 https://economictimes.indiatimes.com/markets/bonds/jefferies-chris-wood-sees-a-structural-bear-market-in-us-bonds-what-it-means-for-stocks-and-gold/articleshow/133756104.cms
 https://economictimes.indiatimes.com/markets/bonds/malaysia-launches-dollar-islamic-bond-for-infra-and-government-projects-term-sheet-shows/articleshow/132580993.cms
 https://economictimes.indiatimes.com/markets/bonds/oil-pain-pins-india-bonds-in-range-rbi-minutes-to-give-next-cue/articleshow/133348325.cms
@@ -62,6 +63,7 @@ https://economictimes.indiatimes.com/markets/bonds/selloff-in-euro-zone-bonds-pa
 https://economictimes.indiatimes.com/markets/bonds/shorter-dated-us-treasury-yields-ease-in-line-with-lower-oil-price/articleshow/132537161.cms
 https://economictimes.indiatimes.com/markets/bonds/updated-indian-bonds-fall-for-third-session-as-oil-prices-near-100-a-barrel/articleshow/132580828.cms
 https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms
+https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-flirts-with-5-as-higher-oil-rate-hike-worries-swirl/articleshow/134043739.cms
 https://economictimes.indiatimes.com/markets/bonds/vietnam-raises-116-million-in-government-bond-auction/articleshow/132408561.cms
 https://economictimes.indiatimes.com/markets/bonds/yes-federal-rbl-put-dollar-bond-plans-on-hold/articleshow/133527256.cms
 https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms
@@ -91,6 +93,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-we
 https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-steady-after-scaling-7-week-high-us-inflation-data-in-focus/articleshow/133077441.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-early-june-high-on-lower-bond-yields/articleshow/133361826.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-week-low-ahead-of-us-cpi-data/articleshow/134040389.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-little-changed-with-us-inflation-data-in-spotlight/articleshow/133527287.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-3000/10-gram-this-week-silver-plunges-rs-7300/kg-as-oil-rally-raises-rate-hike-bets-whats-next/articleshow/132452126.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-3600/10-gram-silver-down-rs-6000/kg-as-us-jobs-data-lifts-rate-hike-bets-buy-sell-or-hold/articleshow/133863188.cms
@@ -163,8 +166,10 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-au
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-27-crude-oil-dips-to-87-down-for-4th-session-amid-hormuz-reopening-hopes-what-are-experts-saying/articleshow/133555256.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-28-crude-oil-falls-over-5-this-week-despite-trump-rejecting-terms-of-iran-deal-what-are-experts-saying/articleshow/133581385.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-11-crude-oil-soars-13-this-week-closes-week-above-100-after-4-months-what-are-experts-saying/articleshow/134040529.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-8-crude-oil-at-97-as-simmering-tensions-raise-supply-worries-experts-weigh-in/articleshow/133903670.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-set-to-end-week-over-100-for-first-time-in-nearly-4-months/articleshow/134039095.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-2-on-iran-oman-talks-to-reopen-strait-of-hormuz/articleshow/133527275.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-assess-us-iran-war-outlook/articleshow/133361786.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-weigh-impact-of-expanded-us-sanctions-against-iran/articleshow/133487053.cms
@@ -211,6 +216,7 @@ https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/pur
 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-to-launch-2-housing-projects-worth-rs-12000cr-in-2nd-half-of-fy27-chairman/articleshow/133929093.cms
 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sumadhura-group-to-invest-rs-17000-cr-on-realty-projects-land-acquisition/articleshow/134010395.cms
 https://economictimes.indiatimes.com/markets/expert-view/buy-lt-emmvee-and-rr-kabel-once-market-selloff-eases-lkps-rupak-de/articleshow/132620671.cms
+https://economictimes.indiatimes.com/markets/expert-view/commodity-talk-gold-isnt-the-only-story-why-copper-energy-and-other-commodities-are-gaining-portfolio-relevance-says-dr-joseph-thomas/articleshow/134041412.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-crompton-2-0-how-premiumisation-innovation-and-smart-products-could-reshape-growth-kaleeswaran-arunachalam/articleshow/133391267.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-epls-growth-story-enters-next-gear-high-teens-guidance-20-margins-and-indovida-merger-explains-ceo-hemant-bakshi/articleshow/133488935.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-growth-leaders-bajaj-alts-jitendra-gohil-bets-on-electronics-solar-defence/articleshow/133391126.cms
@@ -352,6 +358,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/esds-software-solution-ip
 https://economictimes.indiatimes.com/markets/ipos/fpos/esds-software-solution-ipo-opens-today-gmp-signals-76-premium-should-you-subscribe/articleshow/133582113.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/esds-softwares-rs-720-cr-ipo-to-open-on-aug-28-sets-price-band-at-rs-408-429/articleshow/133492475.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/final-call-for-ipo-investors-6-mainboard-issues-including-karamtara-engineering-steamhouse-india-lcc-projects-others-close-today-check-gmp-subscription-data/articleshow/134041164.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/fintech-paramotor-digital-technology-gets-sebi-nod-for-ipo/articleshow/133567024.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/fintech-startup-navi-said-to-hire-banks-for-315-million-ipo/articleshow/133205408.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/fly-hi-maritime-farm-peace-ipos-open-today-check-price-lot-size-gmp-and-key-dates/articleshow/133667182.cms
@@ -421,11 +428,13 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-
 https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-day-2-issue-subscribed-over-40-so-far-gmp-slips-should-investors-subscribe-or-stay-away/articleshow/132761443.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-to-open-rs-1800-cr-ipo-on-july-30/articleshow/132598544.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/just-2-return-will-sbi-funds-management-break-the-curse-of-indias-poor-billion-dollar-ipo-record/articleshow/132406165.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-allotment-likely-today-gmp-signals-35-listing-gains-heres-how-to-check-status/articleshow/134040818.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-day-2-gmp-signals-35-premium-subscription-nears-3x-should-you-bid/articleshow/133951179.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-day-3-gmp-signals-35-premium-subscription-crosses-10x-should-you-subscribe/articleshow/133993542.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-opens-today-gmp-signals-31-listing-gains-should-you-subscribe/articleshow/133903746.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-to-open-september-8-price-band-fixed-at-rs-601632/articleshow/133732979.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/karamtara-engineering-ipo-check-opening-dates-gmp-price-band-and-other-details/articleshow/133791231.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/karamtara-engineering-ipo-day-3-gmp-at-27-check-subscription-status-and-key-details/articleshow/134044264.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/karamtara-engineering-raises-rs-262-crore-from-anchor-investors-ahead-of-ipo-hdfc-mf-among-top-buyers/articleshow/133934542.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kkr-backed-leap-indias-ipo-opens-on-august-7-price-band-set-at-rs-151-159/articleshow/132825607.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/kusumgar-ipo-allotment-likely-today-gmp-at-38-heres-how-to-check-your-status/articleshow/132355523.cms
@@ -451,6 +460,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/lumino-industries-sets-pr
 https://economictimes.indiatimes.com/markets/ipos/fpos/madhur-knit-crafts-abh-healthcare-sme-ipos-day-1-early-subscription-gmp-and-key-details/articleshow/133453407.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/major-companies-launch-bids-to-raise-rs-7100-crore-during-this-unprecedented-week-of-ipos/articleshow/133284250.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrip-files-ipo-papers-with-sebi-via-confidential-route/articleshow/132461790.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/manika-plastech-ipo-opens-today-gmp-signals-30-listing-upside-check-key-details/articleshow/134041439.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-enterprises-ipo-gmp-hints-at-10-listing-gains-know-important-dates-other-details/articleshow/132597446.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-enterprises-ipo-listing-tomorrow-heres-what-gmp-indicates-ahead-of-market-debut/articleshow/132846312.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-ipo-how-an-acquisition-spree-will-consume-most-of-its-rs-8000-crore-fresh-issue/articleshow/132598176.cms
@@ -502,6 +512,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/pranav-constructions-ipo-
 https://economictimes.indiatimes.com/markets/ipos/fpos/pranav-constructions-ipo-day-3-gmp-at-35-subscription-reaches-18-21x-should-you-subscribe/articleshow/133951855.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/pranav-constructions-ipo-opens-today-gmp-signals-36-listing-gain-should-you-subscribe/articleshow/133862756.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-fixes-price-band-for-rs-500-cr-ipo-issue-to-open-on-sep-8/articleshow/133728599.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-ipo-allotment-likely-today-check-status-gmp-and-other-details/articleshow/134043218.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-ipo-day-2-gmp-subscription-status-should-you-subscribe/articleshow/133952410.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-ipo-day-3-check-gmp-subscription-status-and-other-details/articleshow/133992793.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-ipo-opens-today-check-the-gmp-and-key-details-should-you-subscribe/articleshow/133906614.cms
@@ -523,6 +534,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-raises-rs-30
 https://economictimes.indiatimes.com/markets/ipos/fpos/pushp-brand-gets-sebi-nod-for-ipo-a91-partners-sixth-sense-to-partially-divest-stake/articleshow/133560308.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/quadria-capital-backed-nobel-hygiene-files-ipo-papers-to-raise-rs-150-crore/articleshow/133399510.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/qualiance-international-sme-ipo-opens-today-gmp-signals-43-listing-gain-check-key-details/articleshow/133750779.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/qualiance-international-sme-shares-to-list-today-gmp-signals-64-listing-gain/articleshow/134044340.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/quest-global-said-to-pick-banks-for-1-billion-india-ipo/articleshow/133237705.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rays-of-belief-ipo-allotment-likely-today-gmp-signals-5-listing-gain-heres-how-to-check-status/articleshow/133750976.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rays-of-belief-ipo-day-2-gmp-holds-at-16-subscription-hits-1-18x-should-you-apply/articleshow/133698281.cms
@@ -534,6 +546,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-7-risk-f
 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-blackrock-among-investors-in-rs-376-crore-anchor-round/articleshow/133937015.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-day-2-gmp-signals-35-potential-listing-gains-should-you-subscribe/articleshow/133991239.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-day-3-gmp-at-33-subscription-reaches-4-71-times-should-you-subscribe/articleshow/134043934.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-may-unlock-152x-gain-for-nazara-tech-founder-nitish-mittersain/articleshow/133905697.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-set-to-go-public-at-rs-4246-crore-valuation-set-to-raise-rs-1256-crore-via-ipo/articleshow/133787663.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/returns-speak-a-lot-for-gaja-alternative-asset-management-as-funding-stays-a-risky-bet/articleshow/133334804.cms
@@ -618,8 +631,10 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/three-sme-ipos-open-today
 https://economictimes.indiatimes.com/markets/ipos/fpos/three-sme-ipos-to-debut-today-technocrats-plasma-systems-leads-with-53-gmp/articleshow/133392138.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-global-backed-broking-firm-upstox-said-to-plan-india-ipo/articleshow/133341193.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/too-many-ipos-limited-cash-how-investors-should-allocate-money-across-multiple-issues/articleshow/133994250.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/two-sme-ipos-open-for-subscription-today-injecto-polymers-century-business-media-in-focus/articleshow/134043842.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/up-in-the-air-can-sbi-funds-management-ipo-investors-look-past-ofs-to-expect-strong-listing-day-gains/articleshow/132356121.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/upstox-begins-talks-with-investment-banks-for-350-400-million-ipo-crosses-2-crore-customers/articleshow/133383629.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/veegaland-developers-ipo-day-2-gmp-signals-18-listing-gains-should-you-subscribe/articleshow/134041056.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/veegaland-developers-ipo-opens-today-gmp-signals-17-listing-gain-should-you-subscribe/articleshow/133991323.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/want-nse-shares-before-the-ipo-heres-how-the-unlisted-market-works/articleshow/133656338.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/what-shah-rukh-khan-madhuri-dixit-and-sachin-tendulkar-see-in-purple-style-labs-ipo-heres-what-drhp-reveals/articleshow/133273577.cms
@@ -1049,6 +1064,8 @@ https://economictimes.indiatimes.com/markets/stocks/news/nifty-slips-below-criti
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-to-hit-27000-in-one-year-pl-capital-says-middle-east-crisis-el-nino-can-play-a-spoil-sport-names-15-top-picks/articleshow/132415415.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms
 https://economictimes.indiatimes.com/markets/stocks/news/northern-arc-capital-jumps-10-after-rs-335-crore-block-deal-should-you-buy/articleshow/133648534.cms
+https://economictimes.indiatimes.com/markets/stocks/news/nse-fixes-ipo-price-band-at-rs-1700-1785-for-rs-22561-crore-offer-issue-opens-on-september-17/articleshow/134041279.cms
+https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-8-selling-shareholders-trim-stake-sale-as-offer-size-cut-by-over-15-rhp-shows/articleshow/134044052.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-gets-sebi-approval-10-important-points-investors-should-know-as-d-street-debut-inches-closer/articleshow/133790889.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nse-partners-with-augmont-to-deepen-electronic-gold-market-reduce-reliance-on-imports/articleshow/132411311.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nse-receives-approval-to-launch-derivatives-on-the-nifty-india-fpi-150-index/articleshow/132430521.cms
@@ -1156,6 +1173,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-ga
 https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-multibagger-td-power-systems-shares-to-be-eligible-for-12-split/articleshow/133390935.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-this-recently-listed-travel-firms-shares-after-over-50-rally-in-2-months/articleshow/133487549.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bpcl-hal-railtel-saatvik-green-energy-and-samvardhana-motherson/articleshow/133384324.cms
+https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-canara-bank-vodafone-idea-premier-energies-and-acme-solar/articleshow/133995333.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-shipyard-voltas-patanjali-foods-and-physicswallah/articleshow/133279798.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms
@@ -1214,6 +1232,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-dro
 https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-in-focus-after-rs-17200-crore-order-global-order-book-hits-record-rs-42000-crore/articleshow/133392199.cms
 https://economictimes.indiatimes.com/markets/stocks/news/where-to-invest-as-market-headwinds-ease-motilal-oswal-backs-mid-and-smallcaps-favours-gold-over-silver/articleshow/133589404.cms
 https://economictimes.indiatimes.com/markets/stocks/news/why-indian-retail-options-traders-are-having-a-tough-time-to-defuse-what-warren-buffett-called-lethal-time-bombs/articleshow/133417813.cms
+https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-over-700-pts-nifty-below-23250-6-factors-behind-rs-5-lakh-cr-d-street-wipeout/articleshow/134003519.cms
 https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-today-rising-oil-prices-among-key-factors-behind-rs-3-lakh-crore-wealth-erosion/articleshow/132386876.cms
 https://economictimes.indiatimes.com/markets/stocks/news/why-is-the-market-falling-today-sensex-falls-570-points-nifty-below-24300-key-factors/articleshow/133176165.cms
 https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-chris-wood-sees-gold-as-the-second-best-hedge-amid-iran-war-and-fiscal-risks/articleshow/133396588.cms
@@ -1246,6 +1265,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-pr
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-live-21-aug-2026/liveblog/133391822.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-24-jul-2026/liveblog/132596344.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-19-aug-2026/liveblog/133335803.cms
+https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-11-sep-2026/liveblog/134042078.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-live-05-aug-2026/liveblog/132886689.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-08-sep-2026/liveblog/133904318.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-28-aug-2026/liveblog/133581498.cms
@@ -1262,6 +1282,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-pri
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-18-aug-2026/liveblog/133309771.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-live-updates-17-aug-2026/liveblog/133285106.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-14-aug-2026/liveblog/133227719.cms
+https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-11-sep-2026/liveblog/134042892.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-updates-10-sep-2026/liveblog/133991902.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-19-aug-2026/liveblog/133336239.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-updates-08-sep-2026/liveblog/133904311.cms
@@ -1446,6 +1467,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-trade-lower-oil-holds-gains/articleshow/133140042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-as-oil-slips-yen-in-focus/articleshow/133722814.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-crude-oil-holds-decline/articleshow/133226784.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-fall-on-oil-inflation-concern/articleshow/134038662.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-after-us-tech-selloff-gold-gains/articleshow/133485763.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms
@@ -2103,10 +2125,12 @@ https://www.livemint.com/market/ipo/nse-ipo-gmp-on-fire-even-without-price-band-
 https://www.livemint.com/market/ipo/nse-ipo-latest-gmp-expected-date-and-price-band-current-status-other-news-11788947846421.html
 https://www.livemint.com/market/ipo/nse-ipo-latest-gmp-price-expected-date-of-opening-allotment-to-listing-all-facts-and-news-that-you-must-know-11788584640136.html
 https://www.livemint.com/market/ipo/nse-ipo-live-gmp-on-fire-ahead-of-price-band-announcement-expected-date-other-details-about-mega-rs-30-000-crore-ipo-11788852740924.html
+https://www.livemint.com/market/ipo/nse-ipo-live-price-band-officially-confirmed-latest-gmp-opening-date-news-updates-11789095816304.html
 https://www.livemint.com/market/ipo/nse-ipo-live-updates-gmp-expected-date-and-price-hints-reduction-in-ofs-size-latest-news-current-status-11789011556069.html
 https://www.livemint.com/market/ipo/nse-ipo-live-updates-what-latest-gmp-signals-for-listing-expected-share-price-band-in-rs-1700-range-opening-date-news-11788926345214.html
 https://www.livemint.com/market/ipo/nse-ipo-nse-ipo-news-nse-ipo-date-11786694374266.html
 https://www.livemint.com/market/ipo/nse-ipo-opportunity-five-stocks-holding-unlisted-nse-shares-11788524084301.html
+https://www.livemint.com/market/ipo/nse-ipo-price-band-set-at-rs-1-700-1-785-per-share-check-key-dates-issue-details-11789087370238.html
 https://www.livemint.com/market/ipo/nse-ipo-shrinks-as-morgan-stanley-other-investors-cut-stake-sales-11789023066875.html
 https://www.livemint.com/market/ipo/nse-ipo-will-not-be-of-rs-30000-cr-why-reduced-ofs-could-bring-down-the-overall-issue-size-11788952136045.html
 https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html
@@ -2377,6 +2401,7 @@ https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-7-august-2026-11786065965698.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-stocks-to-buy-today-17-august-2026-11786930792288.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-up-despite-elusive-iran-oman-deal-vaishali-parekh-recommends-three-stocks-to-buy-today-11786324215228.html
+https://www.livemint.com/market/stock-market-news/buy-or-sell-granules-hal-hul-shares-ajit-mishra-of-religare-broking-suggests-trading-strategies-for-these-stocks-11789096708131.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-indicator-18-august-2026-gift-nifty-signals-flat-start-vaishali-parekh-recommends-three-stocks-to-buy-today-11787017422235.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-20-july-2026-11784509364157.html
 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-17-july-2026-11784253453862.html
@@ -2402,6 +2427,7 @@ https://www.livemint.com/market/stock-market-news/demerger-news-3-new-separate-e
 https://www.livemint.com/market/stock-market-news/did-you-get-lalithaa-jewellery-mart-ipo-shares-up-36-from-ipo-price-whats-next-for-investors-buy-more-sell-or-hold-11787554814815.html
 https://www.livemint.com/market/stock-market-news/dilip-buildcon-share-price-rallies-10-after-winning-1-800-crore-order-do-you-own-11789020318197.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-chance-to-buy-today-to-qualify-for-these-shares-check-full-list-amount-payment-11788845748540.html
+https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-chance-to-qualify-kalyan-jewellers-aarti-industries-blue-jet-bajaj-healthcare-more-11789098026451.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-day-to-qualify-for-dividend-of-these-stocks-check-full-list-amount-record-date-11789013955665.html
 https://www.livemint.com/market/stock-market-news/e2e-networks-bags-rs-1-000-crore-nvidia-blackwell-cloud-gpu-deal-from-sovereign-ai-firm-11788187286132.html
 https://www.livemint.com/market/stock-market-news/eih-shares-drop-6-after-the-announcement-of-q1fy27-results-11786103630279.html
@@ -2409,6 +2435,7 @@ https://www.livemint.com/market/stock-market-news/engineering-stock-hits-52-week
 https://www.livemint.com/market/stock-market-news/enviro-infra-engineers-share-price-jumps-10-rs-190-crore-ntpc-wind-project-order-sparks-rally-details-here-11788927733779.html
 https://www.livemint.com/market/stock-market-news/esds-share-price-triples-investor-wealth-ai-stock-up-264-in-just-5-days-of-listing-is-the-rally-still-worth-chasing-11789012800278.html
 https://www.livemint.com/market/stock-market-news/esds-software-ipo-blockbuster-listing-money-doubled-today-buy-more-book-profit-and-exit-or-hold-guide-for-investor-11788503546971.html
+https://www.livemint.com/market/stock-market-news/esds-software-share-price-soars-nearly-4x-in-6-sessions-post-listing-what-s-driving-the-explosive-rally-buy-or-beware-11789099210214.html
 https://www.livemint.com/market/stock-market-news/esds-software-solution-share-price-hits-20-upper-circuit-jumps-155-against-issue-price-in-two-days-postlisting-11788755203000.html
 https://www.livemint.com/market/stock-market-news/esds-software-solution-share-price-up-again-hits-20-upper-circuit-jumps-200-from-ipo-price-in-just-3-days-11788840742721.html
 https://www.livemint.com/market/stock-market-news/eternal-q1-results-profit-comes-at-92-crore-11784709597254.html
@@ -2589,6 +2616,7 @@ https://www.livemint.com/market/stock-market-news/newlylisted-stock-waterways-le
 https://www.livemint.com/market/stock-market-news/nifty-50-gold-ratio-narrows-is-an-indian-stock-market-rally-brewing-11786436677667.html
 https://www.livemint.com/market/stock-market-news/nifty-50-slips-below-24-000-key-support-and-resistance-levels-to-watch-amid-market-volatility-11784788921121.html
 https://www.livemint.com/market/stock-market-news/nifty-50-stuck-below-25-000-is-the-ipo-boom-this-year-a-reason-behind-the-poor-show-of-the-indian-stock-market-11787719494000.html
+https://www.livemint.com/market/stock-market-news/nifty-halts-losing-streak-is-a-short-term-reversal-possible-11789056903100.html
 https://www.livemint.com/market/stock-market-news/nifty-witnesses-highest-volume-in-11-sessions-breaks-below-trendline-support-11787878341803.html
 https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html
 https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11785983882128.html
@@ -2765,6 +2793,7 @@ https://www.livemint.com/market/stock-market-news/spacex-shares-plunge-13-as-ai-
 https://www.livemint.com/market/stock-market-news/stellar-debut-laser-power-and-infra-share-price-lists-at-rs-250-a-premium-of-16-8-over-ipo-price-11784174635279.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-down-vaishali-parekh-recommends-three-stocks-to-buy-today-11788834324730.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-at-a-volatile-trend-vaishali-parekh-recommends-three-stocks-to-buy-today-11789006668121.html
+https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-gap-down-start-vaishali-parekh-recommends-three-stocks-to-buy-today-11789092731608.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-healthcare-stock-park-medi-world-inches-close-to-record-high-ahead-of-the-q1-results-2026-11785730470967.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-flat-escalating-us-iran-conflict-weigh-on-sentiment-11784194749772.html
