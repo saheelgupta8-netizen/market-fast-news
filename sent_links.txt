@@ -62,6 +62,7 @@ https://economictimes.indiatimes.com/markets/bonds/oil-shock-treasury-yield-spik
 https://economictimes.indiatimes.com/markets/bonds/oil-spike-jolts-indian-bonds-10-year-yield-hits-three-week-high/articleshow/132391105.cms
 https://economictimes.indiatimes.com/markets/bonds/selloff-in-euro-zone-bonds-pauses-but-oil-prices-keep-up-pressure/articleshow/133341510.cms
 https://economictimes.indiatimes.com/markets/bonds/shorter-dated-us-treasury-yields-ease-in-line-with-lower-oil-price/articleshow/132537161.cms
+https://economictimes.indiatimes.com/markets/bonds/sp-group-bond-yields-set-to-tighten-as-tata-sons-listing-improves-repayment-visibility/articleshow/134229864.cms
 https://economictimes.indiatimes.com/markets/bonds/updated-indian-bonds-fall-for-third-session-as-oil-prices-near-100-a-barrel/articleshow/132580828.cms
 https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms
 https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-flirts-with-5-as-higher-oil-rate-hike-worries-swirl/articleshow/134043739.cms
@@ -333,6 +334,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ip
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-shiprocket-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133167448.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-skyways-air-services-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133416205.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/can-ss-retail-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134230144.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-symbiotec-pharmalab-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133448856.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-tempsens-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133361720.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/cdsls-ipo-jackpot-comes-with-a-valuation-catch-jefferies-sets-rs-1315-target/articleshow/133995280.cms
@@ -419,6 +421,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-rac
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-5-companies-to-raise-rs-5499-crore-next-week-shiprocket-4-others-to-list/articleshow/133258703.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-16-issues-to-raise-over-rs-7000-crore-this-week/articleshow/133856257.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-rs-24500-crore-worth-of-issues-to-hit-primary-market-this-week/articleshow/134229600.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-six-companies-eye-nearly-rs-5600-cr-next-week/articleshow/133270086.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms
@@ -629,6 +632,8 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-ipo-o
 https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-sets-price-band-for-rs-1757-crore-ipo-to-open-on-august-24/articleshow/133336512.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tablespace-technologies-files-draft-papers-with-sebi-to-raise-funds-through-ipo/articleshow/133158566.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-ipo-can-take-a-page-from-a-hong-kong-titan/articleshow/133169095.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-listing-could-unlock-value-in-tata-group-stocks-after-recent-selloff/articleshow/134229835.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-may-be-valued-up-to-12-5-lakh-cr-in-ipo/articleshow/134229861.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-allotment-likely-today-gmp-signals-over-12-listing-gain-how-to-check-status/articleshow/133174270.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-day-2-gmp-signals-11-premium-issue-subscribed-2-59x-should-you-subscribe/articleshow/133078950.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-day-3-gmp-climbs-14-premium-issue-subscribed-4-73x-should-you-subscribe/articleshow/133141238.cms
@@ -1397,6 +1402,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-ties-r
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-unquestionably-too-high-inflation-may-soon-subside/articleshow/132416743.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/forget-gold-and-stocks-nvidia-ceo-jensen-huang-aims-to-make-chips-an-investable-asset-lines-up-500-bn-in-financing/articleshow/133142905.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-alibaba-rout-drags-china-hong-kong-markets-lower-amid-ai-spending-concerns/articleshow/133452201.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-stocks-retreat-after-ai-warnings-oil-advances/articleshow/134229926.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-equities-muted-as-hong-kong-stocks-slide-amid-global-risks/articleshow/133670250.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-eyes-faster-national-infrastructure-spending-to-steady-growth-amid-local-investment-slump/articleshow/132452765.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-global-bond-selloff-oil-surge-weigh-on-sentiment/articleshow/133699219.cms
@@ -1882,6 +1888,7 @@ https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-
 https://www.livemint.com/market/gold-climbs-above-4-400-as-traders-turn-focus-to-us-inflation-11786410162796.html
 https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html
 https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html
+https://www.livemint.com/market/gold-edges-lower-as-hot-us-inflation-bolsters-fed-rate-hike-bets-11789347711493.html
 https://www.livemint.com/market/gold-edges-lower-as-markets-await-key-us-inflation-data-11786474118005.html
 https://www.livemint.com/market/gold-edges-up-after-four-day-gain-as-traders-eye-treasury-moves-11787699754952.html
 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
