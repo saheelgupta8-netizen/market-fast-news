@@ -129,6 +129,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-as-doll
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-for-third-straight-session-inflation-prints-in-focus/articleshow/133140296.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-retreat-as-oil-prices-surge-inflation-and-rate-hike-concerns-mount/articleshow/134243425.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-after-robust-us-payrolls-boosts-rate-hike-bets/articleshow/133787001.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-below-rs-1-55-lakh/10-gm-on-mcx-but-global-prices-extend-gains-whats-next/articleshow/133311524.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-heads-for-third-straight-weekly-gain/articleshow/133390749.cms
@@ -1360,6 +1361,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/campbells-forecasts-
 https://economictimes.indiatimes.com/markets/us-stocks/news/chevron-expands-venezuela-presence-with-7-billion-plan-to-double-oil-output-in-five-years/articleshow/133719199.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-ai-chipmaker-enflame-aims-to-raise-908-million-after-setting-shanghai-ipo-price/articleshow/133654385.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/copper-falls-after-report-of-white-house-hesitancy-over-tariff-plan/articleshow/134017948.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/cvc-backed-bamboo-insurance-targets-3-24-billion-valuation-in-us-ipo/articleshow/134246642.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-trump-us-iran-attacks-hormuz-crude-oil-fed-warsh-spacex-micron-amazon-amd-chip-stock-price-news-3rd-august-2026/liveblog/132831640.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-deal-crude-oil-fed-rate-hike-inflation-amd-spacex-nvidia-chip-stock-price-news-5th-august-2026/liveblog/132927004.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms
@@ -1627,6 +1629,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahe
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/aswath-damodaran-calls-fed-rate-debate-pointless-says-stock-market-adapts-quickly-to-higher-rates/articleshow/134059501.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/berkshire-hathaway-ceo-greg-abel-sees-ai-power-demand-as-new-engines-of-growth/articleshow/133717165.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bond-market-shock-10-year-us-yield-tops-5-as-oil-at-108-puts-fed-on-rate-hike-path/articleshow/134242764.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-nears-100-as-attacks-on-tankers-threaten-to-worsen-supply-shock/articleshow/133888666.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-surges-past-100-as-houthi-tanker-attacks-in-red-sea-rattle-markets/articleshow/132583335.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-ai-capex-jumps-105-yoy-but-jefferies-says-us-cloud-giants-face-greater-risks/articleshow/133874769.cms
@@ -2400,6 +2403,7 @@ https://www.livemint.com/market/shares-flat-in-asia-before-iran-sanctions-news-n
 https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html
 https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html
 https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html
+https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-highest-level-since-2023-as-us-federal-reserve-decision-looms-11789400968499.html
 https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-highest-level-since-late-2023-as-oil-price-lifts-us-fed-rate-hike-bets-11788347411111.html
 https://www.livemint.com/market/stock-market-news/1500-dividend-stock-alert-check-amount-per-share-record-date-payment-timeline-and-performance-11788425974870.html
 https://www.livemint.com/market/stock-market-news/2008-financial-crisis-pe-ratio-shiller-pe-ratio-cape-sensex-nifty-11787657950534.html
