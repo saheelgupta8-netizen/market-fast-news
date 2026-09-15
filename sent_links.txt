@@ -1052,6 +1052,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-shar
 https://economictimes.indiatimes.com/markets/stocks/news/lic-shares-fall-after-indias-largest-ofs-closes-with-oversubscription-on-both-days/articleshow/132984775.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lohia-corp-ipo-subscribed-43-on-day-2-so-far-heres-what-latest-gmp-trends-indicate/articleshow/132597409.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lt-finance-plans-500-new-gold-loan-branches-this-fiscal/articleshow/133334633.cms
+https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-slip-3-6-in-a-month-analysts-see-up-to-16-upside-on-record-order-book/articleshow/134249386.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lt-technology-services-shares-jump-3-after-bagging-75-million-deal/articleshow/133338513.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-major-middle-east-order-for-6-gwh-battery-storage-projects/articleshow/133526841.cms
 https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-ultra-mega-contract-in-west-asia-worth-over-15000-crore/articleshow/133484859.cms
@@ -1158,6 +1159,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-ip
 https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-shares-fall-below-ipo-price-but-brokerages-remain-bullish-time-to-buy/articleshow/132599285.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-shares-in-focus-after-first-earnings-since-ipo-net-profit-jumps-3-to-rs-873-crore/articleshow/132845847.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sbi-q1-results-preview-will-indias-largest-public-bank-report-a-decline-in-profit/articleshow/133020164.cms
+https://economictimes.indiatimes.com/markets/stocks/news/sbi-research-idfc-first-expect-rate-hike-in-october-as-crude-prices-climb-higher-oil-prices-inflation-raise-likelihood-of-policy-tightening/articleshow/134249553.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sbi-sbi-capital-markets-plan-1-nse-stake-sale-via-ipo/articleshow/133624789.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sbis-80-paise-masterstroke-how-nse-ipo-could-deliver-rs-2850-crore-jackpot-and-223025-return/articleshow/134047862.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sc-clears-nse-settlement-paving-way-for-mega-ipo/articleshow/133748533.cms
@@ -1925,6 +1927,7 @@ https://www.livemint.com/market/gold-holds-decline-as-traders-weigh-prospects-fo
 https://www.livemint.com/market/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns-11787703222112.html
 https://www.livemint.com/market/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds-11785974807479.html
 https://www.livemint.com/market/gold-holds-gain-as-trump-s-war-comments-ease-inflation-jitters-11788395296297.html
+https://www.livemint.com/market/gold-holds-losses-as-higher-oil-stokes-september-rate-hike-bets-11789431995593.html
 https://www.livemint.com/market/gold-holds-near-three-month-high-as-traders-weigh-treasury-moves-11787617195011.html
 https://www.livemint.com/market/gold-holds-steady-as-progress-on-hormuz-trims-rate-hike-bets-11785889977080.html
 https://www.livemint.com/market/gold-holds-steady-with-us-iran-standoff-and-fed-outlook-in-focus-11785815223644.html
@@ -2229,6 +2232,7 @@ https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-to
 https://www.livemint.com/market/ipo/pranav-construction-ipo-share-listing-price-prediction-after-121x-subscription-here-is-what-latest-gmp-signals-11789374908866.html
 https://www.livemint.com/market/ipo/pranav-constructions-ipo-allotment-to-be-finalised-today-gmp-hints-32-listing-gain-4-steps-to-check-status-11789010666665.html
 https://www.livemint.com/market/ipo/pranav-constructions-ipo-gmp-hints-35-listing-gain-on-day-1-check-review-subscription-key-dates-apply-or-not-11788747303532.html
+https://www.livemint.com/market/ipo/pranav-constructions-ipo-listing-today-gmp-at-rs-52-share-price-prediction-ahead-of-nse-bse-debut-11789432548640.html
 https://www.livemint.com/market/ipo/pranav-constructions-ipo-price-band-set-in-range-of-rs-118-124-check-key-dates-other-ipo-details-11788430609199.html
 https://www.livemint.com/market/ipo/prasol-chemicals-ipo-day-1-issue-opens-today-heres-gmp-review-apply-or-not-11788838736942.html
 https://www.livemint.com/market/ipo/priority-jewels-ipo-allotment-in-focus-today-gmp-signals-15-listing-pop-how-to-check-share-allotment-status-online-11788313939239.html
@@ -2363,11 +2367,13 @@ https://www.livemint.com/market/mark-to-market/gic-q1fy27-earnings-premium-growt
 https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html
 https://www.livemint.com/market/mark-to-market/manappuram-finance-gold-loans-muthoot-finance-nbfc-aum-rbi-loan-growth-asset-quality-11786510821642.html
 https://www.livemint.com/market/mark-to-market/nmdc-share-price-stock-outlook-q1-results-iron-ore-sales-11787121576124.html
+https://www.livemint.com/market/mark-to-market/nse-ipo-valuation-discount-vs-bse-share-price-financials-11789354083493.html
 https://www.livemint.com/market/mark-to-market/omc-outlook-ioc-bpcl-hpcl-earnings-crude-oil-prices-11788241041505.html
 https://www.livemint.com/market/mark-to-market/ongc-oil-india-q1-results-crude-oil-prices-production-11786438297259.html
 https://www.livemint.com/market/mark-to-market/solar-industries-share-price-defence-order-book-earnings-growth-11789021603934.html
 https://www.livemint.com/market/mark-to-market/tcs-mhp-porsche-acquisition-ai-m-a-strategy-2026-11787719259211.html
 https://www.livemint.com/market/mark-to-market/vishal-mega-mart-share-price-stock-outlook-11787641464604.html
+https://www.livemint.com/market/mark-to-market/waaree-renewable-technologies-sunstar-data-centers-ai-data-centres-india-11789370615415.html
 https://www.livemint.com/market/mark-to-market/welspun-corp-us-pipeline-order-investor-reaction-stock-price-11787556166277.html
 https://www.livemint.com/market/meesho-shares-hit-3-month-high-as-bull-run-extends-to-fourth-day-up-85-from-ipo-price-11787215374857.html
 https://www.livemint.com/market/mopshop-distribution-ipo-day-1-issue-booked-29-so-far-check-gmp-issue-details-11787121388613.html
