@@ -1697,6 +1697,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-w
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-steet-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally/articleshow/133603682.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up/articleshow/132473332.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-data-to-test-record-setting-us-stocks-fed-rate-views/articleshow/133046458.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-25-bps-hike-us-federal-reserve-raises-interest-rates-for-first-time-since-2023/articleshow/134293809.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/aswath-damodaran-calls-fed-rate-debate-pointless-says-stock-market-adapts-quickly-to-higher-rates/articleshow/134059501.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/berkshire-hathaway-ceo-greg-abel-sees-ai-power-demand-as-new-engines-of-growth/articleshow/133717165.cms
@@ -1782,6 +1783,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-y
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-prices-accelerate-in-august-push-fed-closer-to-rate-hike/articleshow/134107090.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-dollar-reserve-shift-may-be-less-widespread-than-headline-figures-suggest-ny-fed-study-finds/articleshow/133886422.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-explains-why-the-federal-reserve-raised-interest-rates/articleshow/134296073.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chairman-kevin-warsh-says-inflation-is-elevated-and-concerning-at-jackson-hole/articleshow/133593773.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-rate-cut-bets-fall-below-50-after-governor-chris-wallers-comments-what-did-he-say/articleshow/133754387.cms
@@ -1862,6 +1864,7 @@ https://www.livemint.com/market/bonds/kevin-warsh-speech-is-the-us-fed-chairman-
 https://www.livemint.com/market/bonds/sebi-eases-compliance-for-foreign-investors-investing-in-government-bonds-11788781177999.html
 https://www.livemint.com/market/bonds/the-bond-rout-is-bruising-would-be-home-buyers-and-challenging-the-fed-11785030594095.html
 https://www.livemint.com/market/bonds/tokenized-bonds-india-rec-lt-iifl-finance-11789443601058.html
+https://www.livemint.com/market/bonds/us-fed-rate-hike-impact-on-american-treasuries-fomc-outcome-effect-decoded-11789584491881.html
 https://www.livemint.com/market/bpcl-q1-results-psu-firm-posts-q1-net-loss-of-rs-3-962-crore-11784712205829.html
 https://www.livemint.com/market/brent-oil-near-100-as-iran-says-hormuz-deal-with-oman-close-11788829819840.html
 https://www.livemint.com/market/buyout-funds-look-beyond-india-ipos-as-vintage-assets-mature-11786471171774.html
@@ -2005,6 +2008,7 @@ https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
 https://www.livemint.com/market/gold-falls-as-traders-eye-impact-of-higher-oil-on-fed-rate-path-11789381368276.html
 https://www.livemint.com/market/gold-falls-as-traders-raise-fed-hike-bets-after-us-price-report-11789083721391.html
+https://www.livemint.com/market/gold-falls-more-than-1-after-fed-hikes-interest-rates-11789587476132.html
 https://www.livemint.com/market/gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh-11788288241495.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
 https://www.livemint.com/market/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech-11787532550012.html
@@ -3111,6 +3115,9 @@ https://www.livemint.com/market/stock-market-news/us-fed-meeting-2026-live-updat
 https://www.livemint.com/market/stock-market-news/us-fed-meeting-to-q1-results-fy27-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11785031656378.html
 https://www.livemint.com/market/stock-market-news/us-fed-rate-decision-what-markets-are-watching-ahead-of-september-meeting-11788781533247.html
 https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-after-3-years-here-s-what-it-could-mean-for-indian-stock-markets-11789558809596.html
+https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-impact-on-gold-fomc-outcome-on-yellow-metal-decoded-11789580961438.html
+https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-impact-on-indian-economy-fomc-outcome-effect-decoded-11789584407060.html
+https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-impact-on-indian-stock-market-sensex-nifty-bank-nifty-nifty-it-11789581995860.html
 https://www.livemint.com/market/stock-market-news/us-federal-reserve-chair-kevin-warsh-advocate-for-a-quieter-fed-why-forward-guidance-criticism-amid-lack-communication-11787928220342.html
 https://www.livemint.com/market/stock-market-news/us-market-prediction-dow-s-p-500-nasdaq-futures-rise-as-oil-prices-retreat-ahead-of-key-cpi-data-11789123899556.html
 https://www.livemint.com/market/stock-market-news/us-market-prediction-s-p-500-dow-futures-flat-as-oil-surges-will-fridays-inflation-data-shift-fed-rate-cut-bets-11789037958881.html
@@ -3165,6 +3172,7 @@ https://www.livemint.com/market/stocks-rebound-as-mideast-mediation-pushes-oil-l
 https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
 https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-date-check-details-11784281252605.html
 https://www.livemint.com/market/this-infra-stock-to-declare-bonus-shares-dividend-soon-details-here-11785745109814.html
+https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-infosys-mazagon-dock-shares-on-thursday-17-sept-triggers-11789574580431.html
 https://www.livemint.com/market/treasuries10year-note-climbs-to-19-year-high-with-fed-decision-on-deck-11789498155754.html
 https://www.livemint.com/market/treasury-yields-fall-as-oil-dips-on-strait-of-hormuz-hopes-11785956691711.html
 https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html
