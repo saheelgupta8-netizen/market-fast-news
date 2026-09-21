@@ -511,6 +511,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-i
 https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-day-3-gmp-indicates-20-premium-subscribed-3-07x-should-you-subscribe/articleshow/133336766.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-opens-today-gmp-signals-15-premium-should-you-subscribe/articleshow/133285001.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-price-band-fixed-at-rs-190-201-for-rs-1700-crore-ipo-issue-opens-on-august-17/articleshow/133141350.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/landmark-nse-ipo-threatens-to-hollow-out-dalal-streets-shadow-market/articleshow/134396017.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-ipo-allotment-expected-today-gmp-signals-19-listing-premium-heres-how-to-check-your-status/articleshow/132380087.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-ipo-day-3-gmp-hints-at-17-listing-gains-check-subscription-status-key-details/articleshow/132355669.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-ipo-allotment-likely-today-gmp-signals-over-8-listing-gain-how-to-check-status/articleshow/133173462.cms
@@ -1904,6 +1905,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/holiday
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hotter-producer-prices-strengthen-bets-on-a-fed-rate-hike/articleshow/134020373.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-paypal-went-from-wall-street-favorite-to-unwilling-merger-target/articleshow/132531609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/investors-upbeat-on-hawkish-fed-fighting-inflation-but-remain-wary-of-crude-oil-prices-and-ai-risks/articleshow/134395926.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jackson-hole-2026-when-and-what-are-investors-expecting-from-fed-chair-kevin-warsh/articleshow/133498240.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jp-morgan-traders-back-down-bullishness-on-us-stocks-after-fed-chair-warshs-jackson-hole-speech/articleshow/133662266.cms
@@ -2676,6 +2678,7 @@ https://www.livemint.com/market/nvidia-q2-earnings-preview-key-expectations-and-
 https://www.livemint.com/market/oil-advances-with-saudi-flows-in-focus-after-pipeline-shut-11789437538983.html
 https://www.livemint.com/market/oil-climbs-at-week-s-open-as-us-military-hits-iranian-launchers-11788141921048.html
 https://www.livemint.com/market/oil-dips-as-traders-assess-hormuz-talks-ukraine-war-escalation-11787778798554.html
+https://www.livemint.com/market/oil-drops-below-100-as-iran-diplomacy-hormuz-flows-stunt-rally-11790015876956.html
 https://www.livemint.com/market/oil-drops-stocks-gain-amid-iran-peace-hopes-yen-firms-as-investors-watch-for-further-intervention-11785792593711.html
 https://www.livemint.com/market/oil-erases-decline-as-traders-weigh-fresh-houthi-threat-11785917157048.html
 https://www.livemint.com/market/oil-extends-gains-on-report-of-iran-strikes-in-strait-of-hormuz-11786050144011.html
@@ -3327,6 +3330,7 @@ https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-on-monday-
 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-pine-labs-waaree-energies-grse-shares-on-tue-22-sept-triggers-11789998888451.html
 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-wipro-bharat-electronics-dmart-shares-on-fri-18-sept-triggers-11789641035492.html
 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-mazagon-dock-rvnl-nestle-india-shares-to-move-sensex-nifty-monday-21-sept-triggers-11789897835796.html
+https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-eternal-urban-company-rain-industries-by-vaishali-parekh-targets-stoploss-11790008798372.html
 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-rs-200-castrol-nhpc-vikram-solar-3-shares-by-anand-rathi-s-mehul-kothari-target-stoploss-11789809341916.html
 https://www.livemint.com/market/stock-market-news/trent-q1-results-2026-net-profit-rises-22-yoy-to-518-crore-revenue-up-18-11786004405089.html
 https://www.livemint.com/market/stock-market-news/trump-says-he-100-respects-kevin-warsh-s-fed-independence-as-rate-decision-nears-11789535720483.html
