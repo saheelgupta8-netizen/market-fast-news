@@ -1577,6 +1577,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-today-live-21-sep-2026/liveblog/134378685.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-09-sep-2026/liveblog/133950050.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-13-aug-2026/liveblog/133196338.cms
+https://economictimes.indiatimes.com/markets/us-stocks/melania-trump-rings-new-york-stock-exchange-opening-bell-to-launch-new-womens-initiative-imperia/articleshow/134443367.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-led-boom-in-ipos-raises-concerns-about-a-bust/articleshow/132582690.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-ai-chip-deal-gives-qualcomm-stock-a-boost/slideshow/134279478.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-delays-its-ipo-plans-listing-expected-in-november/articleshow/133825809.cms
@@ -1922,6 +1923,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/elon-mu
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-rs-1-crore-5-7-years-how-nris-should-allocate-across-indian-equities-bonds-gold-and-alternatives-says-rohit-sarin/articleshow/133417845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-smart-talk-from-anthropic-to-spacex-mehul-vora-on-ai-valuations-ipo-hype-and-investor-risks/articleshow/134378808.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-chair-warsh-sees-global-investment-surge-replacing-savings-glut/articleshow/133671753.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-hike-iran-war-inflation-brent-crude-oil-intel-conocophillips-chevron-ai-chip-energy-stock-price-news-16th-sep/liveblog/134287797.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-rise-to-85-after-hot-august-inflation-data/articleshow/134075450.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-seen-a-bit-more-likely-to-hike-after-inflation-data/articleshow/133543948.cms
@@ -1992,10 +1994,12 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/strong-jobs-report-puts-fed-rate-hike-back-in-focus-as-trump-escalates-pressure/articleshow/133772770.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/texas-stock-exchange-lands-first-primary-listing-in-milestone/articleshow/133326685.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/this-is-the-test-all-eyes-on-us-fed-to-tackle-high-inflation/articleshow/134177098.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/url-dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-trump-xi-meet-un-jpmorgan-chase-uber-airbnb-meta-apple-amazon-chip-stock-price-news-23th-september-2026/liveblog/134437316.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-bonds-hit-19-year-high-ahead-of-fed-rate-decision/articleshow/134268867.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-prices-accelerate-in-august-push-fed-closer-to-rate-hike/articleshow/134107090.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-diesel-futures-fall-on-report-of-export-ban-plan-white-house-calls-it-fake-news/articleshow/134444376.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-dollar-reserve-shift-may-be-less-widespread-than-headline-figures-suggest-ny-fed-study-finds/articleshow/133886422.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-economy-firming-as-inflation-risks-persist-says-richmond-feds-tom-barkin/articleshow/134418821.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-explains-why-the-federal-reserve-raised-interest-rates/articleshow/134296073.cms
@@ -3207,6 +3211,7 @@ https://www.livemint.com/market/stock-market-news/nse-ipo-impact-ifci-share-pric
 https://www.livemint.com/market/stock-market-news/nse-ipo-indian-bank-to-divest-up-to-17-91-of-its-holding-in-national-stock-exchange-via-offer-for-sale-11788967087644.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-listing-date-timeline-when-rs-30-000-cr-issue-is-expected-to-hit-indian-stock-market-exchanges-11788527362527.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-new-india-assurance-to-sell-1-05-crore-shares-in-the-upcoming-mega-ofs-details-here-11788944435862.html
+https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-market-cap-gmp-11790167142139.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-size-valuation-11788934879448.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-to-us-iran-war-3-reasons-why-sensex-nifty-may-see-a-flat-to-weak-start-on-monday-indian-markets-outlook-11788695794967.html
 https://www.livemint.com/market/stock-market-news/nse-sme-stock-set-for-mainboard-listing-close-to-52-week-high-after-q1fy27-results-11786353510282.html
@@ -3328,6 +3333,7 @@ https://www.livemint.com/market/stock-market-news/sebi-cas-order-sensex-nifty-de
 https://www.livemint.com/market/stock-market-news/sebi-close-to-approving-nse-ipo-sebi-chief-tuhin-kanta-pandey-11787839069113.html
 https://www.livemint.com/market/stock-market-news/sebi-eases-regulatory-compliance-for-fpis-investing-only-in-government-securities-11788782595999.html
 https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html
+https://www.livemint.com/market/stock-market-news/sedemac-mechatronics-block-deal-a91-xponentia-hdfc-life-likely-to-offload-10-stake-report-11790175988672.html
 https://www.livemint.com/market/stock-market-news/senco-gold-shares-plunge-over-14-to-4-week-low-after-q1-results-11786524676292.html
 https://www.livemint.com/market/stock-market-news/sensex-climbs-100-points-nifty-50-ends-below-24-400-us-iran-uncertainty-keep-investors-cautious-11786615078970.html
 https://www.livemint.com/market/stock-market-news/sensex-crashes-700-points-nifty-50-drops-below-23-650-investors-lose-4-lakh-crore-why-is-market-falling-explained-11784861955779.html
@@ -3441,6 +3447,7 @@ https://www.livemint.com/market/stock-market-news/this-railway-navratna-psu-stoc
 https://www.livemint.com/market/stock-market-news/this-small-cap-ethanol-stock-in-focus-on-tuesday-after-additional-supply-order-from-omcs-11786986401694.html
 https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html
 https://www.livemint.com/market/stock-market-news/titan-shares-is-the-tata-group-stock-an-attractive-buy-after-q1fy27-results-11786352452848.html
+https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html
 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-swiggy-welspun-finolex-vishal-mega-mart-carborundum-by-sumeet-bagadia-targets-11790089705944.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-24-aug-bls-international-balrampur-chini-mills-hal-bank-of-baroda-among-top-losers-11787563388800.html
@@ -3550,6 +3557,7 @@ https://www.livemint.com/market/stocks-rebound-as-mideast-mediation-pushes-oil-l
 https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
 https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-date-check-details-11784281252605.html
 https://www.livemint.com/market/this-infra-stock-to-declare-bonus-shares-dividend-soon-details-here-11785745109814.html
+https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-ghcl-max-estates-bharat-dynamics-shares-on-thu-24-sept-triggers-11790174249617.html
 https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-infosys-mazagon-dock-shares-on-thursday-17-sept-triggers-11789574580431.html
 https://www.livemint.com/market/traders-load-up-on-hedges-for-shallower-fed-rate-hike-cycle-11790110353793.html
 https://www.livemint.com/market/treasuries-gain-as-oil-retreat-shores-up-confidence-in-warsh-fed-11789674560152.html
@@ -3571,6 +3579,7 @@ https://www.livemint.com/market/vodafone-idea-share-price-jefferies-sees-132-ups
 https://www.livemint.com/market/wall-street-dips-as-100-oil-inflation-worries-weigh-on-investors-11788986594338.html
 https://www.livemint.com/market/wall-street-dips-as-higher-yields-rising-oil-prices-mark-shaky-start-to-september-11788287811841.html
 https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html
+https://www.livemint.com/market/wall-street-falls-as-oil-prices-treasury-yields-rise-11790188753276.html
 https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html
 https://www.livemint.com/market/wall-street-mixed-amid-renewed-us-iran-clashes-11788355633357.html
 https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html
