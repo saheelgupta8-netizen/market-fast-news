@@ -1884,6 +1884,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-s
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-after-tech-rout-mideast-tariffs-in-focus/articleshow/132607371.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-wall-street-closes-lower-as-oil-prices-jump-indexes-notch-monthly-gains/articleshow/133662681.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-oil-prices-treasury-yields-rise/articleshow/134445625.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-on-middle-east-deal-hopes/articleshow/132833426.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms
@@ -2228,6 +2229,7 @@ https://www.livemint.com/market/dollar-gets-little-lift-from-boost-in-fed-hike-e
 https://www.livemint.com/market/dollar-heads-for-best-day-in-two-weeks-as-oil-prices-advance-11786041870410.html
 https://www.livemint.com/market/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-11787599085535.html
 https://www.livemint.com/market/dollar-higher-as-oil-lifts-yields-and-fed-hike-looms-11789500230618.html
+https://www.livemint.com/market/dollar-jumps-to-near-two-month-high-on-fed-outlook-inflation-concern-11790193013788.html
 https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html
 https://www.livemint.com/market/dollar-trades-near-7-month-low-against-yen-as-oil-settles-above-100-11788985799649.html
 https://www.livemint.com/market/elevate-campuses-ipo-student-housing-school-assets-debt-growth-11790055496808.html
@@ -2252,6 +2254,7 @@ https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
 https://www.livemint.com/market/gold-falls-as-traders-eye-impact-of-higher-oil-on-fed-rate-path-11789381368276.html
 https://www.livemint.com/market/gold-falls-as-traders-raise-fed-hike-bets-after-us-price-report-11789083721391.html
+https://www.livemint.com/market/gold-falls-as-traders-weigh-us-iran-talk-progress-fedspeak-11790193438638.html
 https://www.livemint.com/market/gold-falls-more-than-1-after-fed-hikes-interest-rates-11789587476132.html
 https://www.livemint.com/market/gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh-11788288241495.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
