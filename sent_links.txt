@@ -731,6 +731,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-liqvd-digital-ind
 https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-vama-wovenfab-issue-to-open-on-sep-15-sets-price-band-at-rs-324-341/-share/articleshow/134074221.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sml-ltd-weighing-ipo-within-2-to-3-years-eyes-new-chemical-entity-pipeline/articleshow/134180833.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-ipo-gmp-price-band-among-10-things-to-know-about-acevector-public-offer/articleshow/134430825.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-parent-acevector-raises-rs-189-crore-from-anchors-negen-singularity-among-top-investors/articleshow/134467815.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-acevectors-rs-420-cr-ipo-to-open-on-sep-25-sets-price-band-at-rs-30-32/share/articleshow/134403031.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/sonaselection-india-ipo-allotment-likely-today-grey-market-premium-and-steps-to-check-status/articleshow/134401076.cms
@@ -2037,6 +2038,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-rate-cut-bets-fall-below-50-after-governor-chris-wallers-comments-what-did-he-say/articleshow/133754387.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-rate-hike-what-it-means-for-your-money-and-investments/articleshow/134301840.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-anna-paulson-sees-scope-for-more-interest-rate-hikes-amid-inflation-risks/articleshow/134468950.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-michelle-bowman-says-changes-to-bank-stress-test-coming-soon/articleshow/134337833.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-christopher-waller-appeals-to-give-disinflation-a-chance-hold-rates-steady/articleshow/133738875.cms
@@ -2254,6 +2256,7 @@ https://www.livemint.com/market/copper-ascends-to-new-heights-on-tight-supply-an
 https://www.livemint.com/market/cryptocurrency/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes-11789573570118.html
 https://www.livemint.com/market/cryptocurrency/goldman-sachs-bofa-and-others-plan-to-issue-dollar-stablecoin-together-in-2027-11788275732303.html
 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
+https://www.livemint.com/market/dollar-ascends-to-fresh-2-month-high-on-inflation-worry-fed-hike-expectations-11790277078633.html
 https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html
 https://www.livemint.com/market/dollar-gains-most-in-over-two-weeks-as-pce-backs-fed-hike-11787778441174.html
 https://www.livemint.com/market/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-11788743903059.html
@@ -3227,6 +3230,7 @@ https://www.livemint.com/market/stock-market-news/nifty-50-stuck-below-25-000-is
 https://www.livemint.com/market/stock-market-news/nifty-bank-fails-to-hold-ground-after-us-fed-rate-hike-hdfc-yes-bank-icici-among-top-laggards-will-they-turn-tide-11789623594191.html
 https://www.livemint.com/market/stock-market-news/nifty-faces-risk-of-retesting-june-lows-as-rising-us-yields-and-crude-oil-prices-remain-key-headwinds-11789519992652.html
 https://www.livemint.com/market/stock-market-news/nifty-halts-losing-streak-is-a-short-term-reversal-possible-11789056903100.html
+https://www.livemint.com/market/stock-market-news/nifty-outlook-for-tomorrow-why-23-000-matters-after-breaking-below-4-month-support-resistance-support-levels-friday-11790272671999.html
 https://www.livemint.com/market/stock-market-news/nifty-witnesses-highest-volume-in-11-sessions-breaks-below-trendline-support-11787878341803.html
 https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html
 https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11785983882128.html
@@ -3383,6 +3387,7 @@ https://www.livemint.com/market/stock-market-news/sebi-cas-order-sensex-nifty-de
 https://www.livemint.com/market/stock-market-news/sebi-close-to-approving-nse-ipo-sebi-chief-tuhin-kanta-pandey-11787839069113.html
 https://www.livemint.com/market/stock-market-news/sebi-eases-regulatory-compliance-for-fpis-investing-only-in-government-securities-11788782595999.html
 https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html
+https://www.livemint.com/market/stock-market-news/sebi-uip-mdr-upi-merchant-discount-rate-11790261342038.html
 https://www.livemint.com/market/stock-market-news/sedemac-mechatronics-block-deal-a91-xponentia-hdfc-life-likely-to-offload-10-stake-report-11790175988672.html
 https://www.livemint.com/market/stock-market-news/senco-gold-shares-plunge-over-14-to-4-week-low-after-q1-results-11786524676292.html
 https://www.livemint.com/market/stock-market-news/sensex-climbs-100-points-nifty-50-ends-below-24-400-us-iran-uncertainty-keep-investors-cautious-11786615078970.html
@@ -3499,6 +3504,7 @@ https://www.livemint.com/market/stock-market-news/this-small-cap-ethanol-stock-i
 https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html
 https://www.livemint.com/market/stock-market-news/titan-shares-is-the-tata-group-stock-an-attractive-buy-after-q1fy27-results-11786352452848.html
 https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html
+https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-itc-hotels-rr-kabel-mcx-texrail-ubl-by-sumeet-bagadia-targets-11790262992516.html
 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-swiggy-welspun-finolex-vishal-mega-mart-carborundum-by-sumeet-bagadia-targets-11790089705944.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-24-aug-bls-international-balrampur-chini-mills-hal-bank-of-baroda-among-top-losers-11787563388800.html
@@ -3509,6 +3515,7 @@ https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-i
 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-mazagon-dock-rvnl-nestle-india-shares-to-move-sensex-nifty-monday-21-sept-triggers-11789897835796.html
 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-eternal-urban-company-rain-industries-by-vaishali-parekh-targets-stoploss-11790008798372.html
 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-hbl-precision-wires-ghcl-by-vaishali-parekh-target-stop-loss-nifty-bank-nifty-outlook-11790082155610.html
+https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-vaishali-parekh-picks-three-stocks-gail-texmaco-rail-hbl-engineering-market-outlook-11790267216221.html
 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-rs-200-castrol-nhpc-vikram-solar-3-shares-by-anand-rathi-s-mehul-kothari-target-stoploss-11789809341916.html
 https://www.livemint.com/market/stock-market-news/trent-q1-results-2026-net-profit-rises-22-yoy-to-518-crore-revenue-up-18-11786004405089.html
 https://www.livemint.com/market/stock-market-news/trump-says-he-100-respects-kevin-warsh-s-fed-independence-as-rate-decision-nears-11789535720483.html
