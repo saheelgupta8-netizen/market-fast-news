@@ -73,6 +73,7 @@ https://economictimes.indiatimes.com/markets/bonds/selloff-in-euro-zone-bonds-pa
 https://economictimes.indiatimes.com/markets/bonds/shorter-dated-us-treasury-yields-ease-in-line-with-lower-oil-price/articleshow/132537161.cms
 https://economictimes.indiatimes.com/markets/bonds/south-korean-pension-fund-seeks-india-government-bond-investment-licence-report/articleshow/134404611.cms
 https://economictimes.indiatimes.com/markets/bonds/sp-group-bond-yields-set-to-tighten-as-tata-sons-listing-improves-repayment-visibility/articleshow/134229864.cms
+https://economictimes.indiatimes.com/markets/bonds/treasury-rout-oil-spike-bleed-indian-bonds-10-year-yield-jumps-most-in-over-2-months/articleshow/134461900.cms
 https://economictimes.indiatimes.com/markets/bonds/updated-indian-bonds-fall-for-third-session-as-oil-prices-near-100-a-barrel/articleshow/132580828.cms
 https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms
 https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-flirts-with-5-as-higher-oil-rate-hike-worries-swirl/articleshow/134043739.cms
@@ -2065,6 +2066,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-weak-july-jobs-data-dents-expectations-for-september-fed-rate-hike/articleshow/133084200.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-rally-faces-inflation-test-as-investors-weigh-fed-rate-path/articleshow/133080203.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-face-rate-hike-jitters-as-investors-assess-feds-policy-path/articleshow/134457466.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-as-tech-stocks-rally-crude-oil-prices-fall/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-us-iran-peace-deal/articleshow/133156341.cms
@@ -2098,6 +2100,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-investors-weigh-weaker-oil-ppi-data/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-markets-opens-lower-as-oil-bond-yields-move-higher/articleshow/134439940.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-stocks-open-lower-as-oil-gains-on-mideast-uncertainty-eyes-on-trump-xi-talks/articleshow/134464197.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-stocks-rise-as-ai-stocks-rally-oil-tumbles-over-3-on-middle-east-hopes/articleshow/134391246.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasuries-rally-as-oil-cools-and-confidence-in-feds-warsh-grows/articleshow/134320229.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-secretary-scott-bessent-suggests-federal-reserve-should-consider-raising-fima-liquidity-facility/articleshow/132860980.cms
@@ -2597,6 +2600,7 @@ https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-date-in-focu
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-status-mv-electrosystems-ipo-gmp-mv-electrosystems-ipo-listing-date-mv-electrosystems-11785942587365.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-day-2-check-latest-ipo-gmp-ipo-subscription-status-and-other-details-apply-or-not-11785468704924.html
 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-gmp-today-jumps-on-strong-subscription-status-review-apply-or-not-11785727200316.html
+https://www.livemint.com/market/ipo/new-sebi-chairperson-was-turning-point-for-nse-ipo-ashishkumar-chauhan-11790244612345.html
 https://www.livemint.com/market/ipo/nse-ipo-confirmed-share-price-band-to-be-announced-tomorrow-where-is-gmp-going-amid-heavy-expectations-11789042917484.html
 https://www.livemint.com/market/ipo/nse-ipo-day-2-issue-subcribed-43-so-far-gmp-hints-8-listing-pop-check-review-key-dates-should-you-apply-or-skip-11789697288461.html
 https://www.livemint.com/market/ipo/nse-ipo-details-price-band-size-valuation-11789464097173.html
@@ -2772,6 +2776,7 @@ https://www.livemint.com/market/kalyan-jewellers-shares-extend-slide-tumble-5-af
 https://www.livemint.com/market/kevin-warsh-jackson-hole-speech-where-to-watch-timing-and-what-to-expect-from-fed-chief-address-check-timings-11787918774883.html
 https://www.livemint.com/market/leap-india-ipo-price-band-set-at-rs-151-159-per-share-check-key-dates-issue-details-11785725065150.html
 https://www.livemint.com/market/lic-q1-results-net-profit-rises-23-yoy-to-rs-13-492-crore-vnb-jumps-61-11786017351195.html
+https://www.livemint.com/market/listing-lesson-nse-debut-shows-why-mega-ipos-can-disappoint-despite-high-demand-11790252212715.html
 https://www.livemint.com/market/luxury-sales-plunge-in-china-as-tax-push-hits-rich-shoppers-11787382434070.html
 https://www.livemint.com/market/maharatna-psu-stock-indian-oil-corporation-sets-board-meeting-date-to-declare-q1-results-2026-11784270410513.html
 https://www.livemint.com/market/mark-to-market/afcons-infrastructure-share-price-tata-sons-listing-11789459737661.html
@@ -3349,6 +3354,7 @@ https://www.livemint.com/market/stock-market-news/retail-investors-secondary-mar
 https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-results-preview-o2c-reliance-jio-to-drive-earnings-key-things-to-watch-out-for-11784187766702.html
 https://www.livemint.com/market/stock-market-news/ril-share-price-jumps-over-2-ahead-of-reliance-q1-results-2026-today-heres-what-to-expect-from-ril-results-11784262485816.html
 https://www.livemint.com/market/stock-market-news/rising-us-bond-yields-or-oil-prices-at-90-per-barrel-which-is-the-bigger-risk-for-stock-markets-11788159795096.html
+https://www.livemint.com/market/stock-market-news/rs-26-dividend-paid-in-2026-so-far-ptc-india-to-pay-55-dividend-check-record-date-yield-stock-performance-11790248968840.html
 https://www.livemint.com/market/stock-market-news/rs-60-per-share-dividend-alert-check-last-date-to-buy-record-date-soon-check-payment-timeline-do-you-own-11788946329675.html
 https://www.livemint.com/market/stock-market-news/rs-600-cr-neogen-qip-floor-price-key-dates-discount-option-approvals-and-other-details-11789101635150.html
 https://www.livemint.com/market/stock-market-news/rs-65-dividend-per-share-bajaj-holdings-announces-cash-reward-check-record-date-stock-performance-payment-date-11789552105680.html
