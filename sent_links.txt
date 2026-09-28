@@ -404,6 +404,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/can-leap-india-ipo-delive
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-milky-mist-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133139952.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133076987.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-nse-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134297090.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/can-orient-cables-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134529264.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-runwal-enterprises-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134472739.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/can-shiprocket-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133167448.cms
@@ -518,6 +519,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-reality-check-is-gmp-
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-race-to-launch-issues-worth-rs-45000-crore-by-september-30/articleshow/133139967.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-5-companies-to-raise-rs-5499-crore-next-week-shiprocket-4-others-to-list/articleshow/133258703.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-16-issues-to-raise-over-rs-7000-crore-this-week/articleshow/133856257.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-20-issues-to-raise-over-rs-1257-crore-this-week/articleshow/134529213.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-rs-24500-crore-worth-of-issues-to-hit-primary-market-this-week/articleshow/134229600.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
@@ -1069,6 +1071,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/bonus-stock-splits-divi
 https://economictimes.indiatimes.com/markets/stocks/news/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets/articleshow/134255510.cms
 https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-3-day-slb-contracts-to-boost-short-term-securities-borrowing/articleshow/133290993.cms
 https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-fall-3-as-rival-nse-gets-closer-to-mega-ipo-more-pain-ahead/articleshow/134047512.cms
+https://economictimes.indiatimes.com/markets/stocks/news/bulls-out-of-steam-its-slow-steady-on-d-street/articleshow/134529337.cms
 https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms
 https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-shares-drop-8-after-listing-with-19-premium-over-ipo-price-should-you-buy-sell-or-hold/articleshow/132598938.cms
 https://economictimes.indiatimes.com/markets/stocks/news/can-indigo-shares-fly-again-amid-soaring-oil-prices-ambit-remains-bullish-but-lists-5-key-risks/articleshow/134003917.cms
@@ -1863,6 +1866,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-tick-higher-as-markets-weigh-further-fed-hikes/articleshow/134297050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-to-fall-as-oil-stokes-inflation-fears/articleshow/133989366.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today/articleshow/134529165.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-10-year-gilt-yields-hit-highest-level-since-2008-as-oil-prices-stoke-inflation-fears/articleshow/133673995.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-warner-bros-paramount-shares-jump-on-merger-settlement-talks/articleshow/134403764.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-fast-fashion-giant-shein-shrinks-value-to-up-to-27-billion-in-hong-kong-ipo/articleshow/133466240.cms
@@ -2330,6 +2334,7 @@ https://www.livemint.com/market/emergingmarket-assets-fall-as-oil-surge-ai-jitte
 https://www.livemint.com/market/emergingmarket-stocks-fall-as-warsh-stokes-fed-rate-hike-bets-11788156550409.html
 https://www.livemint.com/market/europe-gas-prices-surge-as-hormuz-deal-prospects-remain-murky-11786396840725.html
 https://www.livemint.com/market/fed-september-meeting-hike-to-fight-inflation-or-heed-trump-s-call-for-cuts-what-should-kevin-warsh-do-11789139960578.html
+https://www.livemint.com/market/fed-tightening-bets-weigh-on-gold-prices-11790555073972.html
 https://www.livemint.com/market/fed-to-pressure-asian-fx-with-yen-in-focus-strategists-say-11789602661534.html
 https://www.livemint.com/market/fpis-lead-the-exit-as-anchor-investors-after-ipo-lock-ins-end-sebi-study-11786629154971.html
 https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html
@@ -2381,6 +2386,7 @@ https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-intere
 https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar-11787164505057.html
 https://www.livemint.com/market/gold-swings-lower-as-fed-tilts-hawkish-after-raising-rates-11789590473862.html
 https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790295905715.html
+https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790553903937.html
 https://www.livemint.com/market/gold-tops-4-600-as-investors-weigh-fed-path-before-jackson-hole-11787865436959.html
 https://www.livemint.com/market/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates-11786940446270.html
 https://www.livemint.com/market/goldman-sees-china-oil-imports-staying-subdued-in-fourth-quarter-11790131198162.html
@@ -3729,6 +3735,7 @@ https://www.livemint.com/market/wall-street-falls-as-oil-prices-treasury-yields-
 https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html
 https://www.livemint.com/market/wall-street-mixed-amid-renewed-us-iran-clashes-11788355633357.html
 https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html
+https://www.livemint.com/market/wheat-falls-as-markets-monitor-black-sea-export-prospects-11790558644308.html
 https://www.livemint.com/market/wheat-soars-to-daily-limit-on-black-sea-export-worries-corn-at-lifetime-highs-11787773711563.html
 https://www.livemint.com/market/why-oura-and-whoop-are-bound-for-ipo-glory-11787772060529.html
 https://www.livemint.com/market/world-stocks-rebound-treasury-yields-retreat-after-fed-boe-decisions-11789672358825.html
