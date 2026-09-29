@@ -108,6 +108,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losse
 https://economictimes.indiatimes.com/markets/commodities/news/gold-firms-below-10-week-high-as-markets-brace-for-us-cpi-data/articleshow/133167915.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech/articleshow/133449285.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-seven-week-low-us-economic-data-on-tap/articleshow/134553921.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-steady-after-scaling-7-week-high-us-inflation-data-in-focus/articleshow/133077441.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-early-june-high-on-lower-bond-yields/articleshow/133361826.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms
@@ -154,6 +155,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weak
 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-to-one-week-high-heads-for-weekly-gain-on-easing-oil-prices/articleshow/134347676.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-biggest-weekly-drop-since-early-june-on-inflation-rate-hike-worries/articleshow/132474140.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-retreat-as-oil-prices-surge-inflation-and-rate-hike-concerns-mount/articleshow/134243425.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-after-robust-us-payrolls-boosts-rate-hike-bets/articleshow/133787001.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-below-rs-1-55-lakh/10-gm-on-mcx-but-global-prices-extend-gains-whats-next/articleshow/133311524.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-heads-for-third-straight-weekly-gain/articleshow/133390749.cms
@@ -201,6 +203,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-se
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-8-crude-oil-at-97-as-simmering-tensions-raise-supply-worries-experts-weigh-in/articleshow/133903670.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-jump-more-than-2-after-new-strikes-on-saudi-strait-of-hormuz/articleshow/134230564.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern/articleshow/134553898.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-set-to-end-week-over-100-for-first-time-in-nearly-4-months/articleshow/134039095.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-2-on-iran-oman-talks-to-reopen-strait-of-hormuz/articleshow/133527275.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/articleshow/134496730.cms
@@ -481,6 +484,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/glass-wall-systems-ipo-op
 https://economictimes.indiatimes.com/markets/ipos/fpos/gmps-indicate-15-ipos-opening-or-listing-this-week-could-offer-investors-up-to-37-returns/slideshow/133064592.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/goldman-templeton-fidelity-said-to-plan-buying-into-nse-ipo/articleshow/134253848.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/gs-nomura-axis-hired-to-run-carlyles-india-automotive-platform-ipo/articleshow/132639839.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/have-money-will-invest-why-ipo-party-never-stops/articleshow/134553417.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-allotment-likely-today-check-gmp-and-other-key-details-heres-how-to-check-status-online/articleshow/134379247.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-day-1-check-subscription-status-gmp-at-23-should-you-subscribe/articleshow/134279544.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-day-2-gmp-signals-16-listing-gain-should-you-subscribe/articleshow/134301091.cms
@@ -1181,6 +1185,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-200
 https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2100/10-gram-after-2-days-silver-down-rs-1500/kg-ahead-of-us-payrolls-data-important-levels-for-today/articleshow/133752723.cms
 https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-plunge-up-to-3-as-oil-surge-rate-hike-bets-trigger-sell-off-what-lies-ahead/articleshow/134542705.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms
+https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-identifies-42-indian-stocks-riding-ai-build-out/articleshow/134553363.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-portfolio-10-stocks-rally-up-to-130-in-cy26/slideshow/134116554.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-initiates-coverage-on-sansera-engineering-3-other-auto-ancillary-stocks-with-upside-of-up-to-28-heres-why/articleshow/132509174.cms
 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-5-power-generation-stocks-that-are-ai-enablers-amid-soaring-demand/slideshow/134379684.cms
@@ -1875,6 +1880,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-chip-stocks-rise-oil-climbs-towards-100/articleshow/133947565.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-markets-tumble-as-us-iran-fighting-lifts-oil-and-bond-yields/articleshow/133694847.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-advance-oil-rises-on-middle-east-concerns/articleshow/133308986.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-as-surging-oil-treasury-yields-weigh/articleshow/134553458.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-dollar-dips-as-fed-hike-bets-ease/articleshow/133284332.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-trade-lower-oil-holds-gains/articleshow/133140042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-as-oil-slips-yen-in-focus/articleshow/133722814.cms
