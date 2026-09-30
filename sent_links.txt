@@ -2010,6 +2010,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-q2-results-inv
 https://economictimes.indiatimes.com/markets/us-stocks/news/uk-gilt-yields-fall-to-lowest-since-mid-august-as-oil-price-slides/articleshow/133512436.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/unitree-ipo-chinas-humanoid-robot-starset-for-potentially-explosive-shanghai-debut/articleshow/133232736.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-yields-hit-highest-level-since-2007-as-war-and-oil-worries-fester/articleshow/133316317.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-crude-oil-output-rose-in-july-while-petroleum-demand-declined-eia-says/articleshow/134600210.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-derivatives-regulator-blocks-kalshi-from-canceling-michigan-trades-despite-court-order/articleshow/132400801.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-economic-activity-rises-modestly-inflation-pressures-persist-fed-beige-book/articleshow/133730053.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-chair-kevin-warsh-tells-g20-that-past-global-savings-glut-is-turning-into-investment-surge/articleshow/133655513.cms
@@ -2232,6 +2233,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-rally-faces-inflation-test-as-investors-weigh-fed-rate-path/articleshow/133080203.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-face-rate-hike-jitters-as-investors-assess-feds-policy-path/articleshow/134457466.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-open-higher-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields/articleshow/134486867.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-ends-nearly-flat-as-us-iran-talks-help-stocks-pare-losses/articleshow/134469382.cms
@@ -2443,6 +2445,7 @@ https://www.livemint.com/market/dollar-higher-as-oil-lifts-yields-and-fed-hike-l
 https://www.livemint.com/market/dollar-jumps-to-near-two-month-high-on-fed-outlook-inflation-concern-11790193013788.html
 https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html
 https://www.livemint.com/market/dollar-trades-near-7-month-low-against-yen-as-oil-settles-above-100-11788985799649.html
+https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html
 https://www.livemint.com/market/elevate-campuses-ipo-student-housing-school-assets-debt-growth-11790055496808.html
 https://www.livemint.com/market/eli-lilly-backed-scribe-therapeutics-climbs-67-after-raising-128-7-million-in-an-upsized-ipo-11784911559532.html
 https://www.livemint.com/market/emerging-currencies-weaken-as-us-iran-standoff-lifts-dollar-11786416498421.html
