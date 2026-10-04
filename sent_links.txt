@@ -1331,8 +1331,10 @@ https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-other-it-st
 https://economictimes.indiatimes.com/markets/stocks/news/inox-wind-shares-rise-2-after-bagging-rs-755-crore-turnkey-order-from-indian-oil/articleshow/133725602.cms
 https://economictimes.indiatimes.com/markets/stocks/news/investor-alert-nifty-cracks-below-key-200-week-moving-average-for-the-first-time-since-covid/articleshow/134565786.cms
 https://economictimes.indiatimes.com/markets/stocks/news/investors-slash-zeptos-valuation-delaying-india-ipo-plans/articleshow/132828262.cms
+https://economictimes.indiatimes.com/markets/stocks/news/ipo-bonanza-29-companies-to-list-this-week-gmps-signal-returns-of-up-to-59/slideshow/134672937.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ipo-bound-upstox-crosses-2-crore-customers-eyes-10-crore-users-in-five-years/articleshow/133403976.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ipo-fund-diversion-sebi-bars-varanium-cloud-promoter-for-7-years-from-markets/articleshow/133513410.cms
+https://economictimes.indiatimes.com/markets/stocks/news/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus/articleshow/134672682.cms
 https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-q1-net-up-36-at-rs-181-91-crore/articleshow/132435116.cms
 https://economictimes.indiatimes.com/markets/stocks/news/j-b-ecotex-files-drhp-for-rs-400-crore-ipo-ofs-of-1-29-crore-shares/articleshow/134561094.cms
 https://economictimes.indiatimes.com/markets/stocks/news/jefferies-is-bearish-tcs-wipro-6-other-it-stocks-ahead-of-q2-results-how-many-do-you-own/slideshow/134608396.cms
@@ -1493,6 +1495,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/raymond-share-price-ral
 https://economictimes.indiatimes.com/markets/stocks/news/rays-of-belief-ipo-moms-belief-operator-announces-price-band-for-issue-opening-on-september-1/articleshow/133506271.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rays-of-belief-shares-set-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/133903770.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms
+https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133018244.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-rate-hike-imminent-feds-move-pressures-india-to-tighten-monetary-policy-amid-rising-inflation/articleshow/134323407.cms
 https://economictimes.indiatimes.com/markets/stocks/news/re-rating-on-cars-for-hal-shares-as-tejas-mk1a-aircraft-deliveries-near-jefferies/articleshow/134586938.cms
@@ -3238,6 +3241,7 @@ https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-re
 https://www.livemint.com/market/stock-market-news/buy-suzlon-saatvik-green-sell-premier-energies-emmvee-photovoltaic-power-ambit-insights-target-price-upside-11790241660510.html
 https://www.livemint.com/market/stock-market-news/caliber-mining-and-logistics-ipo-issue-booked-154-times-on-day-03-nii-qib-portions-see-strong-demand-11784637533373.html
 https://www.livemint.com/market/stock-market-news/caliber-mining-ipo-raises-rs-135-crore-from-anchor-investors-ahead-of-issue-opening-11784216540031.html
+https://www.livemint.com/market/stock-market-news/cas-update-sebi-gets-20k-comments-on-closing-auction-session-timings-derivates-contracts-settlement-methodologies-11791103696405.html
 https://www.livemint.com/market/stock-market-news/ceat-share-price-slumps-over-9-on-q1-results-should-you-buy-sell-or-hold-11784267451358.html
 https://www.livemint.com/market/stock-market-news/ceigall-india-bags-rs-705-crore-frontier-highway-project-in-arunachal-pradesh-11787579143250.html
 https://www.livemint.com/market/stock-market-news/ceigall-india-secures-another-road-project-in-arunachal-pradesh-worth-rs-274-crore-11787142718734.html
@@ -3496,6 +3500,7 @@ https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-10-key-things-i
 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-issue-receives-modest-response-on-day-1-subscribed-0-40-times-gmp-signals-muted-listing-11784810014964.html
 https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11784740649066.html
 https://www.livemint.com/market/stock-market-news/lt-finance-share-price-rises-4-after-q1-results-2026-should-you-buy-sell-or-hold-11783926091679.html
+https://www.livemint.com/market/stock-market-news/ltm-cyient-zen-birlasoft-share-price-target-stop-loss-it-stocks-to-buy-for-over-32-returns-ahead-of-q2-results-11791111110434.html
 https://www.livemint.com/market/stock-market-news/lumino-industries-ipo-listing-shares-make-debut-at-34-premium-lists-at-110-per-share-11788408967353.html
 https://www.livemint.com/market/stock-market-news/lumino-industries-share-price-extends-gains-after-a-stellar-ipo-listing-up-41-5-from-issue-price-should-you-buy-11788497180293.html
 https://www.livemint.com/market/stock-market-news/lupin-sun-pharma-to-cipla-pharma-stocks-decline-after-trump-s-tariffs-plan-on-generic-medicines-import-11784692829109.html
@@ -3828,6 +3833,7 @@ https://www.livemint.com/market/stock-market-news/tata-sons-listing-how-will-it-
 https://www.livemint.com/market/stock-market-news/tata-sons-listing-n-chandrasekarans-extension-tata-chemicals-tata-motors-to-tata-capital-tata-group-stocks-crash-11789705199257.html
 https://www.livemint.com/market/stock-market-news/tata-sons-listing-tata-chemicals-vs-tata-steel-vs-tata-power-which-tata-group-stocks-may-benefit-most-experts-decode-11789722802716.html
 https://www.livemint.com/market/stock-market-news/tcs-infosys-wipro-shares-ahead-of-q2-results-explained-what-accentures-strong-earnings-mean-for-indian-it-stocks-11791014052622.html
+https://www.livemint.com/market/stock-market-news/tcs-tech-mahindra-coforge-mphasis-it-stocks-picks-and-investment-ideas-after-accenture-results-ahead-of-q2-earnings-11791106363192.html
 https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-2026-consolidated-net-profit-rises-over-28-to-rs-1-465-crore-revenue-up-15-11784190278654.html
 https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-preview-profit-to-witness-double-digit-rise-deal-wins-ai-bets-margin-push-in-focus-11784171274080.html
 https://www.livemint.com/market/stock-market-news/tech-mahindra-share-price-jumps-over-3-after-strong-q1-results-2026-should-you-buy-sell-or-hold-the-it-stock-11784260318672.html
@@ -3846,6 +3852,7 @@ https://www.livemint.com/market/stock-market-news/top-3-buy-or-sell-stocks-vedan
 https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html
 https://www.livemint.com/market/stock-market-news/top-3-stock-picks-by-vaishali-parekh-samvardhana-motherson-zuari-industries-ghcl-textile-target-stoploss-11790359100542.html
 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-apollo-micro-systems-netweb-technologies-blue-dart-by-vaishali-parekh-target-stoploss-11790612687438.html
+https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-hdfc-bank-infosys-bel-by-ganesh-dongre-target-price-stop-loss-for-it-defence-and-bank-shares-11791102137574.html
 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-itc-hotels-rr-kabel-mcx-texrail-ubl-by-sumeet-bagadia-targets-11790262992516.html
 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-swiggy-welspun-finolex-vishal-mega-mart-carborundum-by-sumeet-bagadia-targets-11790089705944.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html
