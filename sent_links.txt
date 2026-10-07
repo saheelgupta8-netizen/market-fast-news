@@ -2313,6 +2313,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-econ
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-eia-lifts-brent-forecast-to-98-as-iran-war-tightens-global-supplies/articleshow/134748141.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-explains-why-the-federal-reserve-raised-interest-rates/articleshow/134296073.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chairman-kevin-warsh-says-inflation-is-elevated-and-concerning-at-jackson-hole/articleshow/133593773.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-rate-cut-bets-fall-below-50-after-governor-chris-wallers-comments-what-did-he-say/articleshow/133754387.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-rate-hike-what-it-means-for-your-money-and-investments/articleshow/134301840.cms
@@ -2400,6 +2401,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-trea
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting/articleshow/134107285.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/walmart-shares-fall-8-as-q2-results-flag-risks-of-rising-inventory/articleshow/133380081.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-falling-today-dow-jones-crashes-600-points-on-trump-threat-to-intensify-us-canada-trade-war-amid-oil-price-rise/articleshow/133930253.cms
 https://www.livemint.com/companies/news/veefin-solutions-begins-process-for-migration-to-bse-mainboard-direct-listing-on-nse-11789042218177.html
 https://www.livemint.com/global/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook-11787113868604.html
@@ -3177,6 +3179,7 @@ https://www.livemint.com/market/oil-posts-biggest-monthly-jump-since-march-as-ir
 https://www.livemint.com/market/oil-prices-edge-up-as-investors-weigh-us-iran-talks-deadlock-against-lower-demand-11786561800055.html
 https://www.livemint.com/market/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-11786742025245.html
 https://www.livemint.com/market/oil-prices-settle-down-2-5-on-signs-middle-east-exports-recovering-11790710347911.html
+https://www.livemint.com/market/oil-prices-settle-down-as-iea-agrees-to-accelerate-oil-stock-release-11791399873130.html
 https://www.livemint.com/market/oil-prices-settle-slightly-higher-on-supply-worries-as-trump-rejects-iran-proposal-11790623271537.html
 https://www.livemint.com/market/oil-pushes-further-above-100-as-middle-east-conflict-deepens-11789082931566.html
 https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html
@@ -4141,3 +4144,4 @@ https://www.livemint.com/market/yen-weakens-1-erases-half-of-us-japan-interventi
 https://www.livemint.com/market/yens-103-billion-short-risks-unwind-below-155-jpmorgan-says-11788480450157.html
 https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html
 https://www.livemint.com/market/yuan-stays-calm-in-face-of-us-sanction-threats-over-iran-11787881788652.html
+https://www.livemint.com/market/zimbabwes-lithium-export-earnings-surge-on-higher-spodumene-prices-11791401479705.html
