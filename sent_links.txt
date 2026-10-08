@@ -105,6 +105,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-advances-as-m
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-3-as-feds-warsh-comments-lift-rate-hike-bets/articleshow/133603651.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-robust-us-payrolls-boost-rate-hike-bets-inflation-data-in-focus/articleshow/133861644.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-after-hitting-a-two-month-low/articleshow/134777720.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-softer-dollar-as-rate-hike-expectations-ease/articleshow/133284788.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-brent-eases-mideast-developments-in-focus-ahead-of-fed-meet/articleshow/132618808.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-gains-on-easing-rate-hike-fears-markets-await-fed-minutes/articleshow/133309281.cms
@@ -224,6 +225,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-steady-as-investors-weigh-impact-of-expanded-us-sanctions-against-iran/articleshow/133487053.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-doubts-over-us-iran-deal-heighten-supply-concerns/articleshow/133167806.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-middle-east-supply-concerns-persist-amid-shipping-attacks/articleshow/134777669.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-risks-of-prolonged-mideast-conflict-heighten-supply-worries/articleshow/133903416.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-uncertainty-over-reopening-of-hormuz/articleshow/133077384.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-slightly-as-market-weighs-mixed-supply-signals/articleshow/134630396.cms
@@ -1177,6 +1179,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/bse-wipro-shares-in-foc
 https://economictimes.indiatimes.com/markets/stocks/news/bulls-out-of-steam-its-slow-steady-on-d-street/articleshow/134529337.cms
 https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms
 https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-shares-drop-8-after-listing-with-19-premium-over-ipo-price-should-you-buy-sell-or-hold/articleshow/132598938.cms
+https://economictimes.indiatimes.com/markets/stocks/news/calm-or-chaos-tcs-shares-in-focus-ahead-of-q2-results-5-things-investors-should-watch-out-for/articleshow/134777942.cms
 https://economictimes.indiatimes.com/markets/stocks/news/can-indigo-shares-fly-again-amid-soaring-oil-prices-ambit-remains-bullish-but-lists-5-key-risks/articleshow/134003917.cms
 https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-eases-jefferies-names-top-stock-picks-as-options-volumes-recover-ipos-and-commodities-gain-traction/articleshow/134692619.cms
 https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-1-in-seconds-to-fall-below-23150-on-fo-expiry-day-sensex-closes-330-pts-lower/articleshow/134409443.cms
@@ -1258,6 +1261,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/former-tata-technologie
 https://economictimes.indiatimes.com/markets/stocks/news/fortis-audit-order-could-drag-listed-firms-into-promoters-personal-debt-cases-ingovern/articleshow/134413677.cms
 https://economictimes.indiatimes.com/markets/stocks/news/fpis-emerge-as-biggest-sellers-among-anchor-investors-in-ipos-30-day-window-sebi-study/articleshow/133219168.cms
 https://economictimes.indiatimes.com/markets/stocks/news/fpis-pump-rs-13010-crore-into-equities-in-second-half-of-august/articleshow/133748713.cms
+https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-rs-21745-crore-in-second-half-of-sep-in-oil-gas-auto-financials/articleshow/134777179.cms
 https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-mockery-to-rs-1-lakh-crore-m-cap-why-investors-are-still-betting-on-lenskarts-vision/articleshow/133494107.cms
 https://economictimes.indiatimes.com/markets/stocks/news/gaja-alternative-asset-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133527367.cms
 https://economictimes.indiatimes.com/markets/stocks/news/german-green-steel-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134685192.cms
@@ -1460,6 +1464,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-junip
 https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-account-for-nearly-half-of-small-loans-while-delinquencies-stay-low/articleshow/134720191.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nearly-half-of-bse-200-stocks-fail-to-deliver-returns-in-2026-whats-dragging-them-down/articleshow/133603293.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/slideshow/133335353.cms
+https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-6-stocks-cross-below-their-200-dmas/slideshow/134777846.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/133449630.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/134683932.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/133361923.cms
@@ -1472,6 +1477,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/nifty-closes-below-key-
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-ends-below-24000-for-4th-week-of-losses/articleshow/133787443.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-slips-below-critical-support-level-of-23600-as-market-reacts-to-global-economic-uncertainties/articleshow/133903622.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nifty-to-hit-27000-in-one-year-pl-capital-says-middle-east-crisis-el-nino-can-play-a-spoil-sport-names-15-top-picks/articleshow/132415415.cms
+https://economictimes.indiatimes.com/markets/stocks/news/nityas-gems-jewellery-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134777921.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms
 https://economictimes.indiatimes.com/markets/stocks/news/northern-arc-capital-jumps-10-after-rs-335-crore-block-deal-should-you-buy/articleshow/133648534.cms
 https://economictimes.indiatimes.com/markets/stocks/news/nse-becomes-9th-most-valued-company-with-rs-4-63-lakh-crore-m-cap-after-ipo-who-did-it-overtake/articleshow/134451835.cms
@@ -1506,6 +1512,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-aft
 https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-recover-410-from-2024-low-but-will-long-awaiting-ipo-investors-finally-see-redemption/articleshow/133142649.cms
 https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-crash-50-from-peak-fall-below-2021-ipo-price-more-downside-coming/articleshow/134614821.cms
 https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-gain-2-after-q1-results-why-morgan-stanley-nomura-see-up-to-25-downside/articleshow/132982565.cms
+https://economictimes.indiatimes.com/markets/stocks/news/pcbl-chemical-rises-25-on-supply-export-and-earnings-hopes/articleshow/134777293.cms
 https://economictimes.indiatimes.com/markets/stocks/news/persistent-growth-continues-but-rising-acquisition-costs-could-impact-overall-profitability-for-businesses/articleshow/133580980.cms
 https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-block-deal-mastercard-asia-may-divest-4-3-equity-worth-rs-892-crore/articleshow/134392101.cms
 https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-in-focus-as-mastercard-likely-to-sell-stake-in-rs-892-crore-block-deal/articleshow/134401210.cms
@@ -1675,6 +1682,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-
 https://economictimes.indiatimes.com/markets/stocks/news/tata-stocks-rally-on-rbi-ruling-potential-tata-sons-listing/articleshow/134275508.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-stocks-rise-on-listing-hopes-chandras-extension/articleshow/134323267.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tcs-porsche-deal-why-morgan-stanley-citi-other-brokerages-still-see-up-to-20-downside-potential/articleshow/133493948.cms
+https://economictimes.indiatimes.com/markets/stocks/news/tcs-q2-results-ready-for-the-big-move-heres-how-to-trade-the-it-stock-on-results-day/articleshow/134777867.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tcs-tata-chemicals-other-group-stocks-rally-up-to-14-as-tata-sons-approves-n-chandras-tenure-extension-prepares-for-ipo/articleshow/134307500.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-adani-ports-data-patterns-among-5-stocks-that-could-give-up-to-23-returns-in-short-term/slideshow/134256630.cms
@@ -2045,6 +2053,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-gain-as-oil-extends-decline/articleshow/134323537.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-after-us-tech-selloff-gold-gains/articleshow/133485763.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-inflation-concerns-oil-gains/articleshow/134777205.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-up-amid-bond-selloff-surging-oil-and-yen-concerns/articleshow/134472640.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-oil-rises-after-attacks/articleshow/133857975.cms
@@ -2442,6 +2451,7 @@ https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-ma
 https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html
 https://www.livemint.com/market/chinas-repo-push-gains-ground-as-legal-issues-low-yields-drag-11790739507575.html
 https://www.livemint.com/market/chinas-two-speed-economy-spurs-yawning-gap-between-stocks-yuan-11790739016795.html
+https://www.livemint.com/market/chinas-weak-holiday-spending-casts-shadow-as-markets-reopen-11791417938323.html
 https://www.livemint.com/market/cocacola-india-ipo-on-the-cards-bottling-unit-may-file-draft-papers-in-december-says-report-11790783318793.html
 https://www.livemint.com/market/colombia-coffee-exports-largely-halted-after-deadly-earthquake-11786474721326.html
 https://www.livemint.com/market/commodities/brent-crude-tops-95-as-us-iran-tensions-hormuz-blockade-drive-oil-rally-11784714555942.html
