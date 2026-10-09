@@ -122,6 +122,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-
 https://economictimes.indiatimes.com/markets/commodities/news/gold-likely-to-stay-range-bound-next-week-as-dollar-west-asia-tensions-guide-market-analysts/articleshow/134367215.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-week-low-ahead-of-us-cpi-data/articleshow/134040389.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-little-changed-with-us-inflation-data-in-spotlight/articleshow/133527287.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-nudges-higher-with-inflation-risks-fed-rate-path-in-focus/articleshow/134804008.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-precious-metal-slips-ahead-of-us-jobs-data-mcx-closed-for-gandhi-jayanti/articleshow/134631649.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1-52-lakh/10-gram-silver-gains-rs-1000/kg-as-falling-oil-lends-support-key-levels-to-track/articleshow/134326398.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1-52-lakh/10-grams-silver-down-rs-3300/kg-in-2-days-ahead-of-us-fed-decision-key-levels-to-track/articleshow/134251599.cms
@@ -367,6 +368,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/14-billion-worth-of-ipo-s
 https://economictimes.indiatimes.com/markets/ipos/fpos/16-ipos-on-investors-radar-next-week-gmps-signal-up-to-38-returns/slideshow/133833526.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/3-sme-ipos-open-today-vama-wovenfab-shakti-polytarp-and-quanto-agroworld-check-gmp-and-key-details/articleshow/134251176.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/3-sme-ipos-set-to-list-today-vinod-texworld-amtech-esters-infrax-renewable-check-gmp-listing-expectations/articleshow/134300896.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/3-sme-ipos-to-list-today-acme-india-industries-tna-solutions-paramount-syntex-check-key-details/articleshow/134804148.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/4-sme-ipos-to-list-today-bench-mark-infotech-services-himalayan-solar-among-highly-subscribed-issues/articleshow/134685063.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/46-billion-ipo-nse-is-the-worlds-most-expensive-stock-exchange-can-it-also-become-the-most-valuable/articleshow/134302520.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/6-mainboard-ipos-enter-day-2-karamtara-engineering-steamhouse-india-lcc-projects-more-check-gmp-subscription-status/articleshow/133993631.cms
@@ -1365,6 +1367,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-slide-7-aft
 https://economictimes.indiatimes.com/markets/stocks/news/india-bonds-pare-gains-as-oil-spike-tames-fcnr-boost/articleshow/133736102.cms
 https://economictimes.indiatimes.com/markets/stocks/news/india-said-to-plan-easier-rules-to-boost-micro-cap-listings/articleshow/133197081.cms
 https://economictimes.indiatimes.com/markets/stocks/news/india-to-launch-digital-gold-regulatory-framework-next-year/articleshow/133018302.cms
+https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-face-sharp-sell-off-sensex-and-nifty-hit-2026-lows-amid-rising-rates-and-crude-prices/articleshow/134803853.cms
 https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-weakens-slightly-against-dollar-amid-importer-demand-oil-prices-cool/articleshow/133018623.cms
 https://economictimes.indiatimes.com/markets/stocks/news/indian-stock-market-value-drops-below-5-trillion-as-oil-prices-surge-us-bond-yields-climb/articleshow/134275703.cms
 https://economictimes.indiatimes.com/markets/stocks/news/indias-anti-ai-trade-hides-42-ai-enabler-stocks-that-rallied-60-already-goldman-sachs/articleshow/134309681.cms
@@ -1479,6 +1482,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/133449630.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/slideshow/134683932.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/133361923.cms
+https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/134804128.cms
 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms
 https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms
 https://economictimes.indiatimes.com/markets/stocks/news/new-trade-rules-raise-compliance-worries-for-banks-over-cross-border-payments/articleshow/133665342.cms
@@ -1669,6 +1673,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-wipro-bel-hal-petronet-lng-and-bharat-forge/articleshow/134318416.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms
+https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-waaree-energies-pb-fintech-lemon-tree-hotels-and-dr-lal-pathlabs/articleshow/134467817.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-senco-gold-arvind-among-5-stocks-that-could-give-10-60-return/slideshow/133285138.cms
 https://economictimes.indiatimes.com/markets/stocks/news/strong-q1-results-spark-stock-picking-rush-50-top-ideas-for-investors-to-buy/articleshow/133336468.cms
@@ -1729,6 +1734,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-sha
 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-gas-shares-fall-over-3-after-firm-discloses-two-legal-matters-involving-ongc-goi/articleshow/132551165.cms
 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-drop-26-in-two-months-erase-all-post-demerger-gains-time-to-buy-or-better-to-avoid/articleshow/132550874.cms
 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-3-as-firm-fixes-record-date-for-first-dividend-after-demerger-what-to-expect/articleshow/134723226.cms
+https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-pay-rs-5-per-share-dividend/articleshow/134803307.cms
 https://economictimes.indiatimes.com/markets/stocks/news/veegaland-developers-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134324439.cms
 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-over-3-lakh-shares-of-websol-energy-solar-stock-zooms-1080-in-3-years/articleshow/132433361.cms
 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-rs-33-crore-stake-in-zaggle-prepaid-ocean-services-via-bulk-deal-stock-skyrockets-17/articleshow/133338421.cms
@@ -2076,6 +2082,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-after-us-tech-selloff-gold-gains/articleshow/133485763.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-inflation-concerns-oil-gains/articleshow/134777205.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-tech-jitters-oil-edges-lower/articleshow/134803253.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-up-amid-bond-selloff-surging-oil-and-yen-concerns/articleshow/134472640.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-oil-rises-after-attacks/articleshow/133857975.cms
@@ -3151,6 +3158,7 @@ https://www.livemint.com/market/ipo/xtranet-technologies-ipo-to-hit-primary-mark
 https://www.livemint.com/market/ipos-listing-rentomojo-karamtara-engineering-to-lcc-projects-six-ipos-list-today-delivers-up-to-30-premium-11789618177065.html
 https://www.livemint.com/market/it-costs-a-record-44-8-million-to-ship-us-crude-oil-to-asia-11789507070739.html
 https://www.livemint.com/market/jane-street-order-sebi-vs-jane-street-11791466349488.html
+https://www.livemint.com/market/japan-deal-drought-cuts-ipo-fundraising-to-lowest-in-14-years-11791506959041.html
 https://www.livemint.com/market/jio-financial-services-q1-results-net-profit-jumps-156-yoy-to-rs-830-crore-revenue-tops-rs-2-000-crore-11784206444730.html
 https://www.livemint.com/market/jio-ipo-check-latest-buzz-after-us-uk-dubai-roadshows-by-akash-isha-ambani-reliance-backed-indias-biggest-issue-11791196528784.html
 https://www.livemint.com/market/jp-morgan-analysts-unsure-how-to-model-oil-as-iran-war-drags-on-11789670394518.html
