@@ -2339,6 +2339,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-ed
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rallies-past-three-month-high-as-treasury-buyback-and-weak-dollar-boost-demand/articleshow/133473806.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rises-1-as-hopes-for-us-iran-diplomacy-pause-oil-rally/articleshow/132531850.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rises-as-weaker-dollar-fading-fed-hike-bets-lift-demand/articleshow/133304905.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-tumbles-4-to-seven-week-low-as-oil-dollar-and-yields-climb/articleshow/134549139.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-raises-dutch-ttf-gas-price-view-on-slow-hormuz-export-recovery/articleshow/132531752.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms
@@ -2676,6 +2677,7 @@ https://www.livemint.com/market/gold-falls-more-than-1-after-fed-hikes-interest-
 https://www.livemint.com/market/gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh-11788288241495.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
 https://www.livemint.com/market/gold-gains-as-october-fed-rate-hike-prospects-fade-11791166334138.html
+https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html
 https://www.livemint.com/market/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech-11787532550012.html
 https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html
 https://www.livemint.com/market/gold-holds-biggest-drop-in-over-two-months-on-fed-rate-hike-bets-11788143018035.html
@@ -2725,6 +2727,7 @@ https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-a
 https://www.livemint.com/market/history-shows-fed-will-deliver-rate-hike-markets-locked-in-11789504628721.html
 https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html
 https://www.livemint.com/market/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index-11787269994025.html
+https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html
 https://www.livemint.com/market/iex-q1-results-net-profit-grows-12-yoy-to-rs-135-crore-electricity-volumes-rise-16-11784813721089.html
 https://www.livemint.com/market/india-dividend-payouts-fy26-rise-8-percent-payout-ratio-12-year-low-11786342196867.html
 https://www.livemint.com/market/india-ipo-market-rebound-mnc-listings-bofa-donde-interview-11787727640888.html
@@ -3292,6 +3295,7 @@ https://www.livemint.com/market/stock-market-news/110-stock-split-this-multibagg
 https://www.livemint.com/market/stock-market-news/15-stock-split-alert-mukul-agrawal-portfolio-stock-nearing-record-date-delivers-400-return-in-5-years-do-you-own-11789555598323.html
 https://www.livemint.com/market/stock-market-news/15-stock-split-alert-oriana-power-set-for-major-share-division-announcement-check-record-date-other-details-11789470175590.html
 https://www.livemint.com/market/stock-market-news/1500-dividend-stock-alert-check-amount-per-share-record-date-payment-timeline-and-performance-11788425974870.html
+https://www.livemint.com/market/stock-market-news/188-up-in-2026-dee-development-engineers-order-book-tops-rs-2500-cr-mark-spans-power-oil-gas-heavy-fabrication-11791566989344.html
 https://www.livemint.com/market/stock-market-news/2008-financial-crisis-pe-ratio-shiller-pe-ratio-cape-sensex-nifty-11787657950534.html
 https://www.livemint.com/market/stock-market-news/240-rally-in-six-months-defence-stock-raymond-hits-52-week-high-exit-or-hold-explained-with-target-stop-loss-ratio-11790310543429.html
 https://www.livemint.com/market/stock-market-news/26-bn-anand-groups-gabriel-india-stock-up-50-in-6-months-now-enters-jv-with-france-based-forvia-deal-details-11791558480339.html
