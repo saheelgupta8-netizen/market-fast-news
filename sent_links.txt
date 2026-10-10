@@ -73,6 +73,7 @@ https://economictimes.indiatimes.com/markets/bonds/oil-rally-weighs-on-indian-bo
 https://economictimes.indiatimes.com/markets/bonds/oil-shock-treasury-yield-spike-put-indian-bonds-under-pressure-before-debt-sale/articleshow/132596731.cms
 https://economictimes.indiatimes.com/markets/bonds/oil-spike-jolts-indian-bonds-10-year-yield-hits-three-week-high/articleshow/132391105.cms
 https://economictimes.indiatimes.com/markets/bonds/rbi-bond-sales-fx-intervention-help-halve-indias-cash-overhang/articleshow/134408593.cms
+https://economictimes.indiatimes.com/markets/bonds/rbi-to-conduct-rs-25000-cr-omo-sale-auction-of-government-securities-on-oct-13/articleshow/134850360.cms
 https://economictimes.indiatimes.com/markets/bonds/selloff-in-euro-zone-bonds-pauses-but-oil-prices-keep-up-pressure/articleshow/133341510.cms
 https://economictimes.indiatimes.com/markets/bonds/shorter-dated-us-treasury-yields-ease-in-line-with-lower-oil-price/articleshow/132537161.cms
 https://economictimes.indiatimes.com/markets/bonds/south-korean-pension-fund-seeks-india-government-bond-investment-licence-report/articleshow/134404611.cms
@@ -987,6 +988,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/delhivery-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/dish-tv-q1-results-net-loss-widens-to-rs-286-crore-on-fall-in-subscription-revenue/articleshow/133158103.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/divis-labs-q1-results-net-profit-rises-66-yoy-to-rs-902-crore-revenue-up-28/articleshow/132784662.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/dlf-q1-results-profit-rises-4-to-rs-794-crore-revenue-declines-46/articleshow/132832859.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/eternal-q1-results-cons-pat-skyrockets-268-yoy-to-rs-92-crore-revenue-zooms-182/articleshow/132555751.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/eternal-q1-results-preview-all-eyes-on-blinkit-to-drive-earnings-heres-what-investors-can-expect/articleshow/132534271.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/fortis-healthcare-q1-results-profit-rises-2-3-to-rs-273-crore/articleshow/133010459.cms
@@ -2924,6 +2926,7 @@ https://www.livemint.com/market/ipo/ipo-share-price-band-rs-300-gmp-rs-313-check
 https://www.livemint.com/market/ipo/ipo-valuations-dip-in-india-as-local-funds-flex-pricing-muscle-11790821171391.html
 https://www.livemint.com/market/ipo/jindal-supreme-ipo-day-1-gmp-signals-29-listing-gains-on-opening-day-check-gmp-review-apply-or-not-11789527387494.html
 https://www.livemint.com/market/ipo/jio-ipo-expected-launch-date-and-price-latest-gmp-price-reliance-shareholder-quota-what-we-know-so-far-11791355511806.html
+https://www.livemint.com/market/ipo/jio-ipo-how-mukesh-ambanis-mega-issue-compares-with-indias-5-biggest-ipos-check-price-band-valuation-11791616589751.html
 https://www.livemint.com/market/ipo/jio-ipo-latest-gmp-today-launch-date-reliance-shareholder-quota-expected-share-price-band-size-valuation-details-11791264947786.html
 https://www.livemint.com/market/ipo/jio-ipo-mukesh-ambani-owned-reliance-industries-sets-eyes-on-navratri-diwali-period-for-launch-what-we-know-so-far-11788489882375.html
 https://www.livemint.com/market/ipo/jio-platforms-gets-sebi-nod-for-35-000-crore-ipo-india-s-biggest-potential-listing-11787919901062.html
@@ -3354,6 +3357,7 @@ https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-resul
 https://www.livemint.com/market/stock-market-news/augmont-enterprises-raises-rs-246-crore-from-anchor-investors-ahead-of-ipo-launch-on-friday-11787242962230.html
 https://www.livemint.com/market/stock-market-news/augmont-enterprises-share-price-jumps-over-29-from-ipo-price-on-listing-day-should-you-buy-sell-or-hold-11788154843956.html
 https://www.livemint.com/market/stock-market-news/autoline-industries-share-16-jump-in-share-price-of-this-firm-after-rs-100-cr-order-tata-motors-pv-do-you-own-11788425973818.html
+https://www.livemint.com/market/stock-market-news/avenue-supermarts-q2-results-dmart-parent-net-profit-jumps-8-5-to-rs-742-98-crore-revneue-up-18-11791626484306.html
 https://www.livemint.com/market/stock-market-news/avenue-supermarts-share-price-slips-over-4-after-q1-results-should-you-buy-sell-or-hold-the-dmart-stock-11783915039006.html
 https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html
 https://www.livemint.com/market/stock-market-news/axis-bank-share-price-dips-over-6-after-q1fy27-results-11784535525777.html
@@ -3476,6 +3480,7 @@ https://www.livemint.com/market/stock-market-news/dividend-countdown-begins-last
 https://www.livemint.com/market/stock-market-news/dividend-growth-stars-beyond-yield-honda-india-majestic-auto-rec-among-7-stocks-raising-payout-who-stands-out-11790677197389.html
 https://www.livemint.com/market/stock-market-news/dividend-income-at-risk-8-stocks-with-inconsistent-dividend-payout-indian-oil-sanofi-india-uti-amc-and-more-11790768058400.html
 https://www.livemint.com/market/stock-market-news/dividend-jackpot-shares-coal-india-wipro-itc-bpcl-or-ongc-which-large-cap-stock-has-the-highest-yield-data-details-11790948842766.html
+https://www.livemint.com/market/stock-market-news/dividend-kings-of-railway-shares-irfc-vs-rvnl-vs-irctc-vs-rites-vs-concor-which-psu-stock-wins-the-crown-11791615271148.html
 https://www.livemint.com/market/stock-market-news/dividend-powerhouse-coal-india-itc-rec-nmdc-aptech-radiant-cash-which-stock-is-real-dividend-multiplier-details-11791451035317.html
 https://www.livemint.com/market/stock-market-news/dividend-record-date-alert-last-call-for-investors-buy-arfin-india-engineers-india-others-today-to-qualify-list-11790133411133.html
 https://www.livemint.com/market/stock-market-news/dividend-record-date-alert-last-chance-to-buy-asian-energy-bharat-rasayan-ircon-mstc-and-others-full-list-11789528768234.html
@@ -3859,6 +3864,7 @@ https://www.livemint.com/market/stock-market-news/power-stocks-surge-what-s-behi
 https://www.livemint.com/market/stock-market-news/ppf-vs-dividend-this-power-stock-delivers-better-returns-than-popular-savings-scheme-do-you-own-11788933282390.html
 https://www.livemint.com/market/stock-market-news/pranav-constructions-ipo-gmp-today-what-latest-rate-hints-at-listing-share-price-allotment-stock-market-debut-date-11788782752149.html
 https://www.livemint.com/market/stock-market-news/priority-jewels-ipo-listing-today-will-the-jewellery-maker-deliver-gains-heres-what-gmp-experts-signal-11788456908910.html
+https://www.livemint.com/market/stock-market-news/private-vs-psu-banks-face-off-sbi-pnb-union-bank-vs-hdfc-icici-axis-au-which-pack-could-outperform-in-q2-2026-re-11791631645257.html
 https://www.livemint.com/market/stock-market-news/propshop-events-and-exhibitions-ipo-listing-shares-make-muted-debut-lists-at-20-discount-11785729801329.html
 https://www.livemint.com/market/stock-market-news/psu-dividend-kings-ongc-bpcl-hpcl-coal-india-among-top-8-psu-stocks-with-highest-dividend-yield-crown-goes-to-11789362315354.html
 https://www.livemint.com/market/stock-market-news/psu-stock-coal-india-sets-board-meeting-date-to-declare-final-dividend-for-fy26-record-date-details-here-11784718121166.html
@@ -4134,6 +4140,7 @@ https://www.livemint.com/market/stock-market-news/up-5-100-in-one-year-breakwave
 https://www.livemint.com/market/stock-market-news/up-725-in-five-years-small-cap-stock-to-be-in-focus-on-monday-after-rs-5-12-crore-order-win-11789142510005.html
 https://www.livemint.com/market/stock-market-news/up-over-500-in-2026-this-small-cap-telecom-stock-to-be-in-focus-on-thursday-after-210-million-international-order-11785943683995.html
 https://www.livemint.com/market/stock-market-news/up-over-65-from-ipo-price-in-just-3-days-what-is-driving-glass-wall-systems-share-price-11789709442937.html
+https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-bonus-share-right-issue-next-week-12-17-october-vedanta-tcs-ola-electric-and-more-11791616940572.html
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stocks-sail-igl-nmdc-among-3-psu-stocks-with-record-dates-ahead-check-yield-roe-stock-return-11790330679880.html
 https://www.livemint.com/market/stock-market-news/upcoming-ipos-manipal-hospitals-ipo-juniper-green-energy-ipo-among-new-nine-issues-to-open-next-week-full-list-here-11785054080300.html
 https://www.livemint.com/market/stock-market-news/us-10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-bets-strengthen-11789480161708.html
