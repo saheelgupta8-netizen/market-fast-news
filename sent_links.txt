@@ -194,6 +194,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/nse-augmont-partne
 https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites/articleshow/134683741.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-mideast-conflict-tanker-attacks-persist/articleshow/134880638.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/articleshow/133195813.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-investors-weigh-uncertainty-over-u-s-iran-strikes/articleshow/133723219.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms
@@ -299,6 +300,7 @@ https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-in
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-growth-leaders-bajaj-alts-jitendra-gohil-bets-on-electronics-solar-defence/articleshow/133391126.cms
 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-us-bonds-offer-attractive-yields-again-nachiketa-sawrikar-on-the-challenge-for-indian-equities/articleshow/134530910.cms
 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-has-slipped-below-its-crucial-support-says-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134119208.cms
+https://economictimes.indiatimes.com/markets/expert-view/india-has-gone-from-half-full-to-half-empty-thats-excessive-vincent-mortier/articleshow/134880195.cms
 https://economictimes.indiatimes.com/markets/expert-view/many-deals-over-10b-amid-conflicts-this-is-astonishing-jpmorgan-anu-aiyengar-private-equity-ai-investment-trends-india/articleshow/133639101.cms
 https://economictimes.indiatimes.com/markets/expert-view/nifty-at-risk-below-24000-mcx-havells-among-stocks-to-watch-next-week-rupak-de/articleshow/133257377.cms
 https://economictimes.indiatimes.com/markets/expert-view/stocks-gold-and-debt-why-icici-prus-dharmesh-kakkad-favours-a-multi-asset-strategy-now/articleshow/132358178.cms
@@ -321,6 +323,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/oils-climb-to-100-
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-shields-rupee-in-face-of-oil-hedging-strain/articleshow/132603138.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-meet-daily-dollar-needs-of-3-state-run-oil-firms-to-ease-rupee-pressure/articleshow/134880069.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-breaches-96-per-dollar-as-oil-surge-stokes-pressure-rbi-intervention-limits-fall/articleshow/134565213.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-28-vs-usd-logs-sharpest-weekly-drop-since-may-as-oil-price-jump-stings/articleshow/132458678.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-34-vs-usd-firmer-asia-fx-oil-dip-offer-little-comfort-as-ndf-maturities-pinch/articleshow/132436001.cms
@@ -604,6 +607,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-16-iss
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-20-issues-to-raise-over-rs-1257-crore-this-week/articleshow/134529213.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-rs-24500-crore-worth-of-issues-to-hit-primary-market-this-week/articleshow/134229600.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-eight-issues-to-raise-over-rs-11000-crore-this-week/articleshow/134879783.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-six-companies-eye-nearly-rs-5600-cr-next-week/articleshow/133270086.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/j-infratech-files-ipo-papers-eyes-rs-600-cr-via-fresh-issue/articleshow/134502249.cms
@@ -3267,6 +3271,7 @@ https://www.livemint.com/market/oil-extends-gains-on-report-of-iran-strikes-in-s
 https://www.livemint.com/market/oil-extends-slump-on-iran-talks-optimism-saudi-pipeline-outlook-11790120533470.html
 https://www.livemint.com/market/oil-extends-two-day-drop-on-signs-of-progress-toward-hormuz-deal-11785888212952.html
 https://www.livemint.com/market/oil-falls-on-fresh-iran-war-diplomacy-talks-on-hormuz-11787692674565.html
+https://www.livemint.com/market/oil-falls-on-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-11791766233476.html
 https://www.livemint.com/market/oil-heads-for-biggest-weekly-gain-since-july-on-iran-war-risks-11788479903594.html
 https://www.livemint.com/market/oil-holds-four-day-gain-with-iran-stalemate-and-hormuz-in-focus-11787181261190.html
 https://www.livemint.com/market/oil-holds-three-day-drop-as-iran-oman-reach-hormuz-agreement-11785969511394.html
