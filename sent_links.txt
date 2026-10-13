@@ -431,6 +431,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-gmp-
 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-set-to-debut-today-27-gmp-points-to-strong-listing-gains/articleshow/133168112.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/are-nse-unlisted-shareholders-staring-at-losses-heres-what-ipo-pricing-indicates/articleshow/133965638.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/armee-infotech-ipo-enters-day-3-with-1-17x-subscription-gmp-at-5-should-you-subscribe/articleshow/134474947.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ashish-kacholia-kotak-life-lead-fusion-cxs-rs-315-crore-anchor-book-ahead-of-rs-702-crore-ipo/articleshow/134923207.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/asset-reconstruction-company-ipo-to-open-on-september-9-check-details/articleshow/133707635.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-day-2-gmp-jumps-to-48-issue-subscribed-2-74x-should-you-subscribe/articleshow/133450931.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-day-3-gmp-at-42-issue-subscribed-14-46x-should-you-apply/articleshow/133489339.cms
@@ -2307,6 +2308,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffetts-cult
 https://economictimes.indiatimes.com/markets/us-stocks/news/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/why-did-akamai-stock-surge-after-anthropics-11-6-billion-deal/slideshow/134477889.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/world-bank-flags-oil-el-nio-and-global-market-risks-to-growth/articleshow/134736490.cms
+https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-25-bps-hike-us-federal-reserve-raises-interest-rates-for-first-time-since-2023/articleshow/134293809.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom-raises-too-big-to-fail-concerns-as-ecosystem-expands-says-kansas-feds-jeff-schmid/articleshow/134490358.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-to-burst-sooner-than-expected-michael-burry-believes-it-would-take-only-one-season-of-revenue-disappointment/articleshow/134563244.cms
@@ -2442,6 +2444,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-y
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-tops-19-month-high-as-oil-prices-fuel-rate-hike-bets/articleshow/133661626.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-earnings-in-focus-as-treasury-yields-surge-raising-concerns-over-lending-and-dealmaking/articleshow/134806882.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-chip-stocks-slide-as-chinas-cxmt-advances-ai-spending-fears-rattle-investors/articleshow/134923498.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-prices-accelerate-in-august-push-fed-closer-to-rate-hike/articleshow/134107090.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-diesel-futures-fall-on-report-of-export-ban-plan-white-house-calls-it-fake-news/articleshow/134444376.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-dollar-reserve-shift-may-be-less-widespread-than-headline-figures-suggest-ny-fed-study-finds/articleshow/133886422.cms
@@ -2783,6 +2786,7 @@ https://www.livemint.com/market/gold-steadies-as-traders-weigh-mideast-tensions-
 https://www.livemint.com/market/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path-11788999951470.html
 https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook-11785815218115.html
 https://www.livemint.com/market/gold-steady-as-more-oil-and-falling-yields-ease-rate-hike-bets-11791333075934.html
+https://www.livemint.com/market/gold-subdued-ahead-of-us-inflation-data-warsh-remarks-11791916268630.html
 https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar-11787164505057.html
 https://www.livemint.com/market/gold-swings-lower-as-fed-tilts-hawkish-after-raising-rates-11789590473862.html
 https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790295905715.html
@@ -3334,6 +3338,7 @@ https://www.livemint.com/market/oil-declines-as-traders-weigh-us-iran-hormuz-tal
 https://www.livemint.com/market/oil-dips-as-traders-assess-hormuz-talks-ukraine-war-escalation-11787778798554.html
 https://www.livemint.com/market/oil-drops-below-100-as-iran-diplomacy-hormuz-flows-stunt-rally-11790015876956.html
 https://www.livemint.com/market/oil-drops-stocks-gain-amid-iran-peace-hopes-yen-firms-as-investors-watch-for-further-intervention-11785792593711.html
+https://www.livemint.com/market/oil-eases-from-three-day-gain-with-focus-on-middle-east-russia-11791921916389.html
 https://www.livemint.com/market/oil-erases-decline-as-traders-weigh-fresh-houthi-threat-11785917157048.html
 https://www.livemint.com/market/oil-extends-gains-as-us-weighs-sending-carrier-to-middle-east-11790897581331.html
 https://www.livemint.com/market/oil-extends-gains-on-report-of-iran-strikes-in-strait-of-hormuz-11786050144011.html
@@ -3354,6 +3359,7 @@ https://www.livemint.com/market/oil-prices-settle-down-as-iea-agrees-to-accelera
 https://www.livemint.com/market/oil-prices-settle-slightly-higher-on-supply-worries-as-trump-rejects-iran-proposal-11790623271537.html
 https://www.livemint.com/market/oil-pushes-further-above-100-as-middle-east-conflict-deepens-11789082931566.html
 https://www.livemint.com/market/oil-rallies-sending-dollar-higher-on-expectations-of-higher-us-rates-11791833490768.html
+https://www.livemint.com/market/oil-rally-peters-out-with-mideast-russia-tensions-in-focus-11791922935224.html
 https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html
 https://www.livemint.com/market/oil-rises-as-mideast-tensions-flare-with-uae-iran-spat-11787166032202.html
 https://www.livemint.com/market/oil-rises-as-us-warns-of-more-economic-pressure-to-isolate-iran-11786737452456.html
@@ -3580,6 +3586,7 @@ https://www.livemint.com/market/stock-market-news/dividend-record-date-alert-las
 https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-beml-gocl-irctc-kpi-green-ambika-cotton-among-62-stocks-check-big-11789962628299.html
 https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-nmdc-to-qualify-for-navratna-psu-payout-check-yield-stock-performance-11790824249448.html
 https://www.livemint.com/market/stock-market-news/dividend-record-date-stocks-this-week-tcs-vedanta-anand-rathi-wealth-shares-check-dates-amount-and-payment-details-11791720954556.html
+https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-shivam-autotech-shraddha-prime-anand-rathi-wealth-11791910945306.html
 https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-to-qualify-for-amount-vedanta-tcs-continental-controls-11791824752741.html
 https://www.livemint.com/market/stock-market-news/dividend-stock-2026-this-media-stock-gives-14-dividend-yield-in-ytd-beats-bank-fd-ppf-interest-rate-11791865111460.html
 https://www.livemint.com/market/stock-market-news/dividend-stock-alert-last-chance-to-buy-today-sail-and-saraswati-saree-depot-ahead-of-record-date-check-details-11790653590729.html
