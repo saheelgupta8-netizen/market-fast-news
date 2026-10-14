@@ -255,6 +255,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-th
 https://economictimes.indiatimes.com/markets/commodities/news/why-gold-is-showing-signs-of-reversal-after-recent-selling-pressure/articleshow/132619913.cms
 https://economictimes.indiatimes.com/markets/commodities/news/why-jefferies-chris-wood-billionaire-john-paulson-say-golds-long-term-bull-market-is-just-getting-started/articleshow/132600667.cms
 https://economictimes.indiatimes.com/markets/commodities/news/why-the-us-iran-war-continues-to-disrupt-oil-markets/articleshow/133163454.cms
+https://economictimes.indiatimes.com/markets/commodities/silver-futures-plunge-4-on-mcx-ahead-of-us-cpi-rising-oil-adds-pressure/articleshow/134946048.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-64700-as-softer-us-inflation-eases-us-fed-rate-hike-concerns/articleshow/132406900.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-62k-as-us-iran-tensions-and-inflation-fears-keep-investors-cautious/articleshow/132385801.cms
 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-30-as-google-gold-and-defence-stocks-outperform-since-2020-report/articleshow/133586960.cms
@@ -457,6 +458,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/beyond-listed-stocks-msei
 https://economictimes.indiatimes.com/markets/ipos/fpos/beyond-nse-ipo-buzz-msei-cse-unlisted-shares-rally-up-to-108-in-2026/articleshow/134401651.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/bhagwati-products-may-delay-ipo-by-up-to-3-quarters/articleshow/133139996.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/biscuit-maker-anmol-industries-files-for-188-million-ipo/articleshow/134497256.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/blackrock-goldman-sachs-nomura-among-key-investors-as-zetwerk-mops-up-rs-2251-crore-in-anchor-bidding-ipo-opens-on-oct-15/articleshow/134947568.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/articleshow/133050913.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-announces-rs-2534-cr-ipo-price-band-set-at-rs-558-586/sh/articleshow/134884813.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/bse-ipo-index-surges-35-in-fy27-hits-record-high-on-strong-listings/articleshow/133902517.cms
@@ -600,6 +602,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/inside-nse-ipo-journey-wh
 https://economictimes.indiatimes.com/markets/ipos/fpos/integrum-energy-infrastructure-files-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134478986.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/investcorp-backed-ndr-invit-trust-files-draft-paper-with-sebi-for-rs-750-crore-ipo/articleshow/133179051.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-electrical-products-maker-biocon-electric-files-draft-papers-with-sebi/articleshow/134702878.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-paramotor-digital-technology-files-updated-draft-papers-with-sebi-for-rs-1000-crore-issue/articleshow/134946466.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotment-today-orient-cables-german-green-among-4-issues-check-status-gmp-and-listing-date/articleshow/134577904.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotments-today-how-to-check-allotment-status-for-elevate-campuses-swastika-infra-armee-infotech-on-nse-bse-registrars/articleshow/134534834.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-executive-centre-india-opens-1000-seat-coworking-facility-in-gurugram/articleshow/133708901.cms
@@ -633,10 +636,12 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/jindal-supreme-ipo-day-1-
 https://economictimes.indiatimes.com/markets/ipos/fpos/jindal-supreme-ipo-day-2-issue-subscribed-over-12-5x-gmp-at-27-should-you-subscribe/articleshow/134304839.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jindal-supreme-ipo-opens-today-gmp-signals-29-potential-listing-gain-check-key-details/articleshow/134277218.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-announces-price-band-for-over-rs-30000-crore-ipo-check-key-dates-gmp-and-other-details/articleshow/134945465.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-5-strengths-that-put-the-reliance-backed-digital-giant-in-spotlight/articleshow/134946580.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-co-set-to-begin-investor-outreach-later-this-week-say-sources/articleshow/133934116.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-may-be-valued-at-rs-11-lakh-crore-what-it-means-for-ril-bharti-airtel-and-telecom-stocks/articleshow/134885702.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-soon-reliances-telecom-arm-gets-sebi-nod-for-rs-37000-crore-offering/articleshow/133590054.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-sparks-investor-buzz-gmp-hits-20-as-reliances-telecom-arm-announces-price-band-dates/articleshow/134946913.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-swot-analysis-what-the-drhp-says-about-its-growth-story-moats-and-risks/articleshow/134756226.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-to-open-on-october-21-10-things-to-know-about-the-rs-30000-crore-mega-issue/articleshow/134945374.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-nse-ipos-do-marquee-ipos-really-deliver-big-listing-day-gains/articleshow/133907485.cms
@@ -1670,6 +1675,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sc-stays-cic-order-decl
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-former-axis-mf-dealer-viresh-joshi-for-7-years-front-running-case/articleshow/132606474.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-trafiksol-its-promoters-for-1-year-for-misleading-ipo-disclosures/articleshow/133594730.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-chairman-says-cyber-defence-must-move-from-it-issue-to-boardroom-priority/articleshow/133294633.cms
+https://economictimes.indiatimes.com/markets/stocks/news/sebi-confirms-interim-curbs-on-rajesh-exports-says-financial-disclosure-concerns-remain-unresolved/articleshow/134946574.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-proceedings-against-max-financial-axis-bank-in-max-life-deal-case/articleshow/133473094.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-compliance-norms-for-fpis-investing-only-in-government-securities/articleshow/133880514.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms
@@ -2490,6 +2496,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-anna-paulson-sees-scope-for-more-interest-rate-hikes-amid-inflation-risks/articleshow/134468950.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-michelle-bowman-says-changes-to-bank-stress-test-coming-soon/articleshow/134337833.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-bowman-sees-no-urgency-for-another-rate-hike/articleshow/134947666.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-christopher-waller-appeals-to-give-disinflation-a-chance-hold-rates-steady/articleshow/133738875.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-dual-challenge-will-rising-inflation-and-soaring-bond-yields-force-warsh-into-first-rate-hike-in-3-years/articleshow/134278526.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-michael-barr-warns-central-bank-may-need-to-raise-rates-if-inflation-stays-high/articleshow/133688340.cms
@@ -3638,6 +3645,7 @@ https://www.livemint.com/market/stock-market-news/dividend-stock-2026-this-media
 https://www.livemint.com/market/stock-market-news/dividend-stock-alert-last-chance-to-buy-today-sail-and-saraswati-saree-depot-ahead-of-record-date-check-details-11790653590729.html
 https://www.livemint.com/market/stock-market-news/dividend-stock-or-dividend-trap-top-3-checks-that-could-make-or-break-your-stock-pick-expert-weighs-in-11791711723385.html
 https://www.livemint.com/market/stock-market-news/dividend-stock-split-alert-last-chance-to-buy-today-ads-diagnostics-naturite-agro-to-midwest-energy-ahead-of-record-11790219097236.html
+https://www.livemint.com/market/stock-market-news/dividend-stock-split-record-date-last-chance-to-buy-today-hindustan-composites-canara-robeco-hcl-and-bansal-wire-11792000107150.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-chance-to-buy-today-to-qualify-for-these-shares-check-full-list-amount-payment-11788845748540.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-chance-to-qualify-kalyan-jewellers-aarti-industries-blue-jet-bajaj-healthcare-more-11789098026451.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-day-to-qualify-for-dividend-of-these-stocks-check-full-list-amount-record-date-11789013955665.html
@@ -3843,7 +3851,9 @@ https://www.livemint.com/market/stock-market-news/jio-financial-services-declare
 https://www.livemint.com/market/stock-market-news/jio-financial-services-share-price-falls-ahead-of-q1-results-2026-is-it-right-time-to-buy-11784174499985.html
 https://www.livemint.com/market/stock-market-news/jio-ipo-gmp-latest-price-today-grey-market-premium-is-rising-day-by-day-check-expected-price-band-11791217893111.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-files-rhp-for-ipo-issue-to-open-on-october-21-fresh-issue-of-up-to-27-crore-equity-shares-11791983551493.html
+https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-confirms-ril-reservation-quota-how-will-it-impact-reliance-share-price-experts-views-11791994024248.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-details-listing-date-share-price-size-valuation-11788790657127.html
+https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-price-band-fixed-at-rs-1-065-rs-1-119-per-share-minimum-bid-lot-set-at-12-shares-11791992365457.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-what-does-it-mean-for-reliance-industries-share-price-what-should-ril-investors-do-11791361785458.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-what-does-listing-of-reliance-industries-company-means-for-airtel-vodafone-idea-indus-towers-share-11791558078789.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-to-launch-3-8-billion-ipo-on-october-21-set-to-be-india-s-biggest-listing-report-11791196582417.html
@@ -4085,6 +4095,7 @@ https://www.livemint.com/market/stock-market-news/refex-industries-share-price-j
 https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-portfolio-stock-va-tech-wabag-jumps-5-axis-securities-raises-target-price-after-q1-results-2026-11786692269587.html
 https://www.livemint.com/market/stock-market-news/reliance-industries-q1-results-2026-live-ril-q1-preview-ril-results-jio-ril-share-reliance-q1-preview-ril-q1fy27-11784264173532.html
 https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-rises-after-q1-results-should-you-buy-or-sell-the-stock-11784519995844.html
+https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-good-news-for-ril-shareholders-check-what-the-reservation-quota-is-for-them-11791991857192.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-price-band-revealed-price-band-fixed-at-rs-1-065-rs-1-119-report-11791554628948.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-valuation-likely-at-rs-11-lakh-cr-will-mukesh-ambanis-ril-gain-bharti-airtel-vodafone-feel-heat-11791800763889.html
 https://www.livemint.com/market/stock-market-news/reliance-q1-results-2026-key-takeaways-profit-revenue-margin-new-energy-updates-reliance-jio-reliance-retail-11784289960993.html
