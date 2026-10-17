@@ -1100,12 +1100,14 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q1-r
 https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q1-results-mamaearth-parent-posts-record-profit-of-rs-90-crore-revenue-up-27-yoy/articleshow/133210743.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q1-results-profit-jumps-16-yoy-to-rs-14805-crore-nii-rises-13-as-margins-expand/articleshow/132477062.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-preview-pat-nii-may-rise-up-to-21-yoy-margins-deposit-growth-in-focus/articleshow/134988975.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-lombard-q1-results-profit-falls-46-on-commercial-insurance-slowdown-higher-claims/articleshow/132418788.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q2-results-profit-rises-6-yoy-to-rs-889-crore-co-declares-rs-30/share-dividend/articleshow/134893738.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icra-q1-results-profit-rises-32-yoy-to-rs-56-crore/articleshow/132754836.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q1-results-net-profit-grows-5-yoy-to-rs-2115-crore-nii-climbs-10/articleshow/132478011.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q1-results-profit-shoots-up-132-yoy-to-record-rs-1075-crore-nii-jumps-21/articleshow/132624296.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q1-results-profit-rises-18-yoy-to-rs-390-crore-total-income-up-15/articleshow/132539913.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/indian-its-q2-earnings-dilemma-deepens-more-deals-but-weaker-growth-and-falling-pricing-power/articleshow/134685622.cms
@@ -3314,6 +3316,7 @@ https://www.livemint.com/market/ipo/rays-of-belief-ipo-opens-1-september-gmp-hin
 https://www.livemint.com/market/ipo/rays-of-belief-ipo-price-band-set-at-rs-227-239-per-share-check-key-dates-issue-details-11787539870153.html
 https://www.livemint.com/market/ipo/reliance-industries-share-price-jio-platforms-ipo-11791435313094.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-apply-or-not-should-you-subscribe-to-issue-after-launch-or-wait-for-listing-what-gmp-signals-11792029844505.html
+https://www.livemint.com/market/ipo/reliance-jio-ipo-gmp-today-listing-day-jackpot-or-long-term-bet-how-should-investors-play-mukesh-ambani-s-mega-ipo-11792233746569.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-latest-gmp-today-check-share-price-percentage-wise-gains-stock-is-expected-to-make-on-listing-11792135316984.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-rhp-filing-likely-today-latest-gmp-jumps-to-rs-219-check-expected-share-price-band-size-valuation-11791956423647.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-should-investors-chase-listing-gains-or-focus-on-long-term-value-experts-weigh-in-11792064886682.html
@@ -3906,6 +3909,7 @@ https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-sh
 https://www.livemint.com/market/stock-market-news/hindustan-copper-ofs-government-to-sell-up-to-6-stake-at-rs-514-per-share-10-below-market-price-11787579800581.html
 https://www.livemint.com/market/stock-market-news/hindustan-zinc-gmdc-nmdc-to-vedanta-6-stocks-that-could-strike-gold-in-india-s-big-critical-minerals-push-11789471241301.html
 https://www.livemint.com/market/stock-market-news/hindustan-zinc-q1-results-2026-net-profit-of-psu-stock-more-than-doubles-to-rs-5-469-crore-revenue-surges-72-11784882937703.html
+https://www.livemint.com/market/stock-market-news/hindustan-zinc-q2-results-2026-anil-agarwal-led-vedanta-firm-to-report-earnings-next-week-preview-dividend-history-11792235803320.html
 https://www.livemint.com/market/stock-market-news/hitachi-energy-india-shares-zoom-11-after-q1-results-2026-do-you-own-11786348424164.html
 https://www.livemint.com/market/stock-market-news/hot-inflation-100-oil-why-a-fed-rate-hike-next-week-now-looks-almost-certain-11789139131738.html
 https://www.livemint.com/market/stock-market-news/how-delhi-hcs-fortis-healthcare-order-safeguards-investors-making-listed-firms-answerable-for-promoters-personal-debt-11790150570517.html
