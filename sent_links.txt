@@ -2432,6 +2432,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/world-bank-flags-oil
 https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-25-bps-hike-us-federal-reserve-raises-interest-rates-for-first-time-since-2023/articleshow/134293809.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom-raises-too-big-to-fail-concerns-as-ecosystem-expands-says-kansas-feds-jeff-schmid/articleshow/134490358.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-to-burst-sooner-than-expected-michael-burry-believes-it-would-take-only-one-season-of-revenue-disappointment/articleshow/134563244.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-road-to-ipo-funding-valuation-claude-growth-and-legal-battles/articleshow/134559621.cms
@@ -3321,6 +3322,7 @@ https://www.livemint.com/market/ipo/rays-of-belief-ipo-opens-1-september-gmp-hin
 https://www.livemint.com/market/ipo/rays-of-belief-ipo-price-band-set-at-rs-227-239-per-share-check-key-dates-issue-details-11787539870153.html
 https://www.livemint.com/market/ipo/reliance-industries-share-price-jio-platforms-ipo-11791435313094.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-apply-or-not-should-you-subscribe-to-issue-after-launch-or-wait-for-listing-what-gmp-signals-11792029844505.html
+https://www.livemint.com/market/ipo/reliance-jio-ipo-buzz-reaches-crypto-market-bitget-launches-jio-pre-ipo-futures-ahead-of-public-issue-what-is-it-11792323354455.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-gmp-today-listing-day-jackpot-or-long-term-bet-how-should-investors-play-mukesh-ambani-s-mega-ipo-11792233746569.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-latest-gmp-today-check-share-price-percentage-wise-gains-stock-is-expected-to-make-on-listing-11792135316984.html
 https://www.livemint.com/market/ipo/reliance-jio-ipo-lic-leading-mfs-amcs-and-global-investors-eye-issue-say-reports-check-latest-gmp-price-today-11792299184449.html
@@ -4014,6 +4016,7 @@ https://www.livemint.com/market/stock-market-news/kalpataru-projects-gr-infrapro
 https://www.livemint.com/market/stock-market-news/kanohar-electricals-shares-jump-15-after-q1-results-check-order-book-fy27-outlook-11791346501995.html
 https://www.livemint.com/market/stock-market-news/karur-vysya-bank-shares-jump-6-to-hit-a-52-week-high-after-q2-results-should-you-buy-rationale-target-price-11792125152481.html
 https://www.livemint.com/market/stock-market-news/kec-international-shares-51-down-in-2026-but-jumps-5-today-after-this-order-can-stock-rise-further-experts-view-11791518043817.html
+https://www.livemint.com/market/stock-market-news/kellton-tech-solutions-rights-issue-2026-record-date-price-size-subscription-date-entitlement-ratio-other-details-11792321058461.html
 https://www.livemint.com/market/stock-market-news/king-of-bonus-shares-wipro-l-t-itc-infosys-these-5-companies-have-given-the-most-bonus-issues-check-list-11790739860636.html
 https://www.livemint.com/market/stock-market-news/knowledge-marine-shares-jump-5-then-drop-2-despite-this-work-order-update-what-next-tech-experts-decode-11789968774263.html
 https://www.livemint.com/market/stock-market-news/kospi-index-vs-taiwan-index-which-asian-stock-market-remained-unimpacted-after-us-fed-fomc-rate-hike-decision-11789636149840.html
@@ -4377,6 +4380,7 @@ https://www.livemint.com/market/stock-market-news/special-dividend-stocks-tcs-js
 https://www.livemint.com/market/stock-market-news/ss-retail-shares-up-95-from-ipo-price-newly-listed-stock-soars-over-19-today-on-strong-results-check-q1-highlights-11791953382198.html
 https://www.livemint.com/market/stock-market-news/stellar-debut-laser-power-and-infra-share-price-lists-at-rs-250-a-premium-of-16-8-over-ipo-price-11784174635279.html
 https://www.livemint.com/market/stock-market-news/stock-market-holidays-next-week-india-china-taiwan-to-hong-kong-these-global-indices-to-remain-closed-on-these-days-11790396894180.html
+https://www.livemint.com/market/stock-market-news/stock-market-this-week-jio-ipo-crude-oil-price-volatility-fii-selling-q2-results-among-7-factors-to-watch-check-ni-11792326615470.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-down-vaishali-parekh-recommends-three-stocks-to-buy-today-11788834324730.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-at-a-volatile-trend-vaishali-parekh-recommends-three-stocks-to-buy-today-11789006668121.html
 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-gap-down-start-vaishali-parekh-recommends-three-stocks-to-buy-today-11789092731608.html
