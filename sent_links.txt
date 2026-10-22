@@ -65,9 +65,11 @@ https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-o
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-sell-off-on-oil-shock-ahead-of-rbi-policy-minutes/articleshow/135082397.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-higher-oil-hawkish-rbi-governor-comments/articleshow/134933863.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-soft-us-data-offsets-oil-rise/articleshow/133099683.cms
+https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-wobble-on-oil-strain-rbi-swap-pullback/articleshow/133313452.cms
 https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-surpasses-7-on-rising-oil-treasury-yields/articleshow/134044172.cms
 https://economictimes.indiatimes.com/markets/bonds/indias-bpcl-plans-3-billion-bond-sale-to-fund-brazil-oil-bet/articleshow/134699704.cms
+https://economictimes.indiatimes.com/markets/bonds/indias-jsw-paints-eyes-4-5-year-debt-to-refinance-acquisition-led-funding-bankers-say/articleshow/135118523.cms
 https://economictimes.indiatimes.com/markets/bonds/japan-government-bond-yields-fall-as-global-markets-steady/articleshow/134630413.cms
 https://economictimes.indiatimes.com/markets/bonds/jefferies-chris-wood-sees-a-structural-bear-market-in-us-bonds-what-it-means-for-stocks-and-gold/articleshow/133756104.cms
 https://economictimes.indiatimes.com/markets/bonds/malaysia-launches-dollar-islamic-bond-for-infra-and-government-projects-term-sheet-shows/articleshow/132580993.cms
@@ -368,6 +370,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-past-96/usd-to-one-month-low-as-oil-climbs-rbi-likely-intervenes/articleshow/132388783.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-eight-day-rally-as-oil-climbs-to-highest-since-may/articleshow/135115702.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-losing-streak-on-rbi-support-oil-retreat/articleshow/134347574.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-steady-as-oil-firms-buy-dollars/articleshow/133046429.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-41-after-oil-cools/articleshow/133526951.cms
@@ -697,6 +700,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-valuation-gmp-key
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-grey-market-hints-at-20-listing-pop-what-are-emkay-sbi-securities-saying/articleshow/135008712.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/jio-leverage-play-pops-up-at-sbi-as-india-brokers-lure-ipo-bets/articleshow/135114335.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-nse-ipos-do-marquee-ipos-really-deliver-big-listing-day-gains/articleshow/133907485.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platform-gets-sebis-nod-for-rs-37000-crore-ipo/articleshow/133603362.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-gears-up-for-ipo-marketing-next-week-eyes-november-listing-report/articleshow/133905179.cms
@@ -1082,10 +1086,12 @@ https://economictimes.indiatimes.com/markets/stocks/did-mutual-funds-stop-gold-i
 https://economictimes.indiatimes.com/markets/stocks/earnings/acc-q1-results-profit-falls-61-yoy-to-rs-147-crore-as-revenue-volumes-decline/articleshow/132603024.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/acc-q1-results-profit-plunges-60-to-rs-147-crore-on-lower-sales/articleshow/132608115.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-energy-q1-results-profit-zooms-124-yoy-to-rs-1149-crore-revenue-jumps-42/articleshow/132531830.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/adani-energy-q2-results-profit-zooms-148-yoy-to-rs-1323-crore-revenue-jumps-53/articleshow/135114324.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-green-q1-results-profit-jumps-19-yoy-to-rs-845-crore-revenue-up-16/articleshow/132554901.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-green-q2-results-profit-rises-15-yoy-to-rs-673-crore-revenue-jumps-39/articleshow/135087375.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q1-results-profit-jumps-42-yoy-to-rs-4806-cr-co-approves-rs-15000-cr-fundraise/articleshow/132554673.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q1-results-profit-falls-14-yoy-to-rs-142-crore-revenue-jumps-27/articleshow/132533438.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q2-results-net-profit-rises-6-yoy-to-rs-173-crore-revenue-jumps-34/articleshow/135115540.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q1-results-profit-jumps-40-yoy-to-rs-1175-crore/articleshow/132767249.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-share-and-stock-brokers-q2-results-profit-jumps-50-yoy-to-rs-42-crore-revenue-rises-20/articleshow/134918674.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms
@@ -1116,6 +1122,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-resu
 https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q1-results-net-profit-rises-15-yoy-to-rs-118-crore-revenue-up-13/articleshow/132786509.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q1-results-profit-rises-13-to-rs-1324-cr/articleshow/132456948.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q1-results-cons-profit-plunges-39-yoy-to-rs-789-crore-revenue-rises-marginally/articleshow/132573600.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q2-results-profit-rises-4-3-to-rs-341-6-crore/articleshow/135119461.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q1-results-profit-rises-15-to-rs-142-crore-revenue-up-11/articleshow/133006964.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/delhivery-q1-results-net-profit-tumbles-65-yoy-to-rs-32-crore-but-revenue-rises-28/articleshow/133051939.cms
@@ -1150,6 +1157,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q1-r
 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q2-results-net-profit-skyrockets-142-yoy-to-rs-6412-crore-revenue-soars-77/articleshow/135047098.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q1-results-mamaearth-parent-posts-record-profit-of-rs-90-crore-revenue-up-27-yoy/articleshow/133210743.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/hpcl-q2-results-profit-slips-6-yoy-to-rs-3625-crore-revenue-jumps-26/articleshow/135119002.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q1-results-profit-jumps-16-yoy-to-rs-14805-crore-nii-rises-13-as-margins-expand/articleshow/132477062.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-preview-pat-nii-may-rise-up-to-21-yoy-margins-deposit-growth-in-focus/articleshow/134988975.cms
@@ -1170,6 +1178,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q1-results-
 https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-preview-will-the-results-provide-oomph-to-surging-it-stocks/articleshow/135107078.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/interglobe-aviation-q1-results-airline-reports-rs-238-crore-loss-vs-profit-yoy-revenue-rises-20/articleshow/132577469.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-results-standalone-profit-falls-27-yoy-to-rs-3579-crore-but-revenue-grows-28/articleshow/132765792.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/jammu-kashmir-bank-q2-results-net-profit-rises-over-10-yoy-to-rs-546-crore-nii-jumps-5-yoy/articleshow/135116063.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-services-q2-results-pat-drops-51-yoy-to-rs-340-crore-nii-up-132/articleshow/134970520.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/jk-tyre-industries-q1-results-net-profit-tumbles-73-at-rs-44-09-crore/articleshow/133031885.cms
@@ -1220,9 +1229,11 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q1-results-
 https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-ltd-q1-results-profit-jumps-over-3-fold-to-rs-51-crore-revenue-rises-to-rs-1330-crore/articleshow/132516958.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-tech-q1-results-profit-skyrockets-870-yoy-to-rs-197-crore-as-ai-data-centre-orders-lift-earnings/articleshow/132602426.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q1-results-profit-rises-27-yoy-to-rs-2895-crore-revenue-climbs-10-5/articleshow/132762558.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q2-results-net-profit-jumps-86-yoy-to-rs-341-crore-revenue-rises-10/articleshow/134964408.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-consumer-q1-results-net-profit-rises-28-yoy-to-rs-427-crore-revenue-up-12/articleshow/132603103.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-elxsi-q2-results-profit-rises-10-yoy-to-rs-170-crore-revenue-grows-15/articleshow/134918419.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-q2-results-preview-profit-may-rise-up-to-44-yoy-revenue-45-margins-volume-growth-in-focus/articleshow/135116132.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-q1-results-net-profit-plunges-80-yoy-to-rs-775-crore-revenue-rises-9/articleshow/133208589.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-q1-results-net-profit-soars-83-to-rs-2560-crore-on-one-time-gain-from-tata-capital-revenue-jumps-19/articleshow/133179150.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q1-results-profit-rises-6-to-rs-180-crore/articleshow/132461624.cms
@@ -1804,6 +1815,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/restaurant-brands-asia-
 https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-shift-from-secondary-market-to-ipos-in-july-august-selling-rs-5674-crore/articleshow/134296954.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rhi-magnesita-block-deal-dalmia-bharat-refractories-divests-11-11-stake-for-rs-826-crore-sbi-mf-bandhan-mf-among-buyers/articleshow/134415677.cms
 https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-results-live-updates-reliance-industries-ltd-q1-fy27-revenue-earning-net-profit-loss-bonus-shares-date-time/liveblog/132458673.cms
+https://economictimes.indiatimes.com/markets/stocks/news/ril-stock-jios-listing-could-unlock-value-but-will-it-drive-a-re-rating/articleshow/135113747.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rr-kabel-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/132379693.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rr-kabel-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/132980955.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rs-1024-crore-market-cap-rs-10000-crore-order-book-this-penny-stock-jumps-11-after-sail-deal/articleshow/134827035.cms
@@ -2279,6 +2291,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-firms-as-investors-await-us-cpi-data-assess-inflation/articleshow/134932229.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-strong-gdp-data-ease-stimulus-concerns/articleshow/135040279.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-on-export-strength-weak-dollar/articleshow/135082502.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-more-than-four-year-high-against-dollar/articleshow/135111723.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-holds-near-3-year-high-despite-strong-dollar-pboc-fixing-supports-currency/articleshow/134908460.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hovers-near-3-1/2-year-high-as-trade-risks-cloud-outlook/articleshow/134884833.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slide-as-us-china-optimism-fades-tech-shares-tumble/articleshow/134495616.cms
@@ -2571,6 +2584,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-nvidia-jp-morgan-meta-ai-chip-stock-price-news-28th-september-2026/liveblog/134542610.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-ai-stocks-nvidia-tesla-meta-stock-price-news-22nd-october-2026/liveblog/135118971.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-xenon-pharmaceuticals-berkshire-hathaway-alphabet-apple-stock-price-news-18th-september-2026/liveblog/134335091.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-bitcoin-warner-bros-meta-marvell-accenture-chip-stock-price-news-21st-september-2026/liveblog/134389611.cms
@@ -2616,6 +2630,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-tightens-scrutiny-of-humanoid-robot-ipos-amid-valuation-concerns/articleshow/134382656.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-central-bank-vows-timely-policy-adjustments-backs-panda-bond-market/articleshow/132819048.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-ipo-boom-gains-momentum-as-ai-robotics-fuel-investor-appetite/articleshow/133649246.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-lingjun-investment-attracts-300-million-from-overseas-investors/articleshow/135116219.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-services-growth-slows-to-10-month-low-in-july-weak-demand-weighs-on-outlook/articleshow/132899228.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-trade-data-auto-tech-stocks-in-focus-after-export-surge/articleshow/133916397.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-wealthy-rush-to-unwind-offshore-trusts-as-tax-deadline-looms/articleshow/134982601.cms
@@ -2653,6 +2668,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-treasury-bond-buybacks-complicate-feds-path-to-price-stability/articleshow/133373763.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-gilt-yields-rise-as-oil-us-treasury-yields-weigh-on-bonds/articleshow/134762712.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wall-street-in-focus-as-us-jobless-claims-ease-amid-fed-rate-uncertainty/articleshow/134806455.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-why-china-could-complicate-musks-tesla-spacex-merger-plans/articleshow/135117449.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-why-chinas-cxmt-is-putting-global-memory-chip-giants-under-pressure/articleshow/134934456.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yuan-heads-for-seventh-straight-quarterly-gains-as-exporters-boost-dollar-sales/articleshow/134581144.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yuan-strengthens-as-dollar-retreats-china-pushes-back-against-undervaluation-claims/articleshow/134807325.cms
@@ -2839,6 +2855,7 @@ https://www.livemint.com/market/caliber-mining-and-logistics-ipo-issue-received-
 https://www.livemint.com/market/canadian-dollar-hits-near-3-month-high-as-oil-prices-climb-11787252930972.html
 https://www.livemint.com/market/cash-derivatives-volumes-sink-as-oil-yields-roil-sentiment-11791100948351.html
 https://www.livemint.com/market/cbot-grains-soybeans-fall-as-oil-drops-on-iran-hopes-11785869727323.html
+https://www.livemint.com/market/chennai-petroleum-q2-results-2026-navratna-psu-declares-rs-25-per-share-interim-dividend-pat-jumps-291-yoy-check-re-11792662591173.html
 https://www.livemint.com/market/china-coal-prices-at-three-year-high-with-little-relief-in-sight-11791796351894.html
 https://www.livemint.com/market/china-fund-closures-head-for-eight-year-high-as-demand-fades-11791161739875.html
 https://www.livemint.com/market/china-ipo-frenzy-nets-lucky-few-six-months-pay-in-one-day-11788915849100.html
@@ -3093,6 +3110,7 @@ https://www.livemint.com/market/indian-shares-on-track-for-muted-open-as-oil-pri
 https://www.livemint.com/market/indian-shares-seen-opening-lower-as-high-oil-prices-fuel-inflation-worries-11792639503940.html
 https://www.livemint.com/market/indian-shares-set-to-open-higher-as-oil-eases-rbi-moves-to-support-rupee-11791772076373.html
 https://www.livemint.com/market/indias-oil-buyers-may-cut-russia-cargoes-as-us-risk-rises-11790050687457.html
+https://www.livemint.com/market/inside-tesla-spacex-merger-plan-elon-musk-may-gain-massive-110-bn-from-a-3-5-trn-deal-but-what-will-shareholders-get-11792651804564.html
 https://www.livemint.com/market/ipo-who-really-owns-jio-platforms-reliance-doesnt-own-100-meta-google-7-others-are-major-shareholders-drhp-data-11791786878913.html
 https://www.livemint.com/market/ipo/10-ipos-available-for-subscription-today-which-shows-most-potential-for-listing-gains-check-latest-ipo-gmp-11788932256722.html
 https://www.livemint.com/market/ipo/abh-healthcare-ipo-day-3-issue-booked-83-so-far-check-gmp-issue-details-11787720403740.html
@@ -3639,6 +3657,7 @@ https://www.livemint.com/market/mark-to-market/sobha-q2fy27-presales-real-estate
 https://www.livemint.com/market/mark-to-market/solar-industries-share-price-defence-order-book-earnings-growth-11789021603934.html
 https://www.livemint.com/market/mark-to-market/tata-motors-jlr-china-ev-tariffs-uk-margin-pressure-11791445593697.html
 https://www.livemint.com/market/mark-to-market/tcs-mhp-porsche-acquisition-ai-m-a-strategy-2026-11787719259211.html
+https://www.livemint.com/market/mark-to-market/vishal-mega-mart-q2-results-share-price-falls-11792654924086.html
 https://www.livemint.com/market/mark-to-market/vishal-mega-mart-share-price-stock-outlook-11787641464604.html
 https://www.livemint.com/market/mark-to-market/waaree-renewable-technologies-sunstar-data-centers-ai-data-centres-india-11789370615415.html
 https://www.livemint.com/market/mark-to-market/welspun-corp-us-pipeline-order-investor-reaction-stock-price-11787556166277.html
@@ -3725,6 +3744,7 @@ https://www.livemint.com/market/stock-market-news/15-bonus-shares-1-5-stock-spli
 https://www.livemint.com/market/stock-market-news/15-stock-split-alert-mukul-agrawal-portfolio-stock-nearing-record-date-delivers-400-return-in-5-years-do-you-own-11789555598323.html
 https://www.livemint.com/market/stock-market-news/15-stock-split-alert-oriana-power-set-for-major-share-division-announcement-check-record-date-other-details-11789470175590.html
 https://www.livemint.com/market/stock-market-news/1500-dividend-stock-alert-check-amount-per-share-record-date-payment-timeline-and-performance-11788425974870.html
+https://www.livemint.com/market/stock-market-news/163-return-in-3-years-this-amc-declares-rs-9-50-dividend-despite-6-profit-dip-do-you-own-check-record-date-11792672553645.html
 https://www.livemint.com/market/stock-market-news/186-rise-in-5-years-poonawalla-fincorp-share-price-jumps-7-on-strong-q2-results-2026-should-you-buy-sell-or-hold-11791777802780.html
 https://www.livemint.com/market/stock-market-news/188-up-in-2026-dee-development-engineers-order-book-tops-rs-2500-cr-mark-spans-power-oil-gas-heavy-fabrication-11791566989344.html
 https://www.livemint.com/market/stock-market-news/2008-financial-crisis-pe-ratio-shiller-pe-ratio-cape-sensex-nifty-11787657950534.html
@@ -3900,6 +3920,7 @@ https://www.livemint.com/market/stock-market-news/cochin-shipyard-voltas-bel-tat
 https://www.livemint.com/market/stock-market-news/cognizant-ibm-salesforce-gain-up-to-13-after-accenture-s-upbeat-q4-results-lift-sentiment-11790868833081.html
 https://www.livemint.com/market/stock-market-news/concord-biotech-1-1-bonus-issue-jhunjhunwala-family-backed-pharma-stock-gains-50-in-6-months-check-record-date-detail-11790165743583.html
 https://www.livemint.com/market/stock-market-news/concord-biotech-bonus-issue-sparks-rally-pharma-stock-jumps-6-on-maiden-share-reward-top-things-to-know-11789984107486.html
+https://www.livemint.com/market/stock-market-news/crude-oil-above-100-us-election-uncertainty-will-global-factors-keep-sensex-nifty-50-under-pressure-experts-decode-11792654365472.html
 https://www.livemint.com/market/stock-market-news/crude-oil-impact-india-stock-market-nifty-today-11790598428016.html
 https://www.livemint.com/market/stock-market-news/crude-oil-prices-above-100-a-barrel-why-hpcl-iocl-and-bpcl-could-face-earnings-pressure-experts-decode-11791981298623.html
 https://www.livemint.com/market/stock-market-news/crude-oil-prices-back-at-100-can-it-hit-the-indian-economy-corporate-earnings-and-delay-stock-market-recovery-11784875107922.html
@@ -4213,6 +4234,7 @@ https://www.livemint.com/market/stock-market-news/kalpataru-projects-gr-infrapro
 https://www.livemint.com/market/stock-market-news/kanohar-electricals-shares-jump-15-after-q1-results-check-order-book-fy27-outlook-11791346501995.html
 https://www.livemint.com/market/stock-market-news/karur-vysya-bank-shares-jump-6-to-hit-a-52-week-high-after-q2-results-should-you-buy-rationale-target-price-11792125152481.html
 https://www.livemint.com/market/stock-market-news/kec-international-shares-51-down-in-2026-but-jumps-5-today-after-this-order-can-stock-rise-further-experts-view-11791518043817.html
+https://www.livemint.com/market/stock-market-news/kei-industries-shares-down-15-in-one-month-jefferies-india-sees-45-upside-after-q2-results-2026-target-rationale-11792664720014.html
 https://www.livemint.com/market/stock-market-news/kellton-tech-solutions-rights-issue-2026-record-date-price-size-subscription-date-entitlement-ratio-other-details-11792321058461.html
 https://www.livemint.com/market/stock-market-news/king-of-bonus-shares-wipro-l-t-itc-infosys-these-5-companies-have-given-the-most-bonus-issues-check-list-11790739860636.html
 https://www.livemint.com/market/stock-market-news/knowledge-marine-shares-jump-5-then-drop-2-despite-this-work-order-update-what-next-tech-experts-decode-11789968774263.html
@@ -4236,6 +4258,7 @@ https://www.livemint.com/market/stock-market-news/live-us-fed-reserve-fomc-meeti
 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-10-key-things-investors-should-know-before-subscribing-to-rs-1-101-28-crore-public-issue-check-ipo-gmp-11784622684866.html
 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-issue-receives-modest-response-on-day-1-subscribed-0-40-times-gmp-signals-muted-listing-11784810014964.html
 https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11784740649066.html
+https://www.livemint.com/market/stock-market-news/lost-30-in-6-months-motilal-oswal-sees-39-upside-in-vishal-mega-mart-stock-check-target-price-11792660892683.html
 https://www.livemint.com/market/stock-market-news/lt-finance-share-price-rises-4-after-q1-results-2026-should-you-buy-sell-or-hold-11783926091679.html
 https://www.livemint.com/market/stock-market-news/lt-tech-services-shares-surge-15-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-suggest-11792556660824.html
 https://www.livemint.com/market/stock-market-news/ltm-cyient-zen-birlasoft-share-price-target-stop-loss-it-stocks-to-buy-for-over-32-returns-ahead-of-q2-results-11791111110434.html
@@ -4268,6 +4291,7 @@ https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apol
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-rebounds-after-receipt-of-213-crore-from-drdo-psu-others-11785916004756.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-astra-microwave-shares-hit-record-high-soar-14-after-rs-2-205-crore-hal-order-11785478145527.html
+https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-commissions-new-unit-up-3200-in-5-years-strong-dividend-stock-split-history-do-you-own-11792659247664.html
 https://www.livemint.com/market/stock-market-news/multibagger-ipo-recently-listed-nse-sme-stock-teja-engineering-industries-doubles-allottees-money-11784526532034.html
 https://www.livemint.com/market/stock-market-news/multibagger-ipo-sme-stock-turns-rs-1-44-lakh-into-rs-33-12-lakh-in-10-years-11786535455130.html
 https://www.livemint.com/market/stock-market-news/multibagger-ipos-ipo-2026-ipo-performance-11790684369173.html
@@ -4464,6 +4488,7 @@ https://www.livemint.com/market/stock-market-news/reliance-industries-share-pric
 https://www.livemint.com/market/stock-market-news/reliance-industries-shares-jump-2-5-as-jio-ipo-opens-today-check-gmp-price-band-other-details-should-you-ril-now-11792555126494.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-a-win-win-for-telecom-stocks-ril-airtel-and-vodafone-idea-shares-rise-up-to-3-6-what-should-you-do-11792038491456.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-from-dhirubhai-ambanis-1977-listing-to-akash-ambanis-mega-issue-whats-changed-gen-z-connect-11792219519404.html
+https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-gmp-today-day-2-subscription-nears-3-76x-qib-nii-or-retail-which-segment-is-driving-biggest-demand-11792652142369.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-good-news-for-ril-shareholders-check-what-the-reservation-quota-is-for-them-11791991857192.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html
 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-price-band-revealed-price-band-fixed-at-rs-1-065-rs-1-119-report-11791554628948.html
@@ -4569,6 +4594,7 @@ https://www.livemint.com/market/stock-market-news/smallcap-multibagger-stock-135
 https://www.livemint.com/market/stock-market-news/smallcap-orient-technologies-shares-to-be-in-focus-on-monday-after-rs-76-crore-npci-order-11784912944950.html
 https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-jumps-4-after-receipt-of-order-worth-740-crore-11786428662807.html
 https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-jumps-after-receipt-of-134-crore-order-from-maharashtra-road-transport-11787126659032.html
+https://www.livemint.com/market/stock-market-news/smallcap-stock-shows-resilience-against-stock-market-crash-experts-hint-at-strong-q2-results-2026-should-you-buy-11792668429342.html
 https://www.livemint.com/market/stock-market-news/smallcap-stock-split-alert-4-shares-ready-for-action-in-october-2026-check-record-dates-ratios-and-performance-11790837881730.html
 https://www.livemint.com/market/stock-market-news/smallcap-stock-standard-engineering-close-to-life-time-high-after-q1-results-2026-jumps-3-in-opening-bell-11786078442371.html
 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html
@@ -4621,6 +4647,7 @@ https://www.livemint.com/market/stock-market-news/stock-split-spin-off-action-la
 https://www.livemint.com/market/stock-market-news/stock-split-spin-off-share-buyback-last-chance-to-buy-these-three-stocks-today-ahead-of-record-date-details-here-11791341166607.html
 https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-emkay-sees-over-32-upside-in-this-healthcare-stock-11785927249886.html
 https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-nuvama-sees-66-upside-in-bls-international-services-should-you-buy-11786524640476.html
+https://www.livemint.com/market/stock-market-news/stocks-gold-or-cryptocurrency-heres-how-they-have-performed-in-5-years-which-one-should-you-buy-11792655530044.html
 https://www.livemint.com/market/stock-market-news/stocks-jump-as-sitharaman-says-government-will-hear-investors-on-ltcg-tax-11791898497182.html
 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-vedanta-iron-and-steel-vedanta-oil-and-gas-or-vedanta-power-which-is-better-target-sl-11790398619797.html
 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bdl-bata-india-among-3-shares-anand-rathis-jigar-patel-recommends-for-the-next-1-2-weeks-11786934823182.html
@@ -4644,6 +4671,7 @@ https://www.livemint.com/market/stock-market-news/sunshine-pictures-raises-rs-85
 https://www.livemint.com/market/stock-market-news/super-micro-shares-jump-12-after-q1-preliminary-results-top-estimates-can-the-ai-server-maker-sustain-its-recovery-11792584229403.html
 https://www.livemint.com/market/stock-market-news/suzlon-energy-board-to-consider-q1fy27-results-on-july-28-shares-down-10-in-july-11784552314810.html
 https://www.livemint.com/market/stock-market-news/suzlon-energy-declares-q2-results-2026-date-can-q2-earnings-bring-a-bounce-back-in-share-price-target-stoploss-11792582965735.html
+https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-dip-on-third-day-in-a-row-but-experts-see-strong-rebound-before-q2-results-2026-target-stoploss-11792654011859.html
 https://www.livemint.com/market/stock-market-news/swaraj-engines-share-price-in-focus-after-strong-q2-results-centrum-broking-sees-24-upside-whats-next-for-the-stock-11791880800959.html
 https://www.livemint.com/market/stock-market-news/swiggy-shares-crash-5-after-q1-results-what-should-investors-do-11785478559007.html
 https://www.livemint.com/market/stock-market-news/tata-elxsi-q2-results-impact-it-stock-soars-7-buy-sell-or-hold-check-highlights-target-price-share-price-trend-11791906874922.html
@@ -4703,6 +4731,7 @@ https://www.livemint.com/market/stock-market-news/tips-music-shares-up-6-today-a
 https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html
 https://www.livemint.com/market/stock-market-news/titan-q2-results-2026-date-check-rekha-jhujhunwala-portfolio-stock-returns-target-support-should-you-buy-11792495713454.html
 https://www.livemint.com/market/stock-market-news/titan-shares-is-the-tata-group-stock-an-attractive-buy-after-q1fy27-results-11786352452848.html
+https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-tomorrow-federal-bank-indian-hotel-by-market-expert-check-stop-loss-target-price-for-fri-23-oct-11792669540014.html
 https://www.livemint.com/market/stock-market-news/top-3-buy-or-sell-stocks-vedanta-dlf-aegis-logistics-by-vaishali-parekh-target-stoploss-nifty-bank-nifty-outlook-11790774799921.html
 https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html
 https://www.livemint.com/market/stock-market-news/top-3-stock-picks-by-vaishali-parekh-itc-mrpl-kei-industries-target-stop-loss-nifty-bank-nifty-outlook-11791213624948.html
@@ -4809,6 +4838,7 @@ https://www.livemint.com/market/stock-market-news/vedanta-dividend-2026-record-d
 https://www.livemint.com/market/stock-market-news/vedanta-firms-dividend-comparison-which-firm-is-real-king-vedanta-iron-vedanta-oil-gas-or-vedanta-aluminium-11790935606361.html
 https://www.livemint.com/market/stock-market-news/vedanta-iron-and-steel-to-vedanta-oil-and-gas-shares-anil-agarwal-owned-stocks-rise-up-to-6-target-stoploss-11790139232331.html
 https://www.livemint.com/market/stock-market-news/vedanta-iron-vedanta-oil-and-gas-to-vedanta-power-all-vedanta-group-stocks-in-red-opportunity-for-bottom-fishing-11790658225244.html
+https://www.livemint.com/market/stock-market-news/vedanta-q2-results-date-and-time-check-anil-agarwal-led-metal-giant-s-earnings-schedule-dividend-history-q2-preview-11792666096700.html
 https://www.livemint.com/market/stock-market-news/vedanta-shares-up-4-after-announcing-first-interim-dividend-for-fy27-record-date-a-stock-to-buy-expert-view-11791526938079.html
 https://www.livemint.com/market/stock-market-news/vedantas-demerger-report-card-vedanta-iron-to-vedanta-power-who-gained-who-lagged-since-listing-check-real-winner-11790681601033.html
 https://www.livemint.com/market/stock-market-news/vellora-impact-stock-under-rs-50-hits-20-upper-circuit-after-q1fy27-results-11784798074989.html
