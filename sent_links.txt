@@ -1,5 +1,6 @@
 https://economictimes.indiatimes.com/markets/bonds/asia-bond-foreign-inflows-hit-four-month-low-in-july-on-oil-shock/articleshow/133341577.cms
 https://economictimes.indiatimes.com/markets/bonds/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets/articleshow/133696749.cms
+https://economictimes.indiatimes.com/markets/bonds/bond-yield-rises-to-7-44-on-higher-oil-prices-global-cues/articleshow/135103005.cms
 https://economictimes.indiatimes.com/markets/bonds/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb/articleshow/133284153.cms
 https://economictimes.indiatimes.com/markets/bonds/bonds-unsettled-as-oil-and-gas-climb-earnings-loom-for-ai/articleshow/132511798.cms
 https://economictimes.indiatimes.com/markets/bonds/bonds-unsettled-as-oil-and-gas-climb-earnings-loom-for-ai/articleshow/132513173.cms
@@ -396,6 +397,7 @@ https://economictimes.indiatimes.com/markets/forex/rupee-languishes-at-six-week-
 https://economictimes.indiatimes.com/markets/forex/rupee-sees-sharpest-weekly-drop-in-four-months-on-oil-worries/articleshow/134061408.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-slips-as-dollar-gets-fed-hike-expectations-tailwind/articleshow/134434559.cms
 https://economictimes.indiatimes.com/markets/forex/rupee-slips-below-96-per-dollar-level-in-early-trade/articleshow/134302075.cms
+https://economictimes.indiatimes.com/markets/forex/rupee-soars-to-6-week-high-on-jio-ipo-flows-weaker-dollar/articleshow/135103368.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/10-sme-ipos-that-have-declined-up-to-82-in-2026-do-you-have-any-in-your-portfolio/slideshow/134325850.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/14-billion-worth-of-ipo-shares-set-for-lock-in-expiry-to-hit-dalal-street-by-december/articleshow/134697479.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/16-ipos-on-investors-radar-next-week-gmps-signal-up-to-38-returns/slideshow/133833526.cms
@@ -1596,6 +1598,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-
 https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-shares-rally-6-after-stellar-q1-results-buy-sell-or-hold-the-stock/articleshow/132452111.cms
 https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-shares-rise-2-after-firm-sets-record-date-for-dividend-what-to-expect/articleshow/132822063.cms
 https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-beyond-telecom-why-the-ambanis-are-pitching-ai-cloud-and-7220-patents-as-jios-tech-future/articleshow/135081661.cms
+https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms
 https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-fever-grips-telecom-stocks-airtel-vodafone-idea-others-rise-up-to-4/articleshow/134960952.cms
 https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-at-20-grey-market-signals-rs-220-premium-as-brokerages-say-subscribe/articleshow/134985658.cms
 https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-may-trigger-reliances-next-big-re-rating-why-religare-sees-47-upside/articleshow/134910767.cms
@@ -1906,6 +1909,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-s
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-mazagon-dock-fortis-healthcare-jsw-energy-and-kalpataru-projects/articleshow/134296725.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms
+https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-alkem-labs-bel-hpcl-swiggy-and-gmdc/articleshow/135102947.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-wipro-bel-hal-petronet-lng-and-bharat-forge/articleshow/134318416.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms
@@ -2375,6 +2379,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-tech-jitters-oil-edges-lower/articleshow/134803253.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-up-amid-bond-selloff-surging-oil-and-yen-concerns/articleshow/134472640.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-oil-rises-after-attacks/articleshow/133857975.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-fed-rate-hike-bets-ease/articleshow/133749050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
@@ -2825,6 +2830,7 @@ https://www.livemint.com/market/china-ipo-frenzy-nets-lucky-few-six-months-pay-i
 https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html
 https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-manishi-raychaudhuri-11786316493048.html
 https://www.livemint.com/market/china-state-funds-active-as-stocks-post-record-weekly-losing-run-11792380629561.html
+https://www.livemint.com/market/china-stock-rescue-may-need-more-state-buying-to-work-bloomberg-intelligence-says-11792629550065.html
 https://www.livemint.com/market/chinas-august-lng-imports-set-to-drop-as-high-prices-hit-demand-11788153975524.html
 https://www.livemint.com/market/chinas-repo-push-gains-ground-as-legal-issues-low-yields-drag-11790739507575.html
 https://www.livemint.com/market/chinas-two-speed-economy-spurs-yawning-gap-between-stocks-yuan-11790739016795.html
@@ -2993,6 +2999,7 @@ https://www.livemint.com/market/gold-edges-higher-as-lower-oil-fed-hike-temper-i
 https://www.livemint.com/market/gold-edges-higher-as-lower-oil-prices-damp-chance-of-rate-hikes-11790039506795.html
 https://www.livemint.com/market/gold-edges-lower-as-hot-us-inflation-bolsters-fed-rate-hike-bets-11789347711493.html
 https://www.livemint.com/market/gold-edges-lower-as-markets-await-key-us-inflation-data-11786474118005.html
+https://www.livemint.com/market/gold-edges-lower-as-traders-weigh-middle-east-signals-fed-rate-path-11792628633738.html
 https://www.livemint.com/market/gold-edges-up-after-four-day-gain-as-traders-eye-treasury-moves-11787699754952.html
 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
@@ -3900,6 +3907,7 @@ https://www.livemint.com/market/stock-market-news/dividend-alert-irfc-tech-mahin
 https://www.livemint.com/market/stock-market-news/dividend-alert-last-chance-to-buy-blue-dart-karnataka-bank-aarti-pharma-itdc-and-others-for-dividends-full-list-11789365707462.html
 https://www.livemint.com/market/stock-market-news/dividend-bonus-issue-rights-issue-last-chance-to-buy-today-indraprastha-gas-km-sugar-mills-r-systems-international-11790739278520.html
 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-spin-off-in-october-tcs-nmdc-ptc-india-jsw-dulux-among-key-corporate-actions-list-11790925015237.html
+https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html
 https://www.livemint.com/market/stock-market-news/dividend-champions-of-auto-ancillaries-majestic-auto-ptl-or-banco-products-who-drives-home-the-highest-yield-11792149270167.html
 https://www.livemint.com/market/stock-market-news/dividend-comparison-maharatna-sail-vs-navratna-nmdc-yield-psu-stocks-performance-ahead-of-record-date-11789714024443.html
 https://www.livemint.com/market/stock-market-news/dividend-comparison-tcs-tata-elxsi-trent-which-tata-stock-paid-highest-amount-in-fy26-what-9-firms-disbursed-11791875007417.html
@@ -4644,6 +4652,7 @@ https://www.livemint.com/market/stock-market-news/tcs-shares-pre-vs-post-quarter
 https://www.livemint.com/market/stock-market-news/tcs-shares-surge-5-after-d-street-cheers-strong-q2-results-should-you-book-profit-or-invest-more-experts-suggestion-11791518071788.html
 https://www.livemint.com/market/stock-market-news/tcs-tech-mahindra-coforge-mphasis-it-stocks-picks-and-investment-ideas-after-accenture-results-ahead-of-q2-earnings-11791106363192.html
 https://www.livemint.com/market/stock-market-news/tcs-vs-hcl-tech-vs-tech-mahindra-vs-wipro-which-it-stock-won-q2-results-2026-ai-revenue-deal-wins-compared-11792130967795.html
+https://www.livemint.com/market/stock-market-news/tech-mahindra-bonus-issue-a-sweet-deal-or-market-trap-11792582032984.html
 https://www.livemint.com/market/stock-market-news/tech-mahindra-dividend-bonus-share-2026-double-delight-for-investors-this-diwali-should-you-buy-ahead-of-record-date-11792139485359.html
 https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-2026-consolidated-net-profit-rises-over-28-to-rs-1-465-crore-revenue-up-15-11784190278654.html
 https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-preview-profit-to-witness-double-digit-rise-deal-wins-ai-bets-margin-push-in-focus-11784171274080.html
