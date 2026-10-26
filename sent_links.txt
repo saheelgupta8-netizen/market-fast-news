@@ -1242,6 +1242,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q1-results-ne
 https://economictimes.indiatimes.com/markets/stocks/earnings/one-mobikwik-systems-q1-results-co-posts-rs-7-6-cr-profit-vs-rs-419-cr-loss-yoy/articleshow/132822382.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/patanjali-foods-q1-results-gross-profit-rises-35-yoy-to-rs-1521-crore/articleshow/133246238.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q1-results-profit-soars-79-yoy-to-rs-220-crore-board-decides-not-to-go-with-bonus-proposal/articleshow/132519429.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q2-results-profit-rockets-976-yoy-to-rs-226-crore-revenue-jumps-28/articleshow/135214973.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms
@@ -1268,6 +1269,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-tech-q1-re
 https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-technologies-q2-results-profit-surges-12817-yoy-to-rs-517-crore-revenue-jumps-145/articleshow/135140910.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q1-results-profit-rises-27-yoy-to-rs-2895-crore-revenue-climbs-10-5/articleshow/132762558.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q2-results-net-profit-jumps-86-yoy-to-rs-341-crore-revenue-rises-10/articleshow/134964408.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-consumer-q1-results-net-profit-rises-28-yoy-to-rs-427-crore-revenue-up-12/articleshow/132603103.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-consumer-q2-results-net-profit-rises-16-yoy-to-rs-470-crore-revenue-up-14/articleshow/135211637.cms
@@ -2227,6 +2229,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say/articleshow/133256367.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-to-beat-spacex-investors-bet-on-2-trillion-valuation-in-record-ipo/articleshow/133206890.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-filing-for-blockbuster-us-ipo-shows-key-executives-and-board/articleshow/135213686.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/apollo-global-debt-deal-fees-and-insurance-earnings-rise-asset-sales-drag/articleshow/132866465.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-englands-bailey-says-government-debt-commitments-needed-more-than-ever/articleshow/134792070.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/battered-bonds-draw-support-from-falling-oil-prices/articleshow/134496754.cms
@@ -2643,9 +2646,13 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-to-burst-sooner-than-expected-michael-burry-believes-it-would-take-only-one-season-of-revenue-disappointment/articleshow/134563244.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-5-jaw-dropping-numbers-investors-need-to-know-about-1-5-trillion-public-offer/articleshow/135214380.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-rising-costs-risks-rapid-growth-market-ai-frontrunner/articleshow/135213738.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs/articleshow/135212999.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-vs-openai-how-claude-makers-growth-is-challenging-chatgpt-ahead-of-ipo/articleshow/135215446.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-road-to-ipo-funding-valuation-claude-growth-and-legal-battles/articleshow/134559621.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/aswath-damodaran-calls-fed-rate-debate-pointless-says-stock-market-adapts-quickly-to-higher-rates/articleshow/134059501.cms
@@ -3849,6 +3856,7 @@ https://www.livemint.com/market/saudis-slash-oil-prices-to-asia-in-battle-for-ma
 https://www.livemint.com/market/sebi-bars-rajesh-mehta-from-trading-in-rajesh-exports-keeps-curbs-in-place-11791983496178.html
 https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html
 https://www.livemint.com/market/sebi-order-against-zee-to-delay-planned-rs-3-143-crore-fundraise-11785686792911.html
+https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html
 https://www.livemint.com/market/shares-dip-with-pressure-from-technology-yields-and-oil-fall-11787608158881.html
 https://www.livemint.com/market/shares-flat-in-asia-before-iran-sanctions-news-nvidia-results-11787532489714.html
 https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html
@@ -4201,6 +4209,7 @@ https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex
 https://www.livemint.com/market/stock-market-news/gold-stock-why-augmont-enterprises-is-shining-despite-pm-modi-avoid-gold-appeal-and-us-iran-tension-11788335967894.html
 https://www.livemint.com/market/stock-market-news/goldman-sachs-buys-stake-in-firstcry-brand-parent-owner-brainbees-solutions-check-price-quantity-traded-11790313331674.html
 https://www.livemint.com/market/stock-market-news/goldman-sachs-buys-stake-in-small-cap-stock-that-has-surged-50-in-less-than-two-months-11790237709933.html
+https://www.livemint.com/market/stock-market-news/goldman-sachs-kospi-target-cut-why-south-korea-market-experts-lowered-target-to-9-000-from-12-000-explained-11793031984804.html
 https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-downgrade-why-stock-rating-changed-to-sell-23-downside-seen-new-target-price-rationale-11792817294346.html
 https://www.livemint.com/market/stock-market-news/government-signals-more-psu-stake-sales-after-hindustan-copper-ofs-report-11787677668931.html
 https://www.livemint.com/market/stock-market-news/govt-vs-private-banks-dividend-comparison-sbi-hdfc-icici-pnb-bob-axis-canara-which-bank-tops-the-yield-chart-11790595950547.html
@@ -4273,6 +4282,7 @@ https://www.livemint.com/market/stock-market-news/how-delhi-hcs-fortis-healthcar
 https://www.livemint.com/market/stock-market-news/how-reliance-jio-ipo-is-acting-as-shot-in-the-arm-for-ril-shares-will-mukesh-ambani-company-stock-fly-more-buy-now-11792557480938.html
 https://www.livemint.com/market/stock-market-news/how-tata-motors-iveco-3-82-bn-tender-offer-will-impact-tmcv-share-price-after-acquisition-of-italian-group-decoded-11788613188717.html
 https://www.livemint.com/market/stock-market-news/how-tata-sons-listing-may-impact-tata-power-shares-axis-capital-explains-11789466953739.html
+https://www.livemint.com/market/stock-market-news/how-to-check-jio-platforms-ipo-allotment-status-online-on-mobile-by-direct-link-of-nse-and-kfin-tech-websites-11793024495583.html
 https://www.livemint.com/market/stock-market-news/hyundai-motor-india-share-price-jumps-9-after-q1-results-should-you-buy-the-stock-11785478570037.html
 https://www.livemint.com/market/stock-market-news/icici-bank-hdfc-bank-sbi-axis-bank-which-banking-stock-to-buy-ahead-of-q2-results-what-experts-suggest-11792056491007.html
 https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-2026-net-profit-rises-16-to-rs-14-804-50-crore-check-nii-asset-quality-11784365257879.html
@@ -4512,6 +4522,7 @@ https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-glob
 https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-must-know-before-opening-bell-of-the-indian-stock-market-11786587204512.html
 https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-must-know-before-opening-bell-of-the-indian-stock-market-11786674649475.html
 https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-crash-9-down-19-in-5-days-why-dividend-record-date-q2-results-yes-bank-bond-settlement-11792732703770.html
+https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-last-chance-to-buy-for-rs-9-50-interim-dividend-record-date-dividend-yield-11793035793393.html
 https://www.livemint.com/market/stock-market-news/nithin-kamath-of-zerodha-reveals-the-biggest-challenge-for-stock-brokers-find-here-11784794848281.html
 https://www.livemint.com/market/stock-market-news/noel-tatas-latest-proposal-offers-alternative-to-tata-sons-listing-but-shapoorji-pallonji-group-supports-going-public-11790064847753.html
 https://www.livemint.com/market/stock-market-news/nse-ipo-30-000-crore-mega-issue-could-break-records-of-these-two-mammoth-public-offers-11788667643831.html
