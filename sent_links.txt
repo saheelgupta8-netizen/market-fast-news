@@ -674,6 +674,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-5-companies-to-r
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-16-issues-to-raise-over-rs-7000-crore-this-week/articleshow/133856257.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-20-issues-to-raise-over-rs-1257-crore-this-week/articleshow/134529213.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-9-issues-to-raise-rs-2768-crore-this-week/articleshow/135199752.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-rs-24500-crore-worth-of-issues-to-hit-primary-market-this-week/articleshow/134229600.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-eight-issues-to-raise-over-rs-11000-crore-this-week/articleshow/134879783.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-next-week-9-companies-to-launch-issues-on-dalal-street-raising-over-rs-11000-crore/articleshow/132637547.cms
@@ -1977,6 +1978,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bpcl-hal
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-canara-bank-vodafone-idea-premier-energies-and-acme-solar/articleshow/133995333.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-shipyard-voltas-patanjali-foods-and-physicswallah/articleshow/133279798.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms
+https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-mazagon-dock-fortis-healthcare-jsw-energy-and-kalpataru-projects/articleshow/134296725.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms
 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-alkem-labs-bel-hpcl-swiggy-and-gmdc/articleshow/135102947.cms
@@ -3728,6 +3730,7 @@ https://www.livemint.com/market/mark-to-market/gic-q1fy27-earnings-premium-growt
 https://www.livemint.com/market/mark-to-market/happy-forgings-stock-hits-52-week-high-order-book-margin-expansion-11789543359122.html
 https://www.livemint.com/market/mark-to-market/havells-india-share-price-q2fy27-results-lloyd-consumer-cables-and-wires-ebitda-margin-11792739039916.html
 https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html
+https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html
 https://www.livemint.com/market/mark-to-market/jio-platforms-ipo-ai-patents-pricing-revenue-airtel-11792388156507.html
 https://www.livemint.com/market/mark-to-market/ltm-q2-results-ai-deals-revenue-growth-outlook-11792383995540.html
 https://www.livemint.com/market/mark-to-market/manappuram-finance-gold-loans-muthoot-finance-nbfc-aum-rbi-loan-growth-asset-quality-11786510821642.html
@@ -3998,6 +4001,7 @@ https://www.livemint.com/market/stock-market-news/caliber-mining-ipo-raises-rs-1
 https://www.livemint.com/market/stock-market-news/can-ipo-buzz-boost-cdsl-and-nsdl-q2-earnings-what-the-stocks-investors-need-to-know-11791284891478.html
 https://www.livemint.com/market/stock-market-news/canara-bank-shares-crash-6-after-q2-results-should-investors-buy-sell-or-hold-experts-decode-11792037146025.html
 https://www.livemint.com/market/stock-market-news/canara-bank-to-declare-q2-results-2026-on-this-date-share-price-jumps-on-credit-growth-expectations-11791538217693.html
+https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html
 https://www.livemint.com/market/stock-market-news/cas-update-sebi-gets-20k-comments-on-closing-auction-session-timings-derivates-contracts-settlement-methodologies-11791103696405.html
 https://www.livemint.com/market/stock-market-news/ceat-share-price-slumps-over-9-on-q1-results-should-you-buy-sell-or-hold-11784267451358.html
 https://www.livemint.com/market/stock-market-news/ceigall-india-bags-rs-705-crore-frontier-highway-project-in-arunachal-pradesh-11787579143250.html
