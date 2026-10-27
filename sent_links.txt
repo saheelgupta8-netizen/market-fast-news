@@ -1137,6 +1137,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-resu
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q1-results-profit-falls-14-yoy-to-rs-142-crore-revenue-jumps-27/articleshow/132533438.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-total-gas-q2-results-net-profit-rises-6-yoy-to-rs-173-crore-revenue-jumps-34/articleshow/135115540.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q1-results-profit-jumps-40-yoy-to-rs-1175-crore/articleshow/132767249.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/allied-blenders-q2-results-profit-rises-9-7-to-rs-69-crore-revenue-up-6-8/articleshow/135240967.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-share-and-stock-brokers-q2-results-profit-jumps-50-yoy-to-rs-42-crore-revenue-rises-20/articleshow/134918674.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms
@@ -1221,6 +1222,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/igi-q2-results-cons
 https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q1-results-profit-rises-18-yoy-to-rs-390-crore-total-income-up-15/articleshow/132539913.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/indian-its-q2-earnings-dilemma-deepens-more-deals-but-weaker-growth-and-falling-pricing-power/articleshow/134685622.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/indus-towers-q2-results-net-profit-slips-2-5-to-rs-1793-crore/articleshow/135240759.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q1-results-profit-soars-72-yoy-to-rs-1037-crore-nii-flat/articleshow/132557800.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q2-results-lender-posts-profit-of-rs-1176-crore-vs-rs-445-crore-loss-a-year-ago/articleshow/135142692.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-q1-results-standalone-profit-falls-6-yoy-to-rs-245-crore/articleshow/133095835.cms
@@ -1285,6 +1287,8 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-takeaways-wh
 https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-nuvama-sees-17-ebitda-growth-led-by-o2c-biz-heres-what-to-expect/articleshow/134612429.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q1-results-net-profit-rises-18-yoy-ebitda-more-than-doubles/articleshow/133154291.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q2-results-net-profit-surges-four-fold-to-rs-1750-crore-on-higher-revenue/articleshow/135240695.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-insurance-q2-results-net-profit-grows-11-yoy-to-rs-549-crore/articleshow/135240500.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-q1-results-profit-rises-22-yoy-to-rs-720-crore-on-strong-premium-growth/articleshow/132602488.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q1-results-net-profit-declines-18-to-rs-343-crore/articleshow/133150416.cms
@@ -1316,6 +1320,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/titans-q1-dials-up-
 https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q1-results-cons-profit-jumps-17-yoy-to-rs-2599-crore-revenue-rises-16/articleshow/132510916.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q1-results-profit-rises-over-27-to-rs-5641-crore/articleshow/132417165.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/united-breweries-q2-results-profit-jumps-nearly-3-times-to-rs-134-crore-on-volume-growth-premiumisation/articleshow/135240644.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q1-results-firm-posts-rs-92-crore-loss-vs-profit-a-year-ago-revenue-rises-44-yoy/articleshow/132764529.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/v-mart-retail-q1-results-profit-surges-40-to-rs-47-crore/articleshow/132607877.cms
@@ -2552,6 +2557,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japan
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-tech-stocks-gain-on-anthropic-ipo-optimism-offsetting-high-oil-yields/articleshow/134568836.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-today-asian-stocks-mixed-oil-extends-gains/articleshow/133167545.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/gm-to-transfer-stock-listing-to-nasdaq/articleshow/135241585.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/gold-climbs-on-dip-buying-fed-hike-bets-rise-after-us-inflation-data/articleshow/134075274.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/gold-drops-over-1-as-hot-us-inflation-data-boosts-fed-hike-bets/articleshow/134944020.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/gold-falls-more-than-1-after-fed-hikes-interest-rates/articleshow/134296279.cms
@@ -2608,6 +2614,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-mixed-as-oil-
 https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week/articleshow/132618845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-q2-highlights-bigger-ai-bets-thinner-margins-mixed-results/slideshow/132573187.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-q2-results-investors-eye-margins-ai-roadmap-and-earnings-outlook/slideshow/132553012.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/trading-starts-on-lmes-first-contract-from-shanghai-exchange-collaboration/articleshow/135241517.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/uk-gilt-yields-fall-to-lowest-since-mid-august-as-oil-price-slides/articleshow/133512436.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/unitree-ipo-chinas-humanoid-robot-starset-for-potentially-explosive-shanghai-debut/articleshow/133232736.cms
@@ -5050,6 +5057,7 @@ https://www.livemint.com/market/stock-market-news/ujjivan-small-finance-bank-q1-
 https://www.livemint.com/market/stock-market-news/ultratech-cement-q1-results-net-profit-jumps-17-yoy-to-rs-2-599-crore-11784537690066.html
 https://www.livemint.com/market/stock-market-news/ultravolt-impact-on-cable-wires-stocks-kei-polycab-rr-kabel-finolex-price-plunge-aditya-birla-groups-1-800-cr-bet-11788494585834.html
 https://www.livemint.com/market/stock-market-news/union-bank-of-india-q1-results-profit-jumps-30-yoy-to-5-332-30-crore-11784093248965.html
+https://www.livemint.com/market/stock-market-news/united-breweries-q2-results-profit-jumps-190-revenue-rises-24-as-premium-beer-volumes-surge-kingfisher-sales-up-44-11793120558435.html
 https://www.livemint.com/market/stock-market-news/up-102-in-7-months-small-cap-stock-to-be-in-focus-on-tuesday-after-rs-35-crore-order-win-11791825707637.html
 https://www.livemint.com/market/stock-market-news/up-1565-in-six-years-small-cap-stock-to-be-in-focus-on-friday-after-rs-484-crore-order-win-11789655149552.html
 https://www.livemint.com/market/stock-market-news/up-5-100-in-one-year-breakwave-tanker-shipping-etf-delivers-highest-returns-on-us-iran-war-oil-shock-11789368593834.html
