@@ -281,6 +281,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-treads-water-a
 https://economictimes.indiatimes.com/markets/commodities/news/pace-of-gold-loan-expansion-slows-as-banks-adjust-to-new-regulations/articleshow/133665396.cms
 https://economictimes.indiatimes.com/markets/commodities/news/rbi-explores-tokenising-gold-amid-push-to-expand-unified-markets-interface/articleshow/133988688.cms
 https://economictimes.indiatimes.com/markets/commodities/news/silver-climbs-rs-2100/kg-but-gold-prices-fall-as-focus-shifts-to-inflation-data-amid-iran-war-key-levels-to-track/articleshow/133081450.cms
+https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms
 https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-slide-below-rs-2-lakh/kg-down-nearly-55-from-jan-peak-whats-behind-the-rapid-selloff/articleshow/135139949.cms
 https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms
 https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms
@@ -1200,6 +1201,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/britannia-q1-result
 https://economictimes.indiatimes.com/markets/stocks/earnings/bse-q1-results-profit-soars-62-yoy-to-rs-874-crore-revenue-surges-63/articleshow/132862347.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-results-standalone-net-profit-rises-8-yoy-to-rs-5175-crore-nii-jumps-20/articleshow/134935180.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q1-results-net-profit-rises-15-yoy-to-rs-118-crore-revenue-up-13/articleshow/132786509.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q1-results-profit-rises-13-to-rs-1324-cr/articleshow/132456948.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/cholamandalam-investment-q2-results-profit-surges-41-to-rs-1630-crore-co-plans-to-raise-rs-500o-crore-via-qip/articleshow/135264678.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q1-results-cons-profit-plunges-39-yoy-to-rs-789-crore-revenue-rises-marginally/articleshow/132573600.cms
@@ -1308,6 +1310,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-resu
 https://economictimes.indiatimes.com/markets/stocks/earnings/nestle-india-q1-results-net-profit-surges-48-yoy-to-rs-975-crore-revenue-rises-25/articleshow/132551866.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/nestle-india-q2-results-standalone-profit-jumps-36-yoy-to-rs-1027-crore-revenue-rises-20/articleshow/134960308.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-green-energy-q2-results-profit-jumps-56-yoy-to-rs-137-crore-revenue-rises-53/articleshow/135363615.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q1-results-net-profit-spikes-243-yoy-to-rs-80-crore-revenue-jumps-29/articleshow/132858161.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/one-mobikwik-systems-q1-results-co-posts-rs-7-6-cr-profit-vs-rs-419-cr-loss-yoy/articleshow/132822382.cms
@@ -4647,6 +4650,7 @@ https://www.livemint.com/market/stock-market-news/jio-platforms-raises-rs-8-110-
 https://www.livemint.com/market/stock-market-news/jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today-11793239306452.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-shares-q2-results-2026-date-expectations-to-preview-should-you-buy-or-wait-experts-views-target-11793330021276.html
 https://www.livemint.com/market/stock-market-news/jio-platforms-to-launch-3-8-billion-ipo-on-october-21-set-to-be-india-s-biggest-listing-report-11791196582417.html
+https://www.livemint.com/market/stock-market-news/jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years-11793451564192.html
 https://www.livemint.com/market/stock-market-news/jpl-share-price-jio-platforms-ipo-listing-gains-explained-how-much-profit-investors-made-on-debut-11793194946185.html
 https://www.livemint.com/market/stock-market-news/jpmorgan-ceo-jamie-dimon-warns-trump-against-punishing-india-gives-this-advice-on-russian-oil-imports-11790326652038.html
 https://www.livemint.com/market/stock-market-news/jsw-dulux-announced-record-date-for-1-10-stock-split-what-investors-should-know-11790079151086.html
@@ -4821,6 +4825,8 @@ https://www.livemint.com/market/stock-market-news/nse-stock-slips-below-ipo-pric
 https://www.livemint.com/market/stock-market-news/nse-vs-bse-which-is-a-better-exchange-stock-to-buy-ahead-of-q2-results-what-experts-suggest-target-price-stoploss-11791173950455.html
 https://www.livemint.com/market/stock-market-news/ntpc-dividend-2026-last-day-to-buy-alert-check-amount-per-share-and-payment-date-for-psu-stock-11788234085470.html
 https://www.livemint.com/market/stock-market-news/ntpc-dividend-alert-maharatna-psu-pays-rs-3-394-crore-final-dividend-in-fy26-check-payout-per-share-yield-11790222460353.html
+https://www.livemint.com/market/stock-market-news/ntpc-q2-results-2026-brings-good-news-of-1st-interim-dividend-for-investors-check-amount-record-date-profit-details-11793443410726.html
+https://www.livemint.com/market/stock-market-news/ntpc-vs-ntpc-green-energy-q2-results-2026-compared-which-psu-wins-on-q2-profit-revenue-ebitda-dividend-details-11793422791057.html
 https://www.livemint.com/market/stock-market-news/nuvoco-vistas-share-price-rallies-12-on-strong-q1-results-fy27-should-you-buy-or-sell-11784091753229.html
 https://www.livemint.com/market/stock-market-news/nvidia-micron-sk-hynix-shares-slump-up-to-5-as-chinas-cxmt-steps-up-challenge-to-global-chipmakers-what-it-means-11791819024051.html
 https://www.livemint.com/market/stock-market-news/nvidia-q2-results-share-price-up-11-ytd-is-it-a-stock-to-buy-after-earnings-and-amid-ai-boom-11787814177405.html
@@ -5164,6 +5170,7 @@ https://www.livemint.com/market/stock-market-news/tata-elxsi-vs-tata-tech-which-
 https://www.livemint.com/market/stock-market-news/tata-group-stock-indian-hotels-falls-1-despite-strong-q1-results-2026-should-you-buy-or-sell-11784700511072.html
 https://www.livemint.com/market/stock-market-news/tata-group-stocks-shed-3-2-billion-in-market-cap-amid-tata-sons-rift-11789717385957.html
 https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html
+https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-maruti-suzuki-shares-which-auto-stock-to-buy-after-q2-results-2026-experts-views-target-price-11793433708273.html
 https://www.livemint.com/market/stock-market-news/tata-motors-q1-results-net-profit-surges-83-yoy-to-rs-2-560-crore-revenue-improves-20-11786530133706.html
 https://www.livemint.com/market/stock-market-news/tata-power-share-price-falls-4-after-490-million-arbitration-challenge-do-you-own-11787806227806.html
 https://www.livemint.com/market/stock-market-news/tata-sons-ipo-listing-impact-on-tata-group-stocks-11789296081226.html
