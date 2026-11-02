@@ -20,6 +20,7 @@ https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-up
 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-little-changed-as-oil-prices-steady/articleshow/133203702.cms
 https://economictimes.indiatimes.com/markets/bonds/fairfax-picks-up-half-of-3-year-government-bonds-at-auction/articleshow/132473875.cms
 https://economictimes.indiatimes.com/markets/bonds/fed-hike-rbi-moves-hand-india-bonds-a-fifth-weekly-loss/articleshow/134335309.cms
+https://economictimes.indiatimes.com/markets/bonds/foreign-g-sec-selling-halves-but-oil-and-global-yields-pose-risks/articleshow/135441142.cms
 https://economictimes.indiatimes.com/markets/bonds/foreign-investors-marginally-offload-china-onshore-bonds-in-june/articleshow/132451802.cms
 https://economictimes.indiatimes.com/markets/bonds/foreigners-pull-out-money-from-govt-bonds-after-2-months-of-buys/articleshow/133946339.cms
 https://economictimes.indiatimes.com/markets/bonds/global-bond-selloff-deepens-as-inflation-risks-oil-prices-jolt-markets/articleshow/133699705.cms
@@ -142,6 +143,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher
 https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-likely-to-stay-range-bound-next-week-as-dollar-west-asia-tensions-guide-market-analysts/articleshow/134367215.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-week-low-ahead-of-us-cpi-data/articleshow/134040389.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-little-changed-with-us-inflation-data-in-spotlight/articleshow/133527287.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-nudges-higher-with-inflation-risks-fed-rate-path-in-focus/articleshow/134804008.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms
@@ -250,6 +252,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-au
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-27-crude-oil-dips-to-87-down-for-4th-session-amid-hormuz-reopening-hopes-what-are-experts-saying/articleshow/133555256.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-28-crude-oil-falls-over-5-this-week-despite-trump-rejecting-terms-of-iran-deal-what-are-experts-saying/articleshow/133581385.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-2-crude-oil-falls-to-111-as-iran-qatar-talks-continue-to-end-war-what-are-experts-saying/articleshow/135442213.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-20-crude-oil-nears-110-again-as-fresh-attacks-outweigh-easing-russian-sanctions-what-are-experts-saying/articleshow/135059918.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-27-crude-oil-below-115-amid-peace-talk-hopes-but-attacks-continue-what-are-experts-saying/articleshow/135222687.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-8-crude-oil-jumps-2-to-102-amid-rising-attacks-on-ships-in-middle-east-what-lies-ahead/articleshow/134779185.cms
@@ -274,6 +277,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-slightly
 https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-second-weekly-rise-as-unsettled-us-iran-war-crimps-supply/articleshow/133390801.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-lower-on-clues-about-fed-policy-rumors-of-hormuz-deal/articleshow/133603629.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-settles-up-on-renewed-us-iran-hostilities-and-threat-of-red-sea-closure/articleshow/132474160.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war/articleshow/135442064.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-after-us-threatens-to-blockade-iran-indefinitely/articleshow/133227088.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-steadies-near-one-week-highs-as-us-iran-peace-deal-hopes-dim/articleshow/133140238.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms
@@ -1355,6 +1359,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-tech-q1-re
 https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-technologies-q2-results-profit-surges-12817-yoy-to-rs-517-crore-revenue-jumps-145/articleshow/135140910.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q1-results-profit-rises-27-yoy-to-rs-2895-crore-revenue-climbs-10-5/articleshow/132762558.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-reports-double-digit-revenue-growth-amid-strong-specialty-medicine-performance/articleshow/135441533.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-results-profit-plunges-69-yoy-to-rs-394-crore-revenue-rises-26/articleshow/135304125.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms
@@ -3164,6 +3169,7 @@ https://www.livemint.com/market/china-coal-prices-at-three-year-high-with-little
 https://www.livemint.com/market/china-fund-closures-head-for-eight-year-high-as-demand-fades-11791161739875.html
 https://www.livemint.com/market/china-ipo-frenzy-nets-lucky-few-six-months-pay-in-one-day-11788915849100.html
 https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html
+https://www.livemint.com/market/china-reportedly-discusses-ways-to-support-stocks-with-banks-11793583684982.html
 https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-manishi-raychaudhuri-11786316493048.html
 https://www.livemint.com/market/china-state-funds-active-as-stocks-post-record-weekly-losing-run-11792380629561.html
 https://www.livemint.com/market/china-stock-premium-over-hong-kong-widens-on-state-intervention-11793146659854.html
@@ -3590,6 +3596,7 @@ https://www.livemint.com/market/ipo/hytech-engineers-ipo-listing-tomorrow-heres-
 https://www.livemint.com/market/ipo/india-ipo-fundraising-activity-in-2026-avendus-capital-md-gaurav-sood-11788343043809.html
 https://www.livemint.com/market/ipo/india-ipo-fundraising-activity-in-august-2026-11788328564321.html
 https://www.livemint.com/market/ipo/india-ipo-market-pitru-paksha-stocks-investor-demand-11791349610530.html
+https://www.livemint.com/market/ipo/indias-wealthy-want-a-slice-of-anthropic-but-its-easier-said-than-done-11793513283856.html
 https://www.livemint.com/market/ipo/indomim-ipo-day-2-check-latest-ipo-gmp-subscription-status-and-other-details-apply-or-not-11784869148382.html
 https://www.livemint.com/market/ipo/indomim-ipo-gmp-signals-42-listing-pop-10-key-things-to-know-from-rhp-ahead-of-issue-launch-on-thursday-11784553507141.html
 https://www.livemint.com/market/ipo/indomim-ipo-opens-today-gmp-date-price-subscription-status-to-review-apply-or-not-11784776598139.html
@@ -4244,6 +4251,7 @@ https://www.livemint.com/market/stock-market-news/bpcl-q1-results-2026-live-bpcl
 https://www.livemint.com/market/stock-market-news/braze-stock-surges-over-50-after-salesforce-announces-5-66-billion-acquisition-11792516251172.html
 https://www.livemint.com/market/stock-market-news/brent-crude-tops-109-as-latest-drone-attacks-iran-tensions-threaten-key-saudi-oil-shipping-routes-11789492468986.html
 https://www.livemint.com/market/stock-market-news/bse-advance-decline-ratio-fii-outflows-sensex-11793256301440.html
+https://www.livemint.com/market/stock-market-news/bse-nse-sensex-options-nifty-options-options-turnover-average-daily-turnover-adpt-market-volatility-west-asia-war-11793555280858.html
 https://www.livemint.com/market/stock-market-news/bse-share-price-dips-3-as-goldman-sachs-bnp-paribas-sell-1-7-stake-worth-rs-2186-crore-11790741701244.html
 https://www.livemint.com/market/stock-market-news/bse-share-price-fall-3-is-it-impact-of-nse-ipo-price-band-announcement-experts-decode-11789114062988.html
 https://www.livemint.com/market/stock-market-news/bumper-listing-shiprocket-share-price-lists-at-35-premium-over-the-ipo-price-11787112874460.html
@@ -5440,6 +5448,7 @@ https://www.livemint.com/market/treasuries-slide-after-middle-east-strife-report
 https://www.livemint.com/market/treasuries10year-note-climbs-to-19-year-high-with-fed-decision-on-deck-11789498155754.html
 https://www.livemint.com/market/treasury-yields-fall-as-oil-dips-on-strait-of-hormuz-hopes-11785956691711.html
 https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html
+https://www.livemint.com/market/trump-suggested-he-may-challenge-the-election-outcome-how-stocks-would-react-11793581191683.html
 https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html
 https://www.livemint.com/market/tsx-falls-1-as-tech-and-gold-mining-shares-slide-11792700912983.html
 https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html
