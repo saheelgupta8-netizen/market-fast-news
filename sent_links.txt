@@ -1370,6 +1370,7 @@ https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q1-results-ne
 https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/one-mobikwik-systems-q1-results-co-posts-rs-7-6-cr-profit-vs-rs-419-cr-loss-yoy/articleshow/132822382.cms
+https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/patanjali-foods-q1-results-gross-profit-rises-35-yoy-to-rs-1521-crore/articleshow/133246238.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q1-results-profit-soars-79-yoy-to-rs-220-crore-board-decides-not-to-go-with-bonus-proposal/articleshow/132519429.cms
 https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q2-results-profit-rockets-976-yoy-to-rs-226-crore-revenue-jumps-28/articleshow/135214973.cms
@@ -2908,6 +2909,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-bond-yields-ease-from-highs-after-data-as-iran-war-escalation-fans-inflation-concerns/articleshow/133686615.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-secretary-may-have-a-tough-time-dealing-with-yields/articleshow/133449085.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-yields-rise-after-comments-from-feds-kevin-warsh-at-jackson-hole/articleshow/133593960.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-fall-in-choppy-session-as-oil-rises-and-equities-sink/articleshow/135585328.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-with-us-fed-silent-on-next-move-investors-look-to-earnings-to-keep-stocks-afloat/articleshow/133255266.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-steet-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally/articleshow/133603682.cms
@@ -4537,6 +4539,7 @@ https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-record-d
 https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-record-date-mon-2-nov-colgate-palmolive-vs-pitti-engineering-vs-route-mobile-vs-tanla-platforms-11793377023477.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-bonus-shares-last-chance-to-buy-check-record-date-ratio-yield-other-details-11791226107086.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-check-elecon-eng-icici-prudential-mangalore-refinery-record-date-on-21-oct-amount-yield-history-11792476558518.html
+https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-tcs-hudco-hcl-tech-gail-among-top-10-dividend-paying-stocks-check-yield-annual-return-11793892901046.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-in-india-best-dividend-stocks-high-dividend-yield-stocks-11789555861801.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-this-week-record-date-hindustan-copper-cochin-shipyard-balu-forge-ircon-karnataka-bank-and-more-11789356047257.html
 https://www.livemint.com/market/stock-market-news/dividends-stock-splits-alert-corporate-actions-this-week-irctc-beml-dixon-tech-and-more-record-dates-full-list-11789890298929.html
