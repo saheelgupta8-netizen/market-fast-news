@@ -139,6 +139,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/explainer-why-isnt
 https://economictimes.indiatimes.com/markets/commodities/news/glittering-prospects-why-gold-is-the-ultimate-sweet-spot-this-dhanteras/articleshow/135530054.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-advances-as-mild-us-inflation-data-puts-fed-rate-hike-in-doubt/articleshow/133195819.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-and-silver-prices-correct-ahead-of-diwali-buying-opportunity-or-a-trap/articleshow/135527505.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-3-as-feds-warsh-comments-lift-rate-hike-bets/articleshow/133603651.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms
@@ -255,6 +256,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-
 https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-ends-week-higher-on-renewed-us-iran-strikes-diesel-hits-record/articleshow/133786882.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-ahead-of-us-announcement-on-new-iran-sanctions/articleshow/133449264.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-is-crude-once-again-is-95-the-new-normal-and-what-it-means-for-indian-investors/articleshow/132430022.cms
@@ -2491,7 +2493,9 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast-sources-say/articleshow/133256367.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-what-its-latest-financial-filing-reveals-about-ai-growth/slideshow/135484180.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-why-wall-street-is-bracing-for-an-ai-market-test/slideshow/135225314.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-to-beat-spacex-investors-bet-on-2-trillion-valuation-in-record-ipo/articleshow/133206890.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-filing-for-blockbuster-us-ipo-shows-key-executives-and-board/articleshow/135213686.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/apollo-global-debt-deal-fees-and-insurance-earnings-rise-asset-sales-drag/articleshow/132866465.cms
@@ -2771,6 +2775,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-oil-rises-after-attacks/articleshow/133857975.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-fed-rate-hike-bets-ease/articleshow/133749050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms
@@ -3408,6 +3413,7 @@ https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-h
 https://www.livemint.com/market/commodities/gold-rate-today-precious-metal-rises-12-this-month-is-it-the-right-time-to-buy-gold-11787815915522.html
 https://www.livemint.com/market/commodities/gold-rate-today-under-pressure-as-soaring-crude-oil-price-fuels-us-fed-rate-hike-buzz-resistance-support-to-outlook-11789190426224.html
 https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html
+https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html
 https://www.livemint.com/market/commodities/gold-shines-braving-odds-rises-17-from-june-lows-what-s-behind-the-jump-will-it-impact-fed-rate-cut-decision-11787391720084.html
 https://www.livemint.com/market/commodities/gold-silver-outlook-investors-cautious-on-gold-price-silver-price-in-no-trade-zone-key-levels-to-watch-11784702238161.html
 https://www.livemint.com/market/commodities/gold-silver-prices-climb-on-mcx-due-to-value-buying-as-dollar-eases-experts-highlight-key-levels-to-watch-11784518614378.html
@@ -3599,6 +3605,7 @@ https://www.livemint.com/market/indian-shares-set-to-open-higher-as-oil-eases-rb
 https://www.livemint.com/market/indian-stocks-set-for-pullback-after-sharp-rally-on-oil-slide-foreign-inflows-11793932289845.html
 https://www.livemint.com/market/indias-oil-buyers-may-cut-russia-cargoes-as-us-risk-rises-11790050687457.html
 https://www.livemint.com/market/inside-tesla-spacex-merger-plan-elon-musk-may-gain-massive-110-bn-from-a-3-5-trn-deal-but-what-will-shareholders-get-11792651804564.html
+https://www.livemint.com/market/ipo-lock-in-expiry-35-billion-in-shares-set-to-unlock-across-116-companies-jio-nse-zetwerk-in-focus-11794289275423.html
 https://www.livemint.com/market/ipo-who-really-owns-jio-platforms-reliance-doesnt-own-100-meta-google-7-others-are-major-shareholders-drhp-data-11791786878913.html
 https://www.livemint.com/market/ipo/10-ipos-available-for-subscription-today-which-shows-most-potential-for-listing-gains-check-latest-ipo-gmp-11788932256722.html
 https://www.livemint.com/market/ipo/abh-healthcare-ipo-day-3-issue-booked-83-so-far-check-gmp-issue-details-11787720403740.html
@@ -4357,6 +4364,7 @@ https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225
 https://www.livemint.com/market/stock-market-news/asian-markets-today-south-korea-s-kospi-japans-nikkei-225-fall-up-to-3-amid-fresh-concerns-around-us-iran-war-11788314788109.html
 https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-crashes-8-plunges-below-5-000-whats-behind-the-selloff-11793930297845.html
 https://www.livemint.com/market/stock-market-news/asian-paints-q2-results-dividend-2026-board-meet-on-oct-29-for-quarterly-earnings-check-record-date-payout-history-11791531215441.html
+https://www.livemint.com/market/stock-market-news/asian-stocks-ride-tech-rally-higher-as-oil-falls-11794291620755.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-fall-over-2-amid-ongoing-us-iran-war-rising-crude-oil-prices-11783992564961.html
 https://www.livemint.com/market/stock-market-news/asian-stocks-today-south-koreas-kospi-declines-amid-rising-crude-oil-prices-escalating-us-iran-war-tensions-11784510716285.html
@@ -4521,6 +4529,7 @@ https://www.livemint.com/market/stock-market-news/crude-oil-shock-and-higher-yie
 https://www.livemint.com/market/stock-market-news/cupids-aditya-halwasiya-bets-big-on-pc-jeweller-after-70-rally-in-6-months-who-is-he-check-pcj-stock-returns-roe-11792164517817.html
 https://www.livemint.com/market/stock-market-news/cyient-dlm-share-price-crashes-19-after-q2-results-but-up-213-from-52-week-low-should-you-buy-check-target-prices-11792129034830.html
 https://www.livemint.com/market/stock-market-news/dalmia-bharat-shares-hit-52-week-low-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-take-11793078448637.html
+https://www.livemint.com/market/stock-market-news/data-patterns-shares-surge-55-in-2026-should-you-buy-stock-after-q2-results-what-brokerages-say-check-target-price-11794290061612.html
 https://www.livemint.com/market/stock-market-news/deepa-jewellers-ipo-listing-shares-make-strong-debut-at-221-per-share-over-the-ipo-price-11788840916623.html
 https://www.livemint.com/market/stock-market-news/deepa-jewellers-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-of-rs-460-crore-issue-11788180669665.html
 https://www.livemint.com/market/stock-market-news/deepa-jewellers-share-price-rallies-13-despite-stock-market-rout-q1-growth-ipo-gains-in-focus-11791352490044.html
@@ -4595,6 +4604,7 @@ https://www.livemint.com/market/stock-market-news/dividend-stocks-bonus-shares-l
 https://www.livemint.com/market/stock-market-news/dividend-stocks-check-elecon-eng-icici-prudential-mangalore-refinery-record-date-on-21-oct-amount-yield-history-11792476558518.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-tcs-hudco-hcl-tech-gail-among-top-10-dividend-paying-stocks-check-yield-annual-return-11793892901046.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-in-india-best-dividend-stocks-high-dividend-yield-stocks-11789555861801.html
+https://www.livemint.com/market/stock-market-news/dividend-stocks-record-date-alert-12-nov-thursday-bayer-cropscience-hul-ongc-more-full-list-amount-key-dates-11794291448718.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-this-week-record-date-hindustan-copper-cochin-shipyard-balu-forge-ircon-karnataka-bank-and-more-11789356047257.html
 https://www.livemint.com/market/stock-market-news/dividends-stock-splits-alert-corporate-actions-this-week-irctc-beml-dixon-tech-and-more-record-dates-full-list-11789890298929.html
 https://www.livemint.com/market/stock-market-news/divis-laboratories-shares-hit-record-high-rising-84-ytd-buy-sell-or-hold-after-q2-results-2026-brokerages-report-11794197764919.html
@@ -4645,6 +4655,7 @@ https://www.livemint.com/market/stock-market-news/first-gold-now-global-stocks-h
 https://www.livemint.com/market/stock-market-news/five-indian-stocks-offering-dividend-yields-up-to-10-11792769464534.html
 https://www.livemint.com/market/stock-market-news/flying-high-vedanta-oil-and-gas-vedanta-power-vedanta-iron-steel-why-vedanta-shares-jumped-up-to-135-11793335496479.html
 https://www.livemint.com/market/stock-market-news/fmcg-dividend-giants-colgate-hindustan-unilever-itc-britannia-which-stock-offers-highest-yield-11791818253859.html
+https://www.livemint.com/market/stock-market-news/four-stocks-with-high-dividend-payout-ratios-to-watch-11794220722375.html
 https://www.livemint.com/market/stock-market-news/fpi-foreign-portfolio-investors-nifty-bank-nifty-short-positions-indian-equities-oil-prices-west-asia-war-11789959207245.html
 https://www.livemint.com/market/stock-market-news/fpis-pull-out-rs-36-000-cr-from-indian-equities-in-sept-as-high-oil-bond-yields-weigh-should-retail-investors-worry-11790863175864.html
 https://www.livemint.com/market/stock-market-news/fractal-analytics-share-price-ai-stock-rallies-12-after-q2-results-net-profit-soars-139-revenue-crosses-100-mn-11793766435161.html
@@ -4780,6 +4791,7 @@ https://www.livemint.com/market/stock-market-news/how-tata-sons-listing-may-impa
 https://www.livemint.com/market/stock-market-news/how-to-check-jio-platforms-ipo-allotment-status-online-on-mobile-by-direct-link-of-nse-and-kfin-tech-websites-11793024495583.html
 https://www.livemint.com/market/stock-market-news/how-us-midterm-election-results-ai-sell-off-impacted-us-stock-market-nikkei-225-kospi-taiwan-and-china-data-details-11793943446082.html
 https://www.livemint.com/market/stock-market-news/hpcl-vs-bpcl-iocl-vs-ongc-which-omc-stock-to-buy-as-110-bbl-crude-oil-price-becomes-a-new-nornal-experts-views-11793596013365.html
+https://www.livemint.com/market/stock-market-news/hul-dividend-2026-tomorrow-is-the-last-day-to-buy-check-payout-amount-record-date-history-yield-and-returns-11794278924006.html
 https://www.livemint.com/market/stock-market-news/hul-vs-nestle-india-q2-results-who-wins-on-profit-revenue-and-dividend-which-fmcg-stock-should-you-buy-11793258197263.html
 https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html
 https://www.livemint.com/market/stock-market-news/hyundai-motor-india-share-price-jumps-9-after-q1-results-should-you-buy-the-stock-11785478570037.html
@@ -5598,6 +5610,7 @@ https://www.livemint.com/market/stock-market-news/upcoming-dividend-bonus-rights
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-bonus-share-right-issue-next-week-12-17-october-vedanta-tcs-ola-electric-and-more-11791616940572.html
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stocks-sail-igl-nmdc-among-3-psu-stocks-with-record-dates-ahead-check-yield-roe-stock-return-11790330679880.html
 https://www.livemint.com/market/stock-market-news/upcoming-ipos-manipal-hospitals-ipo-juniper-green-energy-ipo-among-new-nine-issues-to-open-next-week-full-list-here-11785054080300.html
+https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html
 https://www.livemint.com/market/stock-market-news/upcoming-psu-dividend-record-dates-concor-ongc-nbcc-rites-hudco-nlc-india-check-amount-record-date-payment-tim-11794120757556.html
 https://www.livemint.com/market/stock-market-news/urban-company-shares-crash-over-8-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-explain-11792383144839.html
 https://www.livemint.com/market/stock-market-news/us-10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-bets-strengthen-11789480161708.html
@@ -5719,6 +5732,7 @@ https://www.livemint.com/market/stock-market-news/why-asian-ai-stocks-tumbled-af
 https://www.livemint.com/market/stock-market-news/why-bajaj-finance-shares-fell-3-after-q2-results-2026-should-you-buy-sell-or-hold-what-experts-suggest-to-investors-11792560859959.html
 https://www.livemint.com/market/stock-market-news/why-deepak-nitrite-share-price-jumped-9-after-q2-results-profit-and-other-highlights-check-rating-stock-returns-11793345692881.html
 https://www.livemint.com/market/stock-market-news/why-did-rr-kabel-share-rally-8-during-muhurat-trading-despite-weak-market-sentiment-what-triggered-the-surge-11794133913486.html
+https://www.livemint.com/market/stock-market-news/why-gokaldas-exports-shares-will-be-in-top-focus-tomorrow-what-it-said-in-exchange-filing-stock-down-over-5-in-5-days-11794295409461.html
 https://www.livemint.com/market/stock-market-news/why-is-pearl-global-share-price-rising-today-apparel-stock-hits-52-week-high-post-q2-results-dividend-record-date-ahea-11794197456663.html
 https://www.livemint.com/market/stock-market-news/why-is-the-stock-market-down-today-sensex-drops-over-600-points-nifty-drops-below-22-400-top-3-reasons-explained-11792987126766.html
 https://www.livemint.com/market/stock-market-news/why-mcx-shares-slumped-7-after-q2-results-but-rose-50-in-2026-more-upside-ahead-or-book-profits-experts-views-11793767668055.html
