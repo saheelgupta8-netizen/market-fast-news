@@ -2881,6 +2881,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-official-warn
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-rate-hike-bets-soar-to-57-from-30-after-warshs-speech-what-are-goldman-sachs-and-others-saying/articleshow/133607902.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-expected-to-hold-rates-steady-as-inflation-swirls/articleshow/132636191.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-plans-to-raise-bank-oversight-thresholds-sources-say/articleshow/134488416.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly/articleshow/135718142.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-july-cpi-seen-rising-moderately-fed-rate-outlook-in-focus/articleshow/133172346.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-labour-market-remains-stuck-in-low-hire-low-fire-state-as-inflation-intensifies-fed/articleshow/134961905.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-fed-has-sufficient-reserves-strong-rate-control-framework-perli/articleshow/134429868.cms
@@ -3124,6 +3125,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindl
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-apple-palantir-nvidia-midterm-elections-us-iran-war-crude-oil-prices-ai-stocks-treasury-yields-earnings-news-3rd-november-2026/liveblog/135501430.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-coca-cola-paypal-tesla-meta-earnings-federal-reserve-fed-rate-decision-us-stocks-oil-crude-oil-treasury-yields-ai-stocks-anthropic-ipo-27th-october-2026/liveblog/135233966.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-earnings-fed-rate-decision-treasury-yields-oil-prices-alphabet-microsoft-amazon-coreweave-nebius-news-26th-october-2026/liveblog/135211801.cms
@@ -3246,6 +3248,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stoc
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-as-higher-yields-and-oil-prices-flag-inflation-risk/articleshow/134793270.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/articleshow/135719918.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-investors-weigh-weaker-oil-ppi-data/articleshow/133214216.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-oil-slips-telecoms-hit-by-spacex-spectrum-deal/articleshow/134836014.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms
@@ -3477,6 +3480,7 @@ https://www.livemint.com/market/copper-set-for-weekly-gain-on-china-s-return-and
 https://www.livemint.com/market/cryptocurrency/binance-hack-tether-circle-freeze-2-4-billion-in-crypto-assets-bitcoin-tumbles-below-79-000-heres-what-happened-11793321650037.html
 https://www.livemint.com/market/cryptocurrency/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes-11789573570118.html
 https://www.livemint.com/market/cryptocurrency/goldman-sachs-bofa-and-others-plan-to-issue-dollar-stablecoin-together-in-2027-11788275732303.html
+https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html
 https://www.livemint.com/market/demand-for-crude-oil-may-have-peaked-last-year-fge-says-11791832513230.html
 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
 https://www.livemint.com/market/dollar-ascends-to-fresh-2-month-high-on-inflation-worry-fed-hike-expectations-11790277078633.html
@@ -3509,6 +3513,7 @@ https://www.livemint.com/market/exporter-dollar-sales-bolster-malaysian-ringgit-
 https://www.livemint.com/market/fed-september-meeting-hike-to-fight-inflation-or-heed-trump-s-call-for-cuts-what-should-kevin-warsh-do-11789139960578.html
 https://www.livemint.com/market/fed-tightening-bets-weigh-on-gold-prices-11790555073972.html
 https://www.livemint.com/market/fed-to-pressure-asian-fx-with-yen-in-focus-strategists-say-11789602661534.html
+https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html
 https://www.livemint.com/market/firmus-ipo-debacle-raises-the-bar-for-asia-ai-deals-in-pipeline-11791800511745.html
 https://www.livemint.com/market/foreign-funds-fpi-ipo-anchor-share-five-year-low-equity-market-dii-11793599026286.html
 https://www.livemint.com/market/fpis-lead-the-exit-as-anchor-investors-after-ipo-lock-ins-end-sebi-study-11786629154971.html
@@ -3531,6 +3536,7 @@ https://www.livemint.com/market/gold-falls-as-traders-eye-impact-of-higher-oil-o
 https://www.livemint.com/market/gold-falls-as-traders-raise-fed-hike-bets-after-us-price-report-11789083721391.html
 https://www.livemint.com/market/gold-falls-as-traders-weigh-us-iran-talk-progress-fedspeak-11790193438638.html
 https://www.livemint.com/market/gold-falls-more-than-1-after-fed-hikes-interest-rates-11789587476132.html
+https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html
 https://www.livemint.com/market/gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh-11788288241495.html
 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
 https://www.livemint.com/market/gold-gains-as-october-fed-rate-hike-prospects-fade-11791166334138.html
@@ -4284,6 +4290,7 @@ https://www.livemint.com/market/shares-flat-in-asia-before-iran-sanctions-news-n
 https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html
 https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html
 https://www.livemint.com/market/south-korean-shares-turn-higher-on-dip-buying-after-strong-exports-11793587980784.html
+https://www.livemint.com/market/soybeans-corn-rally-after-usda-pegs-us-harvest-stocks-below-expectations-11794336087036.html
 https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html
 https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-highest-level-since-2023-as-us-federal-reserve-decision-looms-11789400968499.html
 https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-highest-level-since-late-2023-as-oil-price-lifts-us-fed-rate-hike-bets-11788347411111.html
@@ -5810,6 +5817,7 @@ https://www.livemint.com/market/us-yields-rise-but-inflation-data-next-week-seen
 https://www.livemint.com/market/vikran-engineering-share-price-jumps-13-how-rs-2-941-crore-ireda-loan-boosts-solar-project-prospects-11791864436037.html
 https://www.livemint.com/market/vodafone-idea-share-price-jefferies-sees-132-upside-to-rs-36-on-tariff-hikes-initiates-coverage-with-buy-rating-11788961070519.html
 https://www.livemint.com/market/wall-st-declines-as-oil-prices-treasury-yields-remain-elevated-11790621422930.html
+https://www.livemint.com/market/wall-st-retreats-as-hot-inflation-data-fed-comments-fuel-rate-worries-11794339875709.html
 https://www.livemint.com/market/wall-street-dips-as-100-oil-inflation-worries-weigh-on-investors-11788986594338.html
 https://www.livemint.com/market/wall-street-dips-as-higher-yields-rising-oil-prices-mark-shaky-start-to-september-11788287811841.html
 https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html
