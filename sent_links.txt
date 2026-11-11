@@ -157,6 +157,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-firms-on-soft
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech/articleshow/133449285.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-seven-week-low-us-economic-data-on-tap/articleshow/134553921.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-steady-after-scaling-7-week-high-us-inflation-data-in-focus/articleshow/133077441.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-early-june-high-on-lower-bond-yields/articleshow/133361826.cms
@@ -390,6 +391,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-dips-with-u
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-drifts-near-multi-month-lows-as-treasury-yields-ease-fed-minutes-awaited/articleshow/133335227.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-drops-as-weak-us-jobs-data-pushes-out-fed-hike-expectations/articleshow/133046646.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation/articleshow/135722346.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steady-yen-near-7-month-high-ahead-of-fed-boj-meetings/articleshow/134230598.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-struggles-for-traction-as-markets-weigh-iran-sanctions-treasury-buybacks/articleshow/133487188.cms
@@ -2497,6 +2499,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-why-wa
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-to-beat-spacex-investors-bet-on-2-trillion-valuation-in-record-ipo/articleshow/133206890.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-filing-for-blockbuster-us-ipo-shows-key-executives-and-board/articleshow/135213686.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs/articleshow/135711237.cms
@@ -2781,6 +2784,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-fed-rate-hike-bets-ease/articleshow/133749050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-coreweave-results-bonds-drop/articleshow/135721939.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-tick-higher-as-markets-weigh-further-fed-hikes/articleshow/134297050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-to-fall-as-oil-stokes-inflation-fears/articleshow/133989366.cms
