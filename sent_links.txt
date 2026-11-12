@@ -66,6 +66,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-on-fed-rate
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-steady-after-swinging-with-oil/articleshow/132515342.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-stuck-in-narrow-range-focus-on-oil-rbi-liquidity-moves/articleshow/133910360.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-surge-as-oil-cools-on-us-iran-deal-hopes/articleshow/135448296.cms
+https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-wipe-out-early-gains-as-oil-rebounds/articleshow/135487644.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-10-year-bond-yield-tops-7-on-global-debt-rout-oil-rally/articleshow/133699767.cms
 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-buckle-under-oil-spike-fresh-debt-sale/articleshow/133023421.cms
@@ -231,6 +232,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices
 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-after-robust-us-payrolls-boosts-rate-hike-bets/articleshow/133787001.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms
+https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-strong-us-inflation-data-bolsters-dollar-fed-hike-expectations/articleshow/135751745.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss/articleshow/134630500.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-below-rs-1-55-lakh/10-gm-on-mcx-but-global-prices-extend-gains-whats-next/articleshow/133311524.cms
 https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-heads-for-third-straight-weekly-gain/articleshow/133390749.cms
@@ -289,6 +291,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-se
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-14-crude-oil-jumps-3-to-near-108/barrel-as-middle-east-tensions-escalate-what-are-analysts-warning/articleshow/134230842.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-8-crude-oil-at-97-as-simmering-tensions-raise-supply-worries-experts-weigh-in/articleshow/133903670.cms
+https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets/articleshow/135752159.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-jump-more-than-2-after-new-strikes-on-saudi-strait-of-hormuz/articleshow/134230564.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern/articleshow/134553898.cms
 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-set-to-end-week-over-100-for-first-time-in-nearly-4-months/articleshow/134039095.cms
@@ -2283,6 +2286,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/tata-elxsi-shares-jump-
 https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stocks-fall-up-to-7-after-tuesdays-ipo-buzz-rally-which-stocks-led-the-losses/articleshow/134281314.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-launches-tender-offer-for-iveco-group-deal-values-company-at-3-82-billion/articleshow/133798356.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-fall-5-after-weak-q1-results-what-are-morgan-stanley-nomura-others-saying/articleshow/133228597.cms
+https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-in-focus-after-q2-results-why-brokerages-are-bullish-despite-target-price-cuts/articleshow/135753647.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-slide-4-after-company-loses-490-million-arbitration-challenge-in-singapore-whats-the-case-about/articleshow/133556124.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-faces-continued-listing-uncertainty-after-rbi-classification/articleshow/133008884.cms
 https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-buzz-lifts-5-group-stocks-by-rs-17200-crore-who-gains-the-most/articleshow/134252806.cms
@@ -2798,6 +2802,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-tick-higher-as-markets-weigh-further-fed-hikes/articleshow/134297050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-to-fall-as-oil-stokes-inflation-fears/articleshow/133989366.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-us-stock-futures-fall-as-nvidia-turmoil-deepens/articleshow/135751953.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-wall-street-gains-lift-asian-stocks-as-fed-decision-looms/articleshow/135222218.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today/articleshow/134529165.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-10-year-gilt-yields-hit-highest-level-since-2008-as-oil-prices-stoke-inflation-fears/articleshow/133673995.cms
@@ -4279,6 +4284,7 @@ https://www.livemint.com/market/oil-rises-on-fresh-doubts-over-us-iran-diplomacy
 https://www.livemint.com/market/oil-slips-as-investors-assess-saudi-export-recovery-11789950982078.html
 https://www.livemint.com/market/oil-slumps-for-fourth-day-with-diplomacy-and-hormuz-in-focus-11789954897676.html
 https://www.livemint.com/market/oil-steadies-after-rally-as-trump-sees-short-lived-iran-strikes-11788399188419.html
+https://www.livemint.com/market/oil-steadies-after-slump-as-iran-war-talks-make-little-progress-11794439901889.html
 https://www.livemint.com/market/oil-steadies-as-traders-weigh-conflicting-signals-on-iran-talks-11792537101821.html
 https://www.livemint.com/market/oil-steady-as-traders-look-to-mideast-supply-risks-and-diplomacy-11789945835765.html
 https://www.livemint.com/market/oil-swings-as-traders-weigh-slew-of-risks-from-hormuz-to-red-sea-11784629153737.html
@@ -4294,6 +4300,7 @@ https://www.livemint.com/market/pulse-of-the-street-oil-surge-and-rate-hike-fear
 https://www.livemint.com/market/q2-2026-quarterly-results-today-live-updates-bhel-groww-canara-bank-ceat-riil-mrpl-tata-tech-hdb-fin-others-11791904196232.html
 https://www.livemint.com/market/q2-quarterly-results-2026-today-avenue-supermarts-dmart-premier-polyfilm-lcc-infotech-grand-oak-canyon-distillery-11791613424016.html
 https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html
+https://www.livemint.com/market/rare-ipo-bets-on-end-of-war-and-economic-crisis-in-myanmar-11794443215168.html
 https://www.livemint.com/market/rarest-of-rare-bets-on-reliance-ahead-of-jio-platforms-biggest-ever-ipo-11792294102396.html
 https://www.livemint.com/market/reliance-jio-ipo-has-good-news-for-eligible-employees-reservation-of-shares-worth-up-to-rs-500-crore-confirmed-11791987214019.html
 https://www.livemint.com/market/reliance-jio-ipo-oversubscribed-should-investors-apply-or-avoid-or-buy-shares-after-listing-what-experts-suggest-11792663479297.html
@@ -4753,6 +4760,7 @@ https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-dow
 https://www.livemint.com/market/stock-market-news/golds-safe-haven-status-is-fading-don-t-accumulate-indiscriminately-says-hitesh-jain-of-yes-securities-11793849608912.html
 https://www.livemint.com/market/stock-market-news/government-signals-more-psu-stake-sales-after-hindustan-copper-ofs-report-11787677668931.html
 https://www.livemint.com/market/stock-market-news/govt-vs-private-banks-dividend-comparison-sbi-hdfc-icici-pnb-bob-axis-canara-which-bank-tops-the-yield-chart-11790595950547.html
+https://www.livemint.com/market/stock-market-news/great-eastern-shipping-dividend-2026-last-day-to-buy-today-check-record-date-payout-amount-history-yield-returns-11794450519821.html
 https://www.livemint.com/market/stock-market-news/greed-and-fear-index-bel-adani-energy-to-eternal-chris-woods-jefferies-india-portfolio-has-22-stocks-for-long-term-11790402739237.html
 https://www.livemint.com/market/stock-market-news/green-infra-stock-hits-5-upper-circuit-after-rs-615-crore-order-do-you-own-11791362073164.html
 https://www.livemint.com/market/stock-market-news/groww-q1-results-net-profit-jumps-94-to-rs-735-crore-revenue-grows-66-yoy-11784097477198.html
@@ -5633,6 +5641,7 @@ https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bhel
 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html
 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-jio-platforms-trent-bel-rvnl-shares-in-focus-on-friday-30-oct-full-list-11793323032394.html
 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html
+https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-power-bajaj-finance-hal-irctc-shares-in-focus-on-thursday-12-november-full-list-11794447178928.html
 https://www.livemint.com/market/stock-market-news/transrail-lighting-shares-jump-10-rs-927-crore-order-wins-990-mw-solar-deal-in-focus-what-investors-should-know-11792551483283.html
 https://www.livemint.com/market/stock-market-news/trent-q1-results-2026-net-profit-rises-22-yoy-to-518-crore-revenue-up-18-11786004405089.html
 https://www.livemint.com/market/stock-market-news/trent-share-price-tata-group-stock-jumps-6-after-q2-results-should-you-buy-or-sell-check-target-upside-11793332422704.html
