@@ -3478,6 +3478,7 @@ https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-thi
 https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html
 https://www.livemint.com/market/commodities/gold-shines-braving-odds-rises-17-from-june-lows-what-s-behind-the-jump-will-it-impact-fed-rate-cut-decision-11787391720084.html
 https://www.livemint.com/market/commodities/gold-silver-outlook-investors-cautious-on-gold-price-silver-price-in-no-trade-zone-key-levels-to-watch-11784702238161.html
+https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html
 https://www.livemint.com/market/commodities/gold-silver-prices-climb-on-mcx-due-to-value-buying-as-dollar-eases-experts-highlight-key-levels-to-watch-11784518614378.html
 https://www.livemint.com/market/commodities/gold-silver-prices-rise-on-mcx-after-soft-us-inflation-data-but-us-iran-conflict-cap-gains-11784085680395.html
 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-erase-intraday-gains-as-profit-booking-firm-dollar-weigh-11786036471104.html
@@ -3754,9 +3755,11 @@ https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-price-band-set-
 https://www.livemint.com/market/ipo/calibre-mining-ipo-gmp-calibre-mining-ipo-subscription-status-calibre-mining-ipo-review-calibre-mining-ipo-size-11784601329640.html
 https://www.livemint.com/market/ipo/carlsberg-said-set-to-start-road-show-for-600-million-india-ipo-11794550406892.html
 https://www.livemint.com/market/ipo/chinas-fourth-little-ai-dragon-goes-public-tencent-backed-shanghai-enflame-eyes-911-million-from-ipo-11788190730106.html
+https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-set-for-launch-price-band-tomorrow-gmp-allotment-listing-other-details-11794731994241.html
 https://www.livemint.com/market/ipo/country-delight-ipo-200-300-million-india-listing-11788068529581.html
 https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-allotment-in-focus-gmp-signals-23-listing-pop-by-ashish-kacholia-owned-company-11787033970493.html
 https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-listing-shares-debut-at-a-solid-90-premium-on-nse-sme-11787200074284.html
+https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-one-lot-profit-calculator-on-latest-gmp-how-much-can-retail-and-hni-investors-earn-listing-11794744856974.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-2-issue-subscribed-3-so-far-check-gmp-review-key-details-to-know-11784783171939.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-3-issue-subscribed-1-67x-so-far-check-gmp-issue-details-review-11784887100794.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-opens-today-cube-highways-trust-invit-ipo-gmp-subscription-status-review-key-details-11784701460610.html
@@ -4378,6 +4381,7 @@ https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-hig
 https://www.livemint.com/market/stock-market-news/110-stock-split-follows-strong-q2-results-newly-listed-stock-up-6-rises-32-over-ipo-price-in-3-months-what-next-11791793065745.html
 https://www.livemint.com/market/stock-market-news/110-stock-split-this-multibagger-nears-record-date-turns-rs-10-000-into-rs-5-26-lakh-in-2-yrs-do-you-own-11789731139609.html
 https://www.livemint.com/market/stock-market-news/12-bonus-share-strong-dividend-history-multibagger-stock-turns-rs-1-46-lakh-to-rs-5-02-lakh-in-45-months-do-you-own-11792398451368.html
+https://www.livemint.com/market/stock-market-news/144-return-in-6-months-multibagger-to-turn-1-stock-into-18-after-split-bonus-do-you-own-it-check-ratio-return-11794754361817.html
 https://www.livemint.com/market/stock-market-news/147-up-in-five-years-multibagger-stock-tgv-sraac-rally-8-today-whats-behind-the-rally-q2-results-returns-11794466155809.html
 https://www.livemint.com/market/stock-market-news/15-bonus-shares-1-5-stock-split-effect-multibagger-nse-sme-stock-turns-rs-1-04-lakh-into-rs-11-64-lakh-in-8-years-11791861946692.html
 https://www.livemint.com/market/stock-market-news/15-stock-split-alert-mukul-agrawal-portfolio-stock-nearing-record-date-delivers-400-return-in-5-years-do-you-own-11789555598323.html
@@ -5121,6 +5125,7 @@ https://www.livemint.com/market/stock-market-news/mega-ai-anthropic-ipo-details-
 https://www.livemint.com/market/stock-market-news/meta-share-price-stock-slumps-7-5-despite-upbeat-q3-results-why-is-facebook-parent-falling-11792689825393.html
 https://www.livemint.com/market/stock-market-news/metal-stocks-to-buy-ahead-of-q2-results-nuvama-picks-coal-india-tata-steel-jindal-steel-an-underperformer-here-s-why-11791361463865.html
 https://www.livemint.com/market/stock-market-news/microsoft-amazon-and-alphabet-earnings-reveal-the-next-challenge-in-the-ai-race-it-isnt-only-chips-now-11785601577234.html
+https://www.livemint.com/market/stock-market-news/midcap-solar-stock-rallies-33-in-six-months-motilal-oswal-sees-40-upside-do-you-own-it-check-target-price-11794669986419.html
 https://www.livemint.com/market/stock-market-news/milky-mist-dairy-food-shares-already-surged-113-from-ipo-price-in-2-months-but-nuvama-sees-more-returns-target-price-11793085025775.html
 https://www.livemint.com/market/stock-market-news/milky-mist-diary-food-ipo-listing-shares-make-strong-debut-lists-at-18-premium-over-the-ipo-price-11787027363705.html
 https://www.livemint.com/market/stock-market-news/milky-mist-q1-results-after-strong-ipo-debut-profit-and-revenue-surge-what-financials-suggest-about-companys-health-11788192351717.html
@@ -5319,6 +5324,7 @@ https://www.livemint.com/market/stock-market-news/private-vs-psu-banks-face-off-
 https://www.livemint.com/market/stock-market-news/propshop-events-and-exhibitions-ipo-listing-shares-make-muted-debut-lists-at-20-discount-11785729801329.html
 https://www.livemint.com/market/stock-market-news/psu-dividend-jackpot-ongc-vs-ntpc-vs-concor-vs-petronet-who-offers-highest-payout-record-date-technical-targets-11793880794114.html
 https://www.livemint.com/market/stock-market-news/psu-dividend-kings-ongc-bpcl-hpcl-coal-india-among-top-8-psu-stocks-with-highest-dividend-yield-crown-goes-to-11789362315354.html
+https://www.livemint.com/market/stock-market-news/psu-dividend-this-week-nov-16-20-cochin-shipyard-power-finance-corp-sci-to-oil-india-check-record-dates-and-returns-11794735494353.html
 https://www.livemint.com/market/stock-market-news/psu-q2-results-2026-preview-bel-coal-india-igl-earnings-estimate-brokerage-target-price-returns-potential-11792946740816.html
 https://www.livemint.com/market/stock-market-news/psu-stock-coal-india-sets-board-meeting-date-to-declare-final-dividend-for-fy26-record-date-details-here-11784718121166.html
 https://www.livemint.com/market/stock-market-news/ptc-india-coal-india-to-rec-top-10-dividend-stocks-one-beats-ppf-interest-rate-check-details-11788508476681.html
@@ -5590,6 +5596,7 @@ https://www.livemint.com/market/stock-market-news/stock-split-spin-off-share-buy
 https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-emkay-sees-over-32-upside-in-this-healthcare-stock-11785927249886.html
 https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-nuvama-sees-66-upside-in-bls-international-services-should-you-buy-11786524640476.html
 https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-anand-rathi-sees-25-upside-in-this-it-stock-in-12-months-target-price-rationale-11793351211707.html
+https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-up-70-in-ytd-should-you-buy-this-retail-stock-after-strong-growth-guidance-target-11794751254602.html
 https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html
 https://www.livemint.com/market/stock-market-news/stocks-gold-or-cryptocurrency-heres-how-they-have-performed-in-5-years-which-one-should-you-buy-11792655530044.html
 https://www.livemint.com/market/stock-market-news/stocks-jump-as-sitharaman-says-government-will-hear-investors-on-ltcg-tax-11791898497182.html
