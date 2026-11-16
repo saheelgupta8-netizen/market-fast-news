@@ -2429,6 +2429,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospit
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-12-aug-2026/liveblog/133168202.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038578.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-07-oct-2026/liveblog/134755285.cms
+https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-16-nov-2026/liveblog/135870691.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-17-aug-2026/liveblog/133285777.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-24-sep-2026/liveblog/134449970.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-12-aug-2026/liveblog/133168614.cms
@@ -2439,6 +2440,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-pr
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-livestock-price-today-live-updates-10-sep-2026/liveblog/133993604.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-livestock-price-today-live-updates-11-aug-2026/liveblog/133141042.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-live-21-aug-2026/liveblog/133391822.cms
+https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-16-nov-2026/liveblog/135870717.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-24-jul-2026/liveblog/132596344.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-21-sep-2026/liveblog/134378711.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-19-aug-2026/liveblog/133335803.cms
@@ -2476,6 +2478,7 @@ https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-sha
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-19-aug-2026/liveblog/133336239.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-21-oct-2026/liveblog/135080698.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-updates-08-sep-2026/liveblog/133904311.cms
+https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-16-nov-2026/liveblog/135870261.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-10-aug-2026/liveblog/133078897.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-updates-28-oct-2026/liveblog/135250118.cms
 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-livestock-price-today-live-updates-23-sep-2026/liveblog/134424650.cms
@@ -3513,6 +3516,7 @@ https://www.livemint.com/market/commodities/mcx-gold-drops-to-1-58-300-silver-fa
 https://www.livemint.com/market/commodities/mcx-gold-jumps-over-1-55-060-per-10-grams-silver-trades-above-2-39-000-per-kg-middle-east-us-inflation-in-focus-11786418608520.html
 https://www.livemint.com/market/commodities/mcx-gold-nears-1-60-000-silver-at-2-45-000-amid-positive-global-cues-experts-highlight-key-levels-to-watch-11787283205483.html
 https://www.livemint.com/market/commodities/mcx-gold-rallies-for-fifth-straight-week-gains-rs-19-000-per-10-grams-in-august-11787380646821.html
+https://www.livemint.com/market/commodities/mcx-gold-silver-prices-drop-what-led-to-rates-slide-multi-month-lows-ahead-of-wedding-season-details-for-investors-11794801621038.html
 https://www.livemint.com/market/commodities/oil-falls-3-pc-to-below-100-barrel-weekly-rise-us-war-donald-trump-threat-big-attack-iran-houthi-red-sea-latest-updates-11784898171541.html
 https://www.livemint.com/market/commodities/oil-price-today-soars-close-to-100-per-barrel-on-fresh-mideast-attacks-23-july-fears-over-war-widening-markets-react-11784807618748.html
 https://www.livemint.com/market/commodities/oil-prices-edge-lower-on-us-iran-war-uncertainty-brent-at-95bbl-11788398233165.html
@@ -3586,6 +3590,7 @@ https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum
 https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html
 https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html
 https://www.livemint.com/market/gold-eases-on-firmer-dollar-ahead-of-fed-decision-11793087285993.html
+https://www.livemint.com/market/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals-11794792432423.html
 https://www.livemint.com/market/gold-edges-higher-as-lower-oil-fed-hike-temper-inflation-fears-11789944196686.html
 https://www.livemint.com/market/gold-edges-higher-as-lower-oil-prices-damp-chance-of-rate-hikes-11790039506795.html
 https://www.livemint.com/market/gold-edges-lower-as-hot-us-inflation-bolsters-fed-rate-hike-bets-11789347711493.html
@@ -3650,6 +3655,7 @@ https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fa
 https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790553903937.html
 https://www.livemint.com/market/gold-tops-4-600-as-investors-weigh-fed-path-before-jackson-hole-11787865436959.html
 https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html
+https://www.livemint.com/market/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027-11794801634263.html
 https://www.livemint.com/market/goldman-says-high-yield-debt-deluge-overwhelming-investors-11790627459317.html
 https://www.livemint.com/market/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates-11786940446270.html
 https://www.livemint.com/market/goldman-sees-china-oil-imports-staying-subdued-in-fourth-quarter-11790131198162.html
@@ -3756,6 +3762,8 @@ https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-price-band-set-
 https://www.livemint.com/market/ipo/calibre-mining-ipo-gmp-calibre-mining-ipo-subscription-status-calibre-mining-ipo-review-calibre-mining-ipo-size-11784601329640.html
 https://www.livemint.com/market/ipo/carlsberg-said-set-to-start-road-show-for-600-million-india-ipo-11794550406892.html
 https://www.livemint.com/market/ipo/chinas-fourth-little-ai-dragon-goes-public-tencent-backed-shanghai-enflame-eyes-911-million-from-ipo-11788190730106.html
+https://www.livemint.com/market/ipo/coal-india-s-mahanadi-coalfields-ipo-expected-profit-calculator-on-gmp-what-retail-hni-investors-can-gain-on-listing-11794806101034.html
+https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-price-band-set-at-rs-129-rs-136-per-share-check-gmp-issue-details-key-dates-11794795588725.html
 https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-set-for-launch-price-band-tomorrow-gmp-allotment-listing-other-details-11794731994241.html
 https://www.livemint.com/market/ipo/country-delight-ipo-200-300-million-india-listing-11788068529581.html
 https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-allotment-in-focus-gmp-signals-23-listing-pop-by-ashish-kacholia-owned-company-11787033970493.html
