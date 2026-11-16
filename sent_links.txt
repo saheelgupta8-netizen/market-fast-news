@@ -2171,6 +2171,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sebi-issues-final-order
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-market-cap-based-sme-ipo-norms-seeks-public-comments-on-regulatory-overhaul/articleshow/134942348.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-potential-for-rs-2-lakh-crore-ipo-fundraising-as-fresh-capital-gains-prominence/articleshow/134409191.cms
+https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-sub-group-under-pmac-to-review-key-ipo-norms-nses-chauhan-to-head-panel/articleshow/135890467.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-ipo-rules-to-ease-market-access-for-smes/articleshow/133361290.cms
 https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-block-deal-hdfc-life-a91-to-offload-10-stake-worth-rs-1329-crore/articleshow/134440898.cms
 https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-fall-over-8-after-q1-results-what-squeezed-profitability/articleshow/133171068.cms
@@ -3179,6 +3180,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-m
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-apple-palantir-nvidia-midterm-elections-us-iran-war-crude-oil-prices-ai-stocks-treasury-yields-earnings-news-3rd-november-2026/liveblog/135501430.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-coca-cola-paypal-tesla-meta-earnings-federal-reserve-fed-rate-decision-us-stocks-oil-crude-oil-treasury-yields-ai-stocks-anthropic-ipo-27th-october-2026/liveblog/135233966.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-fed-anthropic-ipo-coreweave-nvidia-marvell-ai-chip-fed-rate-inflation-treasury-yield-news-11th-november-2026/liveblog/135739245.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-earnings-fed-rate-decision-treasury-yields-oil-prices-alphabet-microsoft-amazon-coreweave-nebius-news-26th-october-2026/liveblog/135211801.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-intel-micron-ai-stocks-marvell-coreweave-ai-chip-stocks-treasury-yield-news-12th-november-2026/liveblog/135771380.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms
@@ -3768,6 +3770,7 @@ https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-se
 https://www.livemint.com/market/ipo/country-delight-ipo-200-300-million-india-listing-11788068529581.html
 https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-allotment-in-focus-gmp-signals-23-listing-pop-by-ashish-kacholia-owned-company-11787033970493.html
 https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-listing-shares-debut-at-a-solid-90-premium-on-nse-sme-11787200074284.html
+https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-gmp-today-how-much-listing-gain-is-expected-check-profit-calculator-before-bidding-starts-11794829781565.html
 https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-one-lot-profit-calculator-on-latest-gmp-how-much-can-retail-and-hni-investors-earn-listing-11794744856974.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-2-issue-subscribed-3-so-far-check-gmp-review-key-details-to-know-11784783171939.html
 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-3-issue-subscribed-1-67x-so-far-check-gmp-issue-details-review-11784887100794.html
@@ -4377,6 +4380,7 @@ https://www.livemint.com/market/saudis-slash-oil-prices-to-asia-in-battle-for-ma
 https://www.livemint.com/market/sebi-bars-rajesh-mehta-from-trading-in-rajesh-exports-keeps-curbs-in-place-11791983496178.html
 https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html
 https://www.livemint.com/market/sebi-order-against-zee-to-delay-planned-rs-3-143-crore-fundraise-11785686792911.html
+https://www.livemint.com/market/sebi-panel-to-review-ipo-fpo-and-qip-rules-rationalise-disclosure-norms-11794832119010.html
 https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html
 https://www.livemint.com/market/shanghai-exchange-halts-duty-free-metal-delivery-against-futures-11793306332325.html
 https://www.livemint.com/market/shares-dip-with-pressure-from-technology-yields-and-oil-fall-11787608158881.html
@@ -4415,6 +4419,7 @@ https://www.livemint.com/market/stock-market-news/35-dip-in-one-year-itc-shares-
 https://www.livemint.com/market/stock-market-news/35-per-share-dividend-stock-accelya-solutions-india-15-down-in-2026-but-cash-reward-announced-check-record-date-11791264378858.html
 https://www.livemint.com/market/stock-market-news/4-dividend-stocks-that-beat-ppf-yields-majestic-auto-jagran-prakash-to-indo-borax-full-list-11790071831689.html
 https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html
+https://www.livemint.com/market/stock-market-news/42-rally-in-11-sessions-this-jewellery-stock-resumes-its-bull-run-after-upbeat-q2-results-hits-nearly-2-year-high-11794825957504.html
 https://www.livemint.com/market/stock-market-news/45-ytd-rally-experts-see-up-to-56-upside-in-these-3-stocks-on-chinas-export-shift-target-rationale-11790861349055.html
 https://www.livemint.com/market/stock-market-news/453-return-in-3-yrs-multibagger-stock-announces-bonus-shares-record-date-soon-do-you-own-check-ratio-stock-return-11792156500741.html
 https://www.livemint.com/market/stock-market-news/461-bonus-stock-record-date-soon-check-face-value-and-share-price-performance-11788503774857.html
@@ -4521,6 +4526,7 @@ https://www.livemint.com/market/stock-market-news/bel-share-price-rally-bharat-e
 https://www.livemint.com/market/stock-market-news/bel-shares-down-16-in-6-months-is-a-trend-reversal-in-this-multibagger-defence-stock-on-the-cards-experts-decode-11791540651920.html
 https://www.livemint.com/market/stock-market-news/bel-to-glenmark-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11788922718925.html
 https://www.livemint.com/market/stock-market-news/belrise-industries-share-price-gains-on-rs-1-200-crore-qip-launch-11784089291477.html
+https://www.livemint.com/market/stock-market-news/belrise-industries-shares-surge-13-after-q2-results-h-one-merger-stock-rallies-44-in-a-year-what-technical-experts-11794817435375.html
 https://www.livemint.com/market/stock-market-news/beml-dividend-2026-record-date-soon-over-33-returns-in-6-months-now-246-dividend-check-amount-per-share-yield-11789295162458.html
 https://www.livemint.com/market/stock-market-news/beml-share-price-falls-after-hitting-52-week-high-icici-direct-sees-39-upside-in-the-defence-psu-stock-should-you-buy-11794580770478.html
 https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-balrampur-chini-bluestone-kotak-bank-by-vaishali-parekh-target-stop-loss-nifty-prediction-11791379340026.html
@@ -5114,6 +5120,7 @@ https://www.livemint.com/market/stock-market-news/ltm-dividend-2026-record-date-
 https://www.livemint.com/market/stock-market-news/lumino-industries-ipo-listing-shares-make-debut-at-34-premium-lists-at-110-per-share-11788408967353.html
 https://www.livemint.com/market/stock-market-news/lumino-industries-share-price-extends-gains-after-a-stellar-ipo-listing-up-41-5-from-issue-price-should-you-buy-11788497180293.html
 https://www.livemint.com/market/stock-market-news/lupin-sun-pharma-to-cipla-pharma-stocks-decline-after-trump-s-tariffs-plan-on-generic-medicines-import-11784692829109.html
+https://www.livemint.com/market/stock-market-news/mahanadi-coalfields-ipo-dividend-king-in-the-making-what-top-official-says-about-coal-india-arms-post-listing-payouts-11794818788482.html
 https://www.livemint.com/market/stock-market-news/maharashtra-scooters-rs-160-dividend-bajaj-holdings-arm-declares-mega-payout-check-record-date-other-details-11789463594577.html
 https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-power-finance-corporation-to-declare-q1-results-2026-interim-dividend-soon-11785832872967.html
 https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-sail-declares-record-date-for-final-dividend-in-fy26-11787303082467.html
@@ -5136,6 +5143,7 @@ https://www.livemint.com/market/stock-market-news/meta-share-price-stock-slumps-
 https://www.livemint.com/market/stock-market-news/metal-stocks-to-buy-ahead-of-q2-results-nuvama-picks-coal-india-tata-steel-jindal-steel-an-underperformer-here-s-why-11791361463865.html
 https://www.livemint.com/market/stock-market-news/microsoft-amazon-and-alphabet-earnings-reveal-the-next-challenge-in-the-ai-race-it-isnt-only-chips-now-11785601577234.html
 https://www.livemint.com/market/stock-market-news/midcap-solar-stock-rallies-33-in-six-months-motilal-oswal-sees-40-upside-do-you-own-it-check-target-price-11794669986419.html
+https://www.livemint.com/market/stock-market-news/midcap-stocks-ai-led-short-cycle-deals-rise-anand-rathi-identifies-mid-cap-it-stocks-mphasis-sonata-set-to-benefit-11794808591830.html
 https://www.livemint.com/market/stock-market-news/milky-mist-dairy-food-shares-already-surged-113-from-ipo-price-in-2-months-but-nuvama-sees-more-returns-target-price-11793085025775.html
 https://www.livemint.com/market/stock-market-news/milky-mist-diary-food-ipo-listing-shares-make-strong-debut-lists-at-18-premium-over-the-ipo-price-11787027363705.html
 https://www.livemint.com/market/stock-market-news/milky-mist-q1-results-after-strong-ipo-debut-profit-and-revenue-surge-what-financials-suggest-about-companys-health-11788192351717.html
@@ -5641,6 +5649,7 @@ https://www.livemint.com/market/stock-market-news/swaraj-engines-share-price-in-
 https://www.livemint.com/market/stock-market-news/swiggy-shares-crash-5-after-q1-results-what-should-investors-do-11785478559007.html
 https://www.livemint.com/market/stock-market-news/swiggy-shares-hit-52-week-low-down-35-in-1-month-should-investors-buy-the-stock-after-q2-results-expert-view-11792732293505.html
 https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html
+https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-which-stock-has-the-stronger-growth-and-better-earnings-outlook-after-q2-results-11794829911764.html
 https://www.livemint.com/market/stock-market-news/tamilnadu-petroproducts-shares-surge-7-after-q2-results-stock-already-up-37-in-2026-key-levels-to-watch-11793678628599.html
 https://www.livemint.com/market/stock-market-news/tata-elxsi-q2-results-impact-it-stock-soars-7-buy-sell-or-hold-check-highlights-target-price-share-price-trend-11791906874922.html
 https://www.livemint.com/market/stock-market-news/tata-elxsi-share-price-hits-52-week-low-after-q1-results-2026-brokerages-cut-target-prices-should-you-buy-or-sell-11784093571629.html
@@ -5648,6 +5657,7 @@ https://www.livemint.com/market/stock-market-news/tata-elxsi-vs-tata-tech-which-
 https://www.livemint.com/market/stock-market-news/tata-group-stock-indian-hotels-falls-1-despite-strong-q1-results-2026-should-you-buy-or-sell-11784700511072.html
 https://www.livemint.com/market/stock-market-news/tata-group-stocks-shed-3-2-billion-in-market-cap-amid-tata-sons-rift-11789717385957.html
 https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html
+https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-eicher-motors-which-auto-stock-is-set-to-race-ahead-and-which-should-you-buy-after-q2-results-11794815971549.html
 https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-maruti-suzuki-shares-which-auto-stock-to-buy-after-q2-results-2026-experts-views-target-price-11793433708273.html
 https://www.livemint.com/market/stock-market-news/tata-motors-q1-results-net-profit-surges-83-yoy-to-rs-2-560-crore-revenue-improves-20-11786530133706.html
 https://www.livemint.com/market/stock-market-news/tata-power-share-price-falls-4-after-490-million-arbitration-challenge-do-you-own-11787806227806.html
@@ -5760,6 +5770,7 @@ https://www.livemint.com/market/stock-market-news/trumps-100-tariff-threat-what-
 https://www.livemint.com/market/stock-market-news/trumps-tariff-policy-abbott-india-ajanta-pharma-to-alembic-pharma-stocks-crash-up-to-4-11784869745089.html
 https://www.livemint.com/market/stock-market-news/tvs-motor-company-q1-results-profit-jumps-67-yoy-board-approves-fundraising-proposal-11784625233336.html
 https://www.livemint.com/market/stock-market-news/tvs-motor-share-price-rises-4-jumps-10-in-2-sessions-after-q1-results-is-it-a-stock-to-buy-11784693231086.html
+https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html
 https://www.livemint.com/market/stock-market-news/ujjivan-small-finance-bank-q1-results-2026-net-profit-jumps-200-to-317-crore-nii-up-38-yoy-11784793878446.html
 https://www.livemint.com/market/stock-market-news/ultratech-cement-q1-results-net-profit-jumps-17-yoy-to-rs-2-599-crore-11784537690066.html
 https://www.livemint.com/market/stock-market-news/ultravolt-impact-on-cable-wires-stocks-kei-polycab-rr-kabel-finolex-price-plunge-aditya-birla-groups-1-800-cr-bet-11788494585834.html
@@ -5870,6 +5881,7 @@ https://www.livemint.com/market/stock-market-news/vedantas-demerger-report-card-
 https://www.livemint.com/market/stock-market-news/vellora-impact-stock-under-rs-50-hits-20-upper-circuit-after-q1fy27-results-11784798074989.html
 https://www.livemint.com/market/stock-market-news/vijay-kedia-portfolio-up-270-against-ipo-price-in-17-month-ace-investor-raises-stake-in-sme-stock-should-you-buy-11791868896253.html
 https://www.livemint.com/market/stock-market-news/vijay-kedias-portfolio-stock-under-rs-150-this-textile-stock-adds-rs-3-7-crore-to-his-wealth-since-ipo-do-you-own-11793366185526.html
+https://www.livemint.com/market/stock-market-news/vikram-solar-vs-premier-vs-waaree-vs-suzlon-green-energy-stocks-under-pressure-what-do-technical-charts-signal-11794813873378.html
 https://www.livemint.com/market/stock-market-news/vishal-mega-mart-share-price-dips-here-s-what-brokerages-see-share-price-target-11790240944412.html
 https://www.livemint.com/market/stock-market-news/vodafone-idea-news-clarification-from-telecom-giant-on-rs-53-crore-income-tax-refund-order-11787669930925.html
 https://www.livemint.com/market/stock-market-news/vodafone-idea-q1-results-net-loss-narrows-to-rs-3-754-crore-arpu-rises-to-rs-195-key-highlights-11786369911587.html
@@ -5877,6 +5889,7 @@ https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-exte
 https://www.livemint.com/market/stock-market-news/vodafone-idea-shares-up-20-in-6-months-will-q2-results-2026-fuel-this-rally-experts-views-target-price-stoploss-11792642677847.html
 https://www.livemint.com/market/stock-market-news/vrl-logistics-shares-surge-14-to-52-week-high-as-q2-pat-doubles-up-40-from-year-low-check-results-buyback-details-11793678795009.html
 https://www.livemint.com/market/stock-market-news/waaree-energies-share-price-joindre-capital-initiates-coverage-check-target-rationale-upside-returns-11790053473712.html
+https://www.livemint.com/market/stock-market-news/wakefit-innovations-share-price-down-29-from-ipo-price-can-the-stock-bounce-back-incred-sees-35-upside-target-11794830128421.html
 https://www.livemint.com/market/stock-market-news/wall-street-advances-on-iran-deal-hopes-spacex-and-amd-dip-11785937674365.html
 https://www.livemint.com/market/stock-market-news/wall-street-cheers-us-midterm-results-as-dow-jones-jumps-1300-points-amazon-apple-microsoft-among-top-gainers-11793807617877.html
 https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-crude-oil-prices-plunge-amazon-jumps-38-11785765123026.html
