@@ -3180,6 +3180,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/rising-
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/schindler-q2-sales-miss-expectations-as-weak-china-market-drags/articleshow/132531543.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-stocks-intel-coreweave-meta-tesla-nvidia-earnings-anthropic-ipo-treasury-fed-rate-treasury-bond-yield-brent-oil-news-17th-november-2026/liveblog/135927419.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-apple-palantir-nvidia-midterm-elections-us-iran-war-crude-oil-prices-ai-stocks-treasury-yields-earnings-news-3rd-november-2026/liveblog/135501430.cms
@@ -3577,6 +3578,7 @@ https://www.livemint.com/market/emerging-currencies-weaken-as-us-iran-standoff-l
 https://www.livemint.com/market/emerging-stocks-halt-advance-as-hormuz-tensions-come-into-focus-11791429511558.html
 https://www.livemint.com/market/emergingmarket-assets-dip-as-chip-rout-fed-rate-worries-linger-11794781837535.html
 https://www.livemint.com/market/emergingmarket-assets-fall-as-oil-surge-ai-jitters-dent-mood-11789418890064.html
+https://www.livemint.com/market/emergingmarket-currencies-halt-three-day-slump-stocks-slide-11794955884837.html
 https://www.livemint.com/market/emergingmarket-stocks-fall-as-warsh-stokes-fed-rate-hike-bets-11788156550409.html
 https://www.livemint.com/market/equity-deals-cool-in-europe-as-higher-rates-hinder-offerings-11791258742196.html
 https://www.livemint.com/market/eu-close-to-deal-to-link-uk-carbon-market-after-brexit-split-11794131188933.html
@@ -3656,6 +3658,7 @@ https://www.livemint.com/market/gold-steadies-near-4-400-as-traders-weigh-fed-ra
 https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook-11785815218115.html
 https://www.livemint.com/market/gold-steady-as-more-oil-and-falling-yields-ease-rate-hike-bets-11791333075934.html
 https://www.livemint.com/market/gold-steady-as-rate-hike-bets-ease-oil-pushes-yields-higher-11792367574043.html
+https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html
 https://www.livemint.com/market/gold-subdued-ahead-of-us-inflation-data-warsh-remarks-11791916268630.html
 https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar-11787164505057.html
 https://www.livemint.com/market/gold-swings-as-traders-assess-fed-rate-path-amid-mideast-worries-11792615559253.html
@@ -5991,8 +5994,10 @@ https://www.livemint.com/market/tsx-falls-1-as-tech-and-gold-mining-shares-slide
 https://www.livemint.com/market/tsx-rebounds-as-oil-pullback-boosts-industrials-mining-shares-11793655587408.html
 https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html
 https://www.livemint.com/market/upcoming-dividend-stock-split-bonus-shares-this-week-nmdc-ph-capital-moldtek-gtv-and-others-record-date-ratio-11790967535671.html
+https://www.livemint.com/market/upcoming-ipo-advanced-sys-tek-receives-sebi-nod-for-public-issue-fundraising-fresh-equity-issue-ofs-other-key-11794936665478.html
 https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html
 https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo-among-new-issues-to-open-next-week-check-full-list-here-11784449725282.html
+https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html
 https://www.livemint.com/market/us-data-buoys-dollar-as-fed-hike-expectations-nudged-higher-11787770825665.html
 https://www.livemint.com/market/us-oil-tops-90-for-first-time-since-july-amid-fresh-strikes-11788290702226.html
 https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html
@@ -6002,6 +6007,7 @@ https://www.livemint.com/market/us-stocks-fall-as-oil-surges-past-100-on-deepeni
 https://www.livemint.com/market/us-stocks-rebound-as-oil-prices-ease-inflation-data-steadies-market-sentiment-11789132216174.html
 https://www.livemint.com/market/us-treasuries-yields-fall-from-2002-high-as-oil-prices-dip-11791315985017.html
 https://www.livemint.com/market/us-treasury-yields-rise-as-oil-climbs-before-jobs-report-11786043154633.html
+https://www.livemint.com/market/us-yields-ease-as-equities-drop-before-nvidia-results-11794948835861.html
 https://www.livemint.com/market/us-yields-ease-with-oil-prices-profittaking-11789671806169.html
 https://www.livemint.com/market/us-yields-rise-but-inflation-data-next-week-seen-key-to-fed-outlook-11788550095128.html
 https://www.livemint.com/market/vikran-engineering-share-price-jumps-13-how-rs-2-941-crore-ireda-loan-boosts-solar-project-prospects-11791864436037.html
