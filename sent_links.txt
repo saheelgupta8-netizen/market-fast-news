@@ -2603,6 +2603,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-m
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-crude-oil-fed-rate-hike-treasury-yield-spacex-nvidia-meta-tesla-chip-stock-price-news-21st-august-2026/liveblog/133404258.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-sanctions-canada-tariffs-nvidia-earnings-jackson-hole-federal-reserve-brent-crude-oil-bitcoin-stock-futures-price-news-25th-august-2026/liveblog/133510516.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-trump-iran-war-hormuz-deal-brent-crude-oil-fed-minutes-rate-hike-retail-earnings-walmart-moderna-bitcoin-coinbase-chip-stock-price-news-20th-august-2026/liveblog/133377376.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-boost-why-goldman-sachs-shares-jumped-to-record-highs/slideshow/132407452.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ecb-raises-interest-rates-as-iran-war-fans-inflation-fears/articleshow/134017879.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
@@ -2617,6 +2618,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/fed-builds-credibili
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-chief-warsh-faces-hard-choice-on-inflation-after-bond-markets-red-flag/articleshow/132780818.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-some-officials-want-to-prepare-for-market-stress/articleshow/134778894.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-raises-rates-despite-trump-pressure-signals-another-hike-likely-in-2026/articleshow/134296746.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-seen-a-bit-more-likely-to-hike-after-inflation-data/articleshow/133543948.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms
@@ -3054,6 +3056,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-o
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dean-of-valuation-aswath-damodaran-pegs-anthropics-worth-at-1-475-trillion-ahead-of-mega-ipo/articleshow/135300228.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-nasdaq-sp-500-nvidia-forecast-anthropic-ipo-coreweave-nebius-fed-rate-fed-rate-hike-treasury-yield-news-18th-november-2026/liveblog/135964782.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-nvidia-jp-morgan-meta-ai-chip-stock-price-news-28th-september-2026/liveblog/134542610.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-ai-stocks-nvidia-tesla-meta-stock-price-news-22nd-october-2026/liveblog/135118971.cms
 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-xenon-pharmaceuticals-berkshire-hathaway-alphabet-apple-stock-price-news-18th-september-2026/liveblog/134335091.cms
@@ -3345,6 +3348,8 @@ https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-bil
 https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html
 https://www.livemint.com/market/amundi-says-worst-is-behind-us-as-gold-flirts-with-4000-11793092640404.html
 https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html
+https://www.livemint.com/market/anthropic-ipo-set-to-raise-90-4-billion-could-become-biggest-stock-market-debut-ever-11795025331762.html
+https://www.livemint.com/market/anthropics-ipo-by-the-numbers-taking-on-spacex-s-record-debut-11795026863722.html
 https://www.livemint.com/market/anthropics-ipo-dreams-may-be-eclipsed-by-thecloud-11792383878872.html
 https://www.livemint.com/market/anthropics-ipo-is-about-six-times-oversubscribed-11794519373423.html
 https://www.livemint.com/market/asia-hedge-funds-hurt-by-july-selloff-after-strong-first-half-11784787050569.html
@@ -3568,6 +3573,7 @@ https://www.livemint.com/market/dollar-dips-as-oil-eases-yen-jumps-on-japan-rema
 https://www.livemint.com/market/dollar-dips-as-traders-wait-on-fed-aussie-gains-11792610330595.html
 https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html
 https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html
+https://www.livemint.com/market/dollar-firmer-as-hawkish-waller-backs-aggressive-fed-action-11795032241133.html
 https://www.livemint.com/market/dollar-gains-most-in-over-two-weeks-as-pce-backs-fed-hike-11787778441174.html
 https://www.livemint.com/market/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-11788743903059.html
 https://www.livemint.com/market/dollar-heads-for-best-day-in-two-weeks-as-oil-prices-advance-11786041870410.html
@@ -3605,6 +3611,7 @@ https://www.livemint.com/market/global-funds-end-underweight-position-on-china-a
 https://www.livemint.com/market/gold-climbs-above-4-400-as-traders-turn-focus-to-us-inflation-11786410162796.html
 https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html
 https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html
+https://www.livemint.com/market/gold-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric-11795032242167.html
 https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html
 https://www.livemint.com/market/gold-eases-on-firmer-dollar-ahead-of-fed-decision-11793087285993.html
 https://www.livemint.com/market/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals-11794792432423.html
@@ -3656,6 +3663,7 @@ https://www.livemint.com/market/gold-rises-to-one-week-high-heads-for-weekly-gai
 https://www.livemint.com/market/gold-rises-to-over-two-month-peak-as-us-inflation-data-dampens-rate-hike-bets-11786560770348.html
 https://www.livemint.com/market/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans-11787273040473.html
 https://www.livemint.com/market/gold-slips-as-renewed-mideast-tensions-keep-fed-hike-bets-alive-11788207528743.html
+https://www.livemint.com/market/gold-slumps-3-to-lowest-in-over-a-year-on-hawkish-fed-signals-11795036212650.html
 https://www.livemint.com/market/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates-11792543252325.html
 https://www.livemint.com/market/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path-11790122783726.html
 https://www.livemint.com/market/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension-11786667005682.html
@@ -6037,6 +6045,7 @@ https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-result
 https://www.livemint.com/market/wall-street-mixed-amid-renewed-us-iran-clashes-11788355633357.html
 https://www.livemint.com/market/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to-december-11793213973901.html
 https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html
+https://www.livemint.com/market/wall-street-sees-more-mega-debt-deals-using-paramount-blueprint-11795027290809.html
 https://www.livemint.com/market/weak-demand-for-us-pork-drives-cme-hogs-to-contract-lows-11793745304219.html
 https://www.livemint.com/market/wheat-falls-as-markets-monitor-black-sea-export-prospects-11790558644308.html
 https://www.livemint.com/market/wheat-soars-to-daily-limit-on-black-sea-export-worries-corn-at-lifetime-highs-11787773711563.html
