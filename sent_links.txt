@@ -140,6 +140,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-e
 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms
 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-2-on-fresh-attacks-by-us-and-iran/articleshow/132536262.cms
 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms
+https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms
 https://economictimes.indiatimes.com/markets/commodities/news/crude-shock-to-hit-oil-companies-margins-but-refining-gains-could-save-q2-show/articleshow/134323398.cms
 https://economictimes.indiatimes.com/markets/commodities/news/decoding-gold-rally-why-yellow-metal-surged-15-in-one-month-and-should-bullion-be-in-your-portfolio/articleshow/133527902.cms
 https://economictimes.indiatimes.com/markets/commodities/news/down-48-from-peak-but-silver-still-beats-gold-equity-to-post-best-5-year-returns-time-to-buy/articleshow/133210805.cms
@@ -249,6 +250,7 @@ https://economictimes.indiatimes.com/markets/commodities/news/gold-treads-water-
 https://economictimes.indiatimes.com/markets/commodities/news/gold-treads-water-ahead-of-us-nonfarm-payrolls-report/articleshow/133723178.cms
 https://economictimes.indiatimes.com/markets/commodities/news/goldman-sachs-big-warning-oil-prices-could-soar-to-120-if-attacks-on-shipping-continue-in-hormuz-strait/articleshow/133915395.cms
 https://economictimes.indiatimes.com/markets/commodities/news/golds-next-rally-could-be-taking-shape-why-investors-should-focus-on-the-bigger-picture/articleshow/132636524.cms
+https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms
 https://economictimes.indiatimes.com/markets/commodities/news/govt-slashes-edible-oil-import-duties-to-combat-rising-prices-and-food-inflation/articleshow/134448837.cms
 https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms
 https://economictimes.indiatimes.com/markets/commodities/news/investors-take-to-gold-dip-as-mideast-war-rages-on/articleshow/132473460.cms
@@ -414,6 +416,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-struggles-f
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-subdued-as-markets-await-us-inflation-data-for-fed-clues/articleshow/133167898.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-treads-water-as-fed-hike-bets-pared-on-benign-us-inflation/articleshow/133198714.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited/articleshow/135478890.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms
@@ -3580,6 +3583,7 @@ https://www.livemint.com/market/copper-ascends-to-new-heights-on-tight-supply-an
 https://www.livemint.com/market/copper-falls-as-traders-assess-ai-trade-us-iran-diplomacy-hopes-11793742834384.html
 https://www.livemint.com/market/copper-set-for-weekly-gain-on-china-s-return-and-supply-concerns-11791514977519.html
 https://www.livemint.com/market/cryptocurrency/binance-hack-tether-circle-freeze-2-4-billion-in-crypto-assets-bitcoin-tumbles-below-79-000-heres-what-happened-11793321650037.html
+https://www.livemint.com/market/cryptocurrency/bitcoin-crashes-to-over-two-year-low-below-60-000-level-what-do-experts-expect-from-crypto-markets-going-ahead-11795234024656.html
 https://www.livemint.com/market/cryptocurrency/bitcoin-slips-below-74000-mark-experts-explain-factors-influence-cryptocurrency-markets-week-us-inflation-risk-investors-11794473906813.html
 https://www.livemint.com/market/cryptocurrency/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes-11789573570118.html
 https://www.livemint.com/market/cryptocurrency/crypto-bitcoin-price-today-falls-64962-15-nov-lowest-since-july-investors-pull-out-favour-ai-stocks-factor-fed-rate-hike-11794711853135.html
@@ -4921,6 +4925,7 @@ https://www.livemint.com/market/stock-market-news/gold-silver-or-stocks-where-sh
 https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-jumps-73-silver-gains-2-55-as-traders-assess-us-iran-peace-efforts-11784651015556.html
 https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html
 https://www.livemint.com/market/stock-market-news/gold-stock-why-augmont-enterprises-is-shining-despite-pm-modi-avoid-gold-appeal-and-us-iran-tension-11788335967894.html
+https://www.livemint.com/market/stock-market-news/gold-vs-silver-price-crash-compared-white-metal-loses-65-gold-sheds-37-from-record-highs-wealth-wiped-returns-11795241673262.html
 https://www.livemint.com/market/stock-market-news/goldman-sachs-buys-stake-in-firstcry-brand-parent-owner-brainbees-solutions-check-price-quantity-traded-11790313331674.html
 https://www.livemint.com/market/stock-market-news/goldman-sachs-buys-stake-in-small-cap-stock-that-has-surged-50-in-less-than-two-months-11790237709933.html
 https://www.livemint.com/market/stock-market-news/goldman-sachs-kospi-target-cut-why-south-korea-market-experts-lowered-target-to-9-000-from-12-000-explained-11793031984804.html
@@ -5390,6 +5395,7 @@ https://www.livemint.com/market/stock-market-news/paluck-technologies-ipo-bse-sm
 https://www.livemint.com/market/stock-market-news/paras-defence-data-patterns-bel-hal-and-more-why-are-defence-stocks-on-fire-today-check-sector-outlook-11789625005479.html
 https://www.livemint.com/market/stock-market-news/paras-healthcare-shares-after-ipo-listing-gains-check-whats-happening-with-stock-buy-sell-or-hold-experts-weigh-in-11793246817503.html
 https://www.livemint.com/market/stock-market-news/pashupati-cotspin-shares-hit-10-lower-circuit-ahead-of-q2-results-after-a-stunning-70-monthly-rally-what-lies-ahead-11793770800395.html
+https://www.livemint.com/market/stock-market-news/patanjali-foods-dividend-2026-announcement-news-board-to-consider-2nd-interim-dividend-on-nov-26-check-history-yield-11795248708675.html
 https://www.livemint.com/market/stock-market-news/paytm-board-to-consider-first-ever-bonus-issue-along-with-q1fy27-results-on-this-date-check-details-11784193089008.html
 https://www.livemint.com/market/stock-market-news/paytm-q1-results-net-profit-jumps-79-revenue-up-28-board-opts-not-to-proceed-with-bonus-shares-11784566956897.html
 https://www.livemint.com/market/stock-market-news/paytm-share-price-falls-over-1-despite-strong-q1-results-2026-bonus-issue-announcement-should-you-buy-sell-or-hold-11784605079585.html
@@ -5886,6 +5892,7 @@ https://www.livemint.com/market/stock-market-news/up-94-from-52-week-low-hitachi
 https://www.livemint.com/market/stock-market-news/up-over-500-in-2026-this-small-cap-telecom-stock-to-be-in-focus-on-thursday-after-210-million-international-order-11785943683995.html
 https://www.livemint.com/market/stock-market-news/up-over-65-from-ipo-price-in-just-3-days-what-is-driving-glass-wall-systems-share-price-11789709442937.html
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-bonus-rights-record-date-next-week-9-13-nov-dabur-rites-concor-hul-ongc-emami-among-others-11794037826095.html
+https://www.livemint.com/market/stock-market-news/upcoming-dividend-split-rights-issue-record-dates-next-week-nov-23-27-pashupati-cotspin-zee-ent-varvee-and-more-11795245232145.html
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-bonus-share-right-issue-next-week-12-17-october-vedanta-tcs-ola-electric-and-more-11791616940572.html
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html
 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stocks-sail-igl-nmdc-among-3-psu-stocks-with-record-dates-ahead-check-yield-roe-stock-return-11790330679880.html
