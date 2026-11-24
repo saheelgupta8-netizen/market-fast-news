@@ -96,6 +96,7 @@ https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-sur
 https://economictimes.indiatimes.com/markets/bonds/indias-bpcl-plans-3-billion-bond-sale-to-fund-brazil-oil-bet/articleshow/134699704.cms
 https://economictimes.indiatimes.com/markets/bonds/indias-jsw-paints-eyes-4-5-year-debt-to-refinance-acquisition-led-funding-bankers-say/articleshow/135118523.cms
 https://economictimes.indiatimes.com/markets/bonds/japan-government-bond-yields-fall-as-global-markets-steady/articleshow/134630413.cms
+https://economictimes.indiatimes.com/markets/bonds/japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/136118046.cms
 https://economictimes.indiatimes.com/markets/bonds/jefferies-chris-wood-sees-a-structural-bear-market-in-us-bonds-what-it-means-for-stocks-and-gold/articleshow/133756104.cms
 https://economictimes.indiatimes.com/markets/bonds/malaysia-launches-dollar-islamic-bond-for-infra-and-government-projects-term-sheet-shows/articleshow/132580993.cms
 https://economictimes.indiatimes.com/markets/bonds/oil-pain-pins-india-bonds-in-range-rbi-minutes-to-give-next-cue/articleshow/133348325.cms
@@ -406,6 +407,7 @@ https://economictimes.indiatimes.com/markets/expert-view/pms-talk-ai-defence-and
 https://economictimes.indiatimes.com/markets/expert-view/stocks-gold-and-debt-why-icici-prus-dharmesh-kakkad-favours-a-multi-asset-strategy-now/articleshow/132358178.cms
 https://economictimes.indiatimes.com/markets/expert-view/why-whiteoak-cio-ramesh-mantri-prefers-reits-invits-over-high-dividend-yield-stocks/articleshow/133581997.cms
 https://economictimes.indiatimes.com/markets/forex/banks-seek-rbi-relief-clarity-on-indias-latest-rupee-defence-measures-report/articleshow/134885468.cms
+https://economictimes.indiatimes.com/markets/forex/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/articleshow/136118031.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-dips-as-oil-eases-yen-jumps-on-japan-remarks/articleshow/134496709.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-dips-with-us-midterm-results-in-focus/articleshow/135518342.cms
@@ -744,6 +746,7 @@ https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day
 https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day-4-gmp-signals-83-premium-subscription-hits-50-86x-apply/articleshow/133555132.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-opens-today-gmp-signals-47-listing-premium-should-you-subscribe/articleshow/133450413.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/icici-prudential-mf-kotak-mf-top-buyers-in-ss-retails-rs-146-crore-anchor-round-before-ipo/articleshow/134270713.cms
+https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/india-expo-centre-operator-files-ipo-drhp-with-sebi-check-details/articleshow/133320423.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/india-tops-world-in-ipo-count-ranks-third-in-fundraising-in-fy26-sebi-annual-report/articleshow/133008847.cms
 https://economictimes.indiatimes.com/markets/ipos/fpos/indian-gas-exchange-files-for-ipo-as-parent-iex-looks-to-pare-stake/articleshow/132405350.cms
@@ -4572,6 +4575,7 @@ https://www.livemint.com/market/stock-market-news/anthropic-ipo-it-s-official-no
 https://www.livemint.com/market/stock-market-news/anthropic-ipo-listing-today-how-much-listing-gains-can-investors-expect-from-the-ai-giant-check-details-11795084304396.html
 https://www.livemint.com/market/stock-market-news/anthropic-ipo-mega-valuation-top-finance-mind-aswath-damodaran-estimates-claude-makers-worth-at-1-475-trn-11793356354028.html
 https://www.livemint.com/market/stock-market-news/anthropic-ipo-oversubscribed-nearly-six-times-can-ai-firm-become-new-nvidia-amid-stock-crash-experts-views-11794542852438.html
+https://www.livemint.com/market/stock-market-news/anthropic-shares-crash-below-ipo-price-of-83-after-record-nasdaq-debut-down-31-from-peak-what-is-spooking-investors-11795533362689.html
 https://www.livemint.com/market/stock-market-news/anthropic-shares-set-for-nasdaq-debut-today-wall-street-brokerages-see-up-to-87-upside-from-ipo-price-report-11795092766156.html
 https://www.livemint.com/market/stock-market-news/anthropic-shares-tumble-10-after-blockbuster-ipo-erase-debut-gains-why-are-investors-turning-cautious-on-ai-11795184887970.html
 https://www.livemint.com/market/stock-market-news/aone-steels-india-share-price-jumps-nearly-10-ahead-of-q2-results-key-details-investors-should-know-11792389663820.html
@@ -4895,6 +4899,7 @@ https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting
 https://www.livemint.com/market/stock-market-news/expert-view-prolonged-us-iran-conflict-risks-earnings-estimate-cuts-says-dhiraj-relli-of-hdfc-securities-11784791105668.html
 https://www.livemint.com/market/stock-market-news/expert-view-what-a-booming-ipo-market-means-for-indian-investors-11789556704448.html
 https://www.livemint.com/market/stock-market-news/experts-view-why-would-bears-cheer-niftys-breakdown-below-22000-11790938909647.html
+https://www.livemint.com/market/stock-market-news/explained-why-gold-prices-gained-and-extended-a-rebound-from-a-14-month-low-3-reasons-11795514651749.html
 https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html
 https://www.livemint.com/market/stock-market-news/eyes-on-wall-street-general-motors-shares-in-focus-ahead-of-3rd-quarter-results-key-factors-investors-should-watch-11792427935997.html
 https://www.livemint.com/market/stock-market-news/fairfax-likely-to-sell-13-25-stake-in-iifl-finance-via-rs-3-454-crore-block-deal-report-11794919349807.html
@@ -5667,6 +5672,7 @@ https://www.livemint.com/market/stock-market-news/shiprocket-ipo-price-band-fixe
 https://www.livemint.com/market/stock-market-news/shiprocket-raises-rs-727-crore-from-anchor-investors-ahead-of-ipo-launch-on-wednesday-11786465617676.html
 https://www.livemint.com/market/stock-market-news/shoppers-stop-shares-surge-15-ahead-of-q2-2026-results-tomorrow-what-should-investors-watch-next-11792041724298.html
 https://www.livemint.com/market/stock-market-news/should-investors-buy-or-sell-gold-and-silver-this-navratri-week-commodity-outlook-for-precious-metal-traders-11791717184316.html
+https://www.livemint.com/market/stock-market-news/should-you-buy-idbi-shares-is-it-a-good-banking-stock-to-bet-on-amid-fairfax-stake-sale-deal-what-market-experts-say-11795518804386.html
 https://www.livemint.com/market/stock-market-news/should-you-buy-reliance-shares-after-strong-q1-results-2026-11784444729654.html
 https://www.livemint.com/market/stock-market-news/should-you-buy-vedanta-shares-after-subsidiary-hindustan-zinc-beats-d-street-estimates-in-q2-results-what-analyst-says-11792576290440.html
 https://www.livemint.com/market/stock-market-news/should-you-invest-in-hpcl-bpcl-iocl-and-other-omc-stocks-now-as-oil-not-on-the-boil-anymore-slips-below-90barrel-11794381942470.html
