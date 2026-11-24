@@ -108,6 +108,7 @@ https://economictimes.indiatimes.com/markets/bonds/oil-spike-jolts-indian-bonds-
 https://economictimes.indiatimes.com/markets/bonds/oil-us-treasuries-prop-up-indian-bonds/articleshow/135203917.cms
 https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms
 https://economictimes.indiatimes.com/markets/bonds/rbi-bond-sales-fx-intervention-help-halve-indias-cash-overhang/articleshow/134408593.cms
+https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms
 https://economictimes.indiatimes.com/markets/bonds/rbi-to-conduct-rs-25000-cr-omo-sale-auction-of-government-securities-on-oct-13/articleshow/134850360.cms
 https://economictimes.indiatimes.com/markets/bonds/rising-oil-prices-cap-india-bond-rally-traders-cash-in-gains/articleshow/135572997.cms
 https://economictimes.indiatimes.com/markets/bonds/selloff-in-euro-zone-bonds-pauses-but-oil-prices-keep-up-pressure/articleshow/133341510.cms
@@ -2542,6 +2543,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/global-market-south-korea
 https://economictimes.indiatimes.com/markets/us-stocks/melania-trump-rings-new-york-stock-exchange-opening-bell-to-launch-new-womens-initiative-imperia/articleshow/134443367.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-led-boom-in-ipos-raises-concerns-about-a-bust/articleshow/132582690.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-debuts-on-lse-in-biggest-listing-in-5-years/articleshow/134846990.cms
@@ -2550,6 +2552,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/alphabet-stock-drops
 https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-ai-chip-deal-gives-qualcomm-stock-a-boost/slideshow/134279478.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-delays-its-ipo-plans-listing-expected-in-november/articleshow/133825809.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms
@@ -3397,6 +3400,7 @@ https://www.livemint.com/market/bls-international-q2-results-record-revenue-on-d
 https://www.livemint.com/market/bollywood-cricket-stars-pile-into-nse-shares-ahead-of-ipo-11786454139772.html
 https://www.livemint.com/market/bonds/bloomberg-again-defers-decision-on-including-indian-government-bonds-in-global-aggregate-index-11785502421270.html
 https://www.livemint.com/market/bonds/kevin-warsh-speech-is-the-us-fed-chairman-driving-the-bond-markets-explained-with-three-reasons-11787988182162.html
+https://www.livemint.com/market/bonds/rbi-deputy-governor-urges-primary-dealers-to-boost-g-sec-market-11795501774694.html
 https://www.livemint.com/market/bonds/sebi-eases-compliance-for-foreign-investors-investing-in-government-bonds-11788781177999.html
 https://www.livemint.com/market/bonds/the-bond-rout-is-bruising-would-be-home-buyers-and-challenging-the-fed-11785030594095.html
 https://www.livemint.com/market/bonds/tokenized-bonds-india-rec-lt-iifl-finance-11789443601058.html
@@ -3520,6 +3524,7 @@ https://www.livemint.com/market/commodities/gold-prices-rise-silver-drops-on-pro
 https://www.livemint.com/market/commodities/gold-rate-correction-21-dn-from-record-high-is-samvat-2083-right-time-to-buy-what-investors-should-know-before-buying-11794030800280.html
 https://www.livemint.com/market/commodities/gold-rate-in-india-today-mcx-gold-falls-2-5-in-a-week-buy-at-low-price-or-avoid-ahead-of-diwali-dhanteras-2026-11793431585848.html
 https://www.livemint.com/market/commodities/gold-rate-to-touch-rs-3-lakh-per-10-grams-soon-in-india-what-yellow-metal-investors-should-know-11790045700850.html
+https://www.livemint.com/market/commodities/gold-rate-today-24-november-2026-gold-price-rebounds-from-14-month-low-is-it-the-right-time-to-buy-experts-explain-11795498644088.html
 https://www.livemint.com/market/commodities/gold-rate-today-6-august-2026-gold-price-today-at-seven-week-high-as-easing-us-iran-war-cools-us-fed-rate-hike-buzz-11785987873730.html
 https://www.livemint.com/market/commodities/gold-rate-today-comex-price-slips-below-4-000-ounce-rs-1-25-lakh-10-grams-in-india-soon-amid-us-fed-rate-hike-buzz-11794451551062.html
 https://www.livemint.com/market/commodities/gold-rate-today-gold-price-retraces-from-2-month-high-is-it-the-right-time-to-buy-gold-11787211652041.html
@@ -3742,6 +3747,7 @@ https://www.livemint.com/market/history-shows-fed-will-deliver-rate-hike-markets
 https://www.livemint.com/market/hong-kong-chip-ipos-tap-intertwined-investors-boss-s-networks-11793598491595.html
 https://www.livemint.com/market/how-anti-ai-trade-after-us-midterm-election-results-is-reviving-indian-chinese-stocks-11794101102138.html
 https://www.livemint.com/market/how-markets-reacted-to-democrats-win-stocks-u-turn-gold-gains-11793791700352.html
+https://www.livemint.com/market/how-will-the-ai-boom-impact-gold-prices-4-key-factors-investors-should-watch-explains-world-gold-council-strategist-11795519705028.html
 https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html
 https://www.livemint.com/market/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index-11787269994025.html
 https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html
@@ -3837,6 +3843,7 @@ https://www.livemint.com/market/ipo/carlsberg-said-set-to-start-road-show-for-60
 https://www.livemint.com/market/ipo/chinas-fourth-little-ai-dragon-goes-public-tencent-backed-shanghai-enflame-eyes-911-million-from-ipo-11788190730106.html
 https://www.livemint.com/market/ipo/coal-india-s-mahanadi-coalfields-ipo-expected-profit-calculator-on-gmp-what-retail-hni-investors-can-gain-on-listing-11794806101034.html
 https://www.livemint.com/market/ipo/coal-india-subsidiaries-ncl-ccl-ipo-plans-2027-11794888731145.html
+https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-allotment-likely-nov-25-heres-how-to-check-status-online-on-bse-nse-kfin-tech-11795494163132.html
 https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-price-band-set-at-rs-129-rs-136-per-share-check-gmp-issue-details-key-dates-11794795588725.html
 https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-set-for-launch-price-band-tomorrow-gmp-allotment-listing-other-details-11794731994241.html
 https://www.livemint.com/market/ipo/country-delight-ipo-200-300-million-india-listing-11788068529581.html
@@ -4218,6 +4225,7 @@ https://www.livemint.com/market/ipo/sbi-funds-management-ipo-vs-alpine-texworld-
 https://www.livemint.com/market/ipo/sebi-approves-30-000-crore-nse-ipo-details-here-11788522331342.html
 https://www.livemint.com/market/ipo/sebi-extends-relief-on-ipo-size-tweaks-until-march-2027-11791893737884.html
 https://www.livemint.com/market/ipo/sebi-ipo-issuers-issue-sizes-aibi-20-threshold-11793690528862.html
+https://www.livemint.com/market/ipo/sebi-issues-upcoming-ipos-gmp-advisory-publication-of-such-pre-listing-premium-figures-may-be-detrimental-11795482712234.html
 https://www.livemint.com/market/ipo/sebi-warns-investors-against-relying-on-grey-market-premiums-for-ipos-11795443391351.html
 https://www.livemint.com/market/ipo/secl-ipo-coal-india-subsidiary-10000-crore-ipo-11786519217430.html
 https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html
@@ -4514,6 +4522,7 @@ https://www.livemint.com/market/stock-market-news/453-return-in-3-yrs-multibagge
 https://www.livemint.com/market/stock-market-news/461-bonus-stock-record-date-soon-check-face-value-and-share-price-performance-11788503774857.html
 https://www.livemint.com/market/stock-market-news/47-rally-in-one-month-infra-stock-under-rs-100-inches-close-to-52-week-high-after-announcement-of-q2-results-2026-date-11794207997999.html
 https://www.livemint.com/market/stock-market-news/5-dividend-vs-34-last-year-why-vedantas-dividend-payout-story-has-fundamentally-changed-11791514735703.html
+https://www.livemint.com/market/stock-market-news/5-energy-stocks-with-attractive-dividend-yield-hindustan-petroleum-indian-oil-bharat-petroleum-ongc-to-gulf-oil-11795467131434.html
 https://www.livemint.com/market/stock-market-news/51-rally-in-2026-so-far-icici-direct-sees-28-upside-potential-in-this-defence-stock-do-you-own-check-target-price-11794507179450.html
 https://www.livemint.com/market/stock-market-news/52-rally-in-six-months-mukul-agrawal-portfolio-s-defence-stock-has-19-upside-says-icici-direct-do-you-own-it-11795353943967.html
 https://www.livemint.com/market/stock-market-news/56-returns-in-6-months-taal-tech-dividend-record-date-ahead-check-eligibility-dividend-amount-payment-timeline-11793962758960.html
@@ -4790,6 +4799,7 @@ https://www.livemint.com/market/stock-market-news/dividend-bonus-issue-rights-is
 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-in-november-coal-india-hul-infosys-power-grid-among-key-corporate-actions-list-11793522441142.html
 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-spin-off-in-october-tcs-nmdc-ptc-india-jsw-dulux-among-key-corporate-actions-list-11790925015237.html
 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html
+https://www.livemint.com/market/stock-market-news/dividend-buyback-rights-issue-record-date-nov-25-zee-vraj-iron-bonlon-and-more-5-stocks-to-turn-ex-date-tomorrow-11795491976798.html
 https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html
 https://www.livemint.com/market/stock-market-news/dividend-champions-of-auto-ancillaries-majestic-auto-ptl-or-banco-products-who-drives-home-the-highest-yield-11792149270167.html
 https://www.livemint.com/market/stock-market-news/dividend-comparison-maharatna-sail-vs-navratna-nmdc-yield-psu-stocks-performance-ahead-of-record-date-11789714024443.html
@@ -4843,6 +4853,7 @@ https://www.livemint.com/market/stock-market-news/dividend-stocks-in-india-best-
 https://www.livemint.com/market/stock-market-news/dividend-stocks-record-date-alert-12-nov-thursday-bayer-cropscience-hul-ongc-more-full-list-amount-key-dates-11794291448718.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-shipping-corporation-vs-cochin-shipyard-record-date-on-nov-16-what-to-buy-amount-yield-returns-11794567075247.html
 https://www.livemint.com/market/stock-market-news/dividend-stocks-this-week-record-date-hindustan-copper-cochin-shipyard-balu-forge-ircon-karnataka-bank-and-more-11789356047257.html
+https://www.livemint.com/market/stock-market-news/dividend-vs-fixed-deposits-5-high-yield-stocks-generating-better-income-than-fds-cybertech-majestic-auto-to-premco-11795463444218.html
 https://www.livemint.com/market/stock-market-news/dividends-stock-splits-alert-corporate-actions-this-week-irctc-beml-dixon-tech-and-more-record-dates-full-list-11789890298929.html
 https://www.livemint.com/market/stock-market-news/divis-laboratories-shares-hit-record-high-rising-84-ytd-buy-sell-or-hold-after-q2-results-2026-brokerages-report-11794197764919.html
 https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-investment-ideas-kotak-neos-7-stocks-to-buy-for-samvat-2083-hal-titan-eternal-and-more-11793953552663.html
@@ -5870,6 +5881,7 @@ https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-jyothy-lab
 https://www.livemint.com/market/stock-market-news/top-banking-share-to-buy-after-q2-results-2026-hdfc-bank-vs-axis-bank-vs-icici-bank-vs-yes-bank-vs-idbi-bank-details-11792465348383.html
 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-itc-hotels-rr-kabel-mcx-texrail-ubl-by-sumeet-bagadia-targets-11790262992516.html
 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-swiggy-welspun-finolex-vishal-mega-mart-carborundum-by-sumeet-bagadia-targets-11790089705944.html
+https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-apollo-micro-systems-bel-data-patterns-grse-zen-technologies-check-choices-top-picks-11795507257890.html
 https://www.livemint.com/market/stock-market-news/top-dividend-stocks-ptc-india-coal-india-rec-among-10-dividend-stocks-with-yields-of-up-to-167-11791361850077.html
 https://www.livemint.com/market/stock-market-news/top-dividend-stocks-to-buy-ptc-india-cesc-vedanta-coal-india-hpcl-offer-up-to-24-yield-check-full-list-here-11793085342244.html
 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html
