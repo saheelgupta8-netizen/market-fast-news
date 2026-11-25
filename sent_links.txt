@@ -48,6 +48,7 @@ https://economictimes.indiatimes.com/markets/bonds/india-bonds-flat-as-oil-price
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-gains-as-high-oil-prices-weigh/articleshow/135211224.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-hang-tight-before-supply-as-oil-stalls/articleshow/133397733.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-oil-worries-ahead-of-inflation-data/articleshow/133174882.cms
+https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-cling-to-range-as-traders-parse-oil-risk/articleshow/133341539.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-give-up-days-gains-as-oil-price-spike-adds-to-rate-hike-fears/articleshow/135048949.cms
 https://economictimes.indiatimes.com/markets/bonds/india-bonds-join-global-rout-after-mideast-escalation-jolts-oil-higher/articleshow/132382258.cms
@@ -439,6 +440,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/oils-climb-to-100-
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-eases-forex-rules-for-services-exports-and-imports/articleshow/135511997.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-shields-rupee-in-face-of-oil-hedging-strain/articleshow/132603138.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-meet-daily-dollar-needs-of-3-state-run-oil-firms-to-ease-rupee-pressure/articleshow/134880069.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-boxed-in-range-traders-focus-on-oil-outflows-and-rbis-defence/articleshow/135231121.cms
@@ -2153,6 +2155,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/rays-of-belief-shares-s
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms
+https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133018244.cms
 https://economictimes.indiatimes.com/markets/stocks/news/rbi-rate-hike-imminent-feds-move-pressures-india-to-tighten-monetary-policy-amid-rising-inflation/articleshow/134323407.cms
 https://economictimes.indiatimes.com/markets/stocks/news/re-rating-on-cars-for-hal-shares-as-tejas-mk1a-aircraft-deliveries-near-jefferies/articleshow/134586938.cms
@@ -2264,6 +2267,7 @@ https://economictimes.indiatimes.com/markets/stocks/news/sham-foam-shares-to-lis
 https://economictimes.indiatimes.com/markets/stocks/news/shankesh-jewellers-shares-to-list-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/133487679.cms
 https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-among-7-consumer-discretionary-stocks-that-hit-52-week-highs-and-surged-up-to-37-in-a-month/slideshow/133404296.cms
 https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-pc-jeweller-other-jewellery-stocks-rally-up-to-10-as-gold-etf-fof-subscriptions-face-curbs/articleshow/134983846.cms
+https://economictimes.indiatimes.com/markets/stocks/news/shapoor-mistry-lobbied-modi-twice-for-tata-sons-ipo-as-battle-over-listing-intensifies/articleshow/136160206.cms
 https://economictimes.indiatimes.com/markets/stocks/news/shellz-india-sme-shares-to-list-today-gmp-indicates-4-potential-gain/articleshow/135133872.cms
 https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-in-focus-as-q1-net-loss-narrows-to-rs-14-crore-in-first-earnings-post-ipo-revenue-up-34-yoy/articleshow/133905012.cms
 https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-jump-6-as-goldman-sachs-acquires-rs-53-crore-stake-time-to-buy-or-book-profits/articleshow/133364509.cms
@@ -2655,6 +2659,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/fed-builds-credibili
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-chief-warsh-faces-hard-choice-on-inflation-after-bond-markets-red-flag/articleshow/132780818.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-some-officials-want-to-prepare-for-market-stress/articleshow/134778894.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-raises-rates-despite-trump-pressure-signals-another-hike-likely-in-2026/articleshow/134296746.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-seen-a-bit-more-likely-to-hike-after-inflation-data/articleshow/133543948.cms
@@ -2939,6 +2944,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/oil-up-more-than-2-a
 https://economictimes.indiatimes.com/markets/us-stocks/news/openai-google-anthropic-hit-with-lawsuit-to-halt-ai-development/articleshow/135820787.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-earnings-ai-growth-openai-deal-and-20-billion-funding-plan/slideshow/133871026.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/pershings-ackman-sees-a-1-trillion-israeli-company-within-a-decade/articleshow/135123317.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/polymarket-unit-gets-us-industry-organizations-approval-to-be-futures-broker/articleshow/135510648.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-amazon-ai-deal-why-the-chipmakers-stock-surged/slideshow/133955258.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms
@@ -3526,6 +3532,7 @@ https://www.livemint.com/market/commodities/gold-price-outlook-gold-set-for-a-we
 https://www.livemint.com/market/commodities/gold-price-outlook-gold-vs-silver-which-precious-metal-offers-a-better-bet-for-investors-after-the-recent-correction-11788415418247.html
 https://www.livemint.com/market/commodities/gold-price-outlook-silver-price-outlook-can-gold-prices-hit-rs-1-70-000-after-jackson-hole-shock-check-2026-targets-11788247741029.html
 https://www.livemint.com/market/commodities/gold-price-outlook-yellow-metal-prices-cool-26-from-record-high-what-indian-buyers-are-doing-this-dussehra-diwali-11792472642371.html
+https://www.livemint.com/market/commodities/gold-price-prediction-despite-27-decline-from-january-peak-ubs-still-retains-rs-1-50-lakh-10-gram-target-for-2027-11795601553956.html
 https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html
 https://www.livemint.com/market/commodities/gold-price-to-touch-rs-1-60-lakh-by-dec-2026-end-time-to-buy-what-experts-say-to-earn-money-from-yellow-metal-deals-11792405015486.html
 https://www.livemint.com/market/commodities/gold-prices-down-1-pc-us-fed-chair-kevin-warsh-hints-interest-rate-hike-trade-rs-156780-10-gm-spot-rate-inflation-labour-11787931055296.html
@@ -3584,6 +3591,7 @@ https://www.livemint.com/market/commodities/mcx-gold-jumps-over-1-55-060-per-10-
 https://www.livemint.com/market/commodities/mcx-gold-nears-1-60-000-silver-at-2-45-000-amid-positive-global-cues-experts-highlight-key-levels-to-watch-11787283205483.html
 https://www.livemint.com/market/commodities/mcx-gold-rallies-for-fifth-straight-week-gains-rs-19-000-per-10-grams-in-august-11787380646821.html
 https://www.livemint.com/market/commodities/mcx-gold-silver-prices-drop-what-led-to-rates-slide-multi-month-lows-ahead-of-wedding-season-details-for-investors-11794801621038.html
+https://www.livemint.com/market/commodities/mcx-rates-gold-crashes-13-silver-plunges-20-in-nov-2026-is-worst-over-what-should-precious-metals-investors-do-11795589063705.html
 https://www.livemint.com/market/commodities/oil-falls-3-pc-to-below-100-barrel-weekly-rise-us-war-donald-trump-threat-big-attack-iran-houthi-red-sea-latest-updates-11784898171541.html
 https://www.livemint.com/market/commodities/oil-price-today-soars-close-to-100-per-barrel-on-fresh-mideast-attacks-23-july-fears-over-war-widening-markets-react-11784807618748.html
 https://www.livemint.com/market/commodities/oil-prices-edge-lower-on-us-iran-war-uncertainty-brent-at-95bbl-11788398233165.html
@@ -5317,6 +5325,7 @@ https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apol
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-astra-microwave-shares-hit-record-high-soar-14-after-rs-2-205-crore-hal-order-11785478145527.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-commissions-new-unit-up-3200-in-5-years-strong-dividend-stock-split-history-do-you-own-11792659247664.html
+https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-dips-12-from-record-high-is-this-a-stock-to-buy-experts-decode-with-36-upside-target-11795601425876.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-raymond-retraces-after-jumping-7-amid-weak-trends-on-d-street-check-target-upside-11793168220033.html
 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-to-buy-experts-see-35-gain-on-msci-index-rebalancing-despite-55-ytd-return-target-sl-11795425473171.html
 https://www.livemint.com/market/stock-market-news/multibagger-engineers-india-shares-jump-15-to-2-week-high-after-q2-results-stock-gains-44-in-2026-11793622662037.html
@@ -5644,6 +5653,7 @@ https://www.livemint.com/market/stock-market-news/sbi-share-price-falls-ahead-of
 https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html
 https://www.livemint.com/market/stock-market-news/sbi-stake-sale-sbi-funds-ipo-chairman-setty-mutual-funds-india-11784624846728.html
 https://www.livemint.com/market/stock-market-news/sbi-vs-sbi-life-vs-sbi-cards-which-sbi-group-stock-emerged-as-the-q2-results-2026-winner-check-analyst-targets-11793811829732.html
+https://www.livemint.com/market/stock-market-news/schaeffler-india-block-deal-schaeffler-ag-to-offload-6-stake-at-rs-3-400-apiece-deal-size-rs-3-188-crore-report-11795612021351.html
 https://www.livemint.com/market/stock-market-news/sebi-axis-mf-chief-dealer-viresh-joshi-front-running-case-markets-india-11784894325483.html
 https://www.livemint.com/market/stock-market-news/sebi-bars-two-entities-from-markets-over-manipulation-in-cas-orders-3-68-crore-disgorgement-11787151881235.html
 https://www.livemint.com/market/stock-market-news/sebi-bars-varanium-cloud-promoter-for-7-years-orders-128-8-crore-disgorgement-11787664270771.html
@@ -5830,6 +5840,7 @@ https://www.livemint.com/market/stock-market-news/tata-sons-listing-n-chandrasek
 https://www.livemint.com/market/stock-market-news/tata-sons-listing-noel-tata-decodes-why-there-should-be-no-tinkering-what-he-said-at-hindustan-times-leadership-summit-11794643211510.html
 https://www.livemint.com/market/stock-market-news/tata-sons-listing-tata-chemicals-vs-tata-steel-vs-tata-power-which-tata-group-stocks-may-benefit-most-experts-decode-11789722802716.html
 https://www.livemint.com/market/stock-market-news/tata-steel-declares-q2-results-2026-date-ebitda-may-decline-qoq-share-price-target-stop-loss-and-outlook-in-focus-11792257156748.html
+https://www.livemint.com/market/stock-market-news/tata-steel-share-price-what-should-investors-do-after-apl-apollo-tubes-rs-5-825-crore-deal-buy-sell-or-hold-11795585659415.html
 https://www.livemint.com/market/stock-market-news/tata-steel-shares-fall-5-as-investors-weigh-rs-32-000-cr-apl-apollo-acquisition-plan-should-you-buy-check-key-levels-11795406091656.html
 https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html
 https://www.livemint.com/market/stock-market-news/tcs-dividend-2026-amount-announced-in-q2-results-2026-good-news-of-cash-reward-check-amount-payment-date-record-date-11791454751207.html
