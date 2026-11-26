@@ -2664,6 +2664,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-foc
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-raises-rates-despite-trump-pressure-signals-another-hike-likely-in-2026/articleshow/134296746.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-seen-a-bit-more-likely-to-hike-after-inflation-data/articleshow/133543948.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-collins-says-latest-us-inflation-readings-are-mixed/articleshow/133576376.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms
@@ -3589,6 +3590,7 @@ https://www.livemint.com/market/commodities/mcx-gold-and-silver-prices-volatile-
 https://www.livemint.com/market/commodities/mcx-gold-drops-to-1-58-300-silver-falls-below-2-39-500-ahead-of-fed-chair-kevin-warshs-jackson-hole-speech-11787886504178.html
 https://www.livemint.com/market/commodities/mcx-gold-jumps-over-1-55-060-per-10-grams-silver-trades-above-2-39-000-per-kg-middle-east-us-inflation-in-focus-11786418608520.html
 https://www.livemint.com/market/commodities/mcx-gold-nears-1-60-000-silver-at-2-45-000-amid-positive-global-cues-experts-highlight-key-levels-to-watch-11787283205483.html
+https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html
 https://www.livemint.com/market/commodities/mcx-gold-rallies-for-fifth-straight-week-gains-rs-19-000-per-10-grams-in-august-11787380646821.html
 https://www.livemint.com/market/commodities/mcx-gold-silver-prices-drop-what-led-to-rates-slide-multi-month-lows-ahead-of-wedding-season-details-for-investors-11794801621038.html
 https://www.livemint.com/market/commodities/mcx-rates-gold-crashes-13-silver-plunges-20-in-nov-2026-is-worst-over-what-should-precious-metals-investors-do-11795589063705.html
@@ -5352,6 +5354,7 @@ https://www.livemint.com/market/stock-market-news/muthoot-finance-share-price-cr
 https://www.livemint.com/market/stock-market-news/mutual-funds-get-selective-in-ipo-market-india-sip-inflows-11791782775784.html
 https://www.livemint.com/market/stock-market-news/mv-electrosystems-ipo-to-list-on-bse-nse-on-august-6-heres-what-ipo-gmp-suggests-ahead-of-market-debut-11785913357270.html
 https://www.livemint.com/market/stock-market-news/nalco-shares-up-242-in-3-years-is-there-more-rally-left-in-this-navratna-psu-check-q2-results-date-dividend-history-11793346545175.html
+https://www.livemint.com/market/stock-market-news/nasdaq-100-plunges-nearly-5-briefly-enters-bear-market-zone-as-ai-fears-and-fresh-tariffs-hit-sentiment-11795626875336.html
 https://www.livemint.com/market/stock-market-news/nasdaq-s-p-500-edge-lower-as-tech-shares-weigh-on-markets-investors-await-iran-deal-details-11786024285864.html
 https://www.livemint.com/market/stock-market-news/naukri-brand-parent-info-edge-shares-dip-after-rs-3-per-share-dividend-move-check-payment-record-date-history-yield-11793178605612.html
 https://www.livemint.com/market/stock-market-news/navin-fluorine-q1-results-net-profit-more-than-doubles-to-rs-243-crore-as-margins-expand-revenue-rises-44-11785928420036.html
