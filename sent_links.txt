@@ -477,6 +477,7 @@ https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sways-with-oil-and-intervention-cues-keeping-traders-light-footed/articleshow/134409474.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakens-to-two-month-low-as-oil-climbs-state-run-banks-cushion/articleshow/132507326.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-rbi-backed-rally-falters-slips-past-95-on-oil-slowing-intervention/articleshow/133956983.cms
+https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/sterling-drops-against-firmer-dollar-as-markets-price-in-a-hawkish-fed/articleshow/135738659.cms
 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-edges-up-as-traders-push-back-fed-rate-hike-bets/articleshow/133284775.cms
 https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms
@@ -3392,6 +3393,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-
 https://www.livemint.com/companies/news/veefin-solutions-begins-process-for-migration-to-bse-mainboard-direct-listing-on-nse-11789042218177.html
 https://www.livemint.com/global/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook-11787113868604.html
 https://www.livemint.com/market/100-return-in-6-months-tesla-linked-stock-jumps-ahead-of-bonus-share-record-date-do-you-own-ratio-other-details-11790758619803.html
+https://www.livemint.com/market/a-big-shift-for-gold-trading-jpmorgan-hsbc-and-stonex-complete-first-digital-gold-deals-what-to-know-11795699216476.html
 https://www.livemint.com/market/aidriven-ipo-wave-set-to-accompany-anthropic-listing-11788992244915.html
 https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-billion-after-rocket-firms-ipo-filings-show-11786724830491.html
 https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html
@@ -3539,6 +3541,7 @@ https://www.livemint.com/market/commodities/gold-price-outlook-yellow-metal-pric
 https://www.livemint.com/market/commodities/gold-price-prediction-despite-27-decline-from-january-peak-ubs-still-retains-rs-1-50-lakh-10-gram-target-for-2027-11795601553956.html
 https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html
 https://www.livemint.com/market/commodities/gold-price-to-touch-rs-1-60-lakh-by-dec-2026-end-time-to-buy-what-experts-say-to-earn-money-from-yellow-metal-deals-11792405015486.html
+https://www.livemint.com/market/commodities/gold-price-today-in-india-rs-58-500-away-from-record-high-right-time-to-buy-amid-rebound-from-14-month-low-11795679635348.html
 https://www.livemint.com/market/commodities/gold-prices-crash-rs-22-000-in-a-month-is-this-the-right-time-to-buy-to-make-profits-when-prices-go-up-experts-advice-11795679163869.html
 https://www.livemint.com/market/commodities/gold-prices-down-1-pc-us-fed-chair-kevin-warsh-hints-interest-rate-hike-trade-rs-156780-10-gm-spot-rate-inflation-labour-11787931055296.html
 https://www.livemint.com/market/commodities/gold-prices-rise-silver-drops-on-profit-booking-as-focus-shifts-to-us-inflation-data-us-fed-chair-kevin-warshs-speech-11787542262849.html
@@ -3549,6 +3552,7 @@ https://www.livemint.com/market/commodities/gold-rate-today-24-november-2026-gol
 https://www.livemint.com/market/commodities/gold-rate-today-6-august-2026-gold-price-today-at-seven-week-high-as-easing-us-iran-war-cools-us-fed-rate-hike-buzz-11785987873730.html
 https://www.livemint.com/market/commodities/gold-rate-today-comex-price-slips-below-4-000-ounce-rs-1-25-lakh-10-grams-in-india-soon-amid-us-fed-rate-hike-buzz-11794451551062.html
 https://www.livemint.com/market/commodities/gold-rate-today-gold-price-retraces-from-2-month-high-is-it-the-right-time-to-buy-gold-11787211652041.html
+https://www.livemint.com/market/commodities/gold-rate-today-in-chennai-hyderabad-bangalore-check-26-november-mcx-yellow-metal-prices-details-11795681144857.html
 https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html
 https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-hormuz-reopening-buzz-dents-us-fed-rate-hike-hopes-is-it-the-right-time-to-buy-gold-11786181435240.html
 https://www.livemint.com/market/commodities/gold-rate-today-precious-metal-rises-12-this-month-is-it-the-right-time-to-buy-gold-11787815915522.html
@@ -3614,6 +3618,7 @@ https://www.livemint.com/market/commodities/us-midterm-election-results-gold-pri
 https://www.livemint.com/market/commodities/us-midterm-elections-results-impact-on-dhanteras-shopping-gold-silver-prices-regain-shine-after-trumps-loss-buy-11793865355632.html
 https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html
 https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html
+https://www.livemint.com/market/commodities/what-will-happen-to-gold-rates-crash-or-surge-after-the-us-fed-fomc-meeting-outcome-scenarios-explained-11795701687070.html
 https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html
 https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html
 https://www.livemint.com/market/commodities/why-gold-silver-prices-are-going-down-what-experts-say-about-rate-fall-more-plunge-ahead-or-bounce-back-expected-11795069849268.html
@@ -4761,6 +4766,7 @@ https://www.livemint.com/market/stock-market-news/buy-suzlon-saatvik-green-sell-
 https://www.livemint.com/market/stock-market-news/caliber-mining-and-logistics-ipo-issue-booked-154-times-on-day-03-nii-qib-portions-see-strong-demand-11784637533373.html
 https://www.livemint.com/market/stock-market-news/caliber-mining-ipo-raises-rs-135-crore-from-anchor-investors-ahead-of-issue-opening-11784216540031.html
 https://www.livemint.com/market/stock-market-news/can-ipo-buzz-boost-cdsl-and-nsdl-q2-earnings-what-the-stocks-investors-need-to-know-11791284891478.html
+https://www.livemint.com/market/stock-market-news/can-trumps-tariffs-fast-track-india-us-trade-deal-jefferies-decodes-kei-welspun-cipla-srf-other-stocks-to-watch-11795689679046.html
 https://www.livemint.com/market/stock-market-news/canara-bank-shares-crash-6-after-q2-results-should-investors-buy-sell-or-hold-experts-decode-11792037146025.html
 https://www.livemint.com/market/stock-market-news/canara-bank-to-declare-q2-results-2026-on-this-date-share-price-jumps-on-credit-growth-expectations-11791538217693.html
 https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html
@@ -4772,6 +4778,7 @@ https://www.livemint.com/market/stock-market-news/ceigall-india-secures-another-
 https://www.livemint.com/market/stock-market-news/chennai-petroleum-vs-mrpl-which-psu-refinery-stock-wins-on-q2-profit-revenue-dividends-experts-weigh-in-on-outlook-11792771887198.html
 https://www.livemint.com/market/stock-market-news/cipla-q1-results-2026-profit-falls-39-yoy-to-789-05-crore-11784795719956.html
 https://www.livemint.com/market/stock-market-news/circuittocircuit-stock-sc-agrotech-declares-4-5-bonus-1-10-stock-split-dividend-update-record-date-other-details-11794564352785.html
+https://www.livemint.com/market/stock-market-news/circuittocircuit-stock-sc-agrotech-finds-no-seller-for-21-days-in-a-row-bonus-stock-split-dividend-record-date-11795694308081.html
 https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-jantar-mantar-why-india-cant-afford-this-crisis-to-last-long-amid-us-iran-war-explained-11784701735525.html
 https://www.livemint.com/market/stock-market-news/clean-max-enviro-energy-shares-jump-7-stock-trades-27-above-ipo-price-what-s-driving-the-rally-check-key-levels-11794461936977.html
 https://www.livemint.com/market/stock-market-news/clean-max-enviro-share-price-falls-over-6-on-a-likely-1-063-crore-block-deal-to-sell-85-lakh-shares-all-details-here-11790567093986.html
@@ -5828,6 +5835,7 @@ https://www.livemint.com/market/stock-market-news/suzlon-energy-board-to-conside
 https://www.livemint.com/market/stock-market-news/suzlon-energy-declares-q2-results-2026-date-can-q2-earnings-bring-a-bounce-back-in-share-price-target-stoploss-11792582965735.html
 https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-crash-39-from-52-week-high-can-q2-results-2026-bring-a-bounce-back-experts-views-target-sl-11792898990972.html
 https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-dip-on-third-day-in-a-row-but-experts-see-strong-rebound-before-q2-results-2026-target-stoploss-11792654011859.html
+https://www.livemint.com/market/stock-market-news/swami-ramdev-fame-company-patanjali-foods-announces-2nd-interim-dividend-check-amount-record-date-history-11795691413030.html
 https://www.livemint.com/market/stock-market-news/swaraj-engines-share-price-in-focus-after-strong-q2-results-centrum-broking-sees-24-upside-whats-next-for-the-stock-11791880800959.html
 https://www.livemint.com/market/stock-market-news/swiggy-shares-crash-5-after-q1-results-what-should-investors-do-11785478559007.html
 https://www.livemint.com/market/stock-market-news/swiggy-shares-hit-52-week-low-down-35-in-1-month-should-investors-buy-the-stock-after-q2-results-expert-view-11792732293505.html
