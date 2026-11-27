@@ -2878,6 +2878,7 @@ https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-fed-rate-hike-bets-ease/articleshow/133749050.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
+https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-for-second-day-crude-oil-gains/articleshow/136206178.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-coreweave-results-bonds-drop/articleshow/135721939.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms
 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-tick-higher-as-markets-weigh-further-fed-hikes/articleshow/134297050.cms
@@ -3684,6 +3685,7 @@ https://www.livemint.com/market/global-funds-end-underweight-position-on-china-a
 https://www.livemint.com/market/gold-climbs-above-4-400-as-traders-turn-focus-to-us-inflation-11786410162796.html
 https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html
 https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html
+https://www.livemint.com/market/gold-drifts-lower-as-fed-rate-hike-fears-loom-11795720313647.html
 https://www.livemint.com/market/gold-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric-11795032242167.html
 https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html
 https://www.livemint.com/market/gold-eases-on-firmer-dollar-ahead-of-fed-decision-11793087285993.html
